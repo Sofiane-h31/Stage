@@ -1,0 +1,121 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt0111161,The Shawshank Redemption,movie,Drama,9.3,3044564.0,1994.0,tm119206,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/les-evades/h/40436199_50889,MyCanal,-12,'us'
+tt1375666,Inception,movie,"Action, Adventure, Sci-Fi",8.8,2684072.0,2010.0,tm92641,4.0,tous publics,https://www.mycanal.fr/cinema/inception/h/40442683_50889,MyCanal,-12,"'us', 'gb'"
+tt0133093,The Matrix,movie,"Action, Sci-Fi",8.7,2156057.0,1999.0,tm10,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/matrix/h/40442430_50889,MyCanal,-12,"'us', 'au'"
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,https://www.mycanal.fr/cinema/joker/h/40442394_50889,MyCanal,-16,"'us', 'ca', 'au'"
+tt0482571,The Prestige,movie,"Drama, Mystery, Sci-Fi",8.5,1514959.0,2006.0,tm22747,3.0,tous publics,https://www.mycanal.fr/cinema/le-prestige/h/40436219_50889,MyCanal,-12,"'gb', 'us'"
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,https://www.mycanal.fr/cinema/retour-vers-le-futur/h/40524283_50889,MyCanal,-10,'us'
+tt0099685,Goodfellas,movie,"Biography, Crime, Drama",8.7,1326154.0,1990.0,tm155787,4.0,16,https://www.mycanal.fr/cinema/les-affranchis/h/40578979_50889,MyCanal,-16,'us'
+tt0434409,V for Vendetta,movie,"Action, Drama, Sci-Fi",8.1,1215241.0,2005.0,tm184362,5.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/v-pour-vendetta/h/40433031_50889,MyCanal,-16,"'us', 'gb', 'de'"
+tt0066921,A Clockwork Orange,movie,"Crime, Sci-Fi",8.2,911697.0,1971.0,tm11500,3.0,16,https://www.mycanal.fr/cinema/orange-mecanique/h/40436652_50889,MyCanal,-16,"'gb', 'us'"
+tt0241527,Harry Potter and the Sorcerer's Stone,movie,"Adventure, Family, Fantasy",7.7,904271.0,2001.0,tm50154,3.0,tous publics,https://www.mycanal.fr/cinema/harry-potter-a-lecole-des-sorciers/h/40438941_50889,MyCanal,-10,"'gb', 'us'"
+tt1010048,Slumdog Millionaire,movie,"Crime, Drama, Romance",8.0,895153.0,2008.0,tm54060,5.0,tous publics,https://www.mycanal.fr/cinema/slumdog-millionaire/h/40592384_50889,MyCanal,-16,"'gb', 'fr', 'us', 'in'"
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,https://www.mycanal.fr/cinema/300/h/40415518_50889,MyCanal,-16,"'us', 'ca', 'bg'"
+tt0083658,Blade Runner,movie,"Action, Drama, Sci-Fi",8.1,854308.0,1982.0,tm40461,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/blade-runner/h/40439282_50889,MyCanal,-12,"'us', 'gb'"
+tt1205489,Gran Torino,movie,Drama,8.1,839471.0,2008.0,tm48591,3.0,tous publics,https://www.mycanal.fr/cinema/gran-torino/h/40433117_50889,MyCanal,-12,"'de', 'us'"
+tt0317248,City of God,movie,"Crime, Drama",8.6,837485.0,2002.0,tm119115,6.0,16,https://www.mycanal.fr/cinema/la-cite-de-dieu/h/40578975_50889,MyCanal,-16,"'br', 'fr'"
+tt0770828,Man of Steel,movie,"Action, Adventure, Sci-Fi",7.1,834132.0,2013.0,tm165938,3.0,tous publics,https://www.mycanal.fr/cinema/man-of-steel/h/40439367_50889,MyCanal,-12,"'us', 'gb', 'ca'"
+tt0093058,Full Metal Jacket,movie,"Drama, War",8.2,822069.0,1987.0,tm22327,3.0,12,https://www.mycanal.fr/cinema/full-metal-jacket/h/40433131_50889,MyCanal,-16,"'gb', 'us'"
+tt5013056,Dunkirk,movie,"Action, Drama, History",7.8,773375.0,2017.0,tm232797,3.0,tous publics,https://www.mycanal.fr/cinema/dunkerque/h/40436759_50889,MyCanal,-12,"'gb', 'nl', 'fr', 'us'"
+tt2975590,Batman v Superman: Dawn of Justice,movie,"Action, Adventure, Sci-Fi",6.5,771347.0,2016.0,tm1881,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/batman-vs-superman-laube-de-la-justice/h/40442089_50889,MyCanal,-12,"'us', 'ma'"
+tt0062622,2001: A Space Odyssey,movie,"Adventure, Sci-Fi",8.3,753650.0,1968.0,tm362,3.0,tous publics,https://www.mycanal.fr/cinema/2001-lodyssee-de-lespace/h/40442689_50889,MyCanal,-10,"'gb', 'us'"
+tt0295297,Harry Potter and the Chamber of Secrets,movie,"Adventure, Family, Fantasy",7.4,729453.0,2002.0,tm109994,3.0,tous publics,https://www.mycanal.fr/cinema/harry-potter-et-la-chambre-des-secrets/h/40439261_50889,MyCanal,-10,"'gb', 'us'"
+tt0330373,Harry Potter and the Goblet of Fire,movie,"Adventure, Family, Fantasy",7.7,717574.0,2005.0,tm178628,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/harry-potter-et-la-coupe-de-feu/h/40439245_50889,MyCanal,-12,"'gb', 'us'"
+tt0988045,Sherlock Holmes,movie,"Action, Adventure, Mystery",7.6,690518.0,2009.0,tm154187,3.0,tous publics,https://www.mycanal.fr/cinema/sherlock-holmes/h/40439859_50889,MyCanal,-12,"'us', 'de'"
+tt0373889,Harry Potter and the Order of the Phoenix,movie,"Action, Adventure, Family",7.5,666593.0,2007.0,tm85382,3.0,tous publics,https://www.mycanal.fr/cinema/harry-potter-et-lordre-du-phenix/h/40442021_50889,MyCanal,-12,"'gb', 'us'"
+tt0234215,The Matrix Reloaded,movie,"Action, Sci-Fi",7.2,652143.0,2003.0,tm11,3.0,tous publics,https://www.mycanal.fr/cinema/matrix-reloaded/h/40421797_50889,MyCanal,-12,'us'
+tt0926084,Harry Potter and the Deathly Hallows: Part 1,movie,"Adventure, Family, Fantasy",7.7,631343.0,2010.0,tm91787,3.0,tous publics,https://www.mycanal.fr/cinema/harry-potter-et-les-reliques-de-la-mort-partie-1/h/40439244_50889,MyCanal,-12,"'gb', 'us'"
+tt0034583,Casablanca,movie,"Drama, Romance, War",8.5,631274.0,1942.0,tm77588,3.0,tous publics,https://www.mycanal.fr/cinema/casablanca-version-restauree/h/40444329_50889,MyCanal,-16,'us'
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,https://www.mycanal.fr/cinema/tenet/h/40607200_50889,MyCanal,-12,"'us', 'gb'"
+tt0417741,Harry Potter and the Half-Blood Prince,movie,"Action, Adventure, Family",7.6,628210.0,2009.0,tm144798,3.0,tous publics,https://www.mycanal.fr/cinema/harry-potter-et-le-prince-de-sang-mele/h/40444270_50889,MyCanal,-12,"'gb', 'us'"
+tt1232829,21 Jump Street,movie,"Action, Comedy, Crime",7.2,623280.0,2012.0,tm46613,3.0,tous publics,https://www.mycanal.fr/cinema/21-jump-street/h/40579739_50889,MyCanal,-12,'us'
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,https://www.mycanal.fr/cinema/retour-vers-le-futur-ii/h/40524280_50889,MyCanal,-10,'us'
+tt1570728,"Crazy, Stupid, Love.",movie,"Comedy, Drama, Romance",7.4,592126.0,2011.0,tm166064,3.0,tous publics,https://www.mycanal.fr/cinema/crazy-stupid-love/h/40502588_50889,MyCanal,-10,'us'
+tt4972582,Split,movie,"Horror, Thriller",7.3,591210.0,2016.0,tm236706,3.0,12,https://www.mycanal.fr/cinema/split/h/40578983_50889,MyCanal,-16,"'us', 'jp'"
+tt0242653,The Matrix Revolutions,movie,"Action, Sci-Fi",6.7,560948.0,2003.0,tm12,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/matrix-revolutions/h/40436216_50889,MyCanal,-12,"'us', 'au'"
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,https://www.mycanal.fr/cinema/aquaman/h/40442398_50889,MyCanal,-12,'us'
+tt3183660,Fantastic Beasts and Where to Find Them,movie,"Adventure, Family, Fantasy",7.2,525306.0,2016.0,tm123342,3.0,tous publics,https://www.mycanal.fr/cinema/les-animaux-fantastiques/h/40442388_50889,MyCanal,-10,"'gb', 'us', 'ca'"
+tt1723121,We're the Millers,movie,"Comedy, Crime",7.0,506688.0,2013.0,tm173363,3.0,tous publics,https://www.mycanal.fr/cinema/les-miller-une-famille-en-herbe/h/40433029_50889,MyCanal,-12,"'us', 'gb'"
+tt1515091,Sherlock Holmes: A Game of Shadows,movie,"Action, Adventure, Mystery",7.4,492510.0,2011.0,tm178201,3.0,tous publics,https://www.mycanal.fr/cinema/sherlock-holmes-jeu-dombres/h/40436198_50889,MyCanal,-12,'us'
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,https://www.mycanal.fr/cinema/justice-league/h/40442403_50889,MyCanal,-12,"'us', 'ca', 'gb'"
+tt0780536,In Bruges,movie,"Comedy, Crime, Drama",7.9,479359.0,2008.0,tm41942,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/bons-baisers-de-bruges/h/40519473_50889,MyCanal,-16,"'gb', 'us'"
+tt12361974,Zack Snyder's Justice League,movie,"Action, Adventure, Fantasy",7.9,455985.0,2021.0,tm893885,3.0,12::(self-applied),https://www.mycanal.fr/cinema/zack-snyders-justice-league/h/40442684_50889,MyCanal,-12,'us'
+tt0105695,Unforgiven,movie,"Drama, Western",8.2,454523.0,1992.0,tm128806,3.0,tous publics,https://www.mycanal.fr/cinema/impitoyable/h/40442429_50889,MyCanal,-16,'us'
+tt0032138,The Wizard of Oz,movie,"Adventure, Family, Fantasy",8.1,450650.0,1939.0,tm155702,3.0,tous publics,https://www.mycanal.fr/cinema/le-magicien-doz/h/40439862_50889,MyCanal,-10,'us'
+tt1517451,A Star Is Born,movie,"Drama, Music, Romance",7.6,436136.0,2018.0,tm266686,3.0,tous publics,https://www.mycanal.fr/cinema/a-star-is-born/h/40398802_50889,MyCanal,-12,'us'
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/the-suicide-squad/h/40607199_50889,MyCanal,-16,'us'
+tt0840361,The Town,movie,"Crime, Drama, Thriller",7.5,431282.0,2010.0,tm101190,3.0,tous publics,https://www.mycanal.fr/cinema/the-town/h/40582954_50889,MyCanal,-12,"'us', 'gb'"
+tt2294449,22 Jump Street,movie,"Action, Comedy, Crime",7.0,423282.0,2014.0,tm155841,3.0,tous publics,https://www.mycanal.fr/cinema/22-jump-street/h/40579738_50889,MyCanal,-12,'us'
+tt0096895,Batman,movie,"Action, Adventure",7.5,419702.0,1989.0,tm138000,3.0,tous publics,https://www.mycanal.fr/cinema/batman/h/40421922_50889,MyCanal,-12,"'us', 'gb'"
+tt1490017,The Lego Movie,movie,"Action, Adventure, Animation",7.7,402254.0,2014.0,tm154995,3.0,tous publics,https://www.mycanal.fr/cinema/la-grande-aventure-lego/h/40439353_50889,MyCanal,-10,"'us', 'dk', 'au', 'no'"
+tt0448115,Shazam!,movie,"Action, Adventure, Comedy",7.0,400487.0,2019.0,tm1897,3.0,tous publics,https://www.mycanal.fr/cinema/shazam/h/40439372_50889,MyCanal,-12,"'us', 'ca'"
+tt0120663,Eyes Wide Shut,movie,"Drama, Mystery, Thriller",7.5,399557.0,1999.0,tm62326,2.0,tous publics,https://www.mycanal.fr/cinema/eyes-wide-shut/h/40436774_50889,MyCanal,-12,"'gb', 'us'"
+tt0113497,Jumanji,movie,"Adventure, Comedy, Family",7.1,395836.0,1995.0,tm10270,3.0,tous publics,https://www.mycanal.fr/cinema/jumanji/h/40524274_50889,MyCanal,-12,'us'
+tt1068680,Yes Man,movie,"Comedy, Romance",6.8,394899.0,2008.0,tm31383,4.0,tous publics,https://www.mycanal.fr/cinema/yes-man/h/40433100_50889,MyCanal,-12,"'us', 'gb'"
+tt1231583,Due Date,movie,"Comedy, Drama",6.5,365305.0,2010.0,tm90864,4.0,tous publics,https://www.mycanal.fr/cinema/date-limite/h/40511572_50889,MyCanal,-12,'us'
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/kong-skull-island/h/40439264_50889,MyCanal,-12,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt0053125,North by Northwest,movie,"Adventure, Drama, Mystery",8.3,360440.0,1959.0,tm40187,3.0,tous publics,https://www.mycanal.fr/cinema/la-mort-aux-trousses/h/40433083_50889,MyCanal,-10,'us'
+tt0031381,Gone with the Wind,movie,"Drama, Romance, War",8.2,346505.0,1939.0,tm156463,3.0,tous publics,https://www.mycanal.fr/cinema/autant-en-emporte-le-vent/h/40433134_50889,MyCanal,-10,'us'
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,https://www.mycanal.fr/cinema/batman-le-defi/h/40422165_50889,MyCanal,-12,"'us', 'gb'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,https://www.mycanal.fr/cinema/call-me-by-your-name/h/40524275_50889,MyCanal,-12,"'br', 'fr', 'it', 'us'"
+tt1253863,300: Rise of an Empire,movie,"Action, Drama",6.2,323552.0,2014.0,tm135608,3.0,12 avec avertissement,https://www.mycanal.fr/cinema/300-la-naissance-dun-empire/h/40436651_50889,MyCanal,-16,"'us', 'bg'"
+tt4123430,Fantastic Beasts: The Crimes of Grindelwald,movie,"Adventure, Family, Fantasy",6.5,321487.0,2018.0,tm208397,3.0,tous publics,https://www.mycanal.fr/cinema/les-animaux-fantastiques---les-crimes-de-grindelwald/h/40439354_50889,MyCanal,-10,"'gb', 'us'"
+tt0800039,Forgetting Sarah Marshall,movie,"Comedy, Drama, Romance",7.1,310470.0,2008.0,tm33545,3.0,tous publics,https://www.mycanal.fr/cinema/sans-sarah-rien-ne-va-/h/40579117_50889,MyCanal,-12,'us'
+tt8332922,A Quiet Place Part II,movie,"Drama, Horror, Sci-Fi",7.2,304096.0,2020.0,tm431186,4.0,12,https://www.mycanal.fr/cinema/sans-un-bruit-2/h/13501579_50662,MyCanal,-12,'us'
+tt1133985,Green Lantern,movie,"Action, Adventure, Sci-Fi",5.5,303353.0,2011.0,tm168537,3.0,tous publics,https://www.mycanal.fr/cinema/green-lantern/h/40433130_50889,MyCanal,-12,'us'
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,https://www.mycanal.fr/cinema/wonder-woman-1984/h/40606596_50889,MyCanal,-10,'us'
+tt0348150,Superman Returns,movie,"Action, Adventure, Sci-Fi",6.1,296106.0,2006.0,tm27397,3.0,tous publics,https://www.mycanal.fr/cinema/superman-returns/h/40439263_50889,MyCanal,-12,"'us', 'au'"
+tt0118688,Batman & Robin,movie,"Action, Sci-Fi",3.8,275818.0,1997.0,tm190778,3.0,tous publics,https://www.mycanal.fr/cinema/batman-et-robin/h/40417414_50889,MyCanal,-10,"'us', 'gb'"
+tt0112462,Batman Forever,movie,"Action, Adventure",5.4,275363.0,1995.0,tm16069,3.0,tous publics,https://www.mycanal.fr/cinema/batman-forever/h/40421800_50889,MyCanal,-10,"'us', 'gb'"
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,https://www.mycanal.fr/cinema/birds-of-prey-et-la-fantabuleuse-histoire-dharley-quinn/h/40445868_50889,MyCanal,-16,"'us', 'gb'"
+tt0045152,Singin' in the Rain,movie,"Comedy, Musical, Romance",8.3,272671.0,1952.0,tm60665,3.0,tous publics,https://www.mycanal.fr/cinema/chantons-sous-la-pluie-version-restauree/h/40433076_50889,MyCanal,tous publics,'us'
+tt2704998,Game Night,movie,"Action, Adventure, Comedy",6.9,265480.0,2018.0,tm312967,3.0,tous publics,https://www.mycanal.fr/cinema/game-night/h/40587555_50889,MyCanal,-12,'us'
+tt0052618,Ben-Hur,movie,"Adventure, Drama",8.1,263501.0,1959.0,tm42704,3.0,tous publics,https://www.mycanal.fr/cinema/ben-hur/h/40433082_50889,MyCanal,-12,'us'
+tt5164214,Ocean's Eight,movie,"Action, Comedy, Crime",6.3,252394.0,2018.0,tm266647,3.0,tous publics,https://www.mycanal.fr/cinema/oceans-eight/h/40442386_50889,MyCanal,-10,'us'
+tt0758774,Body of Lies,movie,"Action, Drama, Thriller",7.0,245264.0,2008.0,tm36188,3.0,tous publics,https://www.mycanal.fr/cinema/mensonges-detat/h/40607202_50889,MyCanal,-16,"'us', 'gb'"
+tt0129167,The Iron Giant,movie,"Action, Adventure, Animation",8.1,244785.0,1999.0,tm46715,3.0,tous publics,https://www.mycanal.fr/cinema/le-geant-de-fer/h/40436285_50889,MyCanal,-10,"'us', 'cz', 'gb'"
+tt0212346,Miss Congeniality,movie,"Action, Comedy, Crime",6.3,240195.0,2000.0,tm27388,4.0,tous publics,https://www.mycanal.fr/cinema/miss-detective/h/40433115_50889,MyCanal,-12,'us'
+tt3011894,Wild Tales,movie,"Comedy, Drama, Thriller",8.1,228572.0,2014.0,tm146788,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/les-nouveaux-sauvages/h/40436390_50889,MyCanal,-16,"'ar', 'es', 'fr', 'gb'"
+tt3741700,Godzilla: King of the Monsters,movie,"Action, Adventure, Fantasy",6.0,219809.0,2019.0,tm235768,3.0,tous publics,https://www.mycanal.fr/cinema/godzilla-ii-roi-des-monstres/h/40442391_50889,MyCanal,-12,"'us', 'jp', 'cn'"
+tt4779682,The Meg,movie,"Action, Horror, Sci-Fi",5.7,218370.0,2018.0,tm244140,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/en-eaux-troubles/h/40532829_50889,MyCanal,-12,"'us', 'cn'"
+tt0111282,Stargate,movie,"Action, Adventure, Sci-Fi",7.0,212264.0,1994.0,tm193099,3.0,tous publics,https://www.mycanal.fr/cinema/stargate-la-porte-des-etoiles/h/561246_50007,MyCanal,tous publics,"'fr', 'us'"
+tt0366548,Happy Feet,movie,"Adventure, Animation, Comedy",6.4,206971.0,2006.0,tm37546,3.0,tous publics,https://www.mycanal.fr/cinema/happy-feet/h/40436558_50889,MyCanal,-10,"'us', 'au'"
+tt0078346,Superman,movie,"Action, Adventure, Sci-Fi",7.4,196192.0,1978.0,tm12694,3.0,tous publics,https://www.mycanal.fr/cinema/superman/h/40442025_50889,MyCanal,-10,"'us', 'gb', 'ch', 'pa'"
+tt0097733,Lethal Weapon 2,movie,"Action, Crime, Thriller",7.3,195592.0,1989.0,tm142336,3.0,tous publics,https://www.mycanal.fr/cinema/larme-fatale-2/h/40530749_50889,MyCanal,-12,'us'
+tt0072684,Barry Lyndon,movie,"Adventure, Drama, War",8.1,193363.0,1975.0,tm123656,3.0,tous publics,https://www.mycanal.fr/cinema/barry-lyndon/h/40436554_50889,MyCanal,-12,"'gb', 'us'"
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,https://www.mycanal.fr/cinema/pokemon-detective-pikachu/h/40439371_50889,MyCanal,-10,"'us', 'jp', 'gb', 'ca'"
+tt0104714,Lethal Weapon 3,movie,"Action, Crime, Thriller",6.7,183935.0,1992.0,tm122409,3.0,tous publics,https://www.mycanal.fr/cinema/larme-fatale-3/h/40433111_50889,MyCanal,-12,'us'
+tt4116284,The Lego Batman Movie,movie,"Action, Adventure, Animation",7.3,182482.0,2017.0,tm196644,3.0,tous publics,https://www.mycanal.fr/cinema/lego-batman-le-film/h/40442390_50889,MyCanal,-10,"'us', 'dk', 'au'"
+tt10366460,CODA,movie,"Comedy, Drama, Music",8.0,178358.0,2021.0,tm983754,2.0,13,https://www.mycanal.fr/cinema/coda/h/40000482_50696,MyCanal,tous publics,"'fr', 'ca', 'us'"
+tt0122151,Lethal Weapon 4,movie,"Action, Crime, Thriller",6.6,176742.0,1998.0,tm56110,3.0,12,https://www.mycanal.fr/cinema/larme-fatale-4/h/40433084_50889,MyCanal,-12,'us'
+tt0066999,Dirty Harry,movie,"Action, Crime, Thriller",7.7,175141.0,1971.0,tm14873,3.0,12::(new rating),https://www.mycanal.fr/cinema/linspecteur-harry/h/40436544_50889,MyCanal,-16,'us'
+tt0498380,Letters from Iwo Jima,movie,"Action, Adventure, Drama",7.8,173758.0,2006.0,tm23485,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/lettres-diwo-jima/h/40433080_50889,MyCanal,-16,'us'
+tt0093437,The Lost Boys,movie,"Comedy, Horror",7.2,169694.0,1987.0,tm19783,3.0,tous publics,https://www.mycanal.fr/cinema/generation-perdue/h/1053350_50780,MyCanal,-16,'us'
+tt1267297,Hercules,movie,"Action, Adventure, Fantasy",6.0,168238.0,2014.0,tm148235,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/hercule/h/4629562_50007,MyCanal,-10,"'hu', 'us'"
+tt0088323,The NeverEnding Story,movie,"Adventure, Drama, Family",7.3,164054.0,1984.0,tm170315,3.0,tous publics,https://www.mycanal.fr/cinema/lhistoire-sans-fin/h/40442686_50889,MyCanal,-10,"'xwg', 'us'"
+tt7959026,The Mule,movie,"Crime, Drama, Thriller",7.0,161106.0,2018.0,tm371923,3.0,tous publics,https://www.mycanal.fr/cinema/la-mule/h/40440427_50889,MyCanal,-12,"'us', 'ca'"
+tt0103855,The Bodyguard,movie,"Drama, Music, Romance",6.4,154013.0,1992.0,tm128086,3.0,tous publics,https://www.mycanal.fr/cinema/bodyguard/h/40433129_50889,MyCanal,-12,'us'
+tt1351685,Jack the Giant Slayer,movie,"Action, Adventure, Fantasy",6.3,151452.0,2013.0,tm168764,3.0,tous publics,https://www.mycanal.fr/cinema/jack-le-chasseur-de-geants/h/40436551_50889,MyCanal,-12,'us'
+tt1915581,Magic Mike,movie,"Comedy, Drama, Music",6.1,150267.0,2012.0,tm70092,3.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/magic-mike/h/40579164_50889,MyCanal,-12,'us'
+tt0120784,Payback,movie,"Action, Crime, Drama",7.1,149893.0,1999.0,tm47823,3.0,16,https://www.mycanal.fr/cinema/payback/h/40578981_50889,MyCanal,-16,'us'
+tt0325805,Matchstick Men,movie,"Comedy, Crime, Drama",7.3,142168.0,2003.0,tm145132,3.0,tous publics,https://www.mycanal.fr/cinema/les-associes/h/40578980_50889,MyCanal,-12,'us'
+tt5649144,The Florida Project,movie,Drama,7.6,139880.0,2017.0,tm266676,4.0,tous publics,https://www.mycanal.fr/cinema/the-florida-project/h/9370831_50002,MyCanal,tous publics,'us'
+tt0267913,Scooby-Doo,movie,"Adventure, Comedy, Family",5.3,132813.0,2002.0,tm115688,3.0,tous publics,https://www.mycanal.fr/cinema/scooby-doo/h/40442393_50889,MyCanal,-10,"'us', 'au'"
+tt0327554,Catwoman,movie,"Action, Crime, Fantasy",3.4,129207.0,2004.0,tm96586,3.0,tous publics,https://www.mycanal.fr/cinema/catwoman/h/40433079_50889,MyCanal,-12,'us'
+tt0817230,Valentine's Day,movie,"Comedy, Romance",5.8,127859.0,2010.0,tm99238,4.0,tous publics,https://www.mycanal.fr/cinema/valentines-day/h/40433136_50889,MyCanal,tous publics,'us'
+tt6048922,Greyhound,movie,"Drama, History, War",7.0,124169.0,2020.0,tm408218,2.0,tous publics,https://www.mycanal.fr/cinema/uss-greyhound---la-bataille-de-latlantique/h/40000014_50696,MyCanal,tous publics,"'us', 'ca', 'cn'"
+tt1307068,Seeking a Friend for the End of the World,movie,"Adventure, Comedy, Drama",6.7,121391.0,2012.0,tm69276,2.0,tous publics,https://www.mycanal.fr/cinema/jusqua-ce-que-la-fin-du-monde-nous-separe/h/1095297_50002,MyCanal,-10,'us'
+tt0406375,Zathura: A Space Adventure,movie,"Action, Adventure, Comedy",6.3,120941.0,2005.0,tm181571,4.0,tous publics,https://www.mycanal.fr/cinema/zathuraune-aventure-spatiale/h/40530748_50889,MyCanal,-10,'us'
+tt0081573,Superman II,movie,"Action, Adventure, Sci-Fi",6.8,119047.0,1980.0,tm127965,3.0,tous publics,https://www.mycanal.fr/cinema/superman-2/h/40442067_50889,MyCanal,-10,"'gb', 'us'"
+tt1078940,Couples Retreat,movie,Comedy,5.5,118490.0,2009.0,tm153838,3.0,tous publics,https://www.mycanal.fr/cinema/therapie-de-couples/h/40580131_50889,MyCanal,-12,'us'
+tt0436697,The Queen,movie,"Biography, Drama",7.3,117740.0,2006.0,tm35198,4.0,tous publics,https://www.mycanal.fr/cinema/the-queen/h/40439273_50889,MyCanal,-12,"'gb', 'us', 'fr', 'it'"
+tt1007029,The Iron Lady,movie,"Biography, Drama",6.4,115220.0,2011.0,tm177990,3.0,tous publics,https://www.mycanal.fr/cinema/la-dame-de-fer/h/40604729_50889,MyCanal,-12,"'gb', 'fr'"
+tt0401383,The Diving Bell and the Butterfly,movie,"Biography, Drama",8.0,111755.0,2007.0,tm85748,3.0,,https://www.mycanal.fr/cinema/le-scaphandre-et-le-papillon/h/40597882_50889,MyCanal,-12,"'fr', 'us'"
+tt0386117,Where the Wild Things Are,movie,"Adventure, Drama, Family",6.7,110381.0,2009.0,tm144224,3.0,tous publics,https://www.mycanal.fr/cinema/max-et-les-maximonstres/h/40436549_50889,MyCanal,-10,"'de', 'us', 'au'"
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,movie,"Adventure, Family, Fantasy",8.1,997781.0,2011.0,tm177297,3.0,tous publics,https://www.mycanal.fr/cinema/harry-potter-et-les-reliques-de-la-mort-partie-2/h/40439242_50889,MyCanal,-12,"'gb', 'us'"
+tt1911658,Penguins of Madagascar,movie,"Action, Adventure, Animation",6.6,109222.0,2014.0,tm161282,1.0,tous publics,https://www.canalplus.com/cinema/les-pingouins-de-madagascar/h/4982458_50001,Canal+,tous publics,"'us', 'gb'"
+tt9362930,Blue Beetle,movie,"Action, Adventure, Sci-Fi",5.9,108693.0,2023.0,tm452641,3.0,tous publics,https://www.canalplus.com/blue-beetle/h/40949687_50889,Canal+,-12,"'us', 'mx', 'ca', 'de'"
+tt1602620,Amour,movie,Drama,7.9,108310.0,2012.0,tm42327,3.0,tous publics,https://www.canalplus.com/cinema/amour/h/2668994_50001,Canal+,-10,"'fr', 'de', 'at'"
+tt0100935,Wild at Heart,movie,"Crime, Drama, Thriller",7.2,107863.0,1990.0,tm155030,1.0,12,https://www.canalplus.com/cinema/sailor-et-lula/h/516860_50001,Canal+,-12,'us'
+tt4218572,Widows,movie,"Crime, Drama, Thriller",6.8,106884.0,2018.0,tm312766,1.0,tous publics avec avertissement,https://www.canalplus.com/cinema/les-veuves/h/10633086_40099,Canal+,-10,"'gb', 'us'"
+tt0054047,The Magnificent Seven,movie,"Action, Adventure, Drama",7.7,106685.0,1960.0,tm205009,2.0,tous publics,https://www.canalplus.com/cinema/les-sept-mercenaires/h/7432396_50001,Canal+,tous publics,'us'

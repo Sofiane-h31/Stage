@@ -1,0 +1,999 @@
+id,title,genres,averageRating,numVotes,releaseYear
+tt0903747,"Breaking Bad","Crime, Drama, Thriller",9.5,2329649,2008
+tt0185906,"Band of Brothers","Action, Drama, History",9.4,561615,2001
+tt0795176,"Planet Earth","Documentary, Family",9.4,227338,2006
+tt5491994,"Planet Earth II",Documentary,9.4,166444,2016
+tt5152226,"Tree of Life",Drama,9.4,18400,2014
+tt7366338,Chernobyl,"Drama, History, Thriller",9.3,948935,2019
+tt0417299,"Avatar: The Last Airbender","Action, Adventure, Animation",9.3,405873,2005
+tt0306414,"The Wire","Crime, Drama, Thriller",9.3,403017,2002
+tt30263074,"Sapne Vs Everyone",Drama,9.3,73490,2023
+tt6769208,"Blue Planet II",Documentary,9.3,51748,2017
+tt0081846,Cosmos,Documentary,9.3,47869,1980
+tt7678620,Bluey,"Animation, Family",9.3,38429,2018
+tt9002164,"BB Ki Vines",Comedy,9.3,11591,2015
+tt0944947,"Game of Thrones","Action, Adventure, Drama",9.2,2432586,2011
+tt0141842,"The Sopranos","Crime, Drama",9.2,524161,1999
+tt14392248,Aspirants,Drama,9.2,315582,2021
+tt12392504,"Scam 1992: The Harshad Mehta Story","Biography, Crime, Drama",9.2,164721,2020
+tt30192155,"Scam 1992",Thriller,9.2,161646,2020
+tt2395695,"Cosmos: A Spacetime Odyssey",Documentary,9.2,134084,2014
+tt9253866,"Our Planet",Documentary,9.2,56723,2019
+tt5622316,"The Chosen","Drama, History",9.1,51960,2017
+tt0071075,"The World at War","Documentary, History, War",9.2,33021,1973
+tt9861270,"Çilgin Dersane at the University",Comedy,9.2,18425,2014
+tt26471411,"When Life Gives You Tangerines","Drama, History, Romance",9.2,17273,2025
+tt2861424,"Rick and Morty","Adventure, Animation, Comedy",9.1,649350,2013
+tt2560140,"Attack on Titan","Action, Adventure, Animation",9.1,609376,2013
+tt1355642,"Fullmetal Alchemist: Brotherhood","Action, Adventure, Animation",9.1,220990,2009
+tt28227737,"Sandeep Bhaiya",Drama,9.1,76378,2023
+tt4742876,"TVF Pitchers","Comedy, Drama",9.1,75518,2015
+tt5622316,"The Chosen","Drama, History",9.1,58014,2017
+tt1533395,Life,Documentary,9.1,45696,2009
+tt4202274,"The Filthy Frank Show","Comedy, Short",9.1,33767,2011
+tt1877514,"The Vietnam War","Documentary, History, War",9.1,31393,2017
+tt10530900,Gullak,"Comedy, Drama, Family",9.1,26369,2019
+tt9471962,Halka,"Action, Crime, Drama",9.1,25502,2019
+tt7450814,Koombiyo,"Crime, Drama, Thriller",9.1,18336,2017
+tt13854248,"The Legend of Hanuman","Action, Adventure, Animation",9.1,13410,2021
+tt1475582,Sherlock,"Crime, Drama, Mystery",9,1047963,2010
+tt0386676,"The Office",Comedy,9,774820,2005
+tt3032476,"Better Call Saul","Crime, Drama",9,730780,2015
+tt11126994,Arcane,"Action, Adventure, Animation",9,394672,2021
+tt0388629,"One Piece","Action, Adventure, Animation",9,296866,1999
+tt8420184,"The Last Dance","Biography, Documentary, History",9,166451,2020
+tt2098220,"Hunter x Hunter","Action, Adventure, Animation",9,163630,2011
+tt0103359,"Batman: The Animated Series","Action, Adventure, Animation",9,126977,1992
+tt12004706,Panchayat,"Comedy, Drama",9,102788,2020
+tt0052520,"The Twilight Zone","Drama, Fantasy, Horror",9,100525,1959
+tt1831164,"Leyla and Mecnun","Adventure, Comedy, Drama",9,99688,2011
+tt9432978,"Kota Factory","Comedy, Drama",9,87837,2019
+tt10541088,"Clarkson's Farm","Comedy, Documentary, Reality-TV",9,71742,2021
+tt14986406,"Bleach: Thousand-Year Blood War","Action, Adventure, Animation",9,60965,2022
+tt0081912,"Only Fools and Horses",Comedy,9,60693,1981
+tt7920978,Persona,"Crime, Drama, Mystery",9,51660,2018
+tt0296310,"The Blue Planet",Documentary,9,45684,2001
+tt21279678,"NCR Days",Drama,9,44416,2022
+tt2092588,"Frozen Planet",Documentary,9,35611,2011
+tt1806234,"Human Planet",Documentary,9,29886,2011
+tt13675832,"As If",Comedy,9,29209,2021
+tt0268093,Ramayan,"Adventure, Drama, Family",9,25947,1987
+tt4934214,Taskmaster,"Comedy, Game-Show",9,24569,2015
+tt0098769,"The Civil War","Documentary, History, War",9,21303,1990
+tt1508238,"Apocalypse: The Second World War","Documentary, History, War",9,16549,2009
+tt5182866,"Reply 1988","Comedy, Drama, Family",9,15757,2015
+tt4834232,"Critical Role","Adventure, Fantasy",9,14396,2015
+tt3212600,Mahabharat,"Drama, History, War",9,12902,2013
+tt7923710,"My Mister","Drama, Family",9,12721,2018
+tt0108778,Friends,"Comedy, Romance",8.9,1143991,1994
+tt2356777,"True Detective","Crime, Drama, Mystery",8.9,702488,2014
+tt0877057,"Death Note","Animation, Crime, Drama",8.9,424817,2006
+tt0098904,Seinfeld,Comedy,8.9,368667,1989
+tt0303461,Firefly,"Adventure, Drama, Sci-Fi",8.9,290706,2002
+tt1865718,"Gravity Falls","Adventure, Animation, Comedy",8.9,156655,2012
+tt0213338,"Cowboy Bebop","Action, Adventure, Animation",8.9,153822,1998
+tt0200276,"The West Wing",Drama,8.9,91823,1999
+tt31938062,"The Pitt",Drama,8.9,44903,2025
+tt2297757,"Nathan for You","Comedy, Documentary",8.9,43522,2013
+tt22248376,"Frieren: Beyond Journey's End","Adventure, Animation, Comedy",8.9,41431,2023
+tt9735318,"The Beatles: Get Back","Biography, Documentary, Music",8.9,32151,2021
+tt0092337,Dekalog,Drama,8.9,30713,1989
+tt1909015,Undercover,"Action, Crime, Drama",8.9,28091,2011
+tt8595766,"Yeh Meri Family","Comedy, Drama, Family",8.9,27100,2018
+tt0158417,Mahabharat,"Action, Adventure, Drama",8.9,25390,1988
+tt11007006,Azize,Drama,8.9,20721,2019
+tt7621364,"Black Pearl",Drama,8.9,19928,2017
+tt1518542,"Sarabhai V/S Sarabhai",Comedy,8.9,19278,2004
+tt2571774,Africa,Documentary,8.9,19168,2013
+tt5851616,"Tash Ma Tash","Comedy, Drama, Fantasy",8.9,10962,1993
+tt11992526,Harga,Drama,8.9,10038,2021
+tt2802850,Fargo,"Crime, Drama, Thriller",8.8,444616,2014
+tt10986410,"Ted Lasso","Comedy, Drama, Sport",8.8,400236,2020
+tt7660850,Succession,"Comedy, Drama",8.8,316852,2018
+tt0472954,"It's Always Sunny in Philadelphia",Comedy,8.8,265870,2005
+tt3398228,"BoJack Horseman","Animation, Comedy, Drama",8.8,210069,2014
+tt0214341,"Dragon Ball Z","Action, Adventure, Animation",8.8,162296,1996
+tt0193676,"Freaks and Geeks","Comedy, Drama",8.8,159788,1999
+tt0264235,"Curb Your Enthusiasm",Comedy,8.8,157112,2000
+tt7137906,"When They See Us","Biography, Crime, Drama",8.8,148001,2019
+tt14650074,Dhindora,"Comedy, Drama",8.8,123812,2021
+tt0072500,"Fawlty Towers",Comedy,8.8,105058,1975
+tt10233448,"Vinland Saga","Action, Adventure, Animation",8.8,100230,2019
+tt3530232,"Last Week Tonight with John Oliver","Comedy, News, Talk-Show",8.8,99925,2014
+tt0112130,"Pride and Prejudice","Drama, Romance",8.8,98140,1995
+tt0121220,"Dragon Ball Z","Action, Adventure, Animation",8.8,96232,1989
+tt1910272,Steins;Gate,"Animation, Comedy, Drama",8.8,82721,2011
+tt0063929,"Monty Python's Flying Circus",Comedy,8.8,82465,1969
+tt0353049,"Chappelle's Show","Comedy, Music",8.8,76074,2003
+tt0096548,"Blackadder Goes Forth","Comedy, War",8.8,60453,1989
+tt0081834,"Das Boot","Drama, War",8.8,36081,1985
+tt1795096,"Behzat Ç: An Ankara Detective Story","Crime, Drama, Mystery",8.8,34869,2010
+tt7927936,Flames,"Comedy, Drama, Romance",8.8,33402,2018
+tt22727518,"Another Love","Drama, Romance",8.8,23290,2023
+tt0074006,"I, Claudius","Biography, Drama, History",8.8,20934,1976
+tt13868972,"Rocket Boys","Drama, History",8.8,19374,2022
+tt0481256,"Fighting Spirit","Action, Animation, Comedy",8.8,13849,2000
+tt6108262,"Black Sun","Crime, Drama, Thriller",8.8,13308,2017
+tt13661118,"Not Me","Action, Crime, Romance",8.8,12616,2021
+tt2442560,"Peaky Blinders","Crime, Drama",8.7,711015,2013
+tt2085059,"Black Mirror","Crime, Drama, Mystery",8.7,692489,2011
+tt3581920,"The Last of Us","Action, Adventure, Drama",8.7,652398,2023
+tt0412142,House,"Drama, Mystery",8.7,558030,2004
+tt2707408,Narcos,"Biography, Crime, Drama",8.7,500850,2015
+tt5753856,Dark,"Crime, Drama, Mystery",8.7,491182,2017
+tt0121955,"South Park","Animation, Comedy",8.7,422563,1997
+tt11280740,Severance,"Drama, Mystery, Sci-Fi",8.7,315628,2022
+tt0804503,"Mad Men",Drama,8.7,275020,2007
+tt6741278,Invincible,"Action, Adventure, Animation",8.7,274200,2021
+tt1606375,"Downton Abbey","Drama, Romance",8.7,234685,2010
+tt0098936,"Twin Peaks","Crime, Drama, Mystery",8.7,231543,1990
+tt5687612,Fleabag,"Comedy, Drama",8.7,226872,2016
+tt4508902,"One Punch Man","Action, Animation, Comedy",8.7,201619,2015
+tt0988824,"Naruto: Shippuden","Action, Adventure, Animation",8.7,197760,2007
+tt0384766,Rome,"Action, Drama, Romance",8.7,194958,2005
+tt0407362,"Battlestar Galactica","Action, Adventure, Drama",8.7,182219,2004
+tt5555260,"This Is Us","Comedy, Drama, Romance",8.7,167954,2016
+tt0248654,"Six Feet Under","Comedy, Drama",8.7,158751,2001
+tt5788792,"The Marvelous Mrs. Maisel","Comedy, Drama",8.7,151000,2017
+tt0092455,"Star Trek: The Next Generation","Action, Adventure, Drama",8.7,143697,1987
+tt13991232,1883,"Drama, Western",8.7,142430,2021
+tt1628033,"Top Gear","Adventure, Sport, Talk-Show",8.7,132472,2002
+tt0118421,Oz,"Crime, Drama, Thriller",8.7,112227,1997
+tt9544034,"The Family Man","Action, Comedy, Drama",8.7,103982,2019
+tt0286486,"The Shield","Crime, Drama, Thriller",8.7,92995,2002
+tt13309742,"Blue Eye Samurai","Action, Adventure, Animation",8.7,91023,2023
+tt0994314,"Code Geass","Action, Animation, Drama",8.7,90995,2006
+tt5712554,"The Grand Tour","Comedy, Sport, Talk-Show",8.7,90745,2016
+tt3718778,"Over the Garden Wall","Adventure, Animation, Comedy",8.7,80219,2014
+tt0758745,"Friday Night Lights","Drama, Sport",8.7,76080,2006
+tt2303687,"Line of Duty","Crime, Drama, Mystery",8.7,75766,2012
+tt0387764,"Peep Show",Comedy,8.7,70551,2003
+tt0318871,Berserk,"Action, Adventure, Animation",8.7,65835,1997
+tt0434706,Monster,"Animation, Crime, Drama",8.7,56880,2004
+tt10850932,"Crash Landing on You","Adventure, Comedy, Drama",8.7,50896,2019
+tt16026746,"X-Men '97","Action, Adventure, Animation",8.7,44897,2024
+tt3398540,Haikyu!!,"Animation, Comedy, Drama",8.7,44845,2014
+tt7472896,"Mr Inbetween","Comedy, Crime, Drama",8.7,40379,2018
+tt0096639,"Lonesome Dove","Adventure, Drama, Western",8.7,28085,1989
+tt0459159,"The Thick of It",Comedy,8.7,28030,2005
+tt0086661,"The Adventures of Sherlock Holmes","Crime, Drama, Mystery",8.7,26022,1984
+tt6025022,"Justice League Unlimited","Action, Adventure, Animation",8.7,23228,2004
+tt20859920,"Alchemy of Souls","Action, Drama, Fantasy",8.7,23016,2022
+tt0988818,Gintama,"Action, Animation, Comedy",8.7,18266,2005
+tt15295490,"Campus Diaries","Comedy, Drama, Romance",8.7,17560,2022
+tt4063800,"The Bureau","Drama, Thriller",8.7,16976,2015
+tt0106028,"Homicide: Life on the Street","Crime, Drama, Mystery",8.7,16029,1993
+tt10801534,"How to with John Wilson","Comedy, Documentary",8.7,15549,2020
+tt0229889,"El Chavo del Ocho","Comedy, Family",8.7,14990,1972
+tt9566030,"Pew News","Comedy, News",8.7,14738,2018
+tt0090509,"The Return of Sherlock Holmes","Crime, Drama, Mystery",8.7,14591,1986
+tt6111552,"Content Cop","Comedy, Crime, Talk-Show",8.7,12594,2015
+tt7094780,"Mr. Sunshine","Action, Drama, History",8.7,12323,2018
+tt4269716,Umbre,"Crime, Drama, Thriller",8.7,12292,2014
+tt10554898,"The Untamed","Action, Adventure, Drama",8.7,11402,2019
+tt0075537,"Mind Your Language",Comedy,8.7,10221,1977
+tt0062588,"Mister Rogers' Neighborhood","Family, Fantasy, Music",8.7,10021,1968
+tt4574334,"Stranger Things","Drama, Fantasy, Horror",8.6,1444358,2016
+tt0773262,Dexter,"Crime, Drama, Mystery",8.6,843215,2006
+tt1190634,"The Boys","Action, Comedy, Crime",8.6,776631,2019
+tt8111088,"The Mandalorian","Action, Adventure, Fantasy",8.6,624436,2019
+tt1856010,"House of Cards",Drama,8.6,546806,2013
+tt3322312,Daredevil,"Action, Crime, Drama",8.6,505284,2015
+tt0096697,"The Simpsons","Animation, Comedy",8.6,453330,1989
+tt5290382,Mindhunter,"Crime, Drama, Mystery",8.6,367267,2017
+tt0367279,"Arrested Development",Comedy,8.6,334642,2003
+tt1266020,"Parks and Recreation",Comedy,8.6,302776,2009
+tt4236770,Yellowstone,"Drama, Western",8.6,274700,2018
+tt4786824,"The Crown","Biography, Drama, History",8.6,270165,2016
+tt0106179,"The X-Files","Adventure, Crime, Drama",8.6,262341,1993
+tt2788316,Shōgun,"Action, Adventure, Drama",8.6,216619,2024
+tt0979432,"Boardwalk Empire","Crime, Drama",8.6,211129,2010
+tt15435876,"The Penguin","Crime, Drama",8.6,194327,2024
+tt9335498,"Demon Slayer: Kimetsu no Yaiba","Action, Adventure, Animation",8.6,187016,2019
+tt1486217,Archer,"Action, Animation, Comedy",8.6,171520,2009
+tt0096657,"Mr. Bean","Comedy, Family",8.6,142611,1990
+tt1870479,"The Newsroom",Drama,8.6,130274,2012
+tt1489428,Justified,"Action, Crime, Drama",8.6,125151,2010
+tt0348914,Deadwood,"Crime, Drama, History",8.6,123621,2004
+tt1305826,"Adventure Time","Action, Adventure, Animation",8.6,123276,2010
+tt7908628,"What We Do in the Shadows","Comedy, Fantasy, Horror",8.6,118805,2019
+tt4288182,Atlanta,"Comedy, Drama, Music",8.6,94242,2016
+tt9174558,Dopesick,Drama,8.6,86344,2021
+tt1733785,"The Bridge","Crime, Mystery, Thriller",8.6,80987,2011
+tt21209876,"Solo Leveling","Action, Adventure, Animation",8.6,75994,2024
+tt5421602,"Anne with an E","Drama, Family",8.6,73959,2017
+tt1710308,"Regular Show","Action, Adventure, Animation",8.6,66699,2010
+tt4299972,"The Jinx: The Life and Deaths of Robert Durst","Biography, Crime, Documentary",8.6,56262,2015
+tt0094525,Poirot,"Crime, Drama, Mystery",8.6,55754,1989
+tt0088484,"Blackadder II",Comedy,8.6,52189,1986
+tt2100976,"Impractical Jokers","Comedy, Reality-TV",8.6,49174,2011
+tt0092324,"Blackadder the Third",Comedy,8.6,49172,1987
+tt1641384,"Young Justice","Action, Adventure, Animation",8.6,48597,2010
+tt2049116,Gomorrah,"Crime, Drama, Thriller",8.6,47496,2014
+tt0111958,"Father Ted",Comedy,8.6,46173,1995
+tt13111040,"The Offer","Biography, Crime, Drama",8.6,45963,2022
+tt5288312,Skam,"Drama, Romance",8.6,40984,2015
+tt12451520,"It's Okay to Not Be Okay","Comedy, Drama, Romance",8.6,40905,2020
+tt1534360,Ezel,"Crime, Drama, Thriller",8.6,40721,2009
+tt9140342,"It's a Sin",Drama,8.6,39294,2021
+tt11854694,"Special OPS","Action, Crime, Thriller",8.6,38933,2020
+tt0053488,"The Bugs Bunny Show","Animation, Comedy",8.6,36961,1960
+tt2701582,Endeavour,"Crime, Drama, Mystery",8.6,36037,2012
+tt7562112,Pose,Drama,8.6,35084,2018
+tt0380136,QI,"Comedy, Game-Show",8.6,34897,2003
+tt1983079,"Call the Midwife","Drama, History",8.6,33598,2012
+tt20869502,"Extraordinary Attorney Woo",Drama,8.6,33234,2022
+tt5994364,"Guardian: The Lonely and Great God","Comedy, Drama, Fantasy",8.6,33188,2016
+tt4647692,Letterkenny,Comedy,8.6,32424,2016
+tt21056886,"Scavengers Reign","Adventure, Animation, Drama",8.6,29829,2023
+tt0417373,"The Venture Bros.","Action, Adventure, Animation",8.6,29501,2003
+tt0094517,"Mystery Science Theater 3000","Comedy, Sci-Fi",8.6,27044,1988
+tt4156586,"Permanent Roommates","Comedy, Romance",8.6,26691,2014
+tt10332508,Primal,"Action, Adventure, Animation",8.6,24777,2019
+tt4082744,Detectorists,Comedy,8.6,23936,2014
+tt0129690,"I'm Alan Partridge",Comedy,8.6,23125,1997
+tt0421291,"Avrupa Yakasi",Comedy,8.6,22868,2004
+tt8050756,"The Owl House","Action, Adventure, Animation",8.6,22743,2020
+tt28857177,"Lucky Guy","Comedy, Drama, Fantasy",8.6,22045,2023
+tt2311418,"Isler Güçler",Comedy,8.6,21740,2012
+tt7278862,"My Brilliant Friend",Drama,8.6,21607,2018
+tt10590066,"All Creatures Great & Small","Comedy, Drama",8.6,20016,2020
+tt9814458,"Bandish Bandits","Drama, Music, Romance",8.6,19823,2020
+tt0310455,"Foyle's War","Crime, Drama, Mystery",8.6,19704,2002
+tt1513168,"Through the Wormhole",Documentary,8.6,19132,2010
+tt0080306,"Yes Minister",Comedy,8.6,18015,1980
+tt3671754,"Kardes Payi",Comedy,8.6,17990,2014
+tt17513352,"Twenty Five Twenty One","Drama, Romance",8.6,17925,2022
+tt0203082,"Rurouni Kenshin: Trust and Betrayal","Action, Adventure, Animation",8.6,17365,1999
+tt8317568,"Broken But Beautiful","Drama, Romance",8.6,17311,2018
+tt0403778,"Long Way Round","Adventure, Documentary",8.6,16283,2004
+tt15614372,"Tear Along the Dotted Line","Animation, Comedy, Drama",8.6,15669,2021
+tt6385540,Hilda,"Adventure, Animation, Drama",8.6,15181,2018
+tt13634792,Mouse,"Action, Crime, Mystery",8.6,14471,2021
+tt1877368,"The Great British Baking Show","Game-Show, Reality-TV",8.6,14218,2010
+tt0086831,"Yes, Prime Minister",Comedy,8.6,14072,1986
+tt5320412,"Moon Lovers: Scarlet Heart Ryeo","Action, Drama, Fantasy",8.6,13527,2016
+tt13400006,"Mr. Queen","Comedy, Fantasy, Romance",8.6,13105,2020
+tt9103932,"Greatest Events of WWII in Colour","Documentary, History, War",8.6,12589,2019
+tt0118273,"Brass Eye",Comedy,8.6,12284,1997
+tt31862849,"Very Parivarik",Comedy,8.6,11523,2024
+tt31324295,"Lovely Runner","Comedy, Fantasy, Music",8.6,11087,2024
+tt0426719,"Hunter x Hunter","Action, Adventure, Animation",8.6,10977,1999
+tt18249282,Shoresy,"Action, Comedy, Drama",8.6,10830,2022
+tt8254348,ImMATURE,"Comedy, Drama, Romance",8.6,10647,2019
+tt4580372,Merlí,"Comedy, Drama, Romance",8.6,10505,2015
+tt28093628,"Common Side Effects","Animation, Comedy, Drama",8.6,10346,2024
+tt2306299,Vikings,"Action, Adventure, Drama",8.5,617079,2013
+tt10048342,"The Queen's Gambit",Drama,8.5,616775,2020
+tt1442437,"Modern Family","Comedy, Drama, Romance",8.5,515605,2009
+tt4158110,"Mr. Robot","Crime, Drama, Thriller",8.5,440983,2015
+tt5071412,Ozark,"Crime, Drama, Thriller",8.5,369850,2017
+tt1124373,"Sons of Anarchy","Crime, Drama, Thriller",8.5,340082,2008
+tt1586680,Shameless,"Comedy, Drama",8.5,310690,2011
+tt6763664,"The Haunting of Hill House","Drama, Horror, Mystery",8.5,309759,2018
+tt1439629,Community,Comedy,8.5,303335,2009
+tt2243973,Hannibal,"Crime, Drama, Horror",8.5,292169,2013
+tt0149460,Futurama,"Adventure, Animation, Comedy",8.5,271025,1999
+tt14452776,"The Bear","Comedy, Drama",8.5,269444,2022
+tt1442449,Spartacus,"Action, Adventure, Biography",8.5,266589,2010
+tt0436992,"Doctor Who","Adventure, Drama, Sci-Fi",8.5,257065,2005
+tt1839578,"Person of Interest","Action, Crime, Drama",8.5,198028,2011
+tt3230854,"The Expanse","Drama, Mystery, Sci-Fi",8.5,183205,2015
+tt4179452,"The Last Kingdom","Action, Drama, History",8.5,177949,2015
+tt2575988,"Silicon Valley",Comedy,8.5,174440,2014
+tt0487831,"The IT Crowd",Comedy,8.5,170974,2006
+tt3526078,"Schitt's Creek",Comedy,8.5,161280,2015
+tt12343534,"Jujutsu Kaisen","Action, Adventure, Animation",8.5,153788,2020
+tt1758429,"Spartacus: Gods of the Arena","Action, Adventure, Biography",8.5,150208,2011
+tt0290978,"The Office","Comedy, Drama",8.5,128296,2001
+tt5189670,"Making a Murderer","Crime, Documentary",8.5,105952,2015
+tt0112159,"Neon Genesis Evangelion","Action, Animation, Drama",8.5,97600,1995
+tt6077448,"Sacred Games","Action, Crime, Drama",8.5,95272,2018
+tt3502248,Bosch,"Crime, Drama",8.5,89447,2014
+tt10638036,Heartstopper,"Drama, Romance",8.5,86970,2022
+tt1492966,Louie,"Comedy, Drama",8.5,84120,2010
+tt4093826,"Twin Peaks","Crime, Drama, Horror",8.5,83118,2017
+tt0314979,"Battlestar Galactica","Action, Adventure, Drama",8.5,83043,2003
+tt0421357,"Fullmetal Alchemist","Action, Adventure, Animation",8.5,82080,2003
+tt0088509,"Dragon Ball","Action, Adventure, Animation",8.5,72155,1986
+tt0280249,"Dragon Ball","Action, Adventure, Animation",8.5,70435,1995
+tt3428912,"Happy Valley","Crime, Drama, Thriller",8.5,69471,2014
+tt7120662,"Derry Girls",Comedy,8.5,68817,2018
+tt11912196,"Asur: Welcome to Your Dark Side","Crime, Drama, Mystery",8.5,68286,2020
+tt0863046,"Flight of the Conchords","Comedy, Music, Musical",8.5,68219,2007
+tt0068098,M*A*S*H,"Comedy, Drama, War",8.5,66625,1972
+tt0278238,"Samurai Jack","Action, Adventure, Animation",8.5,63457,2001
+tt0423731,"Samurai Champloo","Action, Adventure, Animation",8.5,59723,2004
+tt0187664,Spaced,Comedy,8.5,59533,1999
+tt8289930,"Formula 1: Drive to Survive","Documentary, Sport",8.5,56143,2019
+tt5897304,"Mob Psycho 100","Action, Animation, Comedy",8.5,55460,2016
+tt0275137,"Justice League","Action, Adventure, Animation",8.5,54787,2001
+tt0290988,"Trailer Park Boys","Comedy, Crime",8.5,54689,2001
+tt2937900,"The Knick","Drama, History",8.5,54537,2014
+tt0402711,"Boston Legal","Comedy, Crime, Drama",8.5,51783,2004
+tt0237123,Coupling,"Comedy, Romance",8.5,49221,2000
+tt0163507,"Whose Line Is It Anyway?","Comedy, Game-Show",8.5,48012,1998
+tt3895150,"Your Lie in April","Animation, Comedy, Drama",8.5,44036,2014
+tt2359704,"JoJo's Bizarre Adventure","Action, Adventure, Animation",8.5,43017,2012
+tt0373732,"The Boondocks","Action, Animation, Comedy",8.5,38435,2005
+tt0417349,"North & South","Drama, Romance",8.5,36712,2004
+tt1526318,Borgen,Drama,8.5,31311,2010
+tt12714854,"Mumbai Diaries","Drama, Thriller",8.5,31078,2021
+tt1299368,Southland,"Crime, Drama, Thriller",8.5,30101,2009
+tt0043208,"I Love Lucy",Comedy,8.5,29998,1951
+tt10802170,"The Rehearsal","Comedy, Documentary",8.5,29187,2022
+tt9398466,"Delhi Crime","Crime, Drama",8.5,27605,2019
+tt16296870,"The Railway Men","Drama, History, Thriller",8.5,26564,2023
+tt0075520,"Jesus of Nazareth","Biography, Drama, History",8.5,26423,1977
+tt1353056,"RuPaul's Drag Race","Game-Show, Reality-TV",8.5,24651,2009
+tt9522300,"Kaguya-sama: Love is War","Animation, Comedy, Romance",8.5,24217,2019
+tt0088727,"Anne of Green Gables","Drama, Family",8.5,23653,1985
+tt0262985,"Queer as Folk","Drama, Romance",8.5,23252,2000
+tt2244495,"The Eric Andre Show","Comedy, Talk-Show",8.5,23205,2012
+tt2674806,"Inside No. 9","Comedy, Crime, Drama",8.5,22428,2014
+tt11407524,"Hostel Daze","Comedy, Drama",8.5,21995,2019
+tt7259746,"Queer Eye",Reality-TV,8.5,21833,2018
+tt0346314,"Ghost in the Shell: Stand Alone Complex","Action, Animation, Crime",8.5,21740,2002
+tt12074628,"Smiling Friends","Animation, Comedy, Short",8.5,21353,2020
+tt0182629,"Rurouni Kenshin","Action, Adventure, Animation",8.5,21292,1996
+tt0397150,"Garth Marenghi's Darkplace","Comedy, Fantasy, Horror",8.5,20967,2004
+tt6005644,"TVF Tripling","Comedy, Drama",8.5,20930,2016
+tt3673794,Kingdom,"Drama, Sport",8.5,20399,2014
+tt2155025,"Please Like Me","Comedy, Drama, Romance",8.5,20207,2013
+tt0047708,"Alfred Hitchcock Presents","Crime, Drama, Mystery",8.5,20024,1955
+tt0493331,"Barareh Nights",Comedy,8.5,19333,2005
+tt26225038,"Death's Game","Drama, Fantasy",8.5,18832,2023
+tt5425186,"Horace and Pete","Comedy, Drama",8.5,17935,2016
+tt0070644,"Scenes from a Marriage",Drama,8.5,17585,1973
+tt4295140,"Chef's Table","Biography, Documentary",8.5,17499,2015
+tt0185133,"Yu Yu Hakusho: Ghost Files","Action, Adventure, Animation",8.5,17273,1992
+tt11691684,"Flower of Evil","Crime, Mystery, Romance",8.5,16804,2020
+tt0131179,"Detective Conan","Action, Animation, Comedy",8.5,16600,1996
+tt1230180,"The Angry Video Game Nerd","Action, Comedy, Fantasy",8.5,16100,2004
+tt6958022,"The Defiant Ones","Biography, Crime, Documentary",8.5,15883,2017
+tt0061287,"The Prisoner","Drama, Mystery, Sci-Fi",8.5,15692,1967
+tt0098825,"House of Cards",Drama,8.5,15478,1990
+tt0807832,Mushi-Shi,"Animation, Drama, Fantasy",8.5,15428,2005
+tt0934320,"Summer Heights High","Comedy, Drama, Family",8.5,15378,2007
+tt11680642,Pantheon,"Action, Adventure, Animation",8.5,15280,2022
+tt22185582,Sixer,"Drama, Sport",8.5,14235,2022
+tt0120570,"From the Earth to the Moon","Action, Drama, History",8.5,14086,1998
+tt26743760,"The Apothecary Diaries","Animation, Drama, History",8.5,13713,2023
+tt0315008,"Great Teacher Onizuka","Animation, Comedy, Drama",8.5,12962,1999
+tt14533970,"The Prince","Comedy, History",8.5,12176,2023
+tt9304350,"Fruits Basket","Animation, Comedy, Drama",8.5,11239,2019
+tt11052470,"Move to Heaven",Drama,8.5,11179,2021
+tt12369754,Staged,"Comedy, Drama",8.5,11162,2020
+tt5332206,Signal,"Crime, Drama, Fantasy",8.5,10679,2016
+tt0062550,"The Bugs Bunny/Road Runner Hour","Animation, Comedy",8.5,10393,1968
+tt2301351,"RuPaul's Drag Race All Stars","Game-Show, Reality-TV",8.5,10377,2012
+tt0475784,Westworld,"Drama, Mystery, Sci-Fi",8.4,547924,2016
+tt1632701,Suits,"Comedy, Drama",8.4,514868,2011
+tt0460681,Supernatural,"Drama, Fantasy, Horror",8.4,511663,2005
+tt2467372,"Brooklyn Nine-Nine","Comedy, Crime",8.4,393845,2013
+tt5675620,"The Punisher","Action, Crime, Drama",8.4,284504,2017
+tt0285403,Scrubs,"Comedy, Drama",8.4,277408,2001
+tt1119644,Fringe,"Drama, Mystery, Sci-Fi",8.4,264022,2008
+tt3920596,"Big Little Lies","Crime, Drama, Mystery",8.4,236124,2017
+tt7221388,"Cobra Kai","Action, Comedy, Drama",8.4,230911,2018
+tt9561862,"Love, Death & Robots","Action, Adventure, Animation",8.4,213965,2019
+tt10155688,"Mare of Easttown","Crime, Drama, Mystery",8.4,204940,2021
+tt0285331,24,"Action, Crime, Drama",8.4,202453,2001
+tt9253284,Andor,"Action, Adventure, Drama",8.4,201856,2022
+tt2401256,"The Night Of","Crime, Drama, Mystery",8.4,182810,2016
+tt0387199,Entourage,"Comedy, Drama",8.4,180291,2004
+tt7657124,"The Heroes","Animation, Drama, History",8.4,170238,2008
+tt8398600,"After Life","Comedy, Drama",8.4,161294,2019
+tt1474684,Luther,"Crime, Drama, Mystery",8.4,159192,2010
+tt0409591,Naruto,"Action, Adventure, Animation",8.4,146876,2002
+tt2017109,Banshee,"Action, Crime, Drama",8.4,135764,2013
+tt0458290,"Star Wars: The Clone Wars","Action, Adventure, Animation",8.4,132014,2008
+tt2149175,"The Americans","Crime, Drama, Mystery",8.4,117412,2013
+tt0491738,Psych,"Comedy, Crime, Mystery",8.4,116160,2006
+tt0118480,"Stargate SG-1","Action, Adventure, Drama",8.4,105000,1997
+tt9059760,"Normal People","Drama, Romance",8.4,104982,2020
+tt2788432,"American Crime Story","Biography, Crime, Drama",8.4,100914,2016
+tt1220617,"The Inbetweeners",Comedy,8.4,97867,2008
+tt0060028,"Star Trek","Action, Adventure, Drama",8.4,96950,1966
+tt6473300,Mirzapur,"Action, Crime, Thriller",8.4,89614,2018
+tt1442462,"The Good Wife","Crime, Drama, Mystery",8.4,86264,2009
+tt4189022,"Ash vs Evil Dead","Action, Comedy, Horror",8.4,82729,2015
+tt1759761,Veep,Comedy,8.4,68268,2012
+tt5249462,Erased,"Animation, Crime, Drama",8.4,66287,2016
+tt0262150,"Black Books",Comedy,8.4,63213,2000
+tt0995832,"Generation Kill","Drama, War",8.4,61925,2008
+tt0925266,"Pushing Daisies","Comedy, Drama, Fantasy",8.4,60834,2007
+tt2384811,Utopia,"Drama, Mystery, Sci-Fi",8.4,53588,2013
+tt0103584,X-Men,"Action, Adventure, Animation",8.4,52403,1992
+tt5743796,Warrior,"Action, Crime, Drama",8.4,50033,2019
+tt11247158,"The Legend of Vox Machina","Action, Adventure, Animation",8.4,48952,2022
+tt0319969,Carnivàle,"Drama, Fantasy, Mystery",8.4,48161,2003
+tt1942683,"The Amazing World of Gumball","Adventure, Animation, Comedy",8.4,47508,2011
+tt1227926,"Dr. Horrible's Sing-Along Blog","Comedy, Musical, Sci-Fi",8.4,44657,2008
+tt1830379,"Top Boy","Crime, Drama, Thriller",8.4,44518,2011
+tt0094582,"The Wonder Years","Comedy, Drama, Family",8.4,42353,1988
+tt7658402,"Harley Quinn","Action, Adventure, Animation",8.4,41022,2019
+tt0056751,"Doctor Who","Adventure, Drama, Family",8.4,40670,1963
+tt0458254,"The Colbert Report","Comedy, News, Talk-Show",8.4,39384,2005
+tt6439752,Snowfall,"Crime, Drama",8.4,39085,2017
+tt0472027,"John Adams","Biography, Drama, History",8.4,38335,2008
+tt0094535,"Red Dwarf","Comedy, Sci-Fi",8.4,38302,1988
+tt0112175,"Spider-Man: The Animated Series","Action, Adventure, Animation",8.4,37581,1994
+tt2578560,"Broad City",Comedy,8.4,37388,2014
+tt2543312,"Halt and Catch Fire",Drama,8.4,36806,2014
+tt0105946,"Babylon 5","Action, Adventure, Drama",8.4,35980,1993
+tt7078180,"Violet Evergarden","Animation, Drama, Family",8.4,34645,2018
+tt13433812,Vincenzo,"Action, Comedy, Crime",8.4,34526,2021
+tt4192812,Unforgotten,"Crime, Drama, Mystery",8.4,34439,2015
+tt14168162,"Bosch: Legacy","Crime, Drama",8.4,34304,2022
+tt1883092,"Generation War","Action, Drama, History",8.4,33990,2013
+tt0478942,"Life on Mars","Crime, Drama, Mystery",8.4,33918,2006
+tt30217403,Dandadan,"Action, Adventure, Animation",8.4,32639,2024
+tt4378376,"Babylon Berlin","Crime, Drama, Thriller",8.4,31874,2017
+tt0826760,"The Killing","Crime, Drama, Mystery",8.4,31308,2007
+tt11301642,Ethos,Drama,8.4,30878,2020
+tt8594324,Ghosts,"Comedy, Fantasy",8.4,30369,2019
+tt6905542,"The Dark Crystal: Age of Resistance","Adventure, Family, Fantasy",8.4,28277,2019
+tt0086659,"'Allo 'Allo!","Comedy, History, War",8.4,28052,1982
+tt6205862,"Inside Look: The People v. O.J. Simpson - American Crime Story","Documentary, Short",8.4,27591,2016
+tt0074028,"The Muppet Show","Comedy, Family, Musical",8.4,27063,1976
+tt0163503,"Top Gear",Documentary,8.4,25289,1978
+tt0416394,"The Mighty Boosh","Comedy, Fantasy, Musical",8.4,24807,2003
+tt0098878,"Northern Exposure","Comedy, Drama",8.4,23393,1990
+tt0235923,"Invader ZIM","Action, Adventure, Animation",8.4,23310,2001
+tt0108872,"My So-Called Life","Comedy, Drama, Romance",8.4,22659,1994
+tt0083466,"Police Squad!","Comedy, Crime",8.4,22182,1982
+tt0408381,"Doc Martin","Comedy, Drama, Romance",8.4,21512,2004
+tt1094229,Heartland,"Drama, Family",8.4,21270,2007
+tt0976192,"The Spectacular Spider-Man","Action, Adventure, Animation",8.4,21180,2008
+tt8681148,"This Is Going to Hurt","Biography, Comedy, Drama",8.4,20465,2022
+tt1734135,"Trollhunters: Tales of Arcadia","Action, Adventure, Animation",8.4,20452,2016
+tt0118266,"The New Batman Adventures","Action, Adventure, Animation",8.4,20289,1997
+tt0066626,"All in the Family","Comedy, Drama",8.4,19735,1971
+tt0075572,Roots,"Biography, Drama, History",8.4,19552,1977
+tt2407574,"My Mad Fat Diary","Comedy, Drama, Romance",8.4,19461,2013
+tt0053479,"The Andy Griffith Show","Comedy, Family",8.4,18046,1960
+tt31510819,MobLand,"Crime, Drama",8.4,17546,2025
+tt1553644,"The Ricky Gervais Show","Animation, Comedy, Talk-Show",8.4,17409,2010
+tt8888462,Pachinko,Drama,8.4,16397,2022
+tt9174582,Brassic,"Comedy, Drama",8.4,16167,2019
+tt20234568,"Weak Hero Class 1","Action, Drama, Thriller",8.4,14888,2022
+tt27867155,"Mr Bates vs. The Post Office","Biography, Drama",8.4,14439,2024
+tt17921714,"A Small Light","Biography, Drama, History",8.4,14365,2023
+tt13409432,"Ranking of Kings","Action, Adventure, Animation",8.4,13900,2021
+tt0924651,"The Graham Norton Show","Comedy, Music, Talk-Show",8.4,13794,2007
+tt24640580,Moving,"Action, Adventure, Fantasy",8.4,13696,2023
+tt0098833,"Jeeves and Wooster",Comedy,8.4,13518,1990
+tt10183988,"Julie and the Phantoms","Adventure, Comedy, Drama",8.4,13098,2020
+tt31123801,"Like There's No Tomorrow","Drama, Romance",8.4,13057,2024
+tt5514358,"Steins;Gate 0","Animation, Drama, Mystery",8.4,13051,2018
+tt0184135,"The League of Gentlemen","Comedy, Horror",8.4,12760,1999
+tt4284216,Healer,"Action, Comedy, Crime",8.4,12568,2014
+tt0054533,"The Dick Van Dyke Show","Comedy, Family",8.4,12541,1961
+tt0161952,"Saint Seiya: Knights of the Zodiac","Action, Adventure, Animation",8.4,11891,1986
+tt0437729,"The Late Late Show with Craig Ferguson","Comedy, Music, Talk-Show",8.4,11715,2005
+tt10324164,"Prehistoric Planet","Animation, Documentary, History",8.4,11506,2022
+tt0096626,"The Kids in the Hall",Comedy,8.4,11405,1988
+tt6461346,Stranger,"Crime, Drama, Mystery",8.4,11166,2017
+tt0112084,"Mr. Show with Bob and David",Comedy,8.4,10856,1995
+tt0092571,"Anne of Avonlea","Drama, Family, Romance",8.4,10634,1987
+tt8146754,"Infinity Train","Action, Adventure, Animation",8.4,10465,2019
+tt0105933,"The Adventures of Pete & Pete","Comedy, Drama, Family",8.4,10342,1992
+tt0428167,Stromberg,Comedy,8.4,10229,2004
+tt0080297,"Tinker Tailor Soldier Spy","Drama, Mystery, Thriller",8.4,10170,1979
+tt2919910,"Whose Line Is It Anyway?","Comedy, Game-Show",8.4,10118,2013
+tt2528254,"This Is England '90","Comedy, Crime, Drama",8.4,10098,2015
+tt0460649,"How I Met Your Mother","Comedy, Drama, Romance",8.3,758994,2005
+tt0411008,Lost,"Adventure, Drama, Fantasy",8.3,640899,2004
+tt0455275,"Prison Break","Action, Crime, Drama",8.3,627301,2005
+tt11198330,"House of the Dragon","Action, Adventure, Drama",8.3,475895,2022
+tt1796960,Homeland,"Crime, Drama, Mystery",8.3,369496,2011
+tt12637874,Fallout,"Action, Adventure, Drama",8.3,313260,2024
+tt5834204,"The Handmaid's Tale","Drama, Sci-Fi, Thriller",8.3,276175,2017
+tt8772296,Euphoria,Drama,8.3,271777,2019
+tt0904208,Californication,"Comedy, Drama",8.3,192006,2007
+tt3006802,Outlander,"Adventure, Drama, Fantasy",8.3,190701,2014
+tt11737520,"One Piece","Action, Adventure, Comedy",8.3,174098,2023
+tt0118276,"Buffy the Vampire Slayer","Action, Adventure, Drama",8.3,167601,1997
+tt3647998,Taboo,"Drama, Mystery, Thriller",8.3,156371,2017
+tt13146488,Peacemaker,"Action, Adventure, Comedy",8.3,148045,2022
+tt1695360,"The Legend of Korra","Action, Adventure, Animation",8.3,145036,2012
+tt0374463,"The Pacific","Action, Adventure, Drama",8.3,138059,2010
+tt0496424,"30 Rock",Comedy,8.3,135208,2006
+tt2249364,Broadchurch,"Crime, Drama, Mystery",8.3,134209,2013
+tt5348176,Barry,"Action, Comedy, Crime",8.3,132912,2018
+tt7909970,Unbelievable,"Crime, Drama",8.3,129275,2019
+tt1637727,"The Killing","Crime, Drama, Mystery",8.3,129057,2011
+tt2699128,"The Leftovers","Drama, Fantasy, Mystery",8.3,121424,2014
+tt2234222,"Orphan Black","Drama, Sci-Fi, Thriller",8.3,120337,2013
+tt4270492,Billions,Drama,8.3,114247,2016
+tt5875444,"Slow Horses","Drama, Thriller",8.3,112471,2022
+tt11337908,Maid,Drama,8.3,111903,2021
+tt12590266,"Cyberpunk: Edgerunners","Action, Adventure, Animation",8.3,103693,2022
+tt8714904,"Narcos: Mexico","Crime, Drama",8.3,97691,2018
+tt2249007,"Ray Donovan","Crime, Drama",8.3,96763,2013
+tt6517102,Castlevania,"Action, Adventure, Animation",8.3,89070,2017
+tt18335752,1923,"Drama, Western",8.3,81691,2022
+tt0412253,"Veronica Mars","Crime, Drama, Mystery",8.3,80365,2004
+tt13616990,"Chainsaw Man","Action, Animation, Comedy",8.3,75512,2022
+tt12327578,"Star Trek: Strange New Worlds","Action, Adventure, Sci-Fi",8.3,64476,2022
+tt0445114,Extras,"Comedy, Drama",8.3,62060,2005
+tt1344204,"Blue Mountain State","Comedy, Sport",8.3,61477,2010
+tt6611916,Kingdom,"Action, Drama, Horror",8.3,59397,2019
+tt1699748,"Hell on Wheels","Drama, Western",8.3,57949,2011
+tt0383126,MythBusters,"Documentary, Mystery, Reality-TV",8.3,55853,2003
+tt0220880,"Courage the Cowardly Dog","Adventure, Animation, Comedy",8.3,54355,1999
+tt15477488,Farzi,"Crime, Drama, Thriller",8.3,50670,2023
+tt13706018,"Spy x Family","Action, Animation, Comedy",8.3,50496,2022
+tt3655448,"The Young Pope",Drama,8.3,49664,2016
+tt0115147,"The Daily Show","Comedy, News, Talk-Show",8.3,48878,1996
+tt1598754,"24: Live Another Day","Action, Crime, Drama",8.3,47436,2014
+tt1466074,Columbo,"Crime, Drama, Mystery",8.3,45031,1971
+tt1836037,Longmire,"Action, Crime, Drama",8.3,42035,2012
+tt0187636,Farscape,"Action, Adventure, Drama",8.3,41729,1999
+tt1416765,Parenthood,"Comedy, Drama",8.3,41134,2010
+tt4644488,"Dragon Ball Super","Action, Adventure, Animation",8.3,41089,2015
+tt4565380,Fauda,"Action, Drama, Thriller",8.3,40659,2015
+tt3636060,Poldark,"Drama, Romance",8.3,37847,2015
+tt4057372,Sugarland,"Animation, Comedy, Family",8.3,36059,2019
+tt0874936,Life,"Crime, Drama, Mystery",8.3,35964,2007
+tt8694364,"Years and Years","Drama, Sci-Fi",8.3,35499,2019
+tt9054904,"Why Women Kill","Comedy, Crime, Drama",8.3,35279,2019
+tt1702042,"An Idiot Abroad","Adventure, Comedy, Documentary",8.3,35110,2010
+tt5853176,"The Good Fight","Crime, Drama",8.3,34236,2017
+tt10244600,"Winning Time: The Rise of the Lakers Dynasty","Biography, Drama, Sport",8.3,30894,2022
+tt8688814,"The Dragon Prince","Action, Adventure, Animation",8.3,30485,2018
+tt8809646,"College Romance","Comedy, Drama, Romance",8.3,29214,2018
+tt2396135,Shetland,"Crime, Drama, Mystery",8.3,29075,2013
+tt0381798,"Rescue Me","Comedy, Drama",8.3,28711,2004
+tt1984119,Feud,"Biography, Drama",8.3,28644,2017
+tt2183404,Rectify,Drama,8.3,28289,2013
+tt3012698,"Olive Kitteridge",Drama,8.3,27681,2014
+tt1981558,"Key and Peele",Comedy,8.3,27613,2012
+tt13623580,"Reservation Dogs","Comedy, Crime",8.3,26700,2021
+tt1409055,"Dragon Ball Z Kai","Action, Adventure, Animation",8.3,26691,2009
+tt0485842,"Studio 60 on the Sunset Strip","Comedy, Drama",8.3,25615,2006
+tt14518756,"Hometown Cha-Cha-Cha","Comedy, Drama, Romance",8.3,24783,2021
+tt0948103,"Gurren Lagann","Action, Adventure, Animation",8.3,23413,2007
+tt0780362,"Jane Eyre","Drama, Romance",8.3,23055,2006
+tt14674086,"Welcome to Wrexham","Documentary, Reality-TV, Sport",8.3,23029,2022
+tt14192814,Kursadzije,"Comedy, Drama",8.3,22504,2006
+tt7765404,Wayne,"Action, Comedy, Drama",8.3,21778,2019
+tt6478318,Masum,"Crime, Drama, Mystery",8.3,21100,2017
+tt8679236,"Who Is America?",Comedy,8.3,20995,2018
+tt21975436,"Kaiju No. 8","Action, Adventure, Animation",8.3,20866,2024
+tt0179552,"The Adventures of Tintin","Action, Adventure, Animation",8.3,19923,1991
+tt11775988,"Operation MBBS","Comedy, Drama",8.3,19460,2020
+tt0160904,MI-5,"Action, Crime, Drama",8.3,19422,2002
+tt0835434,"In Treatment",Drama,8.3,18852,2008
+tt0839188,Metalocalypse,"Animation, Comedy, Music",8.3,18679,2006
+tt11070216,"Dirin Dirin","Animation, Comedy",8.3,18555,2015
+tt13899566,"Special Ops 1.5: The Himmat Story","Action, Crime, Drama",8.3,18197,2021
+tt0088491,"The Bugs Bunny/Looney Tunes Comedy Hour","Animation, Comedy, Family",8.3,18116,1985
+tt7222086,"Made in Abyss","Action, Adventure, Animation",8.3,18109,2017
+tt4277922,"Call My Agent!","Comedy, Drama",8.3,17751,2015
+tt1626038,"The Avengers: Earth's Mightiest Heroes","Action, Adventure, Animation",8.3,17190,2010
+tt1279972,Treme,"Drama, Music",8.3,16431,2010
+tt9892936,"One Hundred Years of Solitude","Drama, Fantasy, History",8.3,16167,2024
+tt1685471,"This Is England '86","Comedy, Crime, Drama",8.3,15171,2010
+tt6157148,"Weightlifting Fairy Kim Bok-Joo","Comedy, Romance",8.3,15090,2016
+tt0103376,Bottom,Comedy,8.3,14788,1991
+tt10975574,Julia,"Biography, Drama",8.3,14048,2022
+tt0361256,Wonderfalls,"Comedy, Drama, Fantasy",8.3,13365,2004
+tt5531466,DuckTales,"Action, Adventure, Animation",8.3,13345,2017
+tt0423661,"Green Wing","Comedy, Drama",8.3,13203,2004
+tt6354518,"The Disastrous Life of Saiki K.","Animation, Comedy, Fantasy",8.3,13118,2016
+tt0050051,"Perry Mason","Crime, Drama, Mystery",8.3,12701,1957
+tt9113406,"Wu-Tang: An American Saga","Biography, Drama, Music",8.3,12524,2019
+tt21030032,"Oshi No Ko","Animation, Drama, Fantasy",8.3,12347,2023
+tt2126154,"This Is England '88","Comedy, Crime, Drama",8.3,12109,2011
+tt8893550,"Car Masters: Rust to Riches",Reality-TV,8.3,11943,2018
+tt2006421,"Gran Hotel","Crime, Drama, History",8.3,11647,2011
+tt1493239,Terriers,"Comedy, Crime, Drama",8.3,11521,2010
+tt6256484,"While You Were Sleeping","Comedy, Drama, Fantasy",8.3,11483,2017
+tt0974077,Cranford,Drama,8.3,11206,2007
+tt12063450,"To Your Eternity","Adventure, Animation, Drama",8.3,11098,2021
+tt0442632,"Bleak House","Crime, Drama",8.3,11061,2005
+tt0362192,"State of Play","Crime, Drama, Mystery",8.3,10881,2003
+tt1634549,Millennium,"Action, Crime, Mystery",8.3,10776,2010
+tt0065314,"The Mary Tyler Moore Show",Comedy,8.3,10752,1970
+tt8050740,Amphibia,"Action, Adventure, Animation",8.3,10498,2019
+tt0101049,"A Bit of Fry and Laurie",Comedy,8.3,10147,1987
+tt1535002,"Between Two Ferns with Zach Galifianakis","Comedy, Short, Talk-Show",8.3,10067,2008
+tt6468322,"Money Heist","Action, Crime, Drama",8.2,570885,2017
+tt9140554,Loki,"Action, Adventure, Fantasy",8.2,443966,2021
+tt7767422,"Sex Education","Comedy, Drama, Romance",8.2,378704,2019
+tt1196946,"The Mentalist","Crime, Drama, Mystery",8.2,211988,2008
+tt4955642,"The Good Place","Comedy, Drama, Fantasy",8.2,206586,2016
+tt31806037,Adolescence,"Crime, Drama, Mystery",8.2,189984,2025
+tt2431438,Sense8,"Drama, Mystery, Sci-Fi",8.2,167603,2015
+tt0238784,"Gilmore Girls","Comedy, Drama",8.2,161542,2000
+tt2632424,"The Originals","Drama, Fantasy, Horror",8.2,154775,2013
+tt0934814,Chuck,"Action, Comedy, Drama",8.2,150932,2007
+tt0212671,"Malcolm in the Middle","Comedy, Family",8.2,149452,2000
+tt1358522,"White Collar","Comedy, Crime, Drama",8.2,149008,2009
+tt7049682,Watchmen,"Crime, Drama, Mystery",8.2,140902,2019
+tt7203552,"The Morning Show",Drama,8.2,139470,2019
+tt2628232,"Penny Dreadful","Drama, Fantasy, Horror",8.2,135486,2014
+tt2375692,"Black Sails","Action, Adventure, Drama",8.2,120995,2014
+tt0206512,"SpongeBob SquarePants","Animation, Comedy, Family",8.2,118921,1999
+tt1548850,Misfits,"Comedy, Drama, Fantasy",8.2,110439,2009
+tt6315640,Atypical,"Comedy, Drama",8.2,109436,2017
+tt0106004,Frasier,Comedy,8.2,99547,1993
+tt1561755,"Bob's Burgers","Animation, Comedy",8.2,97747,2011
+tt0840196,Skins,Drama,8.2,97063,2007
+tt5626028,"My Hero Academia","Action, Adventure, Animation",8.2,92048,2016
+tt5516154,Godless,"Action, Drama, Western",8.2,85798,2017
+tt0434665,Bleach,"Action, Adventure, Animation",8.2,81768,2004
+tt4635276,"Master of None","Comedy, Drama",8.2,77610,2015
+tt9680440,"Paatal Lok","Action, Crime, Drama",8.2,72002,2020
+tt0866442,"Eastbound & Down","Comedy, Drama, Sport",8.2,67230,2009
+tt3487382,Forever,"Crime, Drama, Fantasy",8.2,64370,2014
+tt11712058,"Mayor of Kingstown","Crime, Drama, Thriller",8.2,61122,2021
+tt18923754,"Daredevil: Born Again","Action, Crime, Drama",8.2,59847,2025
+tt3609352,"Grace and Frankie",Comedy,8.2,59593,2015
+tt3358020,"Parasyte: The Maxim","Action, Animation, Drama",8.2,55775,2014
+tt14186672,Landman,Drama,8.2,54784,2024
+tt1480684,"The League","Comedy, Sport",8.2,53365,2009
+tt11815682,Hacks,"Comedy, Drama",8.2,52345,2021
+tt22074164,"Jury Duty",Comedy,8.2,50715,2023
+tt0088526,"The Golden Girls","Comedy, Drama",8.2,50197,1985
+tt6317068,"Final Space","Action, Adventure, Animation",8.2,49943,2018
+tt15469618,"Bad Sisters","Comedy, Drama, Thriller",8.2,49491,2022
+tt13911628,"Lessons in Chemistry",Drama,8.2,49058,2023
+tt14664414,"Young Royals","Drama, Romance",8.2,47693,2021
+tt5574490,"Animal Kingdom","Crime, Drama",8.2,46186,2016
+tt7255502,"The Kominsky Method","Comedy, Drama",8.2,45688,2018
+tt14218830,"Abbott Elementary",Comedy,8.2,44657,2021
+tt3061046,"Steven Universe","Action, Adventure, Animation",8.2,43095,2013
+tt7441658,"Black Clover","Action, Adventure, Animation",8.2,41781,2017
+tt1073507,"Party Down","Comedy, Drama",8.2,38288,2009
+tt0096684,"Quantum Leap","Action, Adventure, Drama",8.2,37938,1989
+tt32252772,"Dexter: Original Sin","Crime, Drama, Mystery",8.2,35803,2024
+tt5137338,Victoria,"Biography, Drama, History",8.2,32510,2016
+tt10405370,"Rogue Heroes","Action, Drama, Thriller",8.2,32183,2022
+tt13138834,Time,"Crime, Drama",8.2,30073,2021
+tt5768632,"Love Doesn't Understand Words","Comedy, Romance",8.2,29772,2016
+tt13293588,"Mushoku Tensei: Jobless Reincarnation","Action, Adventure, Animation",8.2,29053,2021
+tt0495212,"Hellsing Ultimate","Action, Animation, Fantasy",8.2,28992,2006
+tt1235547,"Better Off Ted","Comedy, Sci-Fi",8.2,27930,2009
+tt11639414,"The Midnight Gospel","Adventure, Animation, Comedy",8.2,27768,2020
+tt8531222,Dave,"Comedy, Music",8.2,27005,2020
+tt0908454,"Gavin & Stacey","Comedy, Drama, Romance",8.2,26800,2007
+tt5912064,"Kim's Convenience",Comedy,8.2,26424,2016
+tt4925000,"Descendants of the Sun","Action, Comedy, Drama",8.2,25592,2016
+tt0251439,Trigun,"Action, Adventure, Animation",8.2,25425,1998
+tt1637574,Conan,"Comedy, Music, Talk-Show",8.2,25320,2010
+tt8101850,Undone,"Animation, Drama, Fantasy",8.2,25117,2019
+tt4374208,Catastrophe,Comedy,8.2,24864,2015
+tt9458304,Dororo,"Action, Adventure, Animation",8.2,24630,2019
+tt1844923,"Friday Night Dinner",Comedy,8.2,24161,2011
+tt4592410,"The Get Down","Drama, Music, Musical",8.2,24143,2016
+tt0379632,Hustle,"Crime, Drama, Mystery",8.2,24032,2004
+tt11398870,Caliphate,"Crime, Drama, Thriller",8.2,23641,2020
+tt1693592,Vera,"Crime, Drama, Mystery",8.2,22769,2011
+tt2581458,Looking,"Comedy, Drama, Romance",8.2,22567,2014
+tt6466208,Breathe,"Crime, Drama, Thriller",8.2,22388,2018
+tt0105929,"Absolutely Fabulous",Comedy,8.2,22386,1992
+tt27668559,"Queen of Tears","Comedy, Drama, Romance",8.2,21204,2024
+tt0207275,"The 10th Kingdom","Adventure, Comedy, Family",8.2,21178,2000
+tt0108906,"The Kingdom","Comedy, Drama, Fantasy",8.2,21000,1994
+tt5673782,Genius,"Biography, Drama, History",8.2,20682,2017
+tt8392006,Apharan,"Crime, Thriller",8.2,20450,2018
+tt1660055,"Scooby-Doo! Mystery Incorporated","Adventure, Animation, Comedy",8.2,20257,2010
+tt4687882,Patriot,"Comedy, Drama, Thriller",8.2,19656,2015
+tt0106052,"Late Night with Conan O'Brien","Comedy, Music, Talk-Show",8.2,19413,1993
+tt1091909,"Murdoch Mysteries","Crime, Drama, Mystery",8.2,19130,2008
+tt1988386,"Miss Fisher's Murder Mysteries","Crime, Drama, History",8.2,18475,2012
+tt0983983,"Shaun the Sheep","Animation, Comedy, Family",8.2,18390,2007
+tt1533435,Miranda,Comedy,8.2,18074,2009
+tt3469052,"My Love from Another Star","Comedy, Drama, Fantasy",8.2,18062,2013
+tt13024830,Senna,"Biography, Drama, Sport",8.2,17335,2024
+tt0387736,"Farscape: The Peacekeeper Wars","Action, Adventure, Drama",8.2,17177,2004
+tt0083505,"The Young Ones",Comedy,8.2,17157,1982
+tt0103352,"Are You Afraid of the Dark?","Drama, Fantasy, Horror",8.2,16974,1990
+tt0874608,"Inspector Lewis","Crime, Drama, Mystery",8.2,16772,2006
+tt7211618,"Gentleman Jack","Biography, Drama, History",8.2,16724,2019
+tt3556920,"Wolf Hall","Biography, Drama, History",8.2,16720,2015
+tt2051178,Fate/Zero,"Action, Adventure, Animation",8.2,15970,2011
+tt12759100,"Somebody Somewhere","Comedy, Drama",8.2,15869,2022
+tt1118804,Clannad,"Animation, Comedy, Drama",8.2,15742,2007
+tt5014882,"The Durrells","Biography, Comedy, Drama",8.2,15604,2016
+tt0092379,"Inspector Morse","Crime, Drama, Mystery",8.2,15200,1987
+tt15384586,"Fellow Travelers","Drama, Romance",8.2,15165,2023
+tt9612102,Exit,"Crime, Drama, Thriller",8.2,15115,2019
+tt6494622,"Made in Heaven","Drama, Romance",8.2,14885,2019
+tt0058805,"Get Smart","Action, Adventure, Comedy",8.2,14525,1965
+tt1708446,"Taarak Mehta Ka Ooltah Chashmah","Comedy, Drama, Family",8.2,13981,2008
+tt0098830,"In Living Color","Comedy, Music",8.2,13628,1990
+tt2348803,"Kuroko's Basketball","Animation, Comedy, Sport",8.2,13521,2012
+tt1334722,Baccano!,"Action, Adventure, Animation",8.2,13178,2007
+tt1773185,"Puella Magi Madoka Magica","Action, Adventure, Animation",8.2,12548,2011
+tt15026724,"Our Beloved Summer","Drama, Romance",8.2,12293,2021
+tt0337898,"Law of the Lawless","Action, Crime, Drama",8.2,12249,2002
+tt0346369,"Penn & Teller: Bullshit!","Comedy, Documentary",8.2,12005,2003
+tt0071042,"The Rockford Files","Crime, Drama, Mystery",8.2,11843,1974
+tt2544148,"20 Dakika","Action, Drama, Romance",8.2,11721,2013
+tt31122777,"Say Nothing","Drama, History, Thriller",8.2,11615,2024
+tt0197159,"Home Movies","Animation, Comedy, Drama",8.2,11489,1999
+tt6112556,"Yuri!!! On Ice","Animation, Comedy, Drama",8.2,11412,2016
+tt2432604,"Toast of London",Comedy,8.2,11372,2012
+tt0081873,"Hill Street Blues","Crime, Drama, Mystery",8.2,11232,1981
+tt1178522,"Little Dorrit","Drama, Mystery, Romance",8.2,11057,2008
+tt13718450,86,"Action, Animation, Drama",8.2,10859,2021
+tt13024974,D.P.,"Action, Crime, Drama",8.2,10741,2021
+tt4343334,"For My Son","Crime, Drama",8.2,10679,2015
+tt1138475,"The Guild","Comedy, Short",8.2,10650,2007
+tt20449048,"Feels Like Home",Comedy,8.2,10578,2022
+tt1055238,"Would I Lie to You?","Comedy, Game-Show",8.2,10392,2007
+tt5754602,"4 Blocks","Crime, Drama",8.2,10182,2017
+tt0337792,"Wire in the Blood","Crime, Drama, Mystery",8.2,10128,2002
+tt1520211,"The Walking Dead","Drama, Horror, Thriller",8.1,1141349,2010
+tt0898266,"The Big Bang Theory","Comedy, Romance",8.1,907698,2007
+tt0182576,"Family Guy","Animation, Comedy",8.1,377307,1999
+tt0452046,"Criminal Minds","Crime, Drama, Mystery",8.1,230207,2005
+tt0165598,"That '70s Show","Comedy, Drama, Romance",8.1,194571,1998
+tt11691774,"Only Murders in the Building","Comedy, Crime, Drama",8.1,185847,2021
+tt14688458,Silo,"Drama, Mystery, Sci-Fi",8.1,184539,2023
+tt1219024,Castle,"Comedy, Crime, Drama",8.1,181041,2009
+tt3205802,"How to Get Away with Murder","Crime, Drama, Mystery",8.1,173547,2014
+tt7016936,"Killing Eve","Action, Adventure, Drama",8.1,146385,2018
+tt0203259,"Law & Order: Special Victims Unit","Crime, Drama, Mystery",8.1,136386,1999
+tt2294189,"The Fall","Crime, Drama, Thriller",8.1,126163,2013
+tt4301160,"Black Bird","Biography, Crime, Drama",8.1,125174,2022
+tt2188671,"Bates Motel","Drama, Horror, Mystery",8.1,121680,2013
+tt0092400,"Married... with Children",Comedy,8.1,114874,1987
+tt2879552,11.22.63,"Drama, Mystery, Romance",8.1,109307,2016
+tt5114356,Legion,"Action, Drama, Sci-Fi",8.1,100734,2017
+tt15677150,Shrinking,"Comedy, Drama",8.1,100045,2023
+tt0312172,Monk,"Comedy, Crime, Drama",8.1,98498,2002
+tt24053860,"The Day of the Jackal","Action, Crime, Drama",8.1,97539,2024
+tt0758790,"The Tudors","Drama, History, Romance",8.1,84464,2007
+tt7772588,"For All Mankind","Drama, Sci-Fi",8.1,79344,2019
+tt8690918,"Resident Alien","Comedy, Drama, Mystery",8.1,74865,2021
+tt0106145,"Star Trek: Deep Space Nine","Action, Adventure, Drama",8.1,74189,1993
+tt0374455,"Stargate: Atlantis","Action, Adventure, Drama",8.1,73809,2004
+tt5618256,Manhunt,"Biography, Crime, Drama",8.1,65604,2017
+tt2930604,"Star Wars: Rebels","Action, Adventure, Animation",8.1,63527,2014
+tt0852863,"Phineas and Ferb","Action, Adventure, Animation",8.1,62110,2007
+tt11016042,Ripley,"Crime, Drama, Thriller",8.1,60995,2024
+tt4047038,"Dirk Gently's Holistic Detective Agency","Action, Adventure, Comedy",8.1,60238,2016
+tt4687880,Goliath,Drama,8.1,59744,2016
+tt16283804,"One Day","Comedy, Drama, Romance",8.1,59561,2024
+tt2235759,"The Great","Biography, Comedy, Drama",8.1,59402,2020
+tt1610527,Workaholics,Comedy,8.1,57769,2011
+tt8634332,"The Righteous Gemstones","Comedy, Drama",8.1,56468,2019
+tt3281796,Power,"Crime, Drama",8.1,55774,2014
+tt22014226,"Taaza Khabar","Action, Comedy, Drama",8.1,55683,2023
+tt8788458,"The Promised Neverland","Action, Adventure, Animation",8.1,52843,2019
+tt2887954,"Tokyo Vice","Crime, Drama, Thriller",8.1,52808,2022
+tt2805096,"Chicago P.D.","Action, Crime, Drama",8.1,49051,2014
+tt0105958,"Boy Meets World","Comedy, Drama, Family",8.1,48268,1993
+tt0348913,"Dead Like Me","Comedy, Drama, Fantasy",8.1,45054,2003
+tt2452242,Happy!,"Action, Comedy, Crime",8.1,44649,2017
+tt1615919,"Raising Hope","Comedy, Family",8.1,42151,2010
+tt8749198,"Daisy Jones & The Six","Drama, Music, Romance",8.1,41763,2023
+tt20723374,"Star Wars: Tales of the Jedi","Action, Adventure, Animation",8.1,40255,2022
+tt14524712,Beckham,"Biography, Documentary, Sport",8.1,38735,2023
+tt21344706,"The Glory","Drama, Mystery, Thriller",8.1,37122,2022
+tt7768848,"Wild Wild Country","Crime, Documentary",8.1,36975,2018
+tt2616280,Derek,"Comedy, Drama",8.1,36717,2012
+tt9679542,"Dr. Stone","Action, Adventure, Animation",8.1,34643,2019
+tt1492179,"Strike Back","Action, Drama, Thriller",8.1,34530,2010
+tt6877772,"American Vandal","Comedy, Crime, Drama",8.1,34115,2017
+tt0830361,"The Lost Room","Action, Fantasy, Mystery",8.1,34013,2006
+tt14819828,"Business Proposal","Comedy, Drama, Romance",8.1,33770,2022
+tt4998350,"The Deuce","Crime, Drama, Mystery",8.1,33582,2017
+tt5607616,"Re: Zero - Starting Life in Another World","Adventure, Animation, Drama",8.1,33423,2016
+tt0914387,Damages,"Crime, Drama, Mystery",8.1,32302,2007
+tt0147746,"Batman Beyond","Action, Adventure, Animation",8.1,31883,1999
+tt3877200,"The Missing","Crime, Drama, Mystery",8.1,31558,2014
+tt8332438,ZeroZeroZero,"Crime, Drama, Thriller",8.1,31231,2019
+tt12920838,"The Frog","Crime, Drama, Mystery",8.1,30885,2020
+tt0318997,"Angels in America","Drama, Fantasy, Romance",8.1,30770,2003
+tt3228420,"You're the Worst","Comedy, Drama, Romance",8.1,29186,2014
+tt16867040,"Cunk on Earth",Comedy,8.1,28871,2022
+tt0118298,Daria,"Animation, Comedy, Drama",8.1,28290,1997
+tt3910804,"War & Peace","Drama, History, Romance",8.1,28186,2016
+tt4524056,"Vis a vis","Drama, Thriller",8.1,27847,2015
+tt11204260,"I May Destroy You",Drama,8.1,27343,2020
+tt3502172,"Mozart in the Jungle","Comedy, Drama, Music",8.1,26544,2014
+tt15222080,"Blue Lock","Animation, Sport, Thriller",8.1,25362,2022
+tt0425118,"I Know This Much Is True",Drama,8.1,25265,2020
+tt2543328,"TURN: Washington's Spies","Drama, History, War",8.1,24256,2014
+tt2379308,Psycho-Pass,"Action, Animation, Crime",8.1,24218,2012
+tt0421384,"The Valley of the Wolves","Action, Crime, Drama",8.1,23980,2003
+tt0460690,"The Unit","Action, Drama, Thriller",8.1,23944,2006
+tt5024912,Insecure,"Comedy, Drama, Romance",8.1,23741,2016
+tt0883772,"Man vs. Wild","Adventure, Reality-TV",8.1,23595,2006
+tt8080122,"Godfather of Harlem","Crime, Drama",8.1,23493,2019
+tt2183641,"Ripper Street","Crime, Drama, Mystery",8.1,23379,2012
+tt11239552,"Itaewon Class","Drama, Romance",8.1,22763,2020
+tt6051216,Insider,"Action, Crime, Drama",8.1,22410,2016
+tt12197698,"Leverage: Redemption","Crime, Mystery, Thriller",8.1,21346,2021
+tt7745956,"She-Ra and the Princesses of Power","Action, Adventure, Animation",8.1,20865,2018
+tt0279077,FLCL,"Action, Animation, Comedy",8.1,20837,2000
+tt9095260,"Criminal Justice","Crime, Drama, Mystery",8.1,20713,2019
+tt6263222,"Strong Girl Bong-soon","Comedy, Crime, Drama",8.1,20667,2017
+tt13911284,"Hell's Paradise: Jigokuraku","Action, Adventure, Animation",8.1,20331,2023
+tt9054364,"That Time I Got Reincarnated as a Slime","Action, Adventure, Animation",8.1,19632,2018
+tt5339440,"One Day at a Time","Comedy, Drama",8.1,19170,2017
+tt0115378,"Superman: The Animated Series","Action, Adventure, Animation",8.1,18692,1996
+tt1833285,Boss,"Crime, Drama",8.1,18674,2011
+tt10314462,"Zoey's Extraordinary Playlist","Comedy, Drama, Musical",8.1,18624,2020
+tt1366312,Emma,"Comedy, Drama, Romance",8.1,18614,2009
+tt26315487,Bloodhounds,"Action, Crime, Drama",8.1,18538,2023
+tt11228748,"The King: Eternal Monarch","Fantasy, Mystery, Romance",8.1,18143,2020
+tt0080274,Shogun,"Adventure, Drama, History",8.1,17213,1980
+tt26737616,Pluto,"Action, Animation, Drama",8.1,17154,2023
+tt1913273,"Anohana: The Flower We Saw That Day","Adventure, Animation, Drama",8.1,17150,2011
+tt3305096,Galavant,"Adventure, Comedy, Fantasy",8.1,17088,2015
+tt14466018,"Blue Lights","Crime, Drama, Thriller",8.1,16676,2023
+tt1515193,"The Big C","Comedy, Drama",8.1,16477,2010
+tt0063951,"Sesame Street","Adventure, Animation, Comedy",8.1,16262,1969
+tt10220588,"Hotel Del Luna","Action, Comedy, Drama",8.1,16004,2019
+tt8324422,PEN15,"Comedy, Drama",8.1,15238,2019
+tt27846061,Ludwig,"Comedy, Crime, Drama",8.1,15165,2024
+tt13304700,Snowdrop,"Crime, Drama, Romance",8.1,14714,2021
+tt11822998,"The Trials of Gabriel Fernandez","Crime, Documentary",8.1,14669,2020
+tt5766194,"Legend of the Blue Sea","Comedy, Drama, Fantasy",8.1,14588,2016
+tt0805661,"The Black Donnellys","Crime, Drama",8.1,14535,2007
+tt10691770,"Helluva Boss","Action, Animation, Comedy",8.1,14144,2019
+tt4731072,"Food Wars: Shokugeki no Soma","Animation, Comedy, Drama",8.1,13794,2015
+tt18228732,"Colin from Accounts","Comedy, Drama, Romance",8.1,13728,2022
+tt8523042,Vagabond,"Action, Mystery, Thriller",8.1,13306,2019
+tt22297578,Cat,"Crime, Drama, Thriller",8.1,13301,2022
+tt23037654,"Khakee: The Bihar Chapter","Action, Crime, Drama",8.1,13266,2022
+tt1086191,Outnumbered,"Comedy, Drama",8.1,13050,2007
+tt0816397,"Ouran High School Host Club","Animation, Comedy, Romance",8.1,12703,2006
+tt0088583,"North & South: Book 1, North & South","Drama, History, Romance",8.1,12490,1985
+tt16447750,Maestro,"Crime, Drama, Mystery",8.1,12488,2022
+tt1008108,"Ashes to Ashes","Crime, Drama, Fantasy",8.1,11676,2008
+tt6078096,"High Maintenance","Comedy, Drama",8.1,11305,2016
+tt8026448,"Tacoma FD",Comedy,8.1,11165,2019
+tt6824234,"Fight for My Way","Comedy, Romance",8.1,11116,2017
+tt11761194,"Power Book IV: Force","Crime, Drama",8.1,10858,2022
+tt20873118,"Suzhal - The Vortex","Crime, Drama, Thriller",8.1,10709,2022
+tt1618952,Gönülçelen,"Drama, Music",8.1,10678,2010
+tt1973692,Rita,"Comedy, Drama",8.1,10559,2012
+tt7889220,"Dirty Money","Crime, Documentary",8.1,10515,2018
+tt2582590,Vicious,Comedy,8.1,10449,2013
+tt8515016,"Banana Fish","Action, Adventure, Animation",8.1,10228,2018
+tt0384746,"Kenny vs. Spenny","Comedy, Game-Show, Reality-TV",8.1,10097,2002
+tt10919420,"Squid Game","Action, Drama, Mystery",8,662801,2021
+tt13443470,Wednesday,"Comedy, Crime, Fantasy",8,415971,2022
+tt4052886,Lucifer,"Crime, Drama, Fantasy",8,375495,2016
+tt2372162,"Orange Is the New Black","Comedy, Crime, Drama",8,328872,2013
+tt13406094,"The White Lotus","Comedy, Drama",8,275969,2021
+tt9288030,Reacher,"Action, Crime, Drama",8,263951,2022
+tt6257970,"The End of the F***ing World","Adventure, Comedy, Crime",8,235211,2017
+tt5057054,"Tom Clancy's Jack Ryan","Action, Drama, Thriller",8,184909,2018
+tt13210838,"The Gentlemen","Action, Comedy, Crime",8,161987,2024
+tt7493974,Bodyguard,"Crime, Drama, Thriller",8,160748,2018
+tt14403178,Beef,"Comedy, Drama",8,151525,2023
+tt1235099,"Lie to Me","Crime, Drama, Mystery",8,131718,2009
+tt2649356,"Sharp Objects","Crime, Drama, Mystery",8,129159,2018
+tt6470478,"The Good Doctor",Drama,8,122821,2017
+tt14164730,"Dexter: New Blood","Crime, Drama, Mystery",8,120740,2021
+tt1869454,"Good Omens","Comedy, Drama, Fantasy",8,118894,2019
+tt1399664,"The Night Manager","Crime, Drama, Mystery",8,110769,2016
+tt5691552,"The Orville","Adventure, Comedy, Drama",8,105052,2017
+tt16358384,"Tulsa King","Crime, Drama",8,98140,2022
+tt7587890,"The Rookie","Action, Crime, Drama",8,98052,2018
+tt9815454,Unorthodox,Drama,8,96437,2020
+tt0810788,"Burn Notice","Action, Crime, Drama",8,81112,2007
+tt17491088,"The Diplomat","Drama, Thriller",8,80222,2023
+tt12411074,Paranormal,"Drama, Fantasy, Horror",8,75137,2020
+tt5651844,Travelers,"Drama, Mystery, Sci-Fi",8,68859,2016
+tt2261391,"Chicago Fire","Action, Drama",8,68795,2012
+tt24069848,"American Primeval","Action, Drama, Thriller",8,68666,2025
+tt11318602,"Don't F**k with Cats: Hunting an Internet Killer","Crime, Documentary, Mystery",8,66092,2019
+tt0083399,Cheers,"Comedy, Drama",8,65087,1982
+tt0072562,"Saturday Night Live","Comedy, Music",8,55595,1975
+tt5770786,GLOW,"Comedy, Drama, Sport",8,52740,2017
+tt7661390,"Gangs of London","Action, Crime, Drama",8,48400,2020
+tt9244578,"Rise of Empires: Ottoman","Documentary, Drama, History",8,42982,2020
+tt4326894,"F Is for Family","Animation, Comedy, Drama",8,42914,2015
+tt2712740,"The Goldbergs",Comedy,8,42681,2013
+tt0084988,Blackadder,Comedy,8,42525,1982
+tt5011816,"Sneaky Pete","Comedy, Crime, Drama",8,42498,2015
+tt4406178,"The Gilded Age",Drama,8,41989,2022
+tt6873658,"The Mechanism","Crime, Drama, Thriller",8,36956,2018
+tt0092345,DuckTales,"Action, Adventure, Animation",8,36419,1987
+tt1064899,"Queen of the South","Action, Crime, Drama",8,36251,2016
+tt3766376,"Vice Principals",Comedy,8,35135,2016
+tt1453159,"The Pillars of the Earth","Drama, Romance, Thriller",8,34454,2010
+tt6586318,"Patrick Melrose",Drama,8,34076,2018
+tt4643084,Counterpart,"Drama, Sci-Fi, Thriller",8,32826,2017
+tt12682218,"Scenes from a Marriage",Drama,8,31753,2021
+tt11639952,"Young Rock","Biography, Comedy",8,30719,2021
+tt0096708,"Tales from the Crypt","Comedy, Crime, Fantasy",8,28428,1989
+tt8201186,"The Capture","Crime, Mystery, Thriller",8,26376,2019
+tt6792200,"The Keepers","Crime, Documentary, Mystery",8,26332,2017
+tt3561180,Trapped,"Crime, Drama, Mystery",8,26010,2015
+tt1001482,"United States of Tara","Comedy, Drama, Romance",8,25855,2009
+tt0086817,"The Transformers","Action, Adventure, Animation",8,24590,1984
+tt0370194,"Reno 911!","Comedy, Crime",8,24303,2003
+tt10050772,"I Think You Should Leave with Tim Robinson",Comedy,8,23776,2019
+tt4051832,Lovesick,Comedy,8,23479,2014
+tt10166602,"Love, Victor","Comedy, Drama, Romance",8,23396,2020
+tt27713897,Arnold,"Biography, Documentary",8,23248,2023
+tt0057729,"The Addams Family","Comedy, Family, Horror",8,22896,1964
+tt3837246,"Assasination Classroom","Animation, Comedy, Family",8,22662,2013
+tt8242904,"What's Wrong with Secretary Kim","Comedy, Mystery, Romance",8,22233,2018
+tt2521668,"The Returned","Drama, Fantasy, Horror",8,21776,2012
+tt7375404,Kidding,"Comedy, Drama",8,20834,2018
+tt8993398,"Rascal Does Not Dream of Bunny Girl Senpai","Animation, Drama, Fantasy",8,20467,2018
+tt13274038,"True Beauty","Comedy, Drama, Romance",8,20214,2020
+tt7157248,"The New Pope",Drama,8,19769,2020
+tt0377260,Shameless,"Comedy, Crime, Drama",8,19724,2004
+tt0500092,"Serial Experiments Lain","Animation, Drama, Horror",8,19681,1998
+tt13103134,Horimiya,"Animation, Comedy, Drama",8,19489,2021
+tt0108783,Gargoyles,"Action, Adventure, Animation",8,19446,1994
+tt0241088,"Da Ali G Show",Comedy,8,18693,2000
+tt6474236,"The Looming Tower","Drama, History",8,18517,2018
+tt4384086,"Life in Pieces",Comedy,8,18196,2015
+tt0112095,NewsRadio,"Comedy, Romance",8,18117,1995
+tt7649694,Ramy,"Comedy, Drama, Romance",8,17352,2019
+tt13444408,Kin,"Crime, Drama",8,17297,2021
+tt12867810,Start-Up,"Comedy, Drama, Romance",8,17044,2020
+tt6162588,"Brave and Beautiful","Drama, Romance",8,16741,2016
+tt0108981,"The Vicar of Dibley",Comedy,8,16322,1994
+tt0985344,Claymore,"Action, Adventure, Animation",8,16174,2007
+tt5797194,W,"Action, Comedy, Drama",8,16145,2016
+tt3829868,"Looking for Alaska","Drama, Romance",8,15632,2019
+tt4445154,"Deutschland 83","Drama, Romance, Thriller",8,15602,2015
+tt0433722,"Paranoia Agent","Animation, Drama, Horror",8,15474,2004
+tt2980696,Quarry,"Crime, Drama, Thriller",8,14900,2016
+tt18926162,Tomorrow,"Action, Comedy, Drama",8,14899,2022
+tt22373148,"Karm Yuddh",Drama,8,14885,2022
+tt14479078,Candy,Thriller,8,14740,2021
+tt15282746,"Drops of God",Drama,8,14739,2023
+tt20285780,"The Artful Dodger","Crime, Drama, History",8,14585,2023
+tt2548418,"Jonathan Strange & Mr Norrell","Fantasy, War",8,14506,2015
+tt10982034,Trying,"Comedy, Drama, Romance",8,14090,2020
+tt4452630,"Code Black",Drama,8,13901,2015
+tt2314952,"Comedians in Cars Getting Coffee","Comedy, Family, Talk-Show",8,13899,2012
+tt9778022,Abhay,"Crime, Thriller",8,13709,2019
+tt0847150,"Sense & Sensibility","Drama, Romance",8,13567,2008
+tt23649128,"The Studio","Comedy, Drama",8,13480,2025
+tt13273826,"The Uncanny Counter","Action, Fantasy, Horror",8,13405,2020
+tt11147852,Dorohedoro,"Action, Animation, Comedy",8,13328,2020
+tt9022422,"The Tattooist of Auschwitz","Drama, History, Romance",8,12539,2024
+tt0772145,"Wolverine and the X-Men","Action, Adventure, Animation",8,12501,2008
+tt4877736,BrainDead,"Comedy, Drama, Horror",8,12484,2016
+tt5332732,Shahrzad,"Drama, History, Romance",8,12412,2015
+tt0294097,"Harvey Birdman, Attorney at Law","Animation, Comedy, Sci-Fi",8,12403,2000
+tt4855114,"Good Behavior","Crime, Drama, Mystery",8,12343,2016
+tt15392100,"The Billion Dollar Code","Biography, Crime, Drama",8,12201,2021
+tt1778108,"The Hour",Drama,8,12140,2011
+tt16227240,"The Great Weddings of Munnes","Comedy, Drama",8,12105,2022
+tt0081874,"The Hitch Hiker's Guide to the Galaxy","Adventure, Comedy, Sci-Fi",8,12080,1981
+tt0197182,"Third Watch","Action, Crime, Drama",8,11986,1999
+tt0077097,"WKRP in Cincinnati",Comedy,8,11935,1978
+tt14599438,"Jeen-yuhs: A Kanye Trilogy","Documentary, Music",8,11855,2022
+tt1843678,"Scott & Bailey","Crime, Drama, Mystery",8,11721,2011
+tt6905756,"Pagan Peak","Crime, Drama, Mystery",8,11552,2018
+tt19072562,"Kaala Paani","Drama, Thriller",8,11226,2023
+tt31183656,"Maamla Legal Hai","Comedy, Drama",8,11161,2024
+tt6554240,Heels,"Drama, Sport",8,10879,2021
+tt0118475,Spawn,"Action, Adventure, Animation",8,10860,1997
+tt21621494,"Delicious in Dungeon","Adventure, Animation, Comedy",8,10594,2024
+tt5580664,"Voltron: Legendary Defender","Action, Adventure, Animation",8,10356,2016
+tt8005374,Explained,Documentary,8,10191,2018
+tt8078816,"Something in the Rain","Drama, Romance",8,10020,2018
+tt5180504,"The Witcher","Action, Adventure, Drama",7.9,595375,2019
+tt9140560,WandaVision,"Action, Comedy, Drama",7.9,395737,2021
+tt1844624,"American Horror Story","Drama, Horror, Sci-Fi",7.9,354558,2011
+tt2741602,"The Blacklist","Crime, Drama, Mystery",7.9,290131,2013
+tt0844441,"True Blood","Drama, Fantasy, Mystery",7.9,266001,2008
+tt2261227,"Altered Carbon","Action, Adventure, Drama",7.9,196627,2018
+tt0098800,"The Fresh Prince of Bel-Air",Comedy,7.9,149175,1990
+tt1830617,Grimm,"Crime, Drama, Fantasy",7.9,135846,2011
+tt15567174,"The Fall of the House of Usher","Drama, Horror, Mystery",7.9,125607,2023
+tt2191671,Elementary,"Crime, Drama, Mystery",7.9,123268,2012
+tt0439100,Weeds,"Comedy, Crime, Drama",7.9,119722,2005
+tt1740299,"The Man in the High Castle","Drama, Sci-Fi, Thriller",7.9,117231,2015
+tt11743610,"The Terminal List","Action, Drama, Thriller",7.9,114838,2022
+tt8064302,"Dead to Me","Comedy, Crime, Drama",7.9,105860,2019
+tt1199099,Merlin,"Adventure, Drama, Fantasy",7.9,90305,2008

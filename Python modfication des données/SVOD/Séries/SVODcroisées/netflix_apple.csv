@@ -1,0 +1,13 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://tv.apple.com/fr/show/avatar--le-dernier-maitre-de-lair/umc.cmc.4d38ljozi439j6g8e5m5o2bv5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12,AppleTV+,Tout public,"'us', 'kr'"
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://www.netflix.com/title/70142405,Netflix,10+,"'us', 'kr'"
+tt4236770,Yellowstone,tvSeries,"Drama, Western",8.6,275341.0,2018.0,ts75269,4.0,10,https://www.netflix.com/title/80238738,Netflix,16+,'us'
+tt4236770,Yellowstone,tvSeries,"Drama, Western",8.6,275341.0,2018.0,ts75269,4.0,10,https://tv.apple.com/fr/show/yellowstone/umc.cmc.2bnarwrthyaosxk1pkoefxzj0?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12,AppleTV+,-18,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://www.netflix.com/title/81559259,Netflix,16+,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://tv.apple.com/fr/show/1883/umc.cmc.gxgct57pgpxpqf5mre94zzhs?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12,AppleTV+,-12,'us'
+tt0244365,Star Trek: Enterprise,tvSeries,"Action, Adventure, Drama",7.5,61859.0,2001.0,ts21605,4.0,tous publics,https://tv.apple.com/fr/show/star-trek-enterprise/umc.cmc.10fdo1qpaj8u46zk0bo082gc7?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12,AppleTV+,Tout public,'us'
+tt0244365,Star Trek: Enterprise,tvSeries,"Action, Adventure, Drama",7.5,61859.0,2001.0,ts21605,4.0,tous publics,https://www.netflix.com/title/70158332,Netflix,16+,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://www.netflix.com/title/70172485,Netflix,7+,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://tv.apple.com/fr/show/victorious/umc.cmc.699wwdt8u14mpeopic3bt0rs5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12,AppleTV+,-10,'us'
+tt8388390,Chucky,tvSeries,"Comedy, Drama, Horror",7.2,30467.0,2021.0,ts233459,4.0,7,https://tv.apple.com/fr/show/chucky/umc.cmc.63hzng89uclwulhqwja10pz7n?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12,AppleTV+,-16,"'ca', 'us'"
+tt8388390,Chucky,tvSeries,"Comedy, Drama, Horror",7.2,30467.0,2021.0,ts233459,4.0,7,https://www.netflix.com/title/81570912,Netflix,16+,"'ca', 'us'"

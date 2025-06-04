@@ -1,0 +1,1501 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw
+tt0944947,Game of Thrones,tvSeries,"Action, Adventure, Drama",9.2,2433876.0,2011.0,ts2
+tt0903747,Breaking Bad,tvSeries,"Crime, Drama, Thriller",9.5,2331384.0,2008.0,ts4
+tt4574334,Stranger Things,tvSeries,"Drama, Fantasy, Horror",8.6,1446016.0,2016.0,ts38796
+tt0108778,Friends,tvSeries,"Comedy, Romance",8.9,1144541.0,1994.0,ts21698
+tt1520211,The Walking Dead,tvSeries,"Drama, Horror, Thriller",8.1,1142193.0,2010.0,ts9
+tt1475582,Sherlock,tvSeries,"Crime, Drama, Mystery",9.0,1048301.0,2010.0,ts21538
+tt7366338,Chernobyl,tvMiniSeries,"Drama, History, Thriller",9.3,949728.0,2019.0,ts88632
+tt0898266,The Big Bang Theory,tvSeries,"Comedy, Romance",8.1,908002.0,2007.0,ts12
+tt0773262,Dexter,tvSeries,"Crime, Drama, Mystery",8.6,843967.0,2006.0,ts10620
+tt1190634,The Boys,tvSeries,"Action, Comedy, Crime",8.6,777469.0,2019.0,ts78125
+tt0386676,The Office,tvSeries,Comedy,9.0,775241.0,2005.0,ts21621
+tt0460649,How I Met Your Mother,tvSeries,"Comedy, Drama, Romance",8.3,759250.0,2005.0,ts21483
+tt3032476,Better Call Saul,tvSeries,"Crime, Drama",9.0,732065.0,2015.0,ts8
+tt2442560,Peaky Blinders,tvSeries,"Crime, Drama",8.7,711860.0,2013.0,ts20110
+tt2356777,True Detective,tvSeries,"Crime, Drama, Mystery",8.9,703173.0,2014.0,ts20054
+tt2085059,Black Mirror,tvSeries,"Crime, Drama, Mystery",8.7,693782.0,2011.0,ts278
+tt3581920,The Last of Us,tvSeries,"Action, Adventure, Drama",8.6,656337.0,2023.0,ts226904
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233
+tt0411008,Lost,tvSeries,"Adventure, Drama, Fantasy",8.3,641221.0,2004.0,ts21848
+tt0455275,Prison Break,tvSeries,"Action, Crime, Drama",8.3,627772.0,2005.0,ts21422
+tt8111088,The Mandalorian,tvSeries,"Action, Adventure, Fantasy",8.6,625351.0,2019.0,ts84392
+tt10048342,The Queen's Gambit,tvMiniSeries,Drama,8.5,617462.0,2020.0,ts89259
+tt2306299,Vikings,tvSeries,"Action, Adventure, Drama",8.5,617302.0,2013.0,ts22413
+tt2560140,Attack on Titan,tvSeries,"Action, Adventure, Animation",9.1,610714.0,2013.0,ts20682
+tt5180504,The Witcher,tvSeries,"Action, Adventure, Drama",7.9,595564.0,2019.0,ts57327
+tt6468322,Money Heist,tvSeries,"Action, Crime, Drama",8.2,571214.0,2017.0,ts56768
+tt0185906,Band of Brothers,tvMiniSeries,"Action, Drama, History",9.4,562005.0,2001.0,ts17149
+tt0412142,House,tvSeries,"Drama, Mystery",8.7,558518.0,2004.0,ts22280
+tt0475784,Westworld,tvSeries,"Drama, Mystery, Sci-Fi",8.4,548044.0,2016.0,ts36416
+tt1856010,House of Cards,tvSeries,Drama,8.6,546925.0,2013.0,ts24149
+tt0141842,The Sopranos,tvSeries,"Crime, Drama",9.2,524810.0,1999.0,ts20995
+tt1442437,Modern Family,tvSeries,"Comedy, Drama, Romance",8.5,516082.0,2009.0,ts20605
+tt1632701,Suits,tvSeries,"Comedy, Drama",8.4,515289.0,2011.0,ts22277
+tt0460681,Supernatural,tvSeries,"Drama, Fantasy, Horror",8.4,511939.0,2005.0,ts21465
+tt3322312,Daredevil,tvSeries,"Action, Crime, Drama",8.6,505792.0,2015.0,ts21903
+tt2707408,Narcos,tvSeries,"Biography, Crime, Drama",8.7,501151.0,2015.0,ts36631
+tt5753856,Dark,tvSeries,"Crime, Drama, Mystery",8.7,491627.0,2017.0,ts55668
+tt11198330,House of the Dragon,tvSeries,"Action, Adventure, Drama",8.3,476235.0,2022.0,ts222558
+tt2193021,Arrow,tvSeries,"Action, Adventure, Crime",7.5,454174.0,2012.0,ts17598
+tt0096697,The Simpsons,tvSeries,"Animation, Comedy",8.6,453543.0,1989.0,ts20711
+tt2802850,Fargo,tvSeries,"Crime, Drama, Thriller",8.8,444888.0,2014.0,ts8345
+tt9140554,Loki,tvSeries,"Action, Adventure, Fantasy",8.2,444297.0,2021.0,ts86474
+tt4158110,Mr. Robot,tvSeries,"Crime, Drama, Thriller",8.5,441171.0,2015.0,ts35476
+tt0877057,Death Note,tvSeries,"Animation, Crime, Drama",8.9,425414.0,2006.0,ts11313
+tt7631058,The Lord of the Rings: The Rings of Power,tvSeries,"Action, Adventure, Drama",6.9,425217.0,2022.0,ts325752
+tt0121955,South Park,tvSeries,"Animation, Comedy",8.7,422746.0,1997.0,ts21792
+tt13443470,Wednesday,tvSeries,"Comedy, Crime, Fantasy",8.0,416742.0,2022.0,ts274631
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993
+tt0306414,The Wire,tvSeries,"Crime, Drama, Thriller",9.3,403330.0,2002.0,ts22047
+tt10986410,Ted Lasso,tvSeries,"Comedy, Drama, Sport",8.8,400684.0,2020.0,ts224087
+tt9140560,WandaVision,tvMiniSeries,"Action, Comedy, Drama",7.9,396101.0,2021.0,ts86795
+tt11126994,Arcane,tvSeries,"Action, Adventure, Animation",9.0,395339.0,2021.0,ts222333
+tt2467372,Brooklyn Nine-Nine,tvSeries,"Comedy, Crime",8.4,394037.0,2013.0,ts11174
+tt7767422,Sex Education,tvSeries,"Comedy, Drama, Romance",8.2,378893.0,2019.0,ts82915
+tt0182576,Family Guy,tvSeries,"Animation, Comedy",8.1,377464.0,1999.0,ts3
+tt3107288,The Flash,tvSeries,"Action, Adventure, Drama",7.5,376981.0,2014.0,ts11188
+tt4052886,Lucifer,tvSeries,"Crime, Drama, Fantasy",8.0,375645.0,2016.0,ts36147
+tt5071412,Ozark,tvSeries,"Crime, Drama, Thriller",8.5,370020.0,2017.0,ts53864
+tt1796960,Homeland,tvSeries,"Crime, Drama, Mystery",8.3,369549.0,2011.0,ts10
+tt0098904,Seinfeld,tvSeries,Comedy,8.9,368875.0,1989.0,ts20681
+tt5290382,Mindhunter,tvSeries,"Crime, Drama, Mystery",8.6,367537.0,2017.0,ts42405
+tt0413573,Grey's Anatomy,tvSeries,"Drama, Romance",7.6,359594.0,2005.0,ts21469
+tt1844624,American Horror Story,tvSeries,"Drama, Horror, Sci-Fi",7.9,354626.0,2011.0,ts5746
+tt1124373,Sons of Anarchy,tvSeries,"Crime, Drama, Thriller",8.5,340212.0,2008.0,ts22085
+tt7335184,You,tvSeries,"Crime, Drama, Romance",7.7,336918.0,2018.0,ts79813
+tt0367279,Arrested Development,tvSeries,Comedy,8.6,334767.0,2003.0,ts17156
+tt2372162,Orange Is the New Black,tvSeries,"Comedy, Crime, Drama",8.0,328947.0,2013.0,ts20823
+tt1837492,13 Reasons Why,tvSeries,"Drama, Mystery, Thriller",7.4,328734.0,2017.0,ts42294
+tt7660850,Succession,tvSeries,"Comedy, Drama",8.8,317339.0,2018.0,ts77979
+tt11280740,Severance,tvSeries,"Drama, Mystery, Sci-Fi",8.7,316756.0,2022.0,ts320458
+tt14392248,Aspirants,tvSeries,Drama,9.2,315616.0,2021.0,ts287363
+tt12637874,Fallout,tvSeries,"Action, Adventure, Drama",8.3,314330.0,2024.0,ts265779
+tt1586680,Shameless,tvSeries,"Comedy, Drama",8.5,311018.0,2011.0,ts22329
+tt6763664,The Haunting of Hill House,tvMiniSeries,"Drama, Horror, Mystery",8.5,309942.0,2018.0,ts58433
+tt1312171,The Umbrella Academy,tvSeries,"Action, Adventure, Comedy",7.8,303758.0,2019.0,ts76645
+tt1439629,Community,tvSeries,Comedy,8.5,303410.0,2009.0,ts8308
+tt1266020,Parks and Recreation,tvSeries,Comedy,8.6,302909.0,2009.0,ts20632
+tt0388629,One Piece,tvSeries,"Action, Adventure, Animation",8.9,297232.0,1999.0,ts255424
+tt10234724,Moon Knight,tvMiniSeries,"Action, Adventure, Fantasy",7.3,292468.0,2022.0,ts219003
+tt2243973,Hannibal,tvSeries,"Crime, Drama, Horror",8.5,292322.0,2013.0,ts20142
+tt2661044,The 100,tvSeries,"Action, Drama, Sci-Fi",7.5,291439.0,2014.0,ts8146
+tt0303461,Firefly,tvSeries,"Adventure, Drama, Sci-Fi",8.9,290794.0,2002.0,ts2817
+tt2741602,The Blacklist,tvSeries,"Crime, Drama, Mystery",7.9,290328.0,2013.0,ts1639
+tt0369179,Two and a Half Men,tvSeries,"Comedy, Romance",7.1,289851.0,2003.0,ts21924
+tt5675620,The Punisher,tvSeries,"Action, Crime, Drama",8.4,284738.0,2017.0,ts43178
+tt0285403,Scrubs,tvSeries,"Comedy, Drama",8.4,277487.0,2001.0,ts21608
+tt13406094,The White Lotus,tvSeries,"Comedy, Drama",8.0,277239.0,2021.0,ts256052
+tt5834204,The Handmaid's Tale,tvSeries,"Drama, Sci-Fi, Thriller",8.3,276936.0,2017.0,ts53559
+tt4236770,Yellowstone,tvSeries,"Drama, Western",8.6,275341.0,2018.0,ts75269
+tt0804503,Mad Men,tvSeries,Drama,8.7,275165.0,2007.0,ts22013
+tt6741278,Invincible,tvSeries,"Action, Adventure, Animation",8.7,275086.0,2021.0,ts281929
+tt8772296,Euphoria,tvSeries,Drama,8.3,272017.0,2019.0,ts87074
+tt0149460,Futurama,tvSeries,"Adventure, Animation, Comedy",8.5,271125.0,1999.0,ts304342
+tt4786824,The Crown,tvSeries,"Biography, Drama, History",8.6,270246.0,2016.0,ts42069
+tt14452776,The Bear,tvSeries,"Comedy, Drama",8.5,269695.0,2022.0,ts314106
+tt9208876,The Falcon and the Winter Soldier,tvMiniSeries,"Action, Adventure, Drama",7.1,267620.0,2021.0,ts89898
+tt1442449,Spartacus,tvSeries,"Action, Adventure, Biography",8.5,266672.0,2010.0,ts21527
+tt0844441,True Blood,tvSeries,"Drama, Fantasy, Mystery",7.9,266081.0,2008.0,ts20566
+tt0472954,It's Always Sunny in Philadelphia,tvSeries,Comedy,8.8,265999.0,2005.0,ts21546
+tt9288030,Reacher,tvSeries,"Action, Crime, Drama",8.0,264671.0,2022.0,ts314375
+tt1119644,Fringe,tvSeries,"Drama, Mystery, Sci-Fi",8.4,264068.0,2008.0,ts20536
+tt0106179,The X-Files,tvSeries,"Adventure, Crime, Drama",8.6,262473.0,1993.0,ts20974
+tt0436992,Doctor Who,tvSeries,"Adventure, Drama, Sci-Fi",8.5,257156.0,2005.0,ts422861
+tt0813715,Heroes,tvSeries,"Crime, Drama, Fantasy",7.5,256395.0,2006.0,ts20598
+tt1826940,New Girl,tvSeries,"Comedy, Romance",7.8,255500.0,2011.0,ts20564
+tt8466564,Obi-Wan Kenobi,tvMiniSeries,"Action, Adventure, Sci-Fi",7.0,248426.0,2022.0,ts219048
+tt3749900,Gotham,tvSeries,"Action, Crime, Drama",7.8,247102.0,2014.0,ts20292
+tt1843230,Once Upon a Time,tvSeries,"Adventure, Fantasy, Romance",7.7,242908.0,2011.0,ts20630
+tt3920596,Big Little Lies,tvSeries,"Crime, Drama, Mystery",8.4,236221.0,2017.0,ts41275
+tt6257970,The End of the F***ing World,tvSeries,"Adventure, Comedy, Crime",8.0,235310.0,2017.0,ts76243
+tt1606375,Downton Abbey,tvSeries,"Drama, Romance",8.7,234747.0,2010.0,ts11
+tt2357547,Jessica Jones,tvSeries,"Action, Crime, Drama",7.8,233654.0,2015.0,ts35811
+tt0098936,Twin Peaks,tvSeries,"Crime, Drama, Mystery",8.7,231687.0,1990.0,ts86729
+tt7221388,Cobra Kai,tvSeries,"Action, Comedy, Drama",8.4,231030.0,2018.0,ts78801
+tt2364582,Agents of S.H.I.E.L.D.,tvSeries,"Action, Adventure, Drama",7.5,230915.0,2013.0,ts5
+tt10160804,Hawkeye,tvMiniSeries,"Action, Adventure, Crime",7.4,230416.0,2021.0,ts89837
+tt0795176,Planet Earth,tvMiniSeries,"Documentary, Family",9.4,227396.0,2006.0,ts20504
+tt5687612,Fleabag,tvSeries,"Comedy, Drama",8.7,227031.0,2016.0,ts42047
+tt1355642,Fullmetal Alchemist: Brotherhood,tvSeries,"Action, Adventure, Animation",9.1,221175.0,2009.0,ts21482
+tt2788316,Shōgun,tvSeries,"Action, Adventure, Drama",8.6,216910.0,2024.0,ts416258
+tt9561862,"Love, Death & Robots",tvSeries,"Action, Adventure, Animation",8.4,214567.0,2019.0,ts88361
+tt9253284,Andor,tvSeries,"Action, Adventure, Drama",8.5,212137.0,2022.0,ts85391
+tt1196946,The Mentalist,tvSeries,"Crime, Drama, Mystery",8.2,212111.0,2008.0,ts21218
+tt0979432,Boardwalk Empire,tvSeries,"Crime, Drama",8.6,211217.0,2010.0,ts14772
+tt3398228,BoJack Horseman,tvSeries,"Animation, Comedy, Drama",8.8,210233.0,2014.0,ts14583
+tt4955642,The Good Place,tvSeries,"Comedy, Drama, Fantasy",8.2,206730.0,2016.0,ts41766
+tt0397442,Gossip Girl,tvSeries,"Drama, Romance",7.5,206135.0,2007.0,ts288382
+tt8740790,Bridgerton,tvSeries,"Drama, Romance",7.4,204548.0,2020.0,ts216679
+tt0285331,24,tvSeries,"Action, Crime, Drama",8.4,202505.0,2001.0,ts7688
+tt4508902,One Punch Man,tvSeries,"Action, Animation, Comedy",8.7,201791.0,2015.0,ts37539
+tt10857160,She-Hulk: Attorney at Law,tvMiniSeries,"Action, Adventure, Comedy",5.1,200883.0,2022.0,ts246110
+tt13668894,The Book of Boba Fett,tvMiniSeries,"Action, Adventure, Sci-Fi",7.1,199798.0,2021.0,ts270001
+tt1839578,Person of Interest,tvSeries,"Action, Crime, Drama",8.5,198100.0,2011.0,ts21302
+tt0988824,Naruto: Shippuden,tvSeries,"Action, Adventure, Animation",8.7,198027.0,2007.0,ts22069
+tt2261227,Altered Carbon,tvSeries,"Action, Adventure, Drama",7.9,196665.0,2018.0,ts54102
+tt0384766,Rome,tvSeries,"Action, Drama, Romance",8.7,195062.0,2005.0,ts22363
+tt15435876,The Penguin,tvMiniSeries,"Crime, Drama",8.6,194788.0,2024.0,ts341776
+tt0165598,That '70s Show,tvSeries,"Comedy, Drama, Romance",8.1,194627.0,1998.0,ts22124
+tt31806037,Adolescence,tvMiniSeries,"Crime, Drama, Mystery",8.2,193485.0,2025.0,ts431431
+tt13207736,Monsters,tvSeries,"Biography, Crime, Drama",7.8,192817.0,2022.0,ts258748
+tt0904208,Californication,tvSeries,"Comedy, Drama",8.3,192037.0,2007.0,ts9581
+tt3006802,Outlander,tvSeries,"Adventure, Drama, Fantasy",8.3,190751.0,2014.0,ts20837
+tt9335498,Demon Slayer: Kimetsu no Yaiba,tvSeries,"Action, Adventure, Animation",8.6,187323.0,2019.0,ts87466
+tt11691774,Only Murders in the Building,tvSeries,"Comedy, Crime, Drama",8.1,185994.0,2021.0,ts233295
+tt1751634,The Sandman,tvSeries,"Drama, Fantasy, Horror",7.7,185092.0,2022.0,ts215712
+tt14688458,Silo,tvSeries,"Drama, Mystery, Sci-Fi",8.1,185083.0,2023.0,ts297178
+tt5057054,Tom Clancy's Jack Ryan,tvSeries,"Action, Drama, Thriller",8.0,184979.0,2018.0,ts75062
+tt0460627,Bones,tvSeries,"Crime, Drama, Mystery",7.8,183977.0,2005.0,ts11895
+tt1578873,Pretty Little Liars,tvSeries,"Drama, Mystery, Romance",7.4,183845.0,2010.0,ts21860
+tt3230854,The Expanse,tvSeries,"Drama, Mystery, Sci-Fi",8.5,183329.0,2015.0,ts37018
+tt2401256,The Night Of,tvMiniSeries,"Crime, Drama, Mystery",8.4,182917.0,2016.0,ts38802
+tt0407362,Battlestar Galactica,tvSeries,"Action, Adventure, Drama",8.7,182287.0,2004.0,ts56662
+tt1219024,Castle,tvSeries,"Comedy, Crime, Drama",8.1,181127.0,2009.0,ts11795
+tt0387199,Entourage,tvSeries,"Comedy, Drama",8.4,180329.0,2004.0,ts2024
+tt4179452,The Last Kingdom,tvSeries,"Action, Drama, History",8.5,178048.0,2015.0,ts36577
+tt13649112,Baby Reindeer,tvMiniSeries,"Biography, Drama",7.7,174688.0,2024.0,ts282537
+tt2575988,Silicon Valley,tvSeries,Comedy,8.5,174515.0,2014.0,ts20760
+tt11737520,One Piece,tvSeries,"Action, Adventure, Comedy",8.3,174268.0,2023.0,ts255424
+tt3205802,How to Get Away with Murder,tvSeries,"Crime, Drama, Mystery",8.1,173591.0,2014.0,ts21374
+tt1486217,Archer,tvSeries,"Action, Animation, Comedy",8.6,171563.0,2009.0,ts13253
+tt1567432,Teen Wolf,tvSeries,"Action, Drama, Fantasy",7.7,171265.0,2011.0,ts20518
+tt0487831,The IT Crowd,tvSeries,Comedy,8.5,171047.0,2006.0,ts20573
+tt0364845,NCIS,tvSeries,"Action, Crime, Drama",7.8,170888.0,2003.0,ts22337
+tt7657124,The Heroes,tvSeries,"Animation, Drama, History",8.4,170255.0,2008.0,ts52407
+tt5555260,This Is Us,tvSeries,"Comedy, Drama, Romance",8.7,168017.0,2016.0,ts41943
+tt0118276,Buffy the Vampire Slayer,tvSeries,"Action, Adventure, Drama",8.3,167692.0,1997.0,ts15445
+tt2431438,Sense8,tvSeries,"Drama, Mystery, Sci-Fi",8.2,167646.0,2015.0,ts21869
+tt8420184,The Last Dance,tvMiniSeries,"Biography, Documentary, History",9.0,166560.0,2020.0,ts81120
+tt5491994,Planet Earth II,tvMiniSeries,Documentary,9.4,166494.0,2016.0,ts52864
+tt13016388,3 Body Problem,tvSeries,"Adventure, Drama, Fantasy",7.5,164469.0,2024.0,ts261022
+tt2098220,Hunter x Hunter,tvSeries,"Action, Adventure, Animation",9.0,163874.0,2011.0,ts32835
+tt0214341,Dragon Ball Z,tvSeries,"Action, Adventure, Animation",8.8,162416.0,1996.0,ts20740
+tt13210838,The Gentlemen,tvSeries,"Action, Comedy, Crime",8.0,162166.0,2024.0,ts258721
+tt0238784,Gilmore Girls,tvSeries,"Comedy, Drama",8.2,161688.0,2000.0,ts21567
+tt3526078,Schitt's Creek,tvSeries,Comedy,8.5,161413.0,2015.0,ts21867
+tt8398600,After Life,tvSeries,"Comedy, Drama",8.4,161356.0,2019.0,ts81007
+tt7493974,Bodyguard,tvSeries,"Crime, Drama, Thriller",8.0,160832.0,2018.0,ts81884
+tt5420376,Riverdale,tvSeries,"Crime, Drama, Mystery",6.5,160634.0,2017.0,ts53023
+tt0193676,Freaks and Geeks,tvSeries,"Comedy, Drama",8.8,159830.0,1999.0,ts4430
+tt1474684,Luther,tvSeries,"Crime, Drama, Mystery",8.4,159214.0,2010.0,ts21447
+tt0248654,Six Feet Under,tvSeries,"Comedy, Drama",8.7,158847.0,2001.0,ts21654
+tt1327801,Glee,tvSeries,"Comedy, Drama, Music",6.8,158706.0,2009.0,ts21231
+tt10574558,Midnight Mass,tvMiniSeries,"Drama, Fantasy, Horror",7.7,157716.0,2021.0,ts215951
+tt1865718,Gravity Falls,tvSeries,"Adventure, Animation, Comedy",8.9,156857.0,2012.0,ts20439
+tt3647998,Taboo,tvSeries,"Drama, Mystery, Thriller",8.3,156452.0,2017.0,ts42051
+tt7462410,The Wheel of Time,tvSeries,"Action, Adventure, Drama",7.2,155498.0,2021.0,ts57325
+tt2632424,The Originals,tvSeries,"Drama, Fantasy, Horror",8.2,154823.0,2013.0,ts20824
+tt12343534,Jujutsu Kaisen,tvSeries,"Action, Adventure, Animation",8.5,154106.0,2020.0,ts222852
+tt10168312,What If...?,tvSeries,"Action, Adventure, Animation",7.3,154013.0,2021.0,ts415083
+tt0213338,Cowboy Bebop,tvSeries,"Action, Adventure, Animation",8.9,154001.0,1998.0,ts85985
+tt0159206,Sex and the City,tvSeries,"Comedy, Drama, Romance",7.3,152665.0,1998.0,ts22060
+tt14403178,Beef,tvSeries,"Comedy, Drama",8.0,151660.0,2023.0,ts296145
+tt5788792,The Marvelous Mrs. Maisel,tvSeries,"Comedy, Drama",8.7,151058.0,2017.0,ts55995
+tt0934814,Chuck,tvSeries,"Action, Comedy, Drama",8.2,150975.0,2007.0,ts6457
+tt1758429,Spartacus: Gods of the Arena,tvMiniSeries,"Action, Adventure, Biography",8.5,150279.0,2011.0,ts271312
+tt3743822,Fear the Walking Dead,tvSeries,"Drama, Horror, Sci-Fi",6.8,150177.0,2015.0,ts36000
+tt0212671,Malcolm in the Middle,tvSeries,"Comedy, Family",8.2,149524.0,2000.0,ts21566
+tt0098800,The Fresh Prince of Bel-Air,tvSeries,Comedy,7.9,149215.0,1990.0,ts11945
+tt2531336,Lupin,tvSeries,"Action, Crime, Drama",7.5,149209.0,2021.0,ts296046
+tt1358522,White Collar,tvSeries,"Comedy, Crime, Drama",8.2,149057.0,2009.0,ts20627
+tt13146488,Peacemaker,tvSeries,"Action, Adventure, Comedy",8.3,148275.0,2022.0,ts254885
+tt7137906,When They See Us,tvMiniSeries,"Biography, Crime, Drama",8.8,148088.0,2019.0,ts82913
+tt0409591,Naruto,tvSeries,"Action, Adventure, Animation",8.4,147095.0,2002.0,ts20305
+tt0410975,Desperate Housewives,tvSeries,"Comedy, Drama, Mystery",7.6,146882.0,2004.0,ts19868
+tt7016936,Killing Eve,tvSeries,"Action, Adventure, Drama",8.1,146443.0,2018.0,ts58302
+tt6048596,The Sinner,tvSeries,"Crime, Drama, Mystery",7.8,146285.0,2017.0,ts56683
+tt1695360,The Legend of Korra,tvSeries,"Action, Adventure, Animation",8.3,145092.0,2012.0,ts20457
+tt3322310,Iron Fist,tvSeries,"Action, Adventure, Crime",6.4,144719.0,2017.0,ts20007
+tt3322314,Luke Cage,tvSeries,"Action, Crime, Drama",7.2,144445.0,2016.0,ts20008
+tt0279600,Smallville,tvSeries,"Action, Adventure, Drama",7.5,144087.0,2001.0,ts21616
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606
+tt9813792,From,tvSeries,"Drama, Horror, Mystery",7.8,142780.0,2022.0,ts287292
+tt0096657,Mr. Bean,tvSeries,"Comedy, Family",8.6,142721.0,1990.0,ts21396
+tt5171438,Star Trek: Discovery,tvSeries,"Action, Adventure, Drama",7.0,142353.0,2017.0,ts41351
+tt13918776,The Night Agent,tvSeries,"Action, Drama, Thriller",7.4,141582.0,2023.0,ts300649
+tt7049682,Watchmen,tvMiniSeries,"Crime, Drama, Mystery",8.2,140949.0,2019.0,ts81384
+tt0397306,American Dad!,tvSeries,"Animation, Comedy",7.4,140770.0,2005.0,ts15366
+tt7203552,The Morning Show,tvSeries,Drama,8.2,139531.0,2019.0,ts222358
+tt26693803,King the Land,tvSeries,"Comedy, Drama, Romance",5.5,138298.0,2023.0,ts381633
+tt0374463,The Pacific,tvMiniSeries,"Action, Adventure, Drama",8.3,138142.0,2010.0,ts21440
+tt10970552,The Haunting of Bly Manor,tvMiniSeries,"Drama, Horror, Mystery",7.4,137252.0,2020.0,ts221200
+tt0203259,Law & Order: Special Victims Unit,tvSeries,"Crime, Drama, Mystery",8.1,136527.0,1999.0,ts20386
+tt1830617,Grimm,tvSeries,"Crime, Drama, Fantasy",7.9,135887.0,2011.0,ts20606
+tt2017109,Banshee,tvSeries,"Action, Crime, Drama",8.4,135870.0,2013.0,ts13608
+tt2628232,Penny Dreadful,tvSeries,"Drama, Fantasy, Horror",8.2,135519.0,2014.0,ts20088
+tt0496424,30 Rock,tvSeries,Comedy,8.3,135250.0,2006.0,ts12724
+tt2395695,Cosmos: A Spacetime Odyssey,tvMiniSeries,Documentary,9.2,134116.0,2014.0,ts2709
+tt12262202,The Acolyte,tvSeries,"Action, Adventure, Drama",4.2,133799.0,2024.0,ts269546
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131
+tt5348176,Barry,tvSeries,"Action, Comedy, Crime",8.3,132990.0,2018.0,ts74799
+tt1628033,Top Gear,tvSeries,"Adventure, Sport, Talk-Show",8.7,132516.0,2002.0,ts32136
+tt0458290,Star Wars: The Clone Wars,tvSeries,"Action, Adventure, Animation",8.4,132351.0,2008.0,ts1
+tt4016454,Supergirl,tvSeries,"Action, Adventure, Drama",6.2,132213.0,2015.0,ts35563
+tt8962124,Emily in Paris,tvSeries,"Comedy, Drama, Romance",6.8,132048.0,2020.0,ts84146
+tt1235099,Lie to Me,tvSeries,"Crime, Drama, Mystery",8.0,131751.0,2009.0,ts20615
+tt13622776,Ahsoka,tvSeries,"Action, Adventure, Drama",7.5,130536.0,2023.0,ts269486
+tt1870479,The Newsroom,tvSeries,Drama,8.6,130333.0,2012.0,ts21078
+tt7909970,Unbelievable,tvMiniSeries,"Crime, Drama",8.3,129335.0,2019.0,ts221904
+tt2649356,Sharp Objects,tvMiniSeries,"Crime, Drama, Mystery",8.0,129240.0,2018.0,ts55577
+tt1637727,The Killing,tvSeries,"Crime, Drama, Mystery",8.3,129097.0,2011.0,ts10908
+tt0290978,The Office,tvSeries,"Comedy, Drama",8.5,128349.0,2001.0,ts21621
+tt1837642,Revenge,tvSeries,"Drama, Mystery, Thriller",7.8,127425.0,2011.0,ts21146
+tt0103359,Batman: The Animated Series,tvSeries,"Action, Adventure, Animation",9.0,127075.0,1992.0,ts13503
+tt2294189,The Fall,tvSeries,"Crime, Drama, Thriller",8.1,126207.0,2013.0,ts6001
+tt10857164,Ms. Marvel,tvMiniSeries,"Action, Adventure, Comedy",6.1,125985.0,2022.0,ts219018
+tt15567174,The Fall of the House of Usher,tvMiniSeries,"Drama, Horror, Mystery",7.9,125703.0,2023.0,ts315689
+tt4301160,Black Bird,tvMiniSeries,"Biography, Crime, Drama",8.1,125327.0,2022.0,ts343661
+tt1489428,Justified,tvSeries,"Action, Crime, Drama",8.6,125210.0,2010.0,ts21499
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095
+tt2191671,Elementary,tvSeries,"Crime, Drama, Mystery",7.9,123306.0,2012.0,ts3979
+tt13159924,Gen V,tvSeries,"Action, Adventure, Comedy",7.7,122958.0,2023.0,ts259177
+tt6470478,The Good Doctor,tvSeries,Drama,8.0,122881.0,2017.0,ts57118
+tt4635282,The OA,tvSeries,"Drama, Fantasy, Mystery",7.8,122277.0,2016.0,ts53051
+tt4230076,The Defenders,tvMiniSeries,"Action, Adventure, Crime",7.2,121872.0,2017.0,ts37118
+tt2188671,Bates Motel,tvSeries,"Drama, Horror, Mystery",8.1,121725.0,2013.0,ts18690
+tt2699128,The Leftovers,tvSeries,"Drama, Fantasy, Mystery",8.3,121513.0,2014.0,ts20275
+tt2375692,Black Sails,tvSeries,"Action, Adventure, Drama",8.2,121050.0,2014.0,ts196
+tt14164730,Dexter: New Blood,tvMiniSeries,"Crime, Drama, Mystery",8.0,120893.0,2021.0,ts317220
+tt2403776,Shadow and Bone,tvSeries,"Action, Adventure, Drama",7.5,120708.0,2021.0,ts87242
+tt2234222,Orphan Black,tvSeries,"Drama, Sci-Fi, Thriller",8.3,120364.0,2013.0,ts20836
+tt0439100,Weeds,tvSeries,"Comedy, Crime, Drama",7.9,119758.0,2005.0,ts21446
+tt0206512,SpongeBob SquarePants,tvSeries,"Animation, Comedy, Family",8.2,119015.0,1999.0,ts20951
+tt1869454,Good Omens,tvSeries,"Comedy, Drama, Fantasy",8.0,118936.0,2019.0,ts57328
+tt10795658,Alice in Borderland,tvSeries,"Action, Drama, Horror",7.7,118927.0,2020.0,ts219660
+tt7908628,What We Do in the Shadows,tvSeries,"Comedy, Fantasy, Horror",8.6,118902.0,2019.0,ts85167
+tt2149175,The Americans,tvSeries,"Crime, Drama, Mystery",8.4,117462.0,2013.0,ts12059
+tt1740299,The Man in the High Castle,tvSeries,"Drama, Sci-Fi, Thriller",7.9,117270.0,2015.0,ts21882
+tt9319668,1899,tvSeries,"Drama, Horror, Mystery",7.3,116648.0,2022.0,ts104019
+tt1043813,Titans,tvSeries,"Action, Adventure, Crime",7.5,116331.0,2018.0,ts77107
+tt0491738,Psych,tvSeries,"Comedy, Crime, Mystery",8.4,116222.0,2006.0,ts21182
+tt1553656,Under the Dome,tvSeries,"Drama, Mystery, Sci-Fi",6.5,115904.0,2013.0,ts20845
+tt0092400,Married... with Children,tvSeries,Comedy,8.1,114909.0,1987.0,ts22481
+tt11743610,The Terminal List,tvSeries,"Action, Drama, Thriller",7.9,114907.0,2022.0,ts233781
+tt7569592,Chilling Adventures of Sabrina,tvSeries,"Drama, Fantasy, Horror",7.4,114404.0,2018.0,ts80856
+tt14954666,The Idol,tvSeries,"Drama, Music",4.4,114289.0,2023.0,ts312190
+tt4270492,Billions,tvSeries,Drama,8.3,114280.0,2016.0,ts36962
+tt0460091,My Name Is Earl,tvSeries,Comedy,7.8,113199.0,2005.0,ts22068
+tt5875444,Slow Horses,tvSeries,"Drama, Thriller",8.3,112770.0,2022.0,ts131317
+tt7520794,Russian Doll,tvSeries,"Comedy, Drama, Mystery",7.7,112621.0,2019.0,ts86497
+tt8134470,The Undoing,tvMiniSeries,"Crime, Drama, Mystery",7.4,112569.0,2020.0,ts85699
+tt4532368,DC's Legends of Tomorrow,tvSeries,"Action, Adventure, Drama",6.7,112526.0,2016.0,ts36550
+tt0118421,Oz,tvSeries,"Crime, Drama, Thriller",8.7,112279.0,1997.0,ts21707
+tt11337908,Maid,tvMiniSeries,Drama,8.3,111991.0,2021.0,ts223537
+tt5296406,Designated Survivor,tvSeries,"Action, Drama, Mystery",7.4,111087.0,2016.0,ts41956
+tt1399664,The Night Manager,tvSeries,"Crime, Drama, Mystery",8.0,110833.0,2016.0,ts41945
+tt1548850,Misfits,tvSeries,"Comedy, Drama, Fantasy",8.2,110474.0,2009.0,ts20503
+tt1845307,2 Broke Girls,tvSeries,Comedy,6.7,109758.0,2011.0,ts16309
+tt5232792,Lost in Space,tvSeries,"Adventure, Drama, Family",7.3,109644.0,2018.0,ts77398
+tt6315640,Atypical,tvSeries,"Comedy, Drama",8.2,109474.0,2017.0,ts56969
+tt2879552,11.22.63,tvMiniSeries,"Drama, Mystery, Romance",8.1,109382.0,2016.0,ts38272
+tt0804484,Foundation,tvSeries,"Drama, Sci-Fi",7.6,108894.0,2021.0,ts297165
+tt8550800,The Outsider,tvSeries,"Crime, Drama, Horror",7.6,107642.0,2020.0,ts86177
+tt11041332,Yellowjackets,tvSeries,"Drama, Mystery, Thriller",7.7,106249.0,2021.0,ts228068
+tt5189670,Making a Murderer,tvSeries,"Crime, Documentary",8.5,105968.0,2015.0,ts38204
+tt8064302,Dead to Me,tvSeries,"Comedy, Crime, Drama",7.9,105894.0,2019.0,ts82914
+tt7949218,See,tvSeries,"Action, Drama, Sci-Fi",7.6,105632.0,2019.0,ts82316
+tt0072500,Fawlty Towers,tvSeries,Comedy,8.8,105098.0,1975.0,ts18844
+tt5691552,The Orville,tvSeries,"Adventure, Comedy, Drama",8.0,105088.0,2017.0,ts57140
+tt9059760,Normal People,tvMiniSeries,"Drama, Romance",8.4,105081.0,2020.0,ts236746
+tt0118480,Stargate SG-1,tvSeries,"Action, Adventure, Drama",8.4,105024.0,1997.0,ts22176
+tt2934286,Halo,tvSeries,"Action, Adventure, Sci-Fi",7.3,104366.0,2022.0,ts43075
+tt9544034,The Family Man,tvSeries,"Action, Comedy, Drama",8.7,104011.0,2019.0,ts221362
+tt12590266,Cyberpunk: Edgerunners,tvMiniSeries,"Action, Adventure, Animation",8.3,103891.0,2022.0,ts250831
+tt3007572,Locke & Key,tvSeries,"Drama, Fantasy, Horror",7.3,103010.0,2020.0,ts87953
+tt12004706,Panchayat,tvSeries,"Comedy, Drama",9.0,102917.0,2020.0,ts237536
+tt2788432,American Crime Story,tvSeries,"Biography, Crime, Drama",8.4,100922.0,2016.0,ts38356
+tt5114356,Legion,tvSeries,"Action, Drama, Sci-Fi",8.1,100762.0,2017.0,ts42232
+tt0052520,The Twilight Zone,tvSeries,"Drama, Fantasy, Horror",9.0,100574.0,1959.0,ts84671
+tt10233448,Vinland Saga,tvSeries,"Action, Adventure, Animation",8.8,100516.0,2019.0,ts90311
+tt15677150,Shrinking,tvSeries,"Comedy, Drama",8.1,100225.0,2023.0,ts314105
+tt0362359,The O.C.,tvSeries,"Comedy, Drama, Romance",7.6,100136.0,2003.0,ts21804
+tt3530232,Last Week Tonight with John Oliver,tvSeries,"Comedy, News, Talk-Show",8.8,99947.0,2014.0,ts20735
+tt0106004,Frasier,tvSeries,Comedy,8.2,99585.0,1993.0,ts1208
+tt7587890,The Rookie,tvSeries,"Action, Crime, Drama",8.0,98621.0,2018.0,ts81342
+tt0312172,Monk,tvSeries,"Comedy, Crime, Drama",8.1,98539.0,2002.0,ts20307
+tt8806524,Star Trek: Picard,tvSeries,"Action, Adventure, Drama",7.5,98504.0,2020.0,ts87480
+tt16358384,Tulsa King,tvSeries,"Crime, Drama",8.0,98254.0,2022.0,ts320262
+tt0112130,Pride and Prejudice,tvMiniSeries,"Drama, Romance",8.8,98180.0,1995.0,ts22171
+tt8421350,Manifest,tvSeries,"Drama, Mystery, Sci-Fi",7.0,98176.0,2018.0,ts81294
+tt24053860,The Day of the Jackal,tvSeries,"Action, Crime, Drama",8.1,97937.0,2024.0,ts385816
+tt1220617,The Inbetweeners,tvSeries,Comedy,8.4,97914.0,2008.0,ts20472
+tt1561755,Bob's Burgers,tvSeries,"Animation, Comedy",8.2,97800.0,2011.0,ts4060
+tt0112159,Neon Genesis Evangelion,tvSeries,"Action, Animation, Drama",8.5,97754.0,1995.0,ts20983
+tt8714904,Narcos: Mexico,tvSeries,"Crime, Drama",8.3,97751.0,2018.0,ts82526
+tt0840196,Skins,tvSeries,Drama,8.2,97102.0,2007.0,ts22034
+tt0060028,Star Trek,tvSeries,"Action, Adventure, Drama",8.4,97000.0,1966.0,ts21236
+tt7134908,Elite,tvSeries,"Crime, Drama, Thriller",7.1,96986.0,2018.0,ts78305
+tt2249007,Ray Donovan,tvSeries,"Crime, Drama",8.3,96792.0,2013.0,ts20040
+tt0121220,Dragon Ball Z,tvSeries,"Action, Adventure, Animation",8.8,96280.0,1989.0,ts20740
+tt1898069,American Gods,tvSeries,"Drama, Fantasy, Mystery",7.6,96112.0,2017.0,ts12314
+tt10293938,Outer Banks,tvSeries,"Action, Crime, Drama",7.5,95640.0,2020.0,ts235655
+tt0158552,Charmed,tvSeries,"Drama, Fantasy, Mystery",7.2,95580.0,1998.0,ts81208
+tt6077448,Sacred Games,tvSeries,"Action, Crime, Drama",8.5,95298.0,2018.0,ts80959
+tt1462059,Falling Skies,tvSeries,"Action, Adventure, Drama",7.1,94894.0,2011.0,ts19031
+tt4288182,Atlanta,tvSeries,"Comedy, Drama, Music",8.6,94283.0,2016.0,ts41930
+tt2071645,The Following,tvSeries,"Crime, Drama, Horror",7.4,93389.0,2013.0,ts11404
+tt6524350,Big Mouth,tvSeries,"Animation, Comedy, Romance",7.8,93229.0,2017.0,ts75879
+tt0286486,The Shield,tvSeries,"Crime, Drama, Thriller",8.7,93065.0,2002.0,ts22330
+tt5626028,My Hero Academia,tvSeries,"Action, Adventure, Animation",8.2,92151.0,2016.0,ts38725
+tt0247082,CSI: Crime Scene Investigation,tvSeries,"Crime, Drama, Mystery",7.7,91977.0,2000.0,ts18517
+tt3475734,Agent Carter,tvSeries,"Action, Adventure, Crime",7.8,91933.0,2015.0,ts21913
+tt0165581,The King of Queens,tvSeries,Comedy,7.4,91561.0,1998.0,ts22030
+tt13309742,Blue Eye Samurai,tvSeries,"Action, Adventure, Animation",8.7,91179.0,2023.0,ts257461
+tt0994314,Code Geass,tvSeries,"Action, Animation, Drama",8.7,91122.0,2006.0,ts12787
+tt10813940,Ginny & Georgia,tvSeries,"Comedy, Drama",7.4,91117.0,2021.0,ts279892
+tt0368530,One Tree Hill,tvSeries,"Drama, Romance, Sport",7.8,91099.0,2003.0,ts21749
+tt5712554,The Grand Tour,tvSeries,"Comedy, Sport, Talk-Show",8.7,90796.0,2016.0,ts39038
+tt9170108,Raised by Wolves,tvSeries,"Drama, Fantasy, Sci-Fi",7.4,90545.0,2020.0,ts87244
+tt1199099,Merlin,tvSeries,"Adventure, Drama, Fantasy",7.9,90342.0,2008.0,ts22189
+tt5580146,Maniac,tvMiniSeries,"Comedy, Drama, Sci-Fi",7.6,90333.0,2018.0,ts75097
+tt5607976,His Dark Materials,tvSeries,"Adventure, Drama, Fantasy",7.8,90330.0,2019.0,ts74636
+tt2654620,The Strain,tvSeries,"Drama, Fantasy, Horror",7.3,90100.0,2014.0,ts20254
+tt6473300,Mirzapur,tvSeries,"Action, Crime, Thriller",8.4,89654.0,2018.0,ts85612
+tt3502248,Bosch,tvSeries,"Crime, Drama",8.5,89511.0,2014.0,ts14841
+tt11823076,Tiger King,tvSeries,"Biography, Crime, Documentary",7.5,89404.0,2020.0,ts227305
+tt33503491,When the Phone Rings,tvSeries,"Drama, Mystery, Romance",5.7,89329.0,2024.0,ts432582
+tt6517102,Castlevania,tvSeries,"Action, Adventure, Animation",8.3,89151.0,2017.0,ts56261
+tt9432978,Kota Factory,tvSeries,"Comedy, Drama",9.0,87884.0,2019.0,ts90621
+tt10062292,Never Have I Ever,tvSeries,"Comedy, Drama",7.8,87879.0,2020.0,ts235758
+tt14852808,The Watcher,tvSeries,"Drama, Horror, Mystery",6.5,87665.0,2022.0,ts365032
+tt1641349,Terra Nova,tvSeries,"Adventure, Drama, Mystery",6.7,87579.0,2011.0,ts20668
+tt27528139,Queen Cleopatra,tvMiniSeries,"Documentary, Drama, History",1.2,87037.0,2023.0,ts386450
+tt10638036,Heartstopper,tvSeries,"Drama, Romance",8.5,87035.0,2022.0,ts217231
+tt8291284,The Peripheral,tvSeries,"Drama, Mystery, Sci-Fi",7.5,86986.0,2022.0,ts222806
+tt8740976,Inventing Anna,tvMiniSeries,Drama,6.9,86577.0,2022.0,ts108385
+tt9174558,Dopesick,tvMiniSeries,Drama,8.6,86386.0,2021.0,ts255077
+tt1442462,The Good Wife,tvSeries,"Crime, Drama, Mystery",8.4,86296.0,2009.0,ts21230
+tt0489974,Carnival Row,tvSeries,"Crime, Drama, Fantasy",7.7,85871.0,2019.0,ts146916
+tt5516154,Godless,tvMiniSeries,"Action, Drama, Western",8.2,85852.0,2017.0,ts75151
+tt9698442,Behind Her Eyes,tvMiniSeries,"Drama, Mystery, Thriller",7.2,85377.0,2021.0,ts102086
+tt5016504,Preacher,tvSeries,"Adventure, Comedy, Fantasy",7.9,84997.0,2016.0,ts37927
+tt13157618,Secret Invasion,tvMiniSeries,"Action, Adventure, Drama",5.8,84699.0,2023.0,ts269540
+tt0758790,The Tudors,tvSeries,"Drama, History, Romance",8.1,84507.0,2007.0,ts22054
+tt1492966,Louie,tvSeries,"Comedy, Drama",8.5,84134.0,2010.0,ts21858
+tt7826376,Upload,tvSeries,"Comedy, Mystery, Sci-Fi",7.8,83950.0,2020.0,ts87778
+tt4093826,Twin Peaks,tvSeries,"Crime, Drama, Horror",8.5,83168.0,2017.0,ts86729
+tt0314979,Battlestar Galactica,tvMiniSeries,"Action, Adventure, Drama",8.5,83066.0,2003.0,ts56662
+tt1910272,Steins;Gate,tvSeries,"Animation, Comedy, Drama",8.8,82806.0,2011.0,ts22244
+tt4189022,Ash vs Evil Dead,tvSeries,"Action, Comedy, Horror",8.4,82762.0,2015.0,ts36885
+tt0063929,Monty Python's Flying Circus,tvSeries,Comedy,8.8,82492.0,1969.0,ts22164
+tt18335752,1923,tvSeries,"Drama, Western",8.3,82219.0,2022.0,ts351915
+tt0421357,Fullmetal Alchemist,tvSeries,"Action, Adventure, Animation",8.5,82133.0,2003.0,ts31950
+tt13833978,The Lincoln Lawyer,tvSeries,"Crime, Drama, Mystery",7.8,81910.0,2022.0,ts271450
+tt0434665,Bleach,tvSeries,"Action, Adventure, Animation",8.2,81870.0,2004.0,ts15151
+tt2189461,Marco Polo,tvSeries,"Action, Adventure, Drama",7.9,81867.0,2014.0,ts20280
+tt1837576,Scandal,tvSeries,"Drama, Thriller",7.7,81801.0,2012.0,ts21036
+tt3339966,Unbreakable Kimmy Schmidt,tvSeries,Comedy,7.5,81365.0,2015.0,ts21885
+tt4474344,Blindspot,tvSeries,"Action, Crime, Drama",7.3,81309.0,2015.0,ts36815
+tt0810788,Burn Notice,tvSeries,"Action, Crime, Drama",8.0,81136.0,2007.0,ts17823
+tt0112178,Star Trek: Voyager,tvSeries,"Action, Adventure, Drama",7.9,81045.0,1995.0,ts22477
+tt1733785,The Bridge,tvSeries,"Crime, Mystery, Thriller",8.6,81018.0,2011.0,ts15770
+tt1600194,Hawaii Five-0,tvSeries,"Action, Crime, Drama",7.4,81005.0,2010.0,ts21543
+tt17677860,Presumed Innocent,tvSeries,"Crime, Drama, Mystery",7.7,80708.0,2024.0,ts328373
+tt14153790,Velma,tvSeries,"Adventure, Animation, Comedy",1.6,80517.0,2023.0,ts283518
+tt19854762,Hijack,tvSeries,"Drama, Thriller",7.4,80434.0,2023.0,ts346878
+tt0412253,Veronica Mars,tvSeries,"Crime, Drama, Mystery",8.3,80383.0,2004.0,ts22460
+tt2094262,Da Vinci's Demons,tvSeries,"Adventure, Biography, Drama",7.9,80365.0,2013.0,ts16101
+tt1723816,Girls,tvSeries,"Comedy, Drama",7.4,80315.0,2012.0,ts21041
+tt17491088,The Diplomat,tvSeries,"Drama, Thriller",8.0,80294.0,2023.0,ts356311
+tt3718778,Over the Garden Wall,tvMiniSeries,"Adventure, Animation, Comedy",8.7,80294.0,2014.0,ts20079
+tt5580540,Santa Clarita Diet,tvSeries,"Comedy, Horror",7.8,80117.0,2017.0,ts53545
+tt0115167,Everybody Loves Raymond,tvSeries,Comedy,7.3,79999.0,1996.0,ts14789
+tt9018736,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Comedy",7.2,79552.0,2024.0,ts83993
+tt7772588,For All Mankind,tvSeries,"Drama, Sci-Fi",8.1,79405.0,2019.0,ts89431
+tt14169960,All of Us Are Dead,tvSeries,"Action, Drama, Fantasy",7.6,78846.0,2022.0,ts225855
+tt9446688,I Am Not Okay with This,tvSeries,"Comedy, Drama, Fantasy",7.5,78800.0,2020.0,ts103133
+tt0162065,Angel,tvSeries,"Action, Adventure, Drama",7.9,78333.0,1999.0,ts19074
+tt2891574,Ballers,tvSeries,"Comedy, Drama, Sport",7.8,78193.0,2015.0,ts35552
+tt4635276,Master of None,tvSeries,"Comedy, Drama",8.2,77621.0,2015.0,ts37971
+tt3501584,iZombie,tvSeries,"Comedy, Crime, Drama",7.8,77082.0,2015.0,ts21981
+tt4477976,Superstore,tvSeries,Comedy,7.9,77050.0,2015.0,ts38412
+tt15571732,Agatha All Along,tvMiniSeries,"Action, Adventure, Comedy",7.2,76825.0,2024.0,ts317599
+tt5363918,Disenchantment,tvSeries,"Action, Adventure, Animation",7.2,76794.0,2018.0,ts72247
+tt7440726,Your Honor,tvSeries,"Crime, Drama, Thriller",7.6,76655.0,2020.0,ts87959
+tt21209876,Solo Leveling,tvSeries,"Action, Adventure, Animation",8.6,76406.0,2024.0,ts359486
+tt0758745,Friday Night Lights,tvSeries,"Drama, Sport",8.7,76103.0,2006.0,ts20604
+tt0353049,Chappelle's Show,tvSeries,"Comedy, Music",8.8,76101.0,2003.0,ts17942
+tt12809988,Sweet Tooth,tvSeries,"Action, Adventure, Drama",7.7,75992.0,2021.0,ts237713
+tt2303687,Line of Duty,tvSeries,"Crime, Drama, Mystery",8.7,75794.0,2012.0,ts27630
+tt7423538,Ratched,tvSeries,"Crime, Drama, History",7.2,75781.0,2020.0,ts82912
+tt13616990,Chainsaw Man,tvSeries,"Action, Animation, Comedy",8.3,75720.0,2022.0,ts269483
+tt2304589,Defending Jacob,tvMiniSeries,"Crime, Drama, Mystery",7.8,75177.0,2020.0,ts89301
+tt12411074,Paranormal,tvSeries,"Drama, Fantasy, Horror",8.0,75141.0,2020.0,ts241048
+tt8690918,Resident Alien,tvSeries,"Comedy, Drama, Mystery",8.1,74942.0,2021.0,ts282248
+tt0106145,Star Trek: Deep Space Nine,tvSeries,"Action, Adventure, Drama",8.1,74222.0,1993.0,ts20927
+tt5421602,Anne with an E,tvSeries,"Drama, Family",8.6,74013.0,2017.0,ts55982
+tt4145054,Shadowhunters,tvSeries,"Action, Drama, Fantasy",6.5,73983.0,2016.0,ts36194
+tt0374455,Stargate: Atlantis,tvSeries,"Action, Adventure, Drama",8.1,73823.0,2004.0,ts22455
+tt4422836,Limitless,tvSeries,"Comedy, Crime, Drama",7.6,73717.0,2015.0,ts36672
+tt13111078,Lioness,tvSeries,"Action, Drama, Thriller",7.8,73562.0,2023.0,ts259735
+tt9612516,Space Force,tvSeries,Comedy,6.7,73486.0,2020.0,ts87453
+tt3741634,Tokyo Ghoul,tvMiniSeries,"Action, Animation, Drama",7.7,73193.0,2014.0,ts20202
+tt0108757,ER,tvSeries,"Drama, Romance",7.9,72833.0,1994.0,ts19648
+tt0088509,Dragon Ball,tvSeries,"Action, Adventure, Animation",8.5,72189.0,1986.0,ts21560
+tt9680440,Paatal Lok,tvSeries,"Action, Crime, Drama",8.2,72036.0,2020.0,ts237215
+tt10541088,Clarkson's Farm,tvSeries,"Comedy, Documentary, Reality-TV",9.0,71863.0,2021.0,ts296021
+tt6156584,Snowpiercer,tvSeries,"Action, Drama, Sci-Fi",6.9,70767.0,2020.0,ts81277
+tt0387764,Peep Show,tvSeries,Comedy,8.7,70583.0,2003.0,ts21747
+tt0280249,Dragon Ball,tvSeries,"Action, Adventure, Animation",8.5,70490.0,1995.0,ts21560
+tt2177461,A Discovery of Witches,tvSeries,"Drama, Fantasy, Romance",7.8,69700.0,2018.0,ts78865
+tt4834206,A Series of Unfortunate Events,tvSeries,"Adventure, Comedy, Drama",7.7,69553.0,2017.0,ts39015
+tt3428912,Happy Valley,tvSeries,"Crime, Drama, Thriller",8.5,69517.0,2014.0,ts20116
+tt14661396,Queen Charlotte: A Bridgerton Story,tvMiniSeries,"Drama, History, Romance",7.6,69516.0,2023.0,ts343696
+tt24069848,American Primeval,tvSeries,"Action, Drama, Thriller",8.0,69049.0,2025.0,ts373960
+tt5651844,Travelers,tvSeries,"Drama, Mystery, Sci-Fi",8.0,68890.0,2016.0,ts42120
+tt7120662,Derry Girls,tvSeries,Comedy,8.5,68879.0,2018.0,ts77795
+tt2261391,Chicago Fire,tvSeries,"Action, Drama",8.0,68857.0,2012.0,ts3630
+tt1759761,Veep,tvSeries,Comedy,8.4,68309.0,2012.0,ts20425
+tt0863046,Flight of the Conchords,tvSeries,"Comedy, Music, Musical",8.5,68232.0,2007.0,ts16452
+tt0866442,Eastbound & Down,tvSeries,"Comedy, Drama, Sport",8.2,67279.0,2009.0,ts2158
+tt11311302,Vikings: Valhalla,tvSeries,"Action, Adventure, Drama",7.3,67011.0,2022.0,ts270910
+tt1710308,Regular Show,tvSeries,"Action, Adventure, Animation",8.6,66783.0,2010.0,ts22225
+tt0068098,M*A*S*H,tvSeries,"Comedy, Drama, War",8.5,66668.0,1972.0,ts20413
+tt5249462,Erased,tvMiniSeries,"Animation, Crime, Drama",8.4,66368.0,2016.0,ts42169
+tt2402207,The Last Ship,tvSeries,"Action, Drama, Sci-Fi",7.4,66352.0,2014.0,ts20707
+tt3230454,The Last Man on Earth,tvSeries,"Action, Comedy, Drama",7.4,66245.0,2015.0,ts21959
+tt9698480,The Stranger,tvMiniSeries,"Crime, Drama, Mystery",7.2,66238.0,2020.0,ts224901
+tt11318602,Don't F**k with Cats: Hunting an Internet Killer,tvMiniSeries,"Crime, Documentary, Mystery",8.0,66123.0,2019.0,ts223210
+tt0318871,Berserk,tvSeries,"Action, Adventure, Animation",8.7,65970.0,1997.0,ts345
+tt2647544,Sleepy Hollow,tvSeries,"Action, Adventure, Crime",7.3,65861.0,2013.0,ts20268
+tt5618256,Manhunt,tvSeries,"Biography, Crime, Drama",8.1,65624.0,2017.0,ts58133
+tt0092359,Full House,tvSeries,"Comedy, Drama, Family",6.8,65312.0,1987.0,ts22482
+tt1954347,Continuum,tvSeries,"Action, Sci-Fi, Thriller",7.6,65282.0,2012.0,ts10250
+tt7569576,The Flight Attendant,tvSeries,"Comedy, Drama, Mystery",7.1,65188.0,2020.0,ts302787
+tt0083399,Cheers,tvSeries,"Comedy, Drama",8.0,65116.0,1982.0,ts19522
+tt10888878,Clickbait,tvMiniSeries,"Crime, Drama, Mystery",7.2,65075.0,2021.0,ts300391
+tt1051220,The Shannara Chronicles,tvSeries,"Adventure, Drama, Fantasy",7.1,65067.0,2016.0,ts37810
+tt6474378,Good Girls,tvSeries,"Comedy, Crime, Drama",7.7,65055.0,2018.0,ts57120
+tt8760932,Nine Perfect Strangers,tvSeries,"Drama, Mystery, Thriller",7.0,65014.0,2021.0,ts90492
+tt4428122,Quantico,tvSeries,"Crime, Drama, Mystery",6.7,64955.0,2015.0,ts36545
+tt12327578,Star Trek: Strange New Worlds,tvSeries,"Action, Adventure, Sci-Fi",8.3,64523.0,2022.0,ts237563
+tt5611024,Fool Me Once,tvMiniSeries,"Crime, Drama, Mystery",6.8,64510.0,2024.0,ts383298
+tt3487382,Forever,tvSeries,"Crime, Drama, Fantasy",8.2,64393.0,2014.0,ts18547
+tt11514868,The Perfect Couple,tvSeries,"Crime, Drama, Mystery",6.5,64248.0,2024.0,ts386353
+tt0851851,Terminator: The Sarah Connor Chronicles,tvSeries,"Action, Drama, Fantasy",7.6,64227.0,2008.0,ts20549
+tt2640044,Masters of the Air,tvMiniSeries,"Action, Drama, History",7.8,64202.0,2024.0,ts41331
+tt13365348,Archive 81,tvSeries,"Drama, Horror, Mystery",7.3,64136.0,2022.0,ts256710
+tt2930604,Star Wars: Rebels,tvSeries,"Action, Adventure, Animation",8.1,63706.0,2014.0,ts20726
+tt19231492,Dark Matter,tvSeries,"Drama, Sci-Fi, Thriller",7.7,63654.0,2024.0,ts35253
+tt0278238,Samurai Jack,tvSeries,"Action, Adventure, Animation",8.5,63481.0,2001.0,ts21601
+tt18347622,Bodies,tvMiniSeries,"Crime, Drama, Sci-Fi",7.3,63246.0,2023.0,ts401188
+tt0262150,Black Books,tvSeries,Comedy,8.4,63233.0,2000.0,ts457
+tt4604612,The Alienist,tvSeries,"Crime, Drama, Mystery",7.7,62938.0,2018.0,ts57172
+tt2618986,Wayward Pines,tvSeries,"Drama, Horror, Mystery",7.3,62623.0,2015.0,ts21982
+tt3566726,Jane the Virgin,tvSeries,"Comedy, Drama",7.8,62539.0,2014.0,ts21367
+tt27995113,Black Doves,tvSeries,"Action, Drama, Mystery",7.2,62417.0,2024.0,ts404189
+tt0157246,Will & Grace,tvSeries,"Comedy, Romance",7.3,62412.0,1998.0,ts22121
+tt0852863,Phineas and Ferb,tvSeries,"Action, Adventure, Animation",8.1,62187.0,2007.0,ts22052
+tt0445114,Extras,tvSeries,"Comedy, Drama",8.3,62073.0,2005.0,ts3258
+tt0995832,Generation Kill,tvMiniSeries,"Drama, War",8.4,61965.0,2008.0,ts20599
+tt3514324,Scorpion,tvSeries,"Action, Crime, Drama",7.0,61963.0,2014.0,ts20773
+tt8416494,Doom Patrol,tvSeries,"Action, Adventure, Comedy",7.7,61770.0,2019.0,ts81095
+tt8179402,Fate: The Winx Saga,tvSeries,"Action, Adventure, Drama",6.8,61697.0,2021.0,ts271888
+tt18923754,Daredevil: Born Again,tvSeries,"Action, Crime, Drama",8.2,61587.0,2025.0,ts353556
+tt12708542,Star Wars: The Bad Batch,tvSeries,"Action, Adventure, Animation",7.8,61586.0,2021.0,ts251262
+tt1344204,Blue Mountain State,tvSeries,"Comedy, Sport",8.3,61499.0,2010.0,ts49
+tt3520702,Bloodline,tvSeries,"Drama, Thriller",7.8,61467.0,2015.0,ts18010
+tt11117570,Tandav,tvSeries,"Drama, Thriller",4.6,61333.0,2021.0,ts269823
+tt0118375,King of the Hill,tvSeries,"Animation, Comedy, Drama",7.5,61270.0,1997.0,ts21173
+tt11712058,Mayor of Kingstown,tvSeries,"Crime, Drama, Thriller",8.1,61190.0,2021.0,ts224255
+tt11016042,Ripley,tvMiniSeries,"Crime, Drama, Thriller",8.1,61090.0,2024.0,ts227860
+tt14986406,Bleach: Thousand-Year Blood War,tvSeries,"Action, Adventure, Animation",9.0,61065.0,2022.0,ts369296
+tt0925266,Pushing Daisies,tvSeries,"Comedy, Drama, Fantasy",8.4,60847.0,2007.0,ts22236
+tt8415836,Guillermo del Toro's Cabinet of Curiosities,tvSeries,"Drama, Horror, Mystery",7.0,60823.0,2022.0,ts85187
+tt0081912,Only Fools and Horses,tvSeries,Comedy,9.0,60720.0,1981.0,ts20474
+tt0796264,Eureka,tvSeries,"Adventure, Comedy, Drama",7.9,60321.0,2006.0,ts10891
+tt4047038,Dirk Gently's Holistic Detective Agency,tvSeries,"Action, Adventure, Comedy",8.1,60264.0,2016.0,ts42108
+tt0361217,Nip/Tuck,tvSeries,Drama,7.7,60180.0,2003.0,ts22246
+tt5645432,The Old Man,tvSeries,"Action, Drama, Thriller",7.5,60099.0,2022.0,ts256035
+tt1307824,V,tvSeries,"Drama, Sci-Fi, Thriller",6.8,60039.0,2009.0,ts24742
+tt0805663,Jericho,tvSeries,"Action, Drama, Mystery",7.9,59991.0,2006.0,ts20642
+tt26933824,Nobody Wants This,tvSeries,"Comedy, Romance",7.8,59785.0,2024.0,ts383064
+tt4687880,Goliath,tvSeries,Drama,8.1,59779.0,2016.0,ts41266
+tt0423731,Samurai Champloo,tvSeries,"Action, Adventure, Animation",8.5,59769.0,2004.0,ts31799
+tt16283804,One Day,tvMiniSeries,"Comedy, Drama, Romance",8.1,59636.0,2024.0,ts323783
+tt3609352,Grace and Frankie,tvSeries,Comedy,8.2,59613.0,2015.0,ts35251
+tt0187664,Spaced,tvSeries,Comedy,8.5,59546.0,1999.0,ts20965
+tt16030542,The Recruit,tvSeries,"Action, Adventure, Crime",7.4,59454.0,2022.0,ts322798
+tt1132290,Warehouse 13,tvSeries,"Adventure, Drama, Mystery",7.6,59451.0,2009.0,ts21861
+tt6611916,Kingdom,tvSeries,"Action, Drama, Horror",8.3,59438.0,2019.0,ts20749
+tt2235759,The Great,tvSeries,"Biography, Comedy, Drama",8.1,59432.0,2020.0,ts271787
+tt10834220,The Chestnut Man,tvSeries,"Crime, Drama, Mystery",7.6,59229.0,2021.0,ts296472
+tt1378167,NCIS: Los Angeles,tvSeries,"Action, Crime, Drama",6.8,59123.0,2009.0,ts21253
+tt8089592,Little Fires Everywhere,tvMiniSeries,"Drama, Mystery, Thriller",7.7,58719.0,2020.0,ts95189
+tt19768024,Indian Police Force,tvSeries,"Action, Crime, Drama",5.0,58550.0,2024.0,ts349655
+tt4254242,The Magicians,tvSeries,"Drama, Fantasy, Mystery",7.6,58461.0,2015.0,ts38199
+tt1832979,Hart of Dixie,tvSeries,"Comedy, Drama, Romance",7.7,58336.0,2011.0,ts21819
+tt2708480,The Terror,tvSeries,"Adventure, Drama, Horror",7.9,58112.0,2018.0,ts76847
+tt5622316,The Chosen,tvSeries,"Drama, History",9.1,58101.0,2017.0,ts247434
+tt1699748,Hell on Wheels,tvSeries,"Drama, Western",8.3,57967.0,2011.0,ts21807
+tt7902072,Safe,tvMiniSeries,"Crime, Drama, Mystery",7.2,57901.0,2018.0,ts58367
+tt1610527,Workaholics,tvSeries,Comedy,8.1,57781.0,2011.0,ts20672
+tt2250192,Sword Art Online,tvSeries,"Action, Adventure, Animation",7.5,57703.0,2012.0,ts89424
+tt9059350,Warrior Nun,tvSeries,"Action, Drama, Fantasy",7.0,57644.0,2020.0,ts89210
+tt0115082,3rd Rock from the Sun,tvSeries,"Comedy, Family, Sci-Fi",7.8,57562.0,1996.0,ts8936
+tt3489184,Constantine,tvSeries,"Crime, Drama, Fantasy",7.5,57513.0,2014.0,ts12730
+tt13315324,The Woman in the House Across the Street from the Girl in the Window,tvMiniSeries,"Comedy, Crime, Drama",6.4,57354.0,2022.0,ts256072
+tt7235466,9-1-1,tvSeries,"Action, Drama, Thriller",7.9,57197.0,2018.0,ts76876
+tt0434706,Monster,tvSeries,"Animation, Crime, Drama",8.7,57033.0,2004.0,ts31787
+tt8634332,The Righteous Gemstones,tvSeries,"Comedy, Drama",8.1,57013.0,2019.0,ts84322
+tt1442464,The Middle,tvSeries,"Comedy, Family",7.7,56761.0,2009.0,ts20562
+tt9253866,Our Planet,tvSeries,Documentary,9.2,56754.0,2019.0,ts85398
+tt9077530,Virgin River,tvSeries,"Drama, Romance",7.4,56625.0,2019.0,ts89840
+tt2710394,Reign,tvSeries,"Drama, History, Romance",7.5,56432.0,2013.0,ts20248
+tt0285333,Alias,tvSeries,"Action, Drama, Mystery",7.6,56363.0,2001.0,ts6574
+tt4299972,The Jinx: The Life and Deaths of Robert Durst,tvSeries,"Biography, Crime, Documentary",8.6,56276.0,2015.0,ts21650
+tt8289930,Formula 1: Drive to Survive,tvSeries,"Documentary, Sport",8.5,56175.0,2019.0,ts88613
+tt0115157,Dexter's Laboratory,tvSeries,"Adventure, Animation, Comedy",7.9,56095.0,1996.0,ts6589
+tt14269590,Poker Face,tvSeries,"Comedy, Crime, Drama",7.8,55870.0,2023.0,ts285062
+tt0383126,MythBusters,tvSeries,"Documentary, Mystery, Reality-TV",8.3,55866.0,2003.0,ts22226
+tt3358020,Parasyte: The Maxim,tvSeries,"Action, Animation, Drama",8.2,55847.0,2014.0,ts20250
+tt3281796,Power,tvSeries,"Crime, Drama",8.1,55808.0,2014.0,ts20296
+tt1103987,Leverage,tvSeries,"Crime, Mystery, Thriller",7.9,55798.0,2008.0,ts21206
+tt0094525,Poirot,tvSeries,"Crime, Drama, Mystery",8.6,55783.0,1989.0,ts2287
+tt0072562,Saturday Night Live,tvSeries,"Comedy, Music",8.0,55619.0,1975.0,ts20475
+tt5897304,Mob Psycho 100,tvSeries,"Action, Animation, Comedy",8.5,55546.0,2016.0,ts39013
+tt9139220,Dracula,tvMiniSeries,"Action, Drama, Fantasy",6.8,55322.0,2020.0,ts88379
+tt14186672,Landman,tvSeries,Drama,8.2,55305.0,2024.0,ts329867
+tt1582457,The Borgias,tvSeries,"Crime, Drama, History",7.9,55278.0,2011.0,ts6506
+tt10466872,Dune: Prophecy,tvSeries,"Action, Adventure, Drama",7.3,55258.0,2024.0,ts314377
+tt1592154,Nikita,tvSeries,"Action, Crime, Drama",7.7,55115.0,2010.0,ts21523
+tt8242548,Four More Shots Please,tvSeries,"Comedy, Drama, Romance",5.6,54980.0,2019.0,ts87694
+tt0275137,Justice League,tvSeries,"Action, Adventure, Animation",8.5,54805.0,2001.0,ts21873
+tt0290988,Trailer Park Boys,tvSeries,"Comedy, Crime",8.5,54725.0,2001.0,ts22267
+tt2937900,The Knick,tvSeries,"Drama, History",8.5,54548.0,2014.0,ts20732
+tt1286039,Stargate Universe,tvSeries,"Drama, Sci-Fi",7.6,54514.0,2009.0,ts20588
+tt0220880,Courage the Cowardly Dog,tvSeries,"Adventure, Animation, Comedy",8.3,54401.0,1999.0,ts4518
+tt7456722,Hunters,tvSeries,"Crime, Drama, Mystery",7.2,54302.0,2020.0,ts81219
+tt6548228,Castle Rock,tvSeries,"Drama, Fantasy, Horror",7.5,54165.0,2018.0,ts56374
+tt2384811,Utopia,tvSeries,"Drama, Mystery, Sci-Fi",8.4,53624.0,2013.0,ts80485
+tt8134186,Devs,tvMiniSeries,"Drama, Mystery, Sci-Fi",7.6,53520.0,2020.0,ts82907
+tt7817340,New Amsterdam,tvSeries,Drama,7.9,53430.0,2018.0,ts81927
+tt1480684,The League,tvSeries,"Comedy, Sport",8.2,53376.0,2009.0,ts20657
+tt5952634,The Spy,tvMiniSeries,"Biography, Drama, History",7.9,53185.0,2019.0,ts129445
+tt2654580,Almost Human,tvSeries,"Action, Crime, Drama",7.9,52947.0,2013.0,ts6021
+tt8788458,The Promised Neverland,tvSeries,"Action, Adventure, Animation",8.1,52910.0,2019.0,ts84633
+tt1135300,Dollhouse,tvSeries,"Drama, Mystery, Sci-Fi",7.7,52892.0,2009.0,ts6372
+tt2887954,Tokyo Vice,tvSeries,"Crime, Drama, Thriller",8.1,52848.0,2022.0,ts213237
+tt5770786,GLOW,tvSeries,"Comedy, Drama, Sport",8.0,52753.0,2017.0,ts55720
+tt7985576,The Serpent,tvMiniSeries,"Crime, Drama, Thriller",7.6,52631.0,2021.0,ts95572
+tt11815682,Hacks,tvSeries,"Comedy, Drama",8.2,52576.0,2021.0,ts287233
+tt0103584,X-Men,tvSeries,"Action, Adventure, Animation",8.4,52429.0,1992.0,ts22158
+tt0106080,The Nanny,tvSeries,"Comedy, Family, Romance",7.1,52368.0,1993.0,ts20952
+tt9471404,The Chosen,tvSeries,"Drama, History",9.2,51960.0,2017.0,ts247434
+tt9251798,Ragnarok,tvSeries,"Action, Drama, Fantasy",7.3,51895.0,2020.0,ts104401
+tt0402711,Boston Legal,tvSeries,"Comedy, Crime, Drama",8.5,51800.0,2004.0,ts10913
+tt6769208,Blue Planet II,tvMiniSeries,Documentary,9.3,51778.0,2017.0,ts75985
+tt1595859,Blue Bloods,tvSeries,"Crime, Drama, Mystery",7.7,51691.0,2010.0,ts10722
+tt0460644,Ghost Whisperer,tvSeries,"Drama, Fantasy",6.5,51371.0,2005.0,ts21863
+tt3865236,Into the Badlands,tvSeries,"Action, Adventure, Drama",7.9,51339.0,2015.0,ts36015
+tt0101120,Home Improvement,tvSeries,"Comedy, Family",7.2,51323.0,1991.0,ts21273
+tt3148266,12 Monkeys,tvSeries,"Adventure, Drama, Mystery",7.7,51212.0,2015.0,ts18876
+tt10850932,Crash Landing on You,tvSeries,"Adventure, Comedy, Drama",8.7,50991.0,2019.0,ts222439
+tt14044212,Mr. & Mrs. Smith,tvSeries,"Action, Comedy, Crime",7.0,50984.0,2024.0,ts272814
+tt0395843,CSI: NY,tvSeries,"Action, Crime, Drama",7.0,50776.0,2004.0,ts17931
+tt22074164,Jury Duty,tvSeries,Comedy,8.2,50749.0,2023.0,ts368035
+tt15477488,Farzi,tvSeries,"Crime, Drama, Thriller",8.3,50710.0,2023.0,ts306198
+tt8068860,Servant,tvSeries,"Drama, Horror, Mystery",7.4,50631.0,2019.0,ts89568
+tt0175058,The Powerpuff Girls,tvSeries,"Action, Adventure, Animation",7.3,50620.0,1998.0,ts22135
+tt13706018,Spy x Family,tvSeries,"Action, Animation, Comedy",8.3,50618.0,2022.0,ts283022
+tt2699110,The Affair,tvSeries,Drama,7.9,50576.0,2014.0,ts4647
+tt15320362,All the Light We Cannot See,tvMiniSeries,"Drama, History, War",7.5,50429.0,2023.0,ts308915
+tt0088526,The Golden Girls,tvSeries,"Comedy, Drama",8.2,50237.0,1985.0,ts21579
+tt5743796,Warrior,tvSeries,"Action, Crime, Drama",8.4,50081.0,2019.0,ts75230
+tt6317068,Final Space,tvSeries,"Action, Adventure, Animation",8.2,49959.0,2018.0,ts76053
+tt3655448,The Young Pope,tvMiniSeries,Drama,8.3,49707.0,2016.0,ts41827
+tt15469618,Bad Sisters,tvSeries,"Comedy, Drama, Thriller",8.2,49544.0,2022.0,ts313110
+tt0235918,The Fairly OddParents,tvSeries,"Adventure, Animation, Comedy",7.2,49494.0,2001.0,ts19036
+tt1837654,The Secret Circle,tvSeries,"Drama, Fantasy, Horror",7.3,49439.0,2011.0,ts20662
+tt5511582,Timeless,tvSeries,"Action, Adventure, Drama",7.6,49378.0,2016.0,ts41974
+tt17220216,Monarch: Legacy of Monsters,tvSeries,"Action, Adventure, Sci-Fi",7.0,49352.0,2023.0,ts353429
+tt14016500,The Summer I Turned Pretty,tvSeries,"Drama, Romance",7.3,49337.0,2022.0,ts281544
+tt2100976,Impractical Jokers,tvSeries,"Comedy, Reality-TV",8.6,49191.0,2011.0,ts20618
+tt6905686,Lovecraft Country,tvSeries,"Drama, Fantasy, Horror",7.1,49172.0,2020.0,ts84351
+tt13911628,Lessons in Chemistry,tvMiniSeries,Drama,8.2,49130.0,2023.0,ts271816
+tt2805096,Chicago P.D.,tvSeries,"Action, Crime, Drama",8.1,49094.0,2014.0,ts3447
+tt9737326,Invasion,tvSeries,"Drama, Fantasy, Sci-Fi",6.2,49030.0,2021.0,ts289342
+tt11247158,The Legend of Vox Machina,tvSeries,"Action, Adventure, Animation",8.4,48998.0,2022.0,ts230063
+tt4145384,Scream Queens,tvSeries,"Comedy, Horror, Mystery",7.1,48892.0,2015.0,ts35835
+tt0115147,The Daily Show,tvSeries,"Comedy, News, Talk-Show",8.3,48889.0,1996.0,ts15312
+tt1641384,Young Justice,tvSeries,"Action, Adventure, Animation",8.6,48619.0,2010.0,ts20647
+tt7661390,Gangs of London,tvSeries,"Action, Crime, Drama",8.0,48499.0,2020.0,ts86545
+tt7671598,Messiah,tvSeries,"Drama, Mystery, Thriller",7.6,48426.0,2020.0,ts82851
+tt9055008,Evil,tvSeries,"Crime, Drama, Horror",7.8,48314.0,2019.0,ts88376
+tt0105958,Boy Meets World,tvSeries,"Comedy, Drama, Family",8.1,48284.0,1993.0,ts2431
+tt0098844,Law & Order,tvSeries,"Crime, Drama, Mystery",7.8,48187.0,1990.0,ts21837
+tt0319969,Carnivàle,tvSeries,"Drama, Fantasy, Mystery",8.4,48179.0,2003.0,ts8782
+tt0163507,Whose Line Is It Anyway?,tvSeries,"Comedy, Game-Show",8.5,48025.0,1998.0,ts25314
+tt0094540,Roseanne,tvSeries,"Comedy, Drama",7.1,48006.0,1988.0,ts21349
+tt0081846,Cosmos,tvMiniSeries,Documentary,9.3,47895.0,1980.0,ts2887
+tt14664414,Young Royals,tvSeries,"Drama, Romance",8.2,47727.0,2021.0,ts287976
+tt5435008,Gilmore Girls: A Year in the Life,tvMiniSeries,"Comedy, Drama",7.5,47721.0,2016.0,ts52830
+tt0437745,Robot Chicken,tvSeries,"Adventure, Animation, Comedy",7.7,47663.0,2005.0,ts22314
+tt23872886,Zero Day,tvMiniSeries,"Drama, Thriller",7.0,47658.0,2025.0,ts374162
+tt0389564,The 4400,tvSeries,"Drama, Mystery, Sci-Fi",7.3,47654.0,2004.0,ts687
+tt1942683,The Amazing World of Gumball,tvSeries,"Adventure, Animation, Comedy",8.4,47584.0,2011.0,ts9006
+tt15837600,Griselda,tvMiniSeries,"Biography, Crime, Drama",7.2,47540.0,2024.0,ts317123
+tt2049116,Gomorrah,tvSeries,"Crime, Drama, Thriller",8.6,47512.0,2014.0,ts20303
+tt0972534,iCarly,tvSeries,"Comedy, Family, Romance",6.8,47500.0,2007.0,ts22018
+tt8712204,Batwoman,tvSeries,"Action, Adventure, Crime",3.6,47453.0,2019.0,ts90742
+tt1441109,Cougar Town,tvSeries,"Comedy, Romance",7.1,46979.0,2009.0,ts15860
+tt0433309,Numb3rs,tvSeries,"Crime, Drama, Mystery",6.9,46923.0,2005.0,ts20533
+tt12785720,The Witcher: Blood Origin,tvMiniSeries,"Action, Adventure, Drama",4.9,46915.0,2022.0,ts251602
+tt4159076,Dark Matter,tvSeries,"Adventure, Drama, Mystery",7.5,46862.0,2015.0,ts35253
+tt1225901,90210,tvSeries,"Comedy, Drama, Romance",6.2,46858.0,2008.0,ts6375
+tt3921180,Scream: The TV Series,tvSeries,"Comedy, Crime, Drama",7.0,46708.0,2015.0,ts35554
+tt11192306,Superman & Lois,tvSeries,"Action, Adventure, Drama",7.7,46629.0,2021.0,ts222614
+tt3581932,And Then There Were None,tvMiniSeries,"Crime, Drama, Mystery",7.8,46533.0,2015.0,ts42046
+tt31938062,The Pitt,tvSeries,Drama,8.9,46524.0,2025.0,ts433871
+tt1663676,Awkward.,tvSeries,"Comedy, Drama, Romance",7.5,46388.0,2011.0,ts4065
+tt0118300,Dawson's Creek,tvSeries,"Drama, Romance",6.8,46370.0,1998.0,ts9583
+tt15438246,Kaleidoscope,tvMiniSeries,"Action, Crime, Drama",6.6,46306.0,2023.0,ts328355
+tt5574490,Animal Kingdom,tvSeries,"Crime, Drama",8.2,46203.0,2016.0,ts41985
+tt0111958,Father Ted,tvSeries,Comedy,8.6,46186.0,1995.0,ts4613
+tt13111040,The Offer,tvMiniSeries,"Biography, Crime, Drama",8.6,46006.0,2022.0,ts259709
+tt11000902,Our Flag Means Death,tvSeries,"Action, Adventure, Biography",7.7,45750.0,2022.0,ts227727
+tt7255502,The Kominsky Method,tvSeries,"Comedy, Drama",8.2,45712.0,2018.0,ts82849
+tt0296310,The Blue Planet,tvSeries,Documentary,9.0,45709.0,2001.0,ts83
+tt1533395,Life,tvMiniSeries,Documentary,9.1,45706.0,2009.0,ts22014
+tt0493093,Hannah Montana,tvSeries,"Comedy, Family, Music",5.4,45611.0,2006.0,ts20626
+tt2189221,Defiance,tvSeries,"Action, Drama, Sci-Fi",7.0,45588.0,2013.0,ts9310
+tt0363328,Drake & Josh,tvSeries,"Comedy, Family",7.7,45321.0,2004.0,ts8300
+tt0348913,Dead Like Me,tvSeries,"Comedy, Drama, Fantasy",8.1,45069.0,2003.0,ts9217
+tt1466074,Columbo,tvSeries,"Crime, Drama, Mystery",8.3,45069.0,1971.0,ts56
+tt0115341,Sabrina the Teenage Witch,tvSeries,"Comedy, Family, Fantasy",6.7,45068.0,1996.0,ts21011
+tt1267295,Cowboy Bebop,tvSeries,"Action, Adventure, Comedy",6.7,45048.0,2021.0,ts85985
+tt1703925,Wilfred,tvSeries,"Comedy, Drama, Mystery",7.8,45047.0,2011.0,ts20676
+tt16026746,X-Men '97,tvSeries,"Action, Adventure, Animation",8.7,44989.0,2024.0,ts317435
+tt0375355,Joey,tvSeries,"Comedy, Romance",6.0,44979.0,2004.0,ts22340
+tt3398540,Haikyu!!,tvSeries,"Animation, Comedy, Drama",8.7,44923.0,2014.0,ts20112
+tt14218830,Abbott Elementary,tvSeries,Comedy,8.2,44769.0,2021.0,ts290153
+tt0063950,"Scooby Doo, Where Are You!",tvSeries,"Adventure, Animation, Comedy",7.9,44706.0,1969.0,ts22230
+tt13966962,Echo,tvMiniSeries,"Action, Adventure, Crime",5.9,44702.0,2023.0,ts286147
+tt2452242,Happy!,tvSeries,"Action, Comedy, Crime",8.1,44662.0,2017.0,ts57850
+tt1830379,Top Boy,tvSeries,"Crime, Drama, Thriller",8.4,44551.0,2011.0,ts33338
+tt11685912,Outer Range,tvSeries,"Drama, Mystery, Thriller",7.1,44447.0,2022.0,ts269167
+tt4122068,Humans,tvSeries,"Drama, Sci-Fi",7.9,44385.0,2015.0,ts35575
+tt4998212,The Ranch,tvSeries,"Comedy, Western",7.5,44150.0,2016.0,ts41149
+tt3895150,Your Lie in April,tvSeries,"Animation, Comedy, Drama",8.5,44088.0,2014.0,ts20249
+tt6932244,Hanna,tvSeries,"Action, Crime, Drama",7.6,44051.0,2019.0,ts47256
+tt0460637,Everybody Hates Chris,tvSeries,"Comedy, Drama, Music",7.6,43999.0,2005.0,ts15200
+tt9184994,How to Sell Drugs Online (Fast),tvSeries,"Comedy, Crime, Drama",7.8,43952.0,2019.0,ts89744
+tt1195935,The Cleveland Show,tvSeries,"Adventure, Animation, Comedy",5.6,43871.0,2009.0,ts9520
+tt14586350,Love & Death,tvMiniSeries,"Biography, Crime, Drama",7.5,43766.0,2023.0,ts288230
+tt0084967,The A-Team,tvSeries,"Action, Adventure, Crime",7.5,43758.0,1983.0,ts11001
+tt1821681,Touch,tvSeries,"Drama, Mystery, Sci-Fi",7.3,43723.0,2012.0,ts20426
+tt0088559,MacGyver,tvSeries,"Action, Adventure, Crime",7.6,43707.0,1985.0,ts41580
+tt4181172,Shooter,tvSeries,"Action, Drama",7.5,43694.0,2016.0,ts41975
+tt2309295,Hemlock Grove,tvSeries,"Drama, Fantasy, Horror",7.0,43669.0,2013.0,ts20097
+tt2297757,Nathan for You,tvSeries,"Comedy, Documentary",8.9,43580.0,2013.0,ts37645
+tt13623148,I Am Groot,tvSeries,"Action, Adventure, Animation",6.7,43237.0,2022.0,ts369364
+tt9244578,Rise of Empires: Ottoman,tvSeries,"Documentary, Drama, History",8.0,43215.0,2020.0,ts92547
+tt8550732,Kaos,tvSeries,"Comedy, Drama, Fantasy",7.4,43151.0,2024.0,ts94351
+tt3061046,Steven Universe,tvSeries,"Action, Adventure, Animation",8.1,43140.0,2013.0,ts20113
+tt2359704,JoJo's Bizarre Adventure,tvSeries,"Action, Adventure, Animation",8.5,43098.0,2012.0,ts30637
+tt0053502,The Flintstones,tvSeries,"Adventure, Animation, Comedy",7.5,42966.0,1960.0,ts15523
+tt4326894,F Is for Family,tvSeries,"Animation, Comedy, Drama",8.0,42926.0,2015.0,ts36856
+tt1519931,Haven,tvSeries,"Crime, Drama, Fantasy",7.5,42835.0,2010.0,ts21542
+tt6486762,The Continental,tvMiniSeries,"Action, Crime, Thriller",7.1,42834.0,2023.0,ts58272
+tt2712740,The Goldbergs,tvSeries,Comedy,8.0,42697.0,2013.0,ts20229
+tt27444205,Paradise,tvSeries,"Action, Drama, Thriller",7.9,42645.0,2025.0,ts421489
+tt0084988,Blackadder,tvSeries,Comedy,8.0,42550.0,1982.0,ts10018
+tt5011816,Sneaky Pete,tvSeries,"Comedy, Crime, Drama",8.0,42513.0,2015.0,ts37909
+tt0094582,The Wonder Years,tvSeries,"Comedy, Drama, Family",8.4,42376.0,1988.0,ts21338
+tt9827854,Hollywood,tvMiniSeries,"Drama, History",7.5,42294.0,2020.0,ts88577
+tt1615919,Raising Hope,tvSeries,"Comedy, Family",8.1,42165.0,2010.0,ts21427
+tt13659418,Pam & Tommy,tvMiniSeries,"Biography, Comedy, Drama",7.3,42131.0,2022.0,ts269916
+tt0118401,Midsomer Murders,tvSeries,"Crime, Drama, Mystery",7.9,42099.0,1997.0,ts22228
+tt3909224,The Seven Deadly Sins,tvSeries,"Action, Adventure, Animation",7.7,42049.0,2014.0,ts314002
+tt1836037,Longmire,tvSeries,"Action, Crime, Drama",8.3,42048.0,2012.0,ts21580
+tt4406178,The Gilded Age,tvSeries,Drama,8.0,42018.0,2022.0,ts83267
+tt9859436,The Walking Dead: The Ones Who Live,tvMiniSeries,"Drama, Horror, Thriller",7.8,41977.0,2024.0,ts360283
+tt5774002,Jupiter's Legacy,tvSeries,"Action, Adventure, Drama",6.7,41938.0,2021.0,ts287559
+tt3228904,Empire,tvSeries,"Drama, Music",7.4,41910.0,2015.0,ts10642
+tt12324366,Percy Jackson and the Olympians,tvSeries,"Action, Adventure, Family",7.0,41890.0,2023.0,ts237578
+tt7441658,Black Clover,tvSeries,"Action, Adventure, Animation",8.2,41832.0,2017.0,ts296797
+tt8749198,Daisy Jones & The Six,tvSeries,"Drama, Music, Romance",8.1,41794.0,2023.0,ts93861
+tt0187636,Farscape,tvSeries,"Action, Adventure, Drama",8.2,41747.0,1999.0,ts13686
+tt22248376,Frieren: Beyond Journey's End,tvSeries,"Adventure, Animation, Comedy",8.9,41687.0,2023.0,ts364792
+tt1819509,Don't Trust the B---- in Apartment 23,tvSeries,Comedy,7.3,41644.0,2012.0,ts14526
+tt0426371,The Suite Life of Zack & Cody,tvSeries,"Comedy, Family",6.6,41627.0,2005.0,ts21857
+tt5164196,Lethal Weapon,tvSeries,"Action, Adventure, Comedy",7.8,41619.0,2016.0,ts41938
+tt2660806,Mom,tvSeries,"Comedy, Drama, Romance",7.4,41426.0,2013.0,ts20125
+tt4320258,Resurrection: Ertugrul,tvSeries,"Action, Adventure, Drama",7.9,41360.0,2014.0,ts42168
+tt11379026,Ghosts,tvSeries,"Comedy, Fantasy",7.9,41285.0,2021.0,ts67396
+tt0090390,ALF,tvSeries,"Comedy, Family, Sci-Fi",7.4,41218.0,1986.0,ts18775
+tt1416765,Parenthood,tvSeries,"Comedy, Drama",8.3,41172.0,2010.0,ts21428
+tt4644488,Dragon Ball Super,tvSeries,"Action, Adventure, Animation",8.3,41132.0,2015.0,ts35573
+tt5288312,Skam,tvSeries,"Drama, Romance",8.6,41002.0,2015.0,ts39057
+tt12451520,It's Okay to Not Be Okay,tvSeries,"Comedy, Drama, Romance",8.6,40957.0,2020.0,ts223404
+tt1587678,Happy Endings,tvSeries,"Comedy, Romance",7.8,40951.0,2011.0,ts21806
+tt8682948,The Act,tvMiniSeries,"Biography, Crime, Drama",7.8,40922.0,2019.0,ts84419
+tt10147644,The Innocent,tvMiniSeries,"Crime, Drama, Mystery",7.8,40910.0,2021.0,ts287438
+tt0118360,Johnny Bravo,tvSeries,"Adventure, Animation, Comedy",7.2,40907.0,1997.0,ts21703
+tt13819960,And Just Like That...,tvSeries,"Comedy, Drama, Romance",5.7,40899.0,2021.0,ts278961
+tt0343314,Teen Titans,tvSeries,"Action, Adventure, Animation",7.9,40818.0,2003.0,ts21776
+tt3843168,Z Nation,tvSeries,"Action, Comedy, Drama",6.7,40796.0,2014.0,ts20791
+tt1534360,Ezel,tvSeries,"Crime, Drama, Thriller",8.6,40776.0,2009.0,ts19356
+tt1728102,Alcatraz,tvSeries,"Action, Crime, Drama",6.9,40708.0,2012.0,ts5210
+tt2201227,Stay Close,tvMiniSeries,"Comedy, Crime, Drama",6.9,40689.0,2021.0,ts281927
+tt0056751,Doctor Who,tvSeries,"Adventure, Drama, Family",8.4,40676.0,1963.0,ts422861
+tt4565380,Fauda,tvSeries,"Action, Drama, Thriller",8.3,40672.0,2015.0,ts53664
+tt4209256,Colony,tvSeries,"Action, Adventure, Drama",7.3,40644.0,2016.0,ts35872
+tt0799922,Wizards of Waverly Place,tvSeries,"Adventure, Comedy, Drama",6.9,40539.0,2007.0,ts22467
+tt7472896,Mr Inbetween,tvSeries,"Comedy, Crime, Drama",8.7,40457.0,2018.0,ts82916
+tt6483832,The Resident,tvSeries,Drama,7.8,40453.0,2018.0,ts75682
+tt20723374,Star Wars: Tales of the Jedi,tvMiniSeries,"Action, Adventure, Animation",8.1,40399.0,2022.0,ts353971
+tt0101188,Rugrats,tvSeries,"Adventure, Animation, Comedy",7.4,40014.0,1991.0,ts21315
+tt8778064,The Society,tvSeries,"Drama, Mystery, Sci-Fi",7.1,40013.0,2019.0,ts86165
+tt1034007,Alias Grace,tvMiniSeries,"Biography, Crime, Drama",7.6,39998.0,2017.0,ts58155
+tt0108941,The Stand,tvMiniSeries,"Adventure, Drama, Fantasy",7.1,39966.0,1994.0,ts87912
+tt10166622,The Dropout,tvMiniSeries,"Biography, Drama",7.5,39906.0,2022.0,ts285693
+tt8103070,Legacies,tvSeries,"Adventure, Drama, Fantasy",7.2,39873.0,2018.0,ts81064
+tt10948716,Inside Man,tvSeries,"Crime, Drama, Mystery",6.7,39814.0,2022.0,ts285577
+tt1551632,Rizzoli & Isles,tvSeries,"Crime, Drama, Mystery",7.7,39748.0,2010.0,ts21532
+tt10574236,Station Eleven,tvMiniSeries,"Adventure, Drama, Fantasy",7.6,39494.0,2021.0,ts216284
+tt5269594,Marcella,tvSeries,"Crime, Drama, Mystery",7.3,39462.0,2016.0,ts38734
+tt2137109,Masters of Sex,tvSeries,"Drama, Romance",7.9,39454.0,2013.0,ts20045
+tt8369840,Another Life,tvSeries,"Adventure, Drama, Mystery",5.3,39430.0,2019.0,ts80709
+tt4396630,The Gifted,tvSeries,"Action, Drama, Fantasy",7.2,39390.0,2017.0,ts53744
+tt0480489,Elfen Lied,tvSeries,"Action, Animation, Drama",7.9,39378.0,2004.0,ts15638
+tt0083437,Knight Rider,tvSeries,"Action, Crime, Drama",6.9,39374.0,1982.0,ts22082
+tt14417718,The Crowded Room,tvMiniSeries,"Biography, Crime, Drama",7.7,39371.0,2023.0,ts288696
+tt0131613,Teenage Mutant Ninja Turtles,tvSeries,"Action, Adventure, Animation",7.9,39349.0,1987.0,ts21095
+tt0098749,"Beverly Hills, 90210",tvSeries,"Drama, Romance",6.5,39307.0,1990.0,ts2996
+tt9140342,It's a Sin,tvMiniSeries,Drama,8.6,39299.0,2021.0,ts270943
+tt16283824,Eric,tvMiniSeries,"Crime, Drama, Thriller",6.9,39296.0,2024.0,ts320732
+tt0285351,According to Jim,tvSeries,"Comedy, Romance",6.5,39241.0,2001.0,ts13620
+tt1998372,Under the Banner of Heaven,tvMiniSeries,"Crime, Drama, Mystery",7.5,39184.0,2022.0,ts312513
+tt6439752,Snowfall,tvSeries,"Crime, Drama",8.4,39157.0,2017.0,ts57100
+tt16418808,Sugar,tvSeries,"Crime, Drama, Mystery",7.4,39147.0,2024.0,ts354573
+tt9012876,Firefly Lane,tvSeries,"Drama, Romance",7.7,39080.0,2021.0,ts88578
+tt1828327,Last Man Standing,tvSeries,Comedy,7.5,39058.0,2011.0,ts20534
+tt2103085,Top of the Lake,tvSeries,"Crime, Drama, Mystery",7.4,38824.0,2013.0,ts20848
+tt0096694,Saved by the Bell,tvSeries,"Comedy, Family, Romance",7.1,38805.0,1989.0,ts20678
+tt14524712,Beckham,tvMiniSeries,"Biography, Documentary, Sport",8.1,38757.0,2023.0,ts293458
+tt2193041,Beauty and the Beast,tvSeries,"Drama, Horror, Romance",7.0,38657.0,2012.0,ts5353
+tt12748084,Anatomy of a Scandal,tvMiniSeries,"Drama, Mystery, Thriller",7.0,38540.0,2022.0,ts264270
+tt13444912,The Midnight Club,tvSeries,"Drama, Horror, Mystery",6.5,38521.0,2022.0,ts288268
+tt8543390,Modern Love,tvSeries,"Comedy, Drama, Romance",7.9,38510.0,2019.0,ts283298
+tt7678620,Bluey,tvSeries,"Animation, Family",9.3,38476.0,2018.0,ts84270
+tt0373732,The Boondocks,tvSeries,"Action, Animation, Comedy",8.5,38472.0,2005.0,ts17808
+tt12940504,My Name,tvSeries,"Action, Crime, Drama",7.8,38437.0,2021.0,ts328194
+tt7668518,The Protector,tvSeries,"Action, Adventure, Drama",6.4,38400.0,2018.0,ts80617
+tt0472027,John Adams,tvMiniSeries,"Biography, Drama, History",8.4,38356.0,2008.0,ts21884
+tt0094535,Red Dwarf,tvSeries,"Comedy, Sci-Fi",8.4,38315.0,1988.0,ts21336
+tt1073507,Party Down,tvSeries,"Comedy, Drama",8.2,38294.0,2009.0,ts20552
+tt11612120,Sweet Home,tvSeries,"Drama, Fantasy, Horror",7.2,38280.0,2020.0,ts232446
+tt0115200,Hey Arnold!,tvSeries,"Animation, Comedy, Family",7.6,38091.0,1996.0,ts21080
+tt6111130,S.W.A.T.,tvSeries,"Action, Adventure, Crime",7.2,38038.0,2017.0,ts304703
+tt0096684,Quantum Leap,tvSeries,"Action, Adventure, Drama",8.2,37963.0,1989.0,ts20702
+tt3636060,Poldark,tvSeries,"Drama, Romance",8.3,37860.0,2015.0,ts21594
+tt0118254,Ally McBeal,tvSeries,"Comedy, Drama, Fantasy",6.9,37821.0,1997.0,ts9612
+tt10919486,Into the Night,tvSeries,"Drama, Sci-Fi, Thriller",7.0,37722.0,2020.0,ts287836
+tt2660734,The Tomorrow People,tvSeries,"Action, Drama, Sci-Fi",7.2,37638.0,2013.0,ts20841
+tt0112175,Spider-Man: The Animated Series,tvSeries,"Action, Adventure, Animation",8.4,37601.0,1994.0,ts21709
+tt2578560,Broad City,tvSeries,Comedy,8.4,37401.0,2014.0,ts6339
+tt6473344,SEAL Team,tvSeries,"Action, Drama, War",7.9,37384.0,2017.0,ts57189
+tt11324406,The Staircase,tvMiniSeries,"Biography, Crime, Drama",7.1,37293.0,2022.0,ts26091
+tt1582350,Episodes,tvSeries,Comedy,7.8,37216.0,2011.0,ts7854
+tt21344706,The Glory,tvSeries,"Drama, Mystery, Thriller",8.1,37182.0,2022.0,ts314025
+tt0790772,Rules of Engagement,tvSeries,"Comedy, Romance",7.4,37000.0,2007.0,ts22295
+tt0844653,Legend of the Seeker,tvSeries,"Action, Adventure, Drama",7.6,36986.0,2008.0,ts20465
+tt7768848,Wild Wild Country,tvMiniSeries,"Crime, Documentary",8.1,36984.0,2018.0,ts79229
+tt6873658,The Mechanism,tvSeries,"Crime, Drama, Thriller",8.0,36957.0,2018.0,ts78590
+tt9794044,Citadel,tvSeries,"Action, Drama, Thriller",6.2,36896.0,2023.0,ts91583
+tt2543312,Halt and Catch Fire,tvSeries,Drama,8.4,36820.0,2014.0,ts20117
+tt0417349,North & South,tvMiniSeries,"Drama, Romance",8.5,36734.0,2004.0,ts22457
+tt2616280,Derek,tvSeries,"Comedy, Drama",8.1,36728.0,2012.0,ts2727
+tt8880894,Living with Yourself,tvSeries,"Comedy, Drama, Sci-Fi",7.1,36694.0,2019.0,ts83082
+tt0092345,DuckTales,tvSeries,"Action, Adventure, Animation",8.0,36442.0,1987.0,ts146
+tt8923854,Black Summer,tvSeries,"Action, Drama, Horror",6.6,36429.0,2019.0,ts89564
+tt20600980,Skeleton Crew,tvSeries,"Action, Adventure, Sci-Fi",7.1,36343.0,2024.0,ts353851
+tt1064899,Queen of the South,tvSeries,"Action, Crime, Drama",8.0,36264.0,2016.0,ts41961
+tt8879940,Mythic Quest,tvSeries,Comedy,7.7,36071.0,2020.0,ts287697
+tt32252772,Dexter: Original Sin,tvSeries,"Crime, Drama, Mystery",8.2,36032.0,2024.0,ts381119
+tt0105946,Babylon 5,tvSeries,"Action, Adventure, Drama",8.4,36000.0,1993.0,ts13208
+tt0874936,Life,tvSeries,"Crime, Drama, Mystery",8.3,35967.0,2007.0,ts22014
+tt13640670,Man vs. Bee,tvSeries,"Comedy, Family, Short",6.7,35841.0,2022.0,ts277084
+tt2211129,The Mindy Project,tvSeries,Comedy,7.5,35833.0,2012.0,ts21503
+tt2092588,Frozen Planet,tvMiniSeries,Documentary,9.0,35627.0,2011.0,ts20620
+tt8694364,Years and Years,tvMiniSeries,"Drama, Sci-Fi",8.3,35538.0,2019.0,ts88636
+tt0204993,Dark Angel,tvSeries,"Action, Drama, Mystery",7.4,35506.0,2000.0,ts6232
+tt1255913,Bored to Death,tvSeries,"Comedy, Crime, Drama",7.8,35441.0,2009.0,ts6889
+tt0105950,Beavis and Butt-Head,tvSeries,"Animation, Comedy, Music",7.5,35372.0,1993.0,ts6139
+tt9054904,Why Women Kill,tvSeries,"Comedy, Crime, Drama",8.3,35314.0,2019.0,ts88950
+tt16294384,Disclaimer,tvSeries,"Drama, Mystery, Thriller",7.5,35288.0,2024.0,ts320076
+tt16288804,Berlin,tvSeries,"Action, Crime, Drama",7.0,35231.0,2023.0,ts326764
+tt3766376,Vice Principals,tvSeries,Comedy,8.0,35204.0,2016.0,ts38803
+tt1702042,An Idiot Abroad,tvSeries,"Adventure, Comedy, Documentary",8.3,35121.0,2010.0,ts7814
+tt7562112,Pose,tvSeries,Drama,8.6,35092.0,2018.0,ts80677
+tt14824792,Ted,tvSeries,Comedy,7.9,35048.0,2024.0,ts352693
+tt8295472,The Order,tvSeries,"Drama, Fantasy, Horror",6.7,35040.0,2019.0,ts83657
+tt0380136,QI,tvSeries,"Comedy, Game-Show",8.6,34902.0,2003.0,ts21746
+tt8740614,The Residence,tvMiniSeries,"Comedy, Crime, Drama",7.7,34805.0,2025.0,ts416125
+tt9679542,Dr. Stone,tvSeries,"Action, Adventure, Animation",8.1,34722.0,2019.0,ts87563
+tt10278918,Willow,tvSeries,"Action, Adventure, Drama",5.7,34708.0,2022.0,ts187000
+tt7078180,Violet Evergarden,tvMiniSeries,"Animation, Drama, Family",8.4,34692.0,2018.0,ts76869
+tt10231312,Inside Job,tvSeries,"Adventure, Animation, Comedy",7.7,34661.0,2021.0,ts311985
+tt13433812,Vincenzo,tvSeries,"Action, Comedy, Crime",8.4,34571.0,2021.0,ts271867
+tt1492179,Strike Back,tvSeries,"Action, Drama, Thriller",8.1,34538.0,2010.0,ts21471
+tt6487482,Insatiable,tvSeries,"Comedy, Drama, Thriller",6.5,34532.0,2018.0,ts82302
+tt9170236,Pieces of Her,tvMiniSeries,"Crime, Drama, Mystery",6.3,34475.0,2022.0,ts225061
+tt1453159,The Pillars of the Earth,tvMiniSeries,"Drama, Romance, Thriller",8.0,34467.0,2010.0,ts21453
+tt4192812,Unforgotten,tvSeries,"Crime, Drama, Mystery",8.4,34459.0,2015.0,ts36929
+tt14168162,Bosch: Legacy,tvSeries,"Crime, Drama",8.4,34390.0,2022.0,ts320489
+tt30003786,The Great Indian Kapil Show,tvSeries,"Comedy, Talk-Show",6.4,34332.0,2024.0,ts411558
+tt0278866,Kim Possible,tvSeries,"Action, Adventure, Animation",7.2,34268.0,2002.0,ts20394
+tt8210856,Cursed,tvSeries,"Adventure, Drama, Fantasy",6.0,34254.0,2020.0,ts84661
+tt5853176,The Good Fight,tvSeries,"Crime, Drama",8.3,34247.0,2017.0,ts296864
+tt6877772,American Vandal,tvSeries,"Comedy, Crime, Drama",8.1,34122.0,2017.0,ts74816
+tt6586318,Patrick Melrose,tvMiniSeries,Drama,8.0,34084.0,2018.0,ts58356
+tt9425132,Conversations with a Killer: The Ted Bundy Tapes,tvMiniSeries,"Biography, Crime, Documentary",7.7,34039.0,2019.0,ts87364
+tt0830361,The Lost Room,tvMiniSeries,"Action, Fantasy, Mystery",8.1,34021.0,2006.0,ts20645
+tt1883092,Generation War,tvMiniSeries,"Action, Drama, History",8.4,34002.0,2013.0,ts34566
+tt1429449,Lost Girl,tvSeries,"Action, Drama, Fantasy",7.6,33969.0,2010.0,ts21856
+tt0478942,Life on Mars,tvSeries,"Crime, Drama, Mystery",8.3,33935.0,2006.0,ts29096
+tt3742982,Akame ga Kill!,tvSeries,"Action, Animation, Comedy",7.8,33901.0,2014.0,ts20066
+tt15574312,The Patient,tvMiniSeries,"Drama, Mystery, Thriller",7.0,33847.0,2022.0,ts315626
+tt14819828,Business Proposal,tvSeries,"Comedy, Drama, Romance",8.1,33836.0,2022.0,ts321298
+tt1983079,Call the Midwife,tvSeries,"Drama, History",8.6,33613.0,2012.0,ts8175
+tt4998350,The Deuce,tvSeries,"Crime, Drama, Mystery",8.1,33592.0,2017.0,ts42172
+tt8910922,Solar Opposites,tvSeries,"Adventure, Animation, Comedy",7.9,33553.0,2020.0,ts106499
+tt1958961,Lilyhammer,tvSeries,"Comedy, Crime, Drama",7.9,33521.0,2012.0,ts20500
+tt5607616,Re: Zero - Starting Life in Another World,tvSeries,"Adventure, Animation, Drama",8.1,33519.0,2016.0,ts41257
+tt1741256,Suburgatory,tvSeries,Comedy,7.2,33467.0,2011.0,ts22278
+tt0368479,Cold Case,tvSeries,"Crime, Drama, Mystery",7.6,33397.0,2003.0,ts2578
+tt11816814,Painkiller,tvMiniSeries,"Crime, Drama",7.4,33296.0,2023.0,ts245316
+tt20869502,Extraordinary Attorney Woo,tvSeries,Drama,8.6,33286.0,2022.0,ts344162
+tt5994364,Guardian: The Lonely and Great God,tvSeries,"Comedy, Drama, Fantasy",8.6,33230.0,2016.0,ts47503
+tt5368542,The Exorcist,tvSeries,"Drama, Horror, Mystery",7.9,32964.0,2016.0,ts41145
+tt10839422,Sex/Life,tvSeries,"Comedy, Drama, Romance",5.6,32921.0,2021.0,ts289334
+tt2372220,The White Queen,tvMiniSeries,"Drama, History, Romance",7.7,32864.0,2013.0,ts20765
+tt11212276,The Sex Lives of College Girls,tvSeries,Comedy,7.7,32854.0,2021.0,ts229732
+tt4643084,Counterpart,tvSeries,"Drama, Sci-Fi, Thriller",8.0,32843.0,2017.0,ts37023
+tt26670955,A Man on the Inside,tvSeries,"Comedy, Crime",7.7,32842.0,2024.0,ts381233
+tt30217403,Dandadan,tvSeries,"Action, Adventure, Animation",8.4,32823.0,2024.0,ts413191
+tt11847842,The Tourist,tvSeries,"Action, Drama, Mystery",7.1,32684.0,2022.0,ts284927
+tt13062500,The Walking Dead: Daryl Dixon,tvSeries,"Drama, Horror",7.5,32652.0,2023.0,ts260403
+tt1986770,Anger Management,tvSeries,"Comedy, Romance",6.6,32508.0,2012.0,ts2186
+tt4647692,Letterkenny,tvSeries,Comedy,8.6,32435.0,2016.0,ts42173
+tt6660498,Devilman Crybaby,tvMiniSeries,"Action, Animation, Drama",7.6,32351.0,2018.0,ts76865
+tt3960394,Interview with the Vampire,tvSeries,"Drama, Fantasy, Horror",7.5,32343.0,2022.0,ts56839
+tt0914387,Damages,tvSeries,"Crime, Drama, Mystery",8.1,32308.0,2007.0,ts1597
+tt13651632,Night Stalker: The Hunt for a Serial Killer,tvMiniSeries,"Crime, Documentary, Mystery",7.5,32299.0,2021.0,ts271413
+tt10405370,Rogue Heroes,tvSeries,"Action, Drama, Thriller",8.2,32283.0,2022.0,ts213451
+tt4655480,Chicago Med,tvSeries,Drama,7.6,32258.0,2015.0,ts37490
+tt0412175,Medium,tvSeries,"Crime, Drama, Fantasy",7.1,32249.0,2005.0,ts21457
+tt8342862,Evil Genius: The True Story of America's Most Diabolical Bank Heist,tvMiniSeries,"Crime, Documentary",7.5,32197.0,2018.0,ts80705
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978
+tt9735318,The Beatles: Get Back,tvMiniSeries,"Biography, Documentary, Music",8.9,32176.0,2021.0,ts299852
+tt0086759,Miami Vice,tvSeries,"Action, Crime, Drama",7.6,32035.0,1984.0,ts21778
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003
+tt1831804,The Stand,tvMiniSeries,"Adventure, Drama, Fantasy",5.7,31926.0,2020.0,ts87912
+tt6342474,Boruto: Naruto Next Generations,tvSeries,"Action, Adventure, Animation",6.3,31918.0,2017.0,ts56104
+tt9184986,Barbarians,tvSeries,"Action, Adventure, Drama",7.2,31912.0,2020.0,ts246072
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311
+tt0147746,Batman Beyond,tvSeries,"Action, Adventure, Animation",8.1,31895.0,1999.0,ts13510
+tt4378376,Babylon Berlin,tvSeries,"Crime, Drama, Thriller",8.4,31885.0,2017.0,ts42477
+tt2262532,The Fosters,tvSeries,"Drama, Romance",7.9,31793.0,2013.0,ts4882
+tt12235718,Hellbound,tvSeries,"Crime, Drama, Fantasy",6.6,31786.0,2021.0,ts251675
+tt9573980,Leaving Neverland,tvSeries,"Crime, Documentary",7.0,31780.0,2019.0,ts88479
+tt12682218,Scenes from a Marriage,tvMiniSeries,Drama,8.0,31775.0,2021.0,ts44417
+tt0115369,Spin City,tvSeries,Comedy,7.3,31768.0,1996.0,ts21053
+tt0096542,Baywatch,tvSeries,"Action, Adventure, Crime",5.5,31754.0,1989.0,ts242
+tt6866266,Escape at Dannemora,tvMiniSeries,"Biography, Crime, Drama",7.9,31617.0,2018.0,ts57517
+tt11771270,The English,tvMiniSeries,"Drama, Western",7.8,31608.0,2022.0,ts225313
+tt3877200,The Missing,tvSeries,"Crime, Drama, Mystery",8.1,31562.0,2014.0,ts20362
+tt20863760,Dear Child,tvMiniSeries,"Crime, Drama, Mystery",7.3,31561.0,2023.0,ts355870
+tt0201391,Roswell,tvSeries,"Drama, Mystery, Romance",7.5,31452.0,1999.0,ts22284
+tt9064858,Them,tvSeries,"Drama, Horror, Thriller",7.5,31412.0,2021.0,ts242693
+tt1877514,The Vietnam War,tvMiniSeries,"Documentary, History, War",9.1,31408.0,2017.0,ts57470
+tt0826760,The Killing,tvSeries,"Crime, Drama, Mystery",8.4,31325.0,2007.0,ts10908
+tt0756509,Kyle XY,tvSeries,"Drama, Mystery, Romance",7.4,31252.0,2006.0,ts20493
+tt8332438,ZeroZeroZero,tvMiniSeries,"Crime, Drama, Thriller",8.1,31245.0,2019.0,ts111122
+tt0086765,"Murder, She Wrote",tvSeries,"Crime, Drama, Mystery",7.2,31226.0,1984.0,ts21777
+tt0096579,Family Matters,tvSeries,"Adventure, Comedy, Drama",6.6,31205.0,1989.0,ts1863
+tt14379784,The Devil's Hour,tvSeries,"Drama, Mystery, Thriller",7.6,31157.0,2022.0,ts328473
+tt12714854,Mumbai Diaries,tvSeries,"Drama, Thriller",8.5,31088.0,2021.0,ts270371
+tt2758950,Helix,tvSeries,"Drama, Horror, Mystery",6.7,31016.0,2014.0,ts20120
+tt0139774,Dragon Ball GT,tvSeries,"Action, Adventure, Animation",6.8,30992.0,1996.0,ts4242
+tt0364828,Las Vegas,tvSeries,"Crime, Drama",7.4,30915.0,2003.0,ts21953
+tt12920838,The Frog,tvSeries,"Crime, Drama, Mystery",8.1,30908.0,2020.0,ts261970
+tt10244600,Winning Time: The Rise of the Lakers Dynasty,tvSeries,"Biography, Drama, Sport",8.3,30907.0,2022.0,ts227241
+tt1888075,Death in Paradise,tvSeries,"Comedy, Crime, Drama",7.8,30868.0,2011.0,ts11564
+tt0318997,Angels in America,tvMiniSeries,"Drama, Fantasy, Romance",8.1,30784.0,2003.0,ts1936
+tt0273855,My Wife and Kids,tvSeries,"Comedy, Family",6.9,30783.0,2000.0,ts21665
+tt14261112,Twisted Metal,tvSeries,"Action, Adventure, Comedy",7.3,30779.0,2023.0,ts309849
+tt0092337,Dekalog,tvMiniSeries,Drama,8.9,30723.0,1989.0,ts14421
+tt11639952,Young Rock,tvSeries,"Biography, Comedy",8.0,30719.0,2021.0,ts223993
+tt1190689,Nurse Jackie,tvSeries,"Comedy, Drama",7.8,30695.0,2009.0,ts21145
+tt0079844,Salem's Lot,tvMiniSeries,Horror,6.7,30661.0,1979.0,tm72714
+tt2296682,Dracula,tvSeries,"Drama, Horror, Romance",7.3,30655.0,2013.0,ts88379
+tt3551096,Fresh Off the Boat,tvSeries,Comedy,7.7,30593.0,2015.0,ts12050
+tt0361243,Star Wars: Clone Wars,tvSeries,"Action, Adventure, Animation",7.8,30571.0,2003.0,ts21960
+tt12312250,Jeffrey Epstein: Filthy Rich,tvMiniSeries,"Crime, Documentary",7.1,30547.0,2020.0,ts237560
+tt8688814,The Dragon Prince,tvSeries,"Action, Adventure, Animation",8.3,30502.0,2018.0,ts82597
+tt0080240,"Magnum, P.I.",tvSeries,"Action, Adventure, Crime",7.5,30487.0,1980.0,ts20646
+tt0458253,The Closer,tvSeries,"Crime, Drama, Mystery",7.8,30473.0,2005.0,ts580
+tt8388390,Chucky,tvSeries,"Comedy, Drama, Horror",7.2,30467.0,2021.0,ts233459
+tt3986586,Fuller House,tvSeries,"Comedy, Drama, Family",6.7,30413.0,2016.0,ts36983
+tt1528406,Fairy Tail,tvSeries,"Action, Adventure, Animation",7.9,30410.0,2009.0,ts20513
+tt8594324,Ghosts,tvSeries,"Comedy, Fantasy",8.4,30405.0,2019.0,ts67396
+tt13315156,First Kill,tvSeries,"Drama, Horror, Mystery",6.5,30386.0,2022.0,ts255888
+tt1985443,Hatfields & McCoys,tvMiniSeries,"Drama, History, Romance",7.9,30366.0,2012.0,ts21075
+tt7216636,Hazbin Hotel,tvSeries,"Animation, Comedy, Drama",7.7,30193.0,2019.0,ts94765
+tt0972412,Private Practice,tvSeries,"Comedy, Drama, Romance",6.8,30124.0,2007.0,ts22051
+tt13138834,Time,tvSeries,"Crime, Drama",8.2,30112.0,2021.0,ts273544
+tt1299368,Southland,tvSeries,"Crime, Drama, Thriller",8.5,30110.0,2009.0,ts20587
+tt14192504,We Own This City,tvMiniSeries,"Biography, Crime, Drama",7.6,30091.0,2022.0,ts287833
+tt4975856,Future Man,tvSeries,"Action, Adventure, Comedy",7.6,30038.0,2017.0,ts74843
+tt1183865,Alphas,tvSeries,"Action, Drama, Sci-Fi",7.2,30027.0,2011.0,ts3458
+tt0043208,I Love Lucy,tvSeries,Comedy,8.5,30007.0,1951.0,ts20005
+tt2077823,Perry Mason,tvSeries,"Crime, Drama, History",7.6,29962.0,2020.0,ts87383
+tt4154858,Inhumans,tvSeries,"Action, Adventure, Sci-Fi",4.9,29938.0,2017.0,ts52967
+tt21056886,Scavengers Reign,tvMiniSeries,"Adventure, Animation, Drama",8.6,29936.0,2023.0,ts356959
+tt15227418,A Murder at the End of the World,tvMiniSeries,"Drama, Mystery, Thriller",7.1,29914.0,2023.0,ts306737
+tt1806234,Human Planet,tvMiniSeries,Documentary,9.0,29894.0,2011.0,ts21249
+tt4276618,C.B. Strike,tvSeries,"Crime, Drama, Mystery",7.9,29868.0,2017.0,ts58311
+tt11846996,Vigil,tvSeries,"Crime, Drama, Mystery",7.4,29812.0,2021.0,ts234684
+tt0330251,The L Word,tvSeries,"Drama, Romance",7.6,29771.0,2004.0,ts22308
+tt15591076,That '90s Show,tvSeries,"Comedy, Drama, Romance",6.3,29744.0,2023.0,ts313723
+tt13196080,Tokyo Revengers,tvSeries,"Action, Animation, Drama",7.8,29549.0,2021.0,ts249912
+tt0417373,The Venture Bros.,tvSeries,"Action, Adventure, Animation",8.6,29506.0,2003.0,ts22463
+tt5639976,The Mist,tvSeries,"Drama, Horror, Mystery",5.4,29448.0,2017.0,ts47507
+tt2056366,The Carrie Diaries,tvSeries,"Comedy, Drama, Romance",7.0,29437.0,2013.0,ts12932
+tt0126170,Recess,tvSeries,"Adventure, Animation, Comedy",7.8,29436.0,1997.0,ts21272
+tt10802170,The Rehearsal,tvSeries,"Comedy, Documentary",8.5,29380.0,2022.0,ts359675
+tt1236246,Runaways,tvSeries,"Action, Drama, Sci-Fi",6.8,29377.0,2017.0,ts43192
+tt3556944,Heroes Reborn,tvMiniSeries,"Drama, Fantasy, Sci-Fi",6.6,29374.0,2015.0,ts21672
+tt4922804,3%,tvSeries,"Action, Drama, Sci-Fi",7.3,29279.0,2016.0,ts52838
+tt13675832,As If,tvSeries,Comedy,9.0,29261.0,2021.0,ts270490
+tt14482414,Racket Boys,tvSeries,"Comedy, Drama, Sport",4.9,29203.0,2021.0,ts287941
+tt3228420,You're the Worst,tvSeries,"Comedy, Drama, Romance",8.1,29191.0,2014.0,ts20795
+tt13293588,Mushoku Tensei: Jobless Reincarnation,tvSeries,"Action, Adventure, Animation",8.2,29130.0,2021.0,ts222366
+tt2396135,Shetland,tvSeries,"Crime, Drama, Mystery",8.3,29094.0,2013.0,ts32526
+tt10826054,Masters of the Universe: Revelation,tvSeries,"Action, Adventure, Animation",5.5,29038.0,2021.0,ts219423
+tt1608180,Mike & Molly,tvSeries,"Comedy, Romance",6.5,29026.0,2010.0,ts21438
+tt0495212,Hellsing Ultimate,tvMiniSeries,"Action, Animation, Fantasy",8.2,29011.0,2006.0,ts20625
+tt3288518,Younger,tvSeries,"Comedy, Romance",7.8,28991.0,2015.0,ts21950
+tt16867040,Cunk on Earth,tvMiniSeries,Comedy,8.1,28897.0,2022.0,ts364947
+tt0275140,Law & Order: Criminal Intent,tvSeries,"Crime, Drama, Mystery",7.6,28853.0,2001.0,ts21661
+tt18546730,The Walking Dead: Dead City,tvSeries,"Adventure, Drama, Horror",7.1,28834.0,2023.0,ts341651
+tt8697870,The Nevers,tvSeries,"Action, Drama, Fantasy",7.4,28803.0,2021.0,ts82391
+tt0071007,Little House on the Prairie,tvSeries,"Drama, Family, Romance",7.5,28719.0,1974.0,ts21909
+tt0381798,Rescue Me,tvSeries,"Comedy, Drama",8.3,28717.0,2004.0,ts22398
+tt8362852,Swamp Thing,tvSeries,"Horror, Sci-Fi",7.3,28677.0,2019.0,ts80834
+tt13406036,Anne Boleyn,tvMiniSeries,"Drama, History",5.6,28665.0,2021.0,ts288079
+tt1984119,Feud,tvSeries,"Biography, Drama",8.3,28655.0,2017.0,ts54009
+tt15204292,Heeramandi: The Diamond Bazaar,tvSeries,"Drama, History, Romance",6.3,28645.0,2024.0,ts306412
+tt0239195,Survivor,tvSeries,"Adventure, Game-Show, Reality-TV",7.5,28634.0,2000.0,ts20981
+tt4354880,Mr. Mercedes,tvSeries,"Crime, Drama, Mystery",7.8,28618.0,2017.0,ts55620
+tt22091076,High Potential,tvSeries,"Crime, Drama, Mystery",7.6,28604.0,2024.0,ts390185
+tt13802576,Lockwood & Co.,tvSeries,"Action, Adventure, Drama",7.4,28598.0,2023.0,ts278785
+tt17632862,The Brothers Sun,tvSeries,"Action, Comedy, Drama",7.5,28551.0,2024.0,ts329531
+tt7008682,Homecoming,tvSeries,"Drama, Mystery, Thriller",7.4,28550.0,2018.0,ts81912
+tt12306692,American Horror Stories,tvSeries,"Drama, Horror, Mystery",6.3,28502.0,2021.0,ts243279
+tt0096708,Tales from the Crypt,tvSeries,"Comedy, Crime, Fantasy",8.0,28438.0,1989.0,ts20708
+tt0264263,Jackass,tvSeries,"Action, Comedy, Reality-TV",7.3,28393.0,2000.0,ts21555
+tt3501074,Madam Secretary,tvSeries,"Drama, Thriller",7.8,28377.0,2014.0,ts20261
+tt9184820,Star Trek: Lower Decks,tvSeries,"Action, Adventure, Animation",7.8,28365.0,2020.0,ts87479
+tt0388644,The Staircase,tvSeries,"Crime, Documentary, Drama",7.8,28358.0,2004.0,ts26091
+tt2281375,Nashville,tvSeries,"Drama, Music, Romance",7.7,28313.0,2012.0,ts20834
+tt0118298,Daria,tvSeries,"Animation, Comedy, Drama",8.1,28303.0,1997.0,ts8829
+tt2183404,Rectify,tvSeries,Drama,8.3,28297.0,2013.0,ts20230
+tt6905542,The Dark Crystal: Age of Resistance,tvSeries,"Adventure, Family, Fantasy",8.4,28283.0,2019.0,ts57213
+tt2288064,Witches of East End,tvSeries,"Drama, Fantasy, Horror",7.5,28272.0,2013.0,ts20804
+tt6045840,Black Lightning,tvSeries,"Action, Drama, Sci-Fi",6.1,28208.0,2018.0,ts57055
+tt3910804,War & Peace,tvMiniSeries,"Drama, History, Romance",8.1,28196.0,2016.0,ts37786
+tt0096639,Lonesome Dove,tvMiniSeries,"Adventure, Drama, Western",8.7,28099.0,1989.0,ts20714
+tt1909015,Undercover,tvSeries,"Action, Crime, Drama",8.9,28091.0,2011.0,ts88469
+tt0086659,'Allo 'Allo!,tvSeries,"Comedy, History, War",8.4,28061.0,1982.0,ts18877
+tt0459159,The Thick of It,tvSeries,Comedy,8.7,28036.0,2005.0,ts21460
+tt1232320,Harper's Island,tvSeries,"Drama, Horror, Mystery",7.4,28030.0,2009.0,ts21281
+tt1235547,Better Off Ted,tvSeries,"Comedy, Sci-Fi",8.2,27933.0,2009.0,ts17587
+tt0312081,8 Simple Rules,tvSeries,"Comedy, Drama",7.0,27887.0,2002.0,ts17492
+tt4524056,Vis a vis,tvSeries,"Drama, Thriller",8.1,27862.0,2015.0,ts35362
+tt14500082,How I Met Your Father,tvSeries,"Comedy, Drama",5.7,27849.0,2022.0,ts293168
+tt5295524,Crashing,tvSeries,Comedy,7.6,27831.0,2016.0,ts42170
+tt0115083,7th Heaven,tvSeries,"Comedy, Drama, Family",5.3,27798.0,1996.0,ts18044
+tt0292800,The Grim Adventures of Billy & Mandy,tvSeries,"Adventure, Animation, Comedy",7.6,27796.0,2003.0,ts22480
+tt0106057,Lois & Clark: The New Adventures of Superman,tvSeries,"Adventure, Comedy, Drama",6.7,27767.0,1993.0,ts20926
+tt26748649,High Potential,tvSeries,"Crime, Drama, Mystery",7.6,27715.0,2024.0,ts390185
+tt0297494,Aqua Teen Hunger Force,tvSeries,"Animation, Comedy",7.7,27701.0,2000.0,ts3823
+tt3012698,Olive Kitteridge,tvMiniSeries,Drama,8.3,27699.0,2014.0,ts20287
+tt8686106,Quicksand,tvMiniSeries,"Crime, Drama, Mystery",7.4,27663.0,2019.0,ts88151
+tt9398466,Delhi Crime,tvSeries,"Crime, Drama",8.5,27629.0,2019.0,ts89028
+tt1981558,Key and Peele,tvSeries,Comedy,8.3,27629.0,2012.0,ts20436
+tt6205862,Inside Look: The People v. O.J. Simpson - American Crime Story,tvSeries,"Documentary, Short",8.4,27594.0,2016.0,ts127074
+tt1595680,Being Human,tvSeries,"Drama, Fantasy, Horror",7.5,27478.0,2011.0,ts11224
+tt11204260,I May Destroy You,tvSeries,Drama,8.0,27353.0,2020.0,ts236950
+tt6040674,Waco,tvMiniSeries,"Crime, Drama, History",7.8,27253.0,2018.0,ts75815
+tt11570202,The Silent Sea,tvSeries,"Adventure, Drama, Mystery",6.9,27252.0,2021.0,ts232107
+tt0358856,Little Britain,tvSeries,Comedy,7.6,27235.0,2003.0,ts21722
+tt1349938,Being Human,tvSeries,"Comedy, Drama, Fantasy",7.8,27207.0,2008.0,ts11224
+tt0074028,The Muppet Show,tvSeries,"Comedy, Family, Musical",8.4,27075.0,1976.0,ts22470
+tt0094517,Mystery Science Theater 3000,tvSeries,"Comedy, Sci-Fi",8.6,27054.0,1988.0,ts21975
+tt2771780,Teen Titans Go!,tvSeries,"Adventure, Animation, Comedy",5.7,26986.0,2013.0,ts35726
+tt1797404,House of Lies,tvSeries,"Comedy, Drama",7.4,26897.0,2012.0,ts20434
+tt9077540,Sweet Magnolias,tvSeries,"Drama, Romance",7.3,26895.0,2020.0,ts237107
+tt5707802,Dear White People,tvSeries,"Comedy, Drama",6.4,26875.0,2017.0,ts55962
+tt1582459,The Event,tvSeries,"Crime, Drama, Mystery",7.0,26852.0,2010.0,ts10402
+tt0908454,Gavin & Stacey,tvSeries,"Comedy, Drama, Romance",8.2,26819.0,2007.0,ts22037
+tt11794642,Big Sky,tvSeries,"Crime, Drama, Mystery",6.8,26806.0,2020.0,ts225880
+tt0799862,Caprica,tvSeries,"Action, Drama, Sci-Fi",7.1,26784.0,2009.0,ts5104
+tt13623580,Reservation Dogs,tvSeries,"Comedy, Crime",8.3,26711.0,2021.0,ts289354
+tt1409055,Dragon Ball Z Kai,tvSeries,"Action, Adventure, Animation",8.3,26700.0,2009.0,ts20545
+tt1758772,Switched at Birth,tvSeries,"Drama, Family, Romance",7.7,26699.0,2011.0,ts20517
+tt4156586,Permanent Roommates,tvSeries,"Comedy, Romance",8.6,26691.0,2014.0,ts37740
+tt3250026,Zoo,tvSeries,"Drama, Mystery, Sci-Fi",6.7,26663.0,2015.0,ts35354
+tt3487356,Black-ish,tvSeries,Comedy,7.3,26635.0,2014.0,ts20813
+tt16296870,The Railway Men,tvMiniSeries,"Drama, History, Thriller",8.5,26578.0,2023.0,ts371634
+tt8787802,Away,tvSeries,"Drama, Romance, Sci-Fi",6.6,26570.0,2020.0,ts90729
+tt33204697,Secret Level,tvSeries,"Action, Adventure, Animation",7.3,26567.0,2024.0,ts444251
+tt3502172,Mozart in the Jungle,tvSeries,"Comedy, Drama, Music",8.1,26549.0,2014.0,ts20354
+tt11794812,Cross,tvSeries,"Action, Crime, Drama",7.2,26527.0,2024.0,ts371529
+tt2226342,Devious Maids,tvSeries,"Comedy, Drama, Mystery",7.8,26504.0,2013.0,ts10364
+tt5912064,Kim's Convenience,tvSeries,Comedy,8.2,26450.0,2016.0,ts47714
+tt0075520,Jesus of Nazareth,tvMiniSeries,"Biography, Drama, History",8.5,26424.0,1977.0,ts21785
+tt8201186,The Capture,tvSeries,"Crime, Mystery, Thriller",8.0,26399.0,2019.0,ts94524
+tt10530900,Gullak,tvSeries,"Comedy, Drama, Family",9.1,26390.0,2019.0,ts215841
+tt2262308,Halo 4: Forward Unto Dawn,tvMiniSeries,"Action, Sci-Fi, Thriller",6.7,26388.0,2012.0,ts44021
+tt8633062,The Wilds,tvSeries,"Adventure, Drama, Mystery",7.3,26356.0,2020.0,ts94023
+tt6792200,The Keepers,tvMiniSeries,"Crime, Documentary, Mystery",8.0,26343.0,2017.0,ts56648
+tt2963254,Salem,tvSeries,"Drama, Fantasy, Horror",7.1,26342.0,2014.0,ts20770
+tt10577736,Tehran,tvSeries,"Action, Crime, Drama",7.6,26324.0,2020.0,ts237817
+tt0758737,Brothers & Sisters,tvSeries,Drama,7.5,26323.0,2006.0,ts14830
+tt3663490,The Librarians,tvSeries,"Action, Adventure, Comedy",7.3,26301.0,2014.0,ts20309
+tt13729648,Candy,tvMiniSeries,"Biography, Crime, Drama",7.1,26263.0,2022.0,ts251161
+tt0154061,CatDog,tvSeries,"Adventure, Animation, Comedy",6.5,26212.0,1998.0,ts11783
+tt5715524,Mayans M.C.,tvSeries,"Crime, Drama, Thriller",7.5,26194.0,2018.0,ts77875
+tt10009170,Blood of Zeus,tvSeries,"Action, Adventure, Animation",7.5,26192.0,2020.0,ts255427
+tt2433738,Wentworth,tvSeries,"Crime, Drama, Thriller",8.6,26163.0,2013.0,ts35682
+tt0320808,The Adventures of Jimmy Neutron: Boy Genius,tvSeries,"Adventure, Animation, Comedy",6.7,26085.0,2002.0,ts2370
+tt6128300,Dynasty,tvSeries,Drama,7.2,26050.0,2017.0,ts57465
+tt7491982,FBI,tvSeries,"Action, Crime, Drama",7.1,26032.0,2018.0,ts82308
+tt3561180,Trapped,tvSeries,"Crime, Drama, Mystery",8.0,26015.0,2015.0,ts42035
+tt1415889,Good Luck Charlie,tvSeries,"Comedy, Drama, Family",7.1,25982.0,2010.0,ts30284
+tt1001482,United States of Tara,tvSeries,"Comedy, Drama, Romance",8.0,25859.0,2009.0,ts21265
+tt0088571,Moonlighting,tvSeries,"Comedy, Drama, Mystery",7.6,25814.0,1985.0,ts21069
+tt0142032,Dune,tvMiniSeries,"Adventure, Drama, Sci-Fi",6.9,25812.0,2000.0,ts17132
+tt4878326,Wynonna Earp,tvSeries,"Action, Drama, Fantasy",7.4,25768.0,2016.0,ts38710
+tt0057733,Bewitched,tvSeries,"Comedy, Family, Fantasy",7.6,25717.0,1964.0,ts2956
+tt13622982,Star Wars: Visions,tvSeries,"Action, Adventure, Animation",7.0,25717.0,2021.0,ts269561
+tt4341500,Wet Hot American Summer: First Day of Camp,tvMiniSeries,Comedy,7.3,25693.0,2015.0,ts35775
+tt8226360,A League of Their Own,tvSeries,"Comedy, Drama, Sport",7.6,25665.0,2022.0,ts251918
+tt15203646,Bad Monkey,tvSeries,"Comedy, Drama",7.4,25662.0,2024.0,ts305681
+tt0135659,Storm of the Century,tvMiniSeries,"Drama, Fantasy, Horror",7.3,25638.0,1999.0,ts20996
+tt4925000,Descendants of the Sun,tvSeries,"Action, Comedy, Drama",8.2,25620.0,2016.0,ts38689
+tt0485842,Studio 60 on the Sunset Strip,tvSeries,"Comedy, Drama",8.3,25619.0,2006.0,ts21117
+tt0955322,Reaper,tvSeries,"Adventure, Comedy, Drama",7.7,25571.0,2007.0,ts22035
+tt0106064,Mighty Morphin Power Rangers,tvSeries,"Action, Adventure, Family",6.6,25570.0,1993.0,ts20960
+tt0955346,Moonlight,tvSeries,"Crime, Drama, Fantasy",7.6,25546.0,2007.0,ts22000
+tt0101178,The Ren & Stimpy Show,tvSeries,"Adventure, Animation, Comedy",7.5,25538.0,1991.0,ts21293
+tt5197820,Van Helsing,tvSeries,"Action, Drama, Fantasy",6.3,25529.0,2016.0,ts39007
+tt4686698,Frontier,tvSeries,"Adventure, Drama, History",7.1,25512.0,2016.0,ts38415
+tt3186130,Vinyl,tvSeries,"Drama, Music",7.7,25482.0,2016.0,ts36883
+tt10323338,9-1-1: Lone Star,tvSeries,"Action, Drama, Thriller",7.3,25466.0,2020.0,ts90886
+tt0251439,Trigun,tvSeries,"Action, Adventure, Animation",8.2,25448.0,1998.0,ts22056
+tt0976014,Greek,tvSeries,"Comedy, Drama, Family",7.6,25441.0,2007.0,ts22307
+tt15222080,Blue Lock,tvSeries,"Animation, Sport, Thriller",8.1,25418.0,2022.0,ts304470
+tt7971476,The Politician,tvSeries,"Comedy, Drama",7.5,25294.0,2019.0,ts84663
+tt0163503,Top Gear,tvSeries,Documentary,8.4,25287.0,1978.0,ts32136
+tt0425118,I Know This Much Is True,tvMiniSeries,Drama,8.1,25280.0,2020.0,ts89675
+tt6116060,The Bold Type,tvSeries,"Comedy, Drama",7.8,25248.0,2017.0,ts53746
+tt13361448,Night Sky,tvSeries,"Adventure, Drama, Fantasy",7.3,25243.0,2022.0,ts256111
+tt1492030,Mildred Pierce,tvMiniSeries,"Crime, Drama, Mystery",7.6,25177.0,2011.0,ts21324
+tt10075318,The Gift,tvSeries,"Drama, Fantasy, Mystery",7.0,25161.0,2019.0,ts223344
+tt3155320,Extant,tvSeries,"Drama, Sci-Fi, Thriller",6.5,25143.0,2014.0,ts18538
+tt8101850,Undone,tvSeries,"Animation, Drama, Fantasy",8.2,25142.0,2019.0,ts87870
+tt6170874,Salvation,tvSeries,"Drama, Sci-Fi, Thriller",6.9,25134.0,2017.0,ts55653
+tt1672189,Camelot,tvSeries,"Drama, Fantasy",6.5,25051.0,2011.0,ts13025
+tt16450274,Treason,tvMiniSeries,"Action, Drama, Thriller",6.4,25004.0,2022.0,ts324785
+tt10327354,Prodigal Son,tvSeries,"Crime, Drama, Mystery",7.6,24967.0,2019.0,ts272765
+tt8741290,Tales from the Loop,tvSeries,"Drama, Sci-Fi",7.4,24939.0,2020.0,ts108389
+tt4374208,Catastrophe,tvSeries,Comedy,8.2,24872.0,2015.0,ts17296
+tt14518756,Hometown Cha-Cha-Cha,tvSeries,"Comedy, Drama, Romance",8.3,24823.0,2021.0,ts297483
+tt10332508,Primal,tvSeries,"Action, Adventure, Animation",8.6,24815.0,2019.0,ts90946
+tt0416394,The Mighty Boosh,tvSeries,"Comedy, Fantasy, Musical",8.3,24813.0,2003.0,ts22496
+tt6143796,Workin' Moms,tvSeries,"Comedy, Drama",7.8,24790.0,2017.0,ts53663
+tt9458304,Dororo,tvSeries,"Action, Adventure, Animation",8.2,24679.0,2019.0,ts84637
+tt17543592,Will Trent,tvSeries,"Crime, Drama",7.7,24673.0,2023.0,ts329451
+tt1353056,RuPaul's Drag Race,tvSeries,"Game-Show, Reality-TV",8.5,24666.0,2009.0,ts21262
+tt4934214,Taskmaster,tvSeries,"Comedy, Game-Show",9.0,24616.0,2015.0,ts36695
+tt0086817,The Transformers,tvSeries,"Action, Adventure, Animation",8.0,24597.0,1984.0,ts21817
+tt2733252,The Musketeers,tvSeries,"Action, Adventure, Drama",7.8,24555.0,2014.0,ts20914
+tt1758589,Dash & Lily,tvSeries,"Comedy, Drama, Romance",7.5,24511.0,2020.0,ts255926
+tt7078710,Everything Sucks!,tvSeries,"Comedy, Drama",7.4,24476.0,2018.0,ts78080
+tt3079768,Dominion,tvSeries,"Action, Drama, Fantasy",6.7,24455.0,2014.0,ts4601
+tt3498622,Fortitude,tvSeries,"Drama, Horror, Mystery",7.3,24425.0,2015.0,ts4562
+tt23900194,Harry & Meghan,tvSeries,"Biography, Documentary",5.1,24422.0,2022.0,ts373465
+tt0085033,Inspector Gadget,tvSeries,"Action, Adventure, Animation",6.8,24411.0,1983.0,ts21130
+tt7053188,Station 19,tvSeries,"Action, Drama, Romance",7.1,24369.0,2018.0,ts78407
+tt1319735,Royal Pains,tvSeries,"Comedy, Drama",7.2,24360.0,2009.0,ts21314
+tt0370194,Reno 911!,tvSeries,"Comedy, Crime",8.0,24322.0,2003.0,ts21745
+tt1751105,My Little Pony: Friendship Is Magic,tvSeries,"Adventure, Animation, Comedy",7.7,24303.0,2010.0,ts21511
+tt9522300,Kaguya-sama: Love is War,tvSeries,"Animation, Comedy, Romance",8.5,24270.0,2019.0,ts84657
+tt2543328,TURN: Washington's Spies,tvSeries,"Drama, History, War",8.1,24263.0,2014.0,ts20251
+tt15017118,Dark Winds,tvSeries,"Crime, Drama, Mystery",7.7,24251.0,2022.0,ts300078
+tt2379308,Psycho-Pass,tvSeries,"Action, Animation, Crime",8.1,24231.0,2012.0,ts20388
+tt3952222,Killjoys,tvSeries,"Action, Adventure, Sci-Fi",7.2,24186.0,2015.0,ts35272
+tt1844923,Friday Night Dinner,tvSeries,Comedy,8.2,24177.0,2011.0,ts11834
+tt3837246,Assasination Classroom,tvSeries,"Action, Animation, Comedy",7.9,24162.0,2013.0,ts21984
+tt5565334,Friends from College,tvSeries,"Comedy, Drama",6.9,24160.0,2017.0,ts57303
+tt4592410,The Get Down,tvMiniSeries,"Drama, Music, Musical",8.2,24146.0,2016.0,ts38809
+tt0379632,Hustle,tvSeries,"Crime, Drama, Mystery",8.2,24034.0,2004.0,ts22285
+tt10234362,Avenue 5,tvSeries,"Comedy, Sci-Fi",6.7,24020.0,2020.0,ts186758
+tt3502262,Transparent,tvSeries,"Comedy, Drama",7.8,23981.0,2014.0,ts20060
+tt1780441,Portlandia,tvSeries,Comedy,7.8,23974.0,2011.0,ts20644
+tt1399045,MacGyver,tvSeries,"Action, Adventure, Drama",5.5,23962.0,2016.0,ts41580
+tt4082744,Detectorists,tvSeries,Comedy,8.6,23952.0,2014.0,ts7627
+tt0460690,The Unit,tvSeries,"Action, Drama, Thriller",8.0,23951.0,2006.0,ts21226
+tt0421030,Big Love,tvSeries,Drama,7.7,23943.0,2006.0,ts3707
+tt2568204,Tyrant,tvSeries,"Action, Drama, Thriller",7.7,23903.0,2014.0,ts20051
+tt0892700,The Penguins of Madagascar,tvSeries,"Action, Adventure, Animation",7.5,23853.0,2008.0,ts20527
+tt0312109,Codename: Kids Next Door,tvSeries,"Action, Adventure, Animation",7.2,23853.0,2002.0,ts16822
+tt12439466,Love Is in the Air,tvSeries,"Comedy, Romance",7.3,23840.0,2020.0,ts242116
+tt1229413,Hung,tvSeries,"Comedy, Drama",7.2,23837.0,2009.0,ts21140
+tt10050772,I Think You Should Leave with Tim Robinson,tvSeries,Comedy,8.0,23819.0,2019.0,ts90234
+tt12005128,WeCrashed,tvMiniSeries,"Biography, Drama",7.3,23762.0,2022.0,ts238623
+tt5024912,Insecure,tvSeries,"Comedy, Drama, Romance",8.1,23750.0,2016.0,ts46210
+tt0437005,Hell's Kitchen,tvSeries,"Game-Show, Reality-TV",7.2,23671.0,2005.0,ts21468
+tt11398870,Caliphate,tvSeries,"Crime, Drama, Thriller",8.2,23650.0,2020.0,ts219080
+tt5827228,Bull,tvSeries,"Comedy, Crime, Drama",7.1,23603.0,2016.0,ts41876
+tt0883772,Man vs. Wild,tvSeries,"Adventure, Reality-TV",8.1,23595.0,2006.0,ts29004
+tt4094300,Crazy Ex-Girlfriend,tvSeries,"Comedy, Musical",7.9,23570.0,2015.0,ts36129
+tt12614214,The Afterparty,tvSeries,"Comedy, Crime, Mystery",7.3,23532.0,2022.0,ts251564
+tt8080122,Godfather of Harlem,tvSeries,"Crime, Drama",8.1,23532.0,2019.0,ts80679
+tt4051832,Lovesick,tvSeries,Comedy,8.0,23482.0,2014.0,ts35570
+tt1714204,Perception,tvSeries,"Crime, Drama, Mystery",7.5,23477.0,2012.0,ts20454
+tt0948103,Gurren Lagann,tvSeries,"Action, Adventure, Animation",8.2,23449.0,2007.0,ts35155
+tt0965394,Sanctuary,tvSeries,"Action, Drama, Fantasy",7.3,23447.0,2008.0,ts21734
+tt0098878,Northern Exposure,tvSeries,"Comedy, Drama",8.4,23415.0,1990.0,ts21401
+tt10166602,"Love, Victor",tvSeries,"Comedy, Drama, Romance",7.9,23414.0,2020.0,ts288513
+tt5614844,Cloak & Dagger,tvSeries,"Action, Adventure, Drama",6.6,23409.0,2018.0,ts41340
+tt5057130,Medici,tvSeries,"Biography, Drama, History",7.8,23392.0,2016.0,ts42077
+tt2183641,Ripper Street,tvSeries,"Crime, Drama, Mystery",8.1,23387.0,2012.0,ts20491
+tt0235923,Invader ZIM,tvSeries,"Action, Adventure, Animation",8.4,23316.0,2001.0,ts21969
+tt0262985,Queer as Folk,tvSeries,"Drama, Romance",8.5,23260.0,2000.0,ts21550
+tt27713897,Arnold,tvMiniSeries,"Biography, Documentary",8.0,23253.0,2023.0,ts389339
+tt6025022,Justice League Unlimited,tvSeries,"Action, Adventure, Animation",8.7,23248.0,2004.0,ts85715
+tt0130414,Merlin,tvMiniSeries,"Action, Adventure, Drama",7.1,23224.0,1998.0,ts22189
+tt2244495,The Eric Andre Show,tvSeries,"Comedy, Talk-Show",8.5,23207.0,2012.0,ts19046
+tt28106741,IC 814: The Kandahar Hijack,tvMiniSeries,"Drama, History, Thriller",5.8,23106.0,2024.0,ts392845
+tt14674086,Welcome to Wrexham,tvSeries,"Documentary, Reality-TV, Sport",8.3,23086.0,2022.0,ts295157
+tt20859920,Alchemy of Souls,tvSeries,"Action, Drama, Fantasy",8.7,23072.0,2022.0,ts312082
+tt0780362,Jane Eyre,tvMiniSeries,"Drama, Romance",8.3,23060.0,2006.0,ts28425
+tt8235236,Paradise PD,tvSeries,"Action, Animation, Comedy",6.8,22979.0,2018.0,ts83540
+tt18075020,Who Is Erin Carter?,tvMiniSeries,"Action, Adventure, Crime",6.5,22960.0,2023.0,ts330708
+tt6724368,Fi,tvSeries,"Drama, Romance",7.8,22952.0,2017.0,ts56276
+tt14069590,Dota: Dragon's Blood,tvSeries,"Action, Adventure, Animation",7.7,22951.0,2021.0,ts273100
+tt22797582,American Nightmare,tvMiniSeries,"Crime, Documentary, Mystery",7.5,22917.0,2024.0,ts370826
+tt0101081,Dinosaurs,tvSeries,"Comedy, Family, Fantasy",7.5,22908.0,1991.0,ts8909
+tt0057729,The Addams Family,tvSeries,"Comedy, Family, Horror",8.0,22905.0,1964.0,ts4198
+tt6729080,Collateral,tvMiniSeries,"Crime, Drama, Mystery",6.8,22874.0,2018.0,ts78430
+tt1181917,The Suite Life on Deck,tvSeries,"Action, Adventure, Comedy",6.4,22839.0,2008.0,ts21164
+tt11239552,Itaewon Class,tvSeries,"Drama, Romance",8.1,22798.0,2020.0,ts223240
+tt1693592,Vera,tvSeries,"Crime, Drama, Mystery",8.2,22783.0,2011.0,ts20528
+tt8050756,The Owl House,tvSeries,"Action, Adventure, Animation",8.6,22769.0,2020.0,ts113447
+tt4555364,Knightfall,tvSeries,"Action, Adventure, Drama",6.8,22725.0,2017.0,ts74809
+tt21217912,Trainwreck: Woodstock '99,tvMiniSeries,"Documentary, History, Music",7.4,22718.0,2022.0,ts360095
+tt5822112,Rabbit Hole,tvSeries,"Action, Drama, Thriller",7.4,22698.0,2023.0,ts328279
+tt0108872,My So-Called Life,tvSeries,"Comedy, Drama, Romance",8.4,22667.0,1994.0,ts26219
+tt27121273,Assasination Classroom,tvSeries,"Animation, Comedy, Family",8.0,22662.0,2015.0,ts21984
+tt11097240,Obliterated,tvSeries,"Action, Comedy, Drama",6.8,22646.0,2023.0,ts221678
+tt11656892,Des,tvMiniSeries,"Biography, Crime, Drama",7.6,22574.0,2020.0,ts232928
+tt2581458,Looking,tvSeries,"Comedy, Drama, Romance",8.2,22573.0,2014.0,ts20255
+tt4279012,Death Parade,tvMiniSeries,"Animation, Drama, Mystery",7.8,22541.0,2015.0,ts21983
+tt0259141,Jackie Chan Adventures,tvSeries,"Action, Adventure, Animation",7.4,22538.0,2000.0,ts21558
+tt0319931,American Idol,tvSeries,"Documentary, Game-Show, Music",4.3,22526.0,2002.0,ts5780
+tt31433814,Doctor Who,tvSeries,"Adventure, Drama, Sci-Fi",6.2,22459.0,2023.0,ts422861
+tt5957766,Loudermilk,tvSeries,"Comedy, Drama",7.9,22443.0,2017.0,ts74886
+tt2674806,Inside No. 9,tvSeries,"Comedy, Crime, Drama",8.5,22439.0,2014.0,ts389374
+tt0096557,Chip 'n' Dale Rescue Rangers,tvSeries,"Action, Adventure, Animation",7.6,22424.0,1989.0,ts11857
+tt5905354,Vikingane,tvSeries,"Comedy, History",7.7,22414.0,2016.0,ts70529
+tt0105929,Absolutely Fabulous,tvSeries,Comedy,8.2,22393.0,1992.0,ts5804
+tt0300865,That's So Raven,tvSeries,"Comedy, Family, Fantasy",6.7,22377.0,2003.0,ts21763
+tt0321021,Without a Trace,tvSeries,"Crime, Drama, Mystery",7.0,22366.0,2002.0,ts22050
+tt9348692,Criminal: UK,tvSeries,"Crime, Drama, Mystery",7.7,22354.0,2019.0,ts284800
+tt2953250,Shining Girls,tvSeries,"Crime, Drama, Mystery",7.4,22273.0,2022.0,ts251525
+tt30317229,La Palma,tvMiniSeries,Drama,6.2,22266.0,2024.0,ts459995
+tt4192782,Glitch,tvSeries,"Drama, Horror, Sci-Fi",7.2,22236.0,2015.0,ts36177
+tt0083466,Police Squad!,tvSeries,"Comedy, Crime",8.4,22212.0,1982.0,ts25270
+tt2177489,Baby Daddy,tvSeries,"Comedy, Drama, Family",7.3,22207.0,2012.0,ts6291
+tt0386180,Drawn Together,tvSeries,"Animation, Comedy",7.1,22204.0,2004.0,ts516
+tt0366005,Danny Phantom,tvSeries,"Action, Adventure, Animation",7.2,22091.0,2003.0,ts13001
+tt5056196,Catch-22,tvMiniSeries,"Action, Comedy, Drama",7.7,22046.0,2019.0,ts84285
+tt28267514,"Thank You, Next",tvSeries,"Comedy, Drama, Romance",6.0,22030.0,2024.0,ts394265
+tt11407524,Hostel Daze,tvSeries,"Comedy, Drama",8.5,22012.0,2019.0,ts223381
+tt16913068,Shahmaran,tvSeries,"Adventure, Drama, Fantasy",5.6,22010.0,2023.0,ts372806
+tt3337194,From Dusk Till Dawn: The Series,tvSeries,"Action, Crime, Fantasy",6.8,21986.0,2014.0,ts20288
+tt13875494,Tracker,tvSeries,"Crime, Drama",7.1,21942.0,2024.0,ts279807
+tt1826805,Pan Am,tvSeries,"Drama, History, Romance",7.1,21900.0,2011.0,ts21931
+tt2069441,The Future Diary,tvSeries,"Action, Animation, Comedy",7.4,21851.0,2011.0,ts22232
+tt7259746,Queer Eye,tvSeries,Reality-TV,8.5,21840.0,2018.0,ts78558
+tt7765404,Wayne,tvSeries,"Action, Comedy, Drama",8.3,21806.0,2019.0,ts85747
+tt1839683,Awake,tvSeries,"Drama, Fantasy, Mystery",7.8,21789.0,2012.0,ts14059
+tt2521668,The Returned,tvSeries,"Drama, Fantasy, Horror",8.0,21777.0,2012.0,ts20499
+tt0346314,Ghost in the Shell: Stand Alone Complex,tvSeries,"Action, Animation, Crime",8.4,21747.0,2002.0,ts20317
+tt7263154,Undercover,tvSeries,"Crime, Drama, Thriller",7.8,21742.0,2019.0,ts88469
+tt6297682,Seven Seconds,tvMiniSeries,"Crime, Drama",7.7,21737.0,2018.0,ts77197
+tt1280822,Drop Dead Diva,tvSeries,"Comedy, Drama",7.5,21628.0,2009.0,ts8112
+tt7278862,My Brilliant Friend,tvSeries,Drama,8.6,21627.0,2018.0,ts79780
+tt0408381,Doc Martin,tvSeries,"Comedy, Drama, Romance",8.4,21518.0,2004.0,ts7374
+tt1285482,Dead Set,tvMiniSeries,"Drama, Horror, Reality-TV",7.6,21515.0,2008.0,ts15986
+tt0289830,Taken,tvMiniSeries,"Drama, Mystery, Sci-Fi",7.8,21501.0,2002.0,ts20827
+tt1842530,Unforgettable,tvSeries,"Crime, Drama, Mystery",6.8,21492.0,2011.0,ts21245
+tt6692188,El Chapo,tvSeries,"Biography, Crime, Drama",7.8,21491.0,2017.0,ts56718
+tt1819654,Ringer,tvSeries,"Crime, Drama, Mystery",6.9,21423.0,2011.0,ts21133
+tt14833612,Castlevania: Nocturne,tvSeries,"Action, Adventure, Animation",7.5,21403.0,2023.0,ts286578
+tt12074628,Smiling Friends,tvSeries,"Animation, Comedy, Short",8.5,21399.0,2020.0,ts288175
+tt3560084,NCIS: New Orleans,tvSeries,"Action, Adventure, Crime",6.8,21394.0,2014.0,ts20880
+tt12197698,Leverage: Redemption,tvSeries,"Crime, Mystery, Thriller",8.1,21384.0,2021.0,ts289336
+tt8518136,Dickinson,tvSeries,"Biography, Comedy, Drama",7.7,21368.0,2019.0,ts317072
+tt0098769,The Civil War,tvMiniSeries,"Documentary, History, War",9.0,21323.0,1990.0,ts4959
+tt1179817,The Secret Life of the American Teenager,tvSeries,"Comedy, Drama, Family",4.9,21300.0,2008.0,ts21171
+tt0182629,Rurouni Kenshin,tvSeries,"Action, Adventure, Animation",8.5,21300.0,1996.0,ts34554
+tt1094229,Heartland,tvSeries,"Drama, Family",8.4,21285.0,2007.0,ts22011
+tt0083413,Family Ties,tvSeries,"Comedy, Drama, Family",7.3,21266.0,1982.0,ts10967
+tt27668559,Queen of Tears,tvSeries,"Comedy, Drama, Romance",8.2,21262.0,2024.0,ts373678
+tt13655456,True Story,tvMiniSeries,"Crime, Drama, Thriller",7.4,21246.0,2021.0,ts310057
+tt0112167,Sliders,tvSeries,"Adventure, Fantasy, Sci-Fi",7.4,21241.0,1995.0,ts22474
+tt5638056,The Mick,tvSeries,Comedy,7.8,21237.0,2017.0,ts45024
+tt11083696,Cruel Summer,tvSeries,"Drama, Mystery, Thriller",7.4,21223.0,2021.0,ts224364
+tt0976192,The Spectacular Spider-Man,tvSeries,"Action, Adventure, Animation",8.4,21196.0,2008.0,ts22099
+tt14899624,Another Self,tvSeries,"Drama, Romance",7.2,21181.0,2022.0,ts299212
+tt6478318,Masum,tvMiniSeries,"Crime, Drama, Mystery",8.3,21103.0,2017.0,ts53936
+tt0112022,JAG,tvSeries,"Action, Crime, Drama",6.7,21082.0,1995.0,ts22338
+tt0273366,Lizzie McGuire,tvSeries,"Comedy, Drama, Family",6.6,21008.0,2001.0,ts21685
+tt3225270,Noragami,tvSeries,"Action, Adventure, Animation",7.8,21005.0,2014.0,ts41161
+tt0108906,The Kingdom,tvSeries,"Comedy, Drama, Fantasy",8.2,21004.0,1994.0,ts26433
+tt8679236,Who Is America?,tvSeries,Comedy,8.3,21000.0,2018.0,ts82291
+tt15716776,Devil May Cry,tvSeries,"Action, Adventure, Animation",7.5,20990.0,2025.0,ts449348
+tt21975436,Kaiju No. 8,tvSeries,"Action, Adventure, Animation",8.3,20970.0,2024.0,ts365566
+tt1279024,Toradora!,tvSeries,"Animation, Comedy, Drama",7.9,20968.0,2008.0,ts26322
+tt15358446,Dead Boy Detectives,tvSeries,"Action, Adventure, Comedy",7.5,20950.0,2024.0,ts309453
+tt0074006,"I, Claudius",tvMiniSeries,"Biography, Drama, History",8.8,20948.0,1976.0,ts22361
+tt2406376,The Bridge,tvSeries,"Crime, Drama, Mystery",7.6,20931.0,2013.0,ts15770
+tt16969708,Scott Pilgrim Takes Off,tvMiniSeries,"Action, Adventure, Animation",7.7,20908.0,2023.0,ts321886
+tt13837672,Crime Scene: The Vanishing at the Cecil Hotel,tvMiniSeries,"Crime, Documentary, Mystery",6.0,20893.0,2021.0,ts271595
+tt0126158,He-Man and the Masters of the Universe,tvSeries,"Action, Adventure, Animation",7.5,20882.0,1983.0,ts24918
+tt7745956,She-Ra and the Princesses of Power,tvSeries,"Action, Adventure, Animation",8.1,20874.0,2018.0,ts81331
+tt4839610,We Bare Bears,tvSeries,"Adventure, Animation, Comedy",7.8,20856.0,2014.0,ts36687
+tt0279077,FLCL,tvMiniSeries,"Action, Animation, Comedy",8.1,20846.0,2000.0,ts724
+tt7879820,On My Block,tvSeries,"Comedy, Drama",7.8,20839.0,2018.0,ts78382
+tt7375404,Kidding,tvSeries,"Comedy, Drama",8.0,20838.0,2018.0,ts75604
+tt15432016,Devil in Ohio,tvMiniSeries,"Drama, Horror, Mystery",5.9,20805.0,2022.0,ts309827
+tt1587669,Body of Proof,tvSeries,"Comedy, Crime, Drama",7.1,20793.0,2011.0,ts14179
+tt2300923,Go On,tvSeries,Comedy,7.5,20786.0,2012.0,ts21045
+tt26656917,The Agency: Central Intelligence,tvSeries,"Drama, Thriller",7.4,20722.0,2024.0,ts381175
+tt6263222,Strong Girl Bong-soon,tvSeries,"Comedy, Crime, Drama",8.1,20688.0,2017.0,ts53362
+tt10569934,Those About to Die,tvSeries,"Action, Drama",6.6,20634.0,2024.0,ts215968
+tt7671070,Industry,tvSeries,Drama,7.5,20626.0,2020.0,ts214743
+tt10399902,Boy Swallows Universe,tvMiniSeries,"Crime, Drama, Mystery",7.9,20587.0,2024.0,ts213781
+tt1848220,The Magnificent Century,tvSeries,"Biography, Drama, History",6.9,20544.0,2011.0,ts20511
+tt19395018,Constellation,tvSeries,"Sci-Fi, Thriller",6.7,20532.0,2024.0,ts344487
+tt8993398,Rascal Does Not Dream of Bunny Girl Senpai,tvSeries,"Animation, Drama, Fantasy",8.0,20515.0,2018.0,ts84280
+tt6110648,The Purge,tvSeries,"Action, Drama, Horror",6.6,20513.0,2018.0,ts81794
+tt5540054,The Tick,tvSeries,"Action, Adventure, Comedy",7.4,20496.0,2016.0,ts42002
+tt11343600,Brand New Cherry Flavor,tvMiniSeries,"Drama, Horror, Mystery",7.1,20493.0,2021.0,ts227473
+tt2758770,Star vs. the Forces of Evil,tvSeries,"Action, Adventure, Animation",7.9,20485.0,2012.0,ts21980
+tt8681148,This Is Going to Hurt,tvMiniSeries,"Biography, Comedy, Drama",8.4,20476.0,2022.0,ts108603
+tt1734135,Trollhunters: Tales of Arcadia,tvSeries,"Action, Adventure, Animation",8.4,20469.0,2016.0,ts53249
+tt1865769,Jessie,tvSeries,"Comedy, Drama, Family",6.2,20437.0,2011.0,ts20635
+tt2058303,Fresh Meat,tvSeries,"Comedy, Drama",7.8,20427.0,2011.0,ts11961
+tt13366604,Platonic,tvSeries,"Comedy, Romance",7.2,20410.0,2023.0,ts256514
+tt13911284,Hell's Paradise: Jigokuraku,tvSeries,"Action, Adventure, Animation",8.1,20406.0,2023.0,ts271931
+tt6461726,A.P. Bio,tvSeries,Comedy,7.4,20404.0,2018.0,ts57141
+tt3673794,Kingdom,tvSeries,"Drama, Sport",8.5,20402.0,2014.0,ts20749
+tt28104766,Squid Game: The Challenge,tvSeries,"Game-Show, Reality-TV",5.8,20384.0,2023.0,ts356925
+tt0111945,The Drew Carey Show,tvSeries,Comedy,6.9,20351.0,1995.0,ts17178
+tt5706996,Girlboss,tvSeries,Comedy,7.0,20334.0,2017.0,ts39016
+tt11379456,My Lady Jane,tvSeries,"Comedy, Drama, Fantasy",7.3,20313.0,2024.0,ts230423
+tt0118266,The New Batman Adventures,tvSeries,"Action, Adventure, Animation",8.4,20304.0,1997.0,ts21261
+tt3431758,"No Game, No Life",tvSeries,"Adventure, Animation, Comedy",7.6,20296.0,2014.0,ts23054
+tt10875696,Marianne,tvSeries,"Drama, Horror, Mystery",7.3,20289.0,2019.0,ts219101
+tt9529546,The Rising of the Shield Hero,tvSeries,"Action, Adventure, Animation",7.7,20289.0,2019.0,ts84631
+tt1660055,Scooby-Doo! Mystery Incorporated,tvSeries,"Adventure, Animation, Comedy",8.2,20282.0,2010.0,ts21507
+tt7529770,Miracle Workers,tvSeries,"Comedy, Drama, Fantasy",7.1,20256.0,2019.0,ts80537
+tt13274038,True Beauty,tvSeries,"Comedy, Drama, Romance",8.0,20252.0,2020.0,ts268266
+tt0405576,Ned's Declassified School Survival Guide,tvSeries,"Comedy, Family",7.4,20241.0,2004.0,ts22456
+tt9067020,The I-Land,tvMiniSeries,"Adventure, Drama, Mystery",4.7,20227.0,2019.0,ts93066
+tt2155025,Please Like Me,tvSeries,"Comedy, Drama, Romance",8.5,20212.0,2013.0,ts33377
+tt2693776,Intelligence,tvSeries,"Action, Drama, Sci-Fi",6.8,20179.0,2014.0,ts21392
+tt1597420,Melissa & Joey,tvSeries,"Comedy, Romance",7.0,20159.0,2010.0,ts21477
+tt2176165,Another,tvMiniSeries,"Animation, Drama, Fantasy",7.5,20140.0,2012.0,ts28014
+tt14263564,Justified: City Primeval,tvMiniSeries,"Crime, Drama",7.3,20045.0,2023.0,ts290565
+tt10590066,All Creatures Great & Small,tvSeries,"Comedy, Drama",8.6,20042.0,2020.0,ts255742
+tt0047708,Alfred Hitchcock Presents,tvSeries,"Crime, Drama, Mystery",8.5,20037.0,1955.0,ts19810
+tt5924572,Deadly Class,tvSeries,"Action, Adventure, Comedy",7.5,20013.0,2018.0,ts77319
+tt11475228,Killer Inside: The Mind of Aaron Hernandez,tvMiniSeries,"Crime, Documentary, Sport",7.3,19994.0,2020.0,ts223759
+tt31019484,Missing You,tvMiniSeries,"Crime, Drama, Mystery",6.1,19944.0,2025.0,ts422314
+tt0491603,H2O: Just Add Water,tvSeries,"Adventure, Comedy, Drama",7.3,19934.0,2006.0,ts21706
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770
+tt0088631,Thundercats,tvSeries,"Action, Adventure, Animation",7.9,19894.0,1985.0,ts21020
+tt27740241,The Eternaut,tvSeries,"Action, Adventure, Drama",7.5,19894.0,2025.0,ts404390
+tt21072112,Bodkin,tvSeries,"Comedy, Drama, Mystery",6.9,19885.0,2024.0,ts358688
+tt2365946,Bitten,tvSeries,"Drama, Fantasy, Horror",6.9,19819.0,2014.0,ts16030
+tt7157248,The New Pope,tvMiniSeries,Drama,8.0,19783.0,2020.0,ts89911
+tt0106168,"Walker, Texas Ranger",tvSeries,"Action, Adventure, Crime",5.7,19777.0,1993.0,ts20979
+tt11640018,La Brea,tvSeries,"Drama, Mystery, Sci-Fi",5.8,19770.0,2021.0,ts273425
+tt0066626,All in the Family,tvSeries,"Comedy, Drama",8.4,19746.0,1971.0,ts8011
+tt0377260,Shameless,tvSeries,"Comedy, Crime, Drama",8.0,19740.0,2004.0,ts22329
+tt0310455,Foyle's War,tvSeries,"Crime, Drama, Mystery",8.6,19709.0,2002.0,ts5293
+tt3830558,Versailles,tvSeries,"Biography, Drama, History",7.9,19703.0,2015.0,ts38090
+tt5711280,Electric Dreams,tvSeries,"Drama, Sci-Fi",7.2,19703.0,2017.0,ts55500
+tt14490706,"XO, Kitty",tvSeries,"Comedy, Drama, Romance",6.5,19697.0,2023.0,ts293033
+tt9054364,That Time I Got Reincarnated as a Slime,tvSeries,"Action, Adventure, Animation",8.1,19686.0,2018.0,ts84230
+tt3696720,Ascension,tvMiniSeries,"Drama, Sci-Fi",7.1,19681.0,2014.0,ts9379
+tt4687882,Patriot,tvSeries,"Comedy, Drama, Thriller",8.2,19668.0,2015.0,ts38145
+tt0962826,Black Lagoon,tvSeries,"Action, Adventure, Animation",7.9,19662.0,2006.0,ts199
+tt2583620,The Twilight Zone,tvSeries,"Drama, Fantasy, Horror",6.0,19641.0,2019.0,ts84671
+tt13745850,The Last Thing He Told Me,tvSeries,"Drama, Mystery, Thriller",6.5,19640.0,2023.0,ts278093
+tt0075572,Roots,tvMiniSeries,"Biography, Drama, History",8.4,19560.0,1977.0,ts21334
+tt9900092,Motherland: Fort Salem,tvSeries,"Drama, Fantasy, Sci-Fi",7.3,19548.0,2020.0,ts225737
+tt13103134,Horimiya,tvMiniSeries,"Animation, Comedy, Drama",8.0,19531.0,2021.0,ts254486
+tt11242246,The Equalizer,tvSeries,"Action, Crime, Drama",5.4,19517.0,2021.0,ts272625
+tt0325547,Hellsing,tvMiniSeries,"Action, Animation, Fantasy",7.7,19515.0,2001.0,ts21676
+tt28118211,A Good Girl's Guide to Murder,tvSeries,"Crime, Drama, Mystery",6.8,19511.0,2024.0,ts379403
+tt2407574,My Mad Fat Diary,tvSeries,"Comedy, Drama, Romance",8.4,19468.0,2013.0,ts20833
+tt16283758,Supacell,tvSeries,"Action, Adventure, Drama",7.0,19461.0,2024.0,ts320730
+tt13720112,The Empress,tvSeries,"Drama, History, Romance",7.8,19459.0,2022.0,ts305816
+tt11834150,The Chair,tvMiniSeries,"Comedy, Drama",7.2,19436.0,2021.0,ts225645
+tt0160904,MI-5,tvSeries,"Action, Crime, Drama",8.3,19432.0,2002.0,ts20855
+tt11471892,Landscapers,tvMiniSeries,"Comedy, Crime, Drama",7.0,19397.0,2021.0,ts231331
+tt10148174,The Walking Dead: World Beyond,tvSeries,"Drama, Horror",4.5,19358.0,2020.0,ts189659
+tt5503718,Gypsy,tvSeries,"Drama, Thriller",6.7,19357.0,2017.0,ts41527
+tt1442065,Rookie Blue,tvSeries,"Action, Crime, Drama",7.7,19349.0,2010.0,ts21537
+tt9686194,War of the Worlds,tvSeries,"Drama, Mystery, Sci-Fi",6.5,19344.0,2019.0,ts87904
+tt4370596,Better Things,tvSeries,"Comedy, Drama",7.9,19335.0,2016.0,ts41894
+tt8685324,Sanditon,tvSeries,"Drama, Romance",7.6,19332.0,2019.0,ts108549
+tt9252156,Departure,tvSeries,"Drama, Mystery, Thriller",6.8,19313.0,2019.0,ts100206
+tt12405230,Breathe: Into the Shadows,tvSeries,"Drama, Thriller",7.6,19255.0,2020.0,ts251020
+tt6510950,Condor,tvSeries,"Action, Drama, Thriller",7.7,19253.0,2018.0,ts56415
+tt4229954,Outcast,tvSeries,"Drama, Horror",7.3,19253.0,2016.0,ts38144
+tt0465316,Afro Samurai,tvMiniSeries,"Action, Adventure, Animation",7.6,19228.0,2007.0,ts3805
+tt5339440,One Day at a Time,tvSeries,"Comedy, Drama",8.1,19179.0,2017.0,ts53198
+tt2571774,Africa,tvMiniSeries,Documentary,8.9,19176.0,2013.0,ts19600
+tt9073958,White Lines,tvSeries,"Crime, Drama, Mystery",6.6,19171.0,2020.0,ts106536
+tt1091909,Murdoch Mysteries,tvSeries,"Crime, Drama, Mystery",8.2,19148.0,2008.0,ts20540
+tt1513168,Through the Wormhole,tvSeries,Documentary,8.6,19135.0,2010.0,ts21859
+tt1439741,Human Target,tvSeries,"Action, Adventure, Crime",7.7,19097.0,2010.0,ts21524
+tt8783930,The Time Traveler's Wife,tvSeries,"Drama, Sci-Fi",7.7,19092.0,2022.0,ts82879
+tt8425532,Pennyworth,tvSeries,"Action, Crime, Drama",7.8,19077.0,2019.0,ts81184
+tt15466144,Uncoupled,tvSeries,"Comedy, Drama, Romance",7.0,19061.0,2022.0,ts349631
+tt14531842,Extraordinary,tvSeries,"Comedy, Sci-Fi",7.7,19032.0,2023.0,ts10738
+tt0290223,Inuyasha,tvSeries,"Action, Adventure, Animation",7.9,19003.0,2000.0,ts21034
+tt11646832,The Outlaws,tvSeries,"Comedy, Crime, Drama",7.7,18906.0,2021.0,ts313840
+tt0098837,Keeping Up Appearances,tvSeries,Comedy,7.9,18897.0,1990.0,ts21839
+tt26225038,Death's Game,tvSeries,"Drama, Fantasy",8.5,18882.0,2023.0,ts378625
+tt0835434,In Treatment,tvSeries,Drama,8.2,18856.0,2008.0,ts20445
+tt11252254,From Scratch,tvMiniSeries,"Drama, Romance",7.8,18831.0,2022.0,ts230110
+tt6964748,Alex Rider,tvSeries,"Action, Adventure, Drama",7.5,18823.0,2020.0,ts225679
+tt19500224,Based on a True Story,tvSeries,Comedy,7.2,18798.0,2023.0,ts345966
+tt17524566,Guns & Gulaabs,tvSeries,"Comedy, Crime, Romance",7.7,18793.0,2023.0,ts328205
+tt15765670,My Dress-Up Darling,tvMiniSeries,"Animation, Comedy, Romance",7.9,18778.0,2022.0,ts286543
+tt0363307,America's Next Top Model,tvSeries,"Game-Show, Reality-TV",5.6,18773.0,2003.0,ts2230
+tt3747572,Grantchester,tvSeries,"Crime, Drama, Mystery",7.9,18728.0,2014.0,ts20311
+tt0115378,Superman: The Animated Series,tvSeries,"Action, Adventure, Animation",8.1,18703.0,1996.0,ts20906
+tt0103442,Highlander,tvSeries,"Action, Adventure, Fantasy",7.2,18699.0,1992.0,ts20717
+tt16350094,The Boys Presents: Diabolical,tvMiniSeries,"Action, Adventure, Animation",6.8,18686.0,2022.0,ts319406
+tt0839188,Metalocalypse,tvSeries,"Animation, Comedy, Music",8.3,18685.0,2006.0,ts20529
+tt1833285,Boss,tvSeries,"Crime, Drama",8.1,18676.0,2011.0,ts14844
+tt5932548,Britannia,tvSeries,"Action, Drama, Fantasy",6.9,18656.0,2017.0,ts55621
+tt5497534,Tokyo Ghoul: Root A,tvSeries,"Action, Animation, Drama",7.5,18647.0,2015.0,ts55084
+tt10314462,Zoey's Extraordinary Playlist,tvSeries,"Comedy, Drama, Musical",8.1,18634.0,2020.0,ts185216
+tt1366312,Emma,tvMiniSeries,"Comedy, Drama, Romance",8.1,18622.0,2009.0,ts11478
+tt2197797,666 Park Avenue,tvSeries,"Drama, Fantasy, Horror",6.8,18606.0,2012.0,ts3222
+tt26315487,Bloodhounds,tvSeries,"Action, Crime, Drama",8.1,18594.0,2023.0,ts300540
+tt10516352,Love 101,tvSeries,"Comedy, Drama, Romance",7.4,18590.0,2020.0,ts215378
+tt2022713,Brickleberry,tvSeries,"Animation, Comedy",7.3,18575.0,2012.0,ts14992
+tt1825133,Smash,tvSeries,"Drama, Musical",7.7,18572.0,2012.0,ts20480
+tt6474236,The Looming Tower,tvMiniSeries,"Drama, History",8.0,18531.0,2018.0,ts55901
+tt6394324,Charmed,tvSeries,"Drama, Fantasy, Mystery",4.8,18513.0,2018.0,ts81208
+tt11527058,Fleishman Is in Trouble,tvMiniSeries,Drama,7.7,18508.0,2022.0,ts231758
+tt7942796,Magnum P.I.,tvSeries,"Action, Adventure, Crime",6.3,18507.0,2018.0,ts81189
+tt1988386,Miss Fisher's Murder Mysteries,tvSeries,"Crime, Drama, History",8.2,18485.0,2012.0,ts21029
+tt0983983,Shaun the Sheep,tvSeries,"Animation, Comedy, Family",8.2,18410.0,2007.0,ts33559
+tt7718088,Bonding,tvSeries,"Comedy, Drama, Short",7.1,18389.0,2018.0,ts90019
+tt2657262,Star-Crossed,tvSeries,"Drama, Romance, Sci-Fi",7.1,18369.0,2014.0,ts20237
+tt0076984,Battlestar Galactica,tvSeries,"Action, Adventure, Drama",7.2,18360.0,1978.0,ts56662
+tt0415463,Zoey 101,tvSeries,"Comedy, Drama, Family",6.2,18353.0,2005.0,ts21464
+tt9117054,Spinning Out,tvSeries,"Drama, Sport",7.5,18350.0,2020.0,ts84586
+tt9179552,Dr. Death,tvSeries,"Crime, Drama, Thriller",7.6,18335.0,2021.0,ts304474
+tt26545355,Creature Commandos,tvSeries,"Action, Adventure, Animation",7.8,18321.0,2024.0,ts380334
+tt0058815,I Dream of Jeannie,tvSeries,"Comedy, Family, Fantasy",7.4,18314.0,1965.0,ts22147
+tt8323628,My Life with the Walter Boys,tvSeries,"Drama, Romance",6.9,18308.0,2023.0,ts317715
+tt0988818,Gintama,tvSeries,"Action, Animation, Comedy",8.7,18290.0,2005.0,ts29406
+tt1640719,Under the Bridge,tvMiniSeries,"Biography, Crime, Drama",7.2,18288.0,2024.0,ts376864
+tt0075596,Three's Company,tvSeries,Comedy,7.5,18284.0,1976.0,ts21801
+tt4384086,Life in Pieces,tvSeries,Comedy,8.0,18210.0,2015.0,ts36676
+tt3114390,KILL la KILL,tvSeries,"Action, Animation, Comedy",7.8,18190.0,2013.0,ts34950
+tt4276624,Krypton,tvSeries,"Action, Adventure, Drama",6.8,18184.0,2018.0,ts56625
+tt7263328,Classroom of the Elite,tvSeries,"Animation, Drama, Thriller",7.7,18177.0,2017.0,ts58045
+tt0320037,Jimmy Kimmel Live!,tvSeries,"Comedy, Music, Talk-Show",6.3,18170.0,2003.0,ts21927
+tt3560094,Stalker,tvSeries,"Crime, Drama, Thriller",7.5,18133.0,2014.0,ts21868
+tt7222086,Made in Abyss,tvSeries,"Action, Adventure, Animation",8.3,18133.0,2017.0,ts58178
+tt0112095,NewsRadio,tvSeries,"Comedy, Romance",8.0,18125.0,1995.0,ts22442
+tt13238304,The Life and Movies of Ersan Kuneri,tvSeries,"Comedy, History",6.6,18120.0,2022.0,ts258358
+tt0085106,V,tvMiniSeries,"Action, Adventure, Sci-Fi",7.8,18106.0,1983.0,ts24742
+tt1533435,Miranda,tvSeries,Comedy,8.2,18082.0,2009.0,ts20531
+tt1943524,The Finder,tvSeries,"Comedy, Crime, Drama",7.7,18080.0,2012.0,ts6308
+tt3469052,My Love from Another Star,tvSeries,"Comedy, Drama, Fantasy",8.2,18077.0,2013.0,ts20178
+tt0053479,The Andy Griffith Show,tvSeries,"Comedy, Family",8.4,18056.0,1960.0,ts18968
+tt0080306,Yes Minister,tvSeries,Comedy,8.6,18029.0,1980.0,ts34284
+tt2393813,Graceland,tvSeries,"Action, Crime, Drama",7.6,18017.0,2013.0,ts20177
+tt27792190,Maxton Hall: The World Between Us,tvSeries,"Drama, Romance",7.5,18011.0,2024.0,ts390593
+tt7660970,The North Water,tvSeries,"Adventure, Drama, Mystery",7.6,18011.0,2021.0,ts88470
+tt8403664,The English Game,tvMiniSeries,"Drama, History, Sport",7.6,18005.0,2020.0,ts225867
+tt11102190,Katla,tvSeries,"Drama, Fantasy, Mystery",7.0,17996.0,2021.0,ts237972
+tt17513352,Twenty Five Twenty One,tvSeries,"Drama, Romance",8.6,17969.0,2022.0,ts302363
+tt7821582,Truth Be Told,tvSeries,"Crime, Drama, Mystery",7.1,17963.0,2019.0,ts81645
+tt8001106,Giri/Haji,tvMiniSeries,"Crime, Drama, Mystery",7.8,17958.0,2019.0,ts113842
+tt10893694,The Irregulars,tvSeries,"Crime, Drama, Fantasy",6.0,17929.0,2021.0,ts220553
+tt6794990,Absentia,tvSeries,"Crime, Drama, Mystery",7.2,17922.0,2017.0,ts58319
+tt5370118,Konosuba: God's Blessing on This Wonderful World!,tvSeries,"Adventure, Animation, Comedy",7.8,17919.0,2016.0,ts44928
+tt0057773,The Munsters,tvSeries,"Comedy, Family, Fantasy",7.8,17867.0,1964.0,ts21798
+tt4667888,Slasher,tvSeries,"Crime, Drama, Horror",6.7,17848.0,2016.0,ts38718
+tt0057751,Gilligan's Island,tvSeries,"Comedy, Family",7.4,17820.0,1964.0,ts21331
+tt8860450,What/If,tvMiniSeries,"Drama, Mystery, Thriller",6.3,17817.0,2019.0,ts83491
+tt7608248,A Million Little Things,tvSeries,"Comedy, Drama, Romance",7.9,17791.0,2018.0,ts83050
+tt4277922,Call My Agent!,tvSeries,"Comedy, Drama",8.3,17761.0,2015.0,ts37866
+tt9569546,Halston,tvMiniSeries,"Biography, Drama",7.5,17710.0,2021.0,ts225657
+tt2580046,Miraculous: Tales of Ladybug & Cat Noir,tvSeries,"Action, Adventure, Animation",7.5,17707.0,2015.0,ts42062
+tt0787985,Robin Hood,tvSeries,"Action, Adventure, Comedy",7.4,17682.0,2006.0,ts21181
+tt0791205,Ergo Proxy,tvSeries,"Action, Adventure, Animation",7.9,17658.0,2006.0,ts19528
+tt0115320,The Pretender,tvSeries,"Action, Drama, Mystery",7.5,17644.0,1996.0,ts21024
+tt0364817,Tru Calling,tvSeries,"Drama, Fantasy, Mystery",7.4,17639.0,2003.0,ts21923
+tt6271042,McMafia,tvSeries,"Crime, Drama, Thriller",7.6,17601.0,2018.0,ts77322
+tt20560404,Keep Sweet: Pray and Obey,tvMiniSeries,"Crime, Documentary",7.3,17578.0,2022.0,ts353844
+tt10919420,Squid Game,tvSeries,"Action, Drama, Mystery",8.0,663345.0,2021.0,ts220305
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247
+tt0436992,Doctor Who,tvSeries,"Adventure, Drama, Sci-Fi",8.5,257156.0,2005.0,tm1364171
+tt0452046,Criminal Minds,tvSeries,"Crime, Drama, Mystery",8.1,230363.0,2005.0,ts6495
+tt10155688,Mare of Easttown,tvMiniSeries,"Crime, Drama, Mystery",8.4,205123.0,2021.0,ts190845
+tt0214341,Dragon Ball Z,tvSeries,"Action, Adventure, Animation",8.8,162416.0,1996.0,ts20740
+tt30192155,Scam 1992,tvSeries,Thriller,9.2,161646.0,2020.0,ts81120
+tt0264235,Curb Your Enthusiasm,tvSeries,Comedy,8.8,157211.0,2000.0,ts9245
+tt0099864,It,tvMiniSeries,"Drama, Horror, Mystery",6.8,146078.0,1990.0,tm1521524
+tt0092455,Star Trek: The Next Generation,tvSeries,"Action, Adventure, Drama",8.7,143781.0,1987.0,ts22504
+tt2249364,Broadchurch,tvSeries,"Crime, Drama, Mystery",8.3,134256.0,2013.0,ts6265
+tt0348914,Deadwood,tvSeries,"Crime, Drama, History",8.6,123671.0,2004.0,ts13023
+tt9815454,Unorthodox,tvMiniSeries,Drama,8.0,96455.0,2020.0,ts225522
+tt0121220,Dragon Ball Z,tvSeries,"Action, Adventure, Animation",8.8,96280.0,1989.0,ts20740
+tt0200276,The West Wing,tvSeries,Drama,8.9,91862.0,1999.0,ts20420
+tt2070791,Revolution,tvSeries,"Action, Adventure, Drama",6.6,87121.0,2012.0,ts21113
+tt28227737,Sandeep Bhaiya,tvSeries,Drama,9.1,76380.0,2023.0,tm1129798
+tt30263074,Sapne Vs Everyone,tvSeries,Drama,9.3,73557.0,2023.0,tm1259483
+tt0088509,Dragon Ball,tvSeries,"Action, Adventure, Animation",8.5,72189.0,1986.0,tm13126
+tt0280249,Dragon Ball,tvSeries,"Action, Adventure, Animation",8.5,70490.0,1995.0,tm13126
+tt0313043,CSI: Miami,tvSeries,"Action, Crime, Drama",6.5,62974.0,2002.0,ts18569
+tt1441135,Flashforward,tvSeries,"Drama, Mystery, Sci-Fi",7.6,62771.0,2009.0,ts11231
+tt0244365,Star Trek: Enterprise,tvSeries,"Action, Adventure, Drama",7.5,61859.0,2001.0,ts21605
+tt5622316,The Chosen,tvSeries,"Drama, History",9.1,58101.0,2017.0,ts53559
+tt9139220,Dracula,tvMiniSeries,"Action, Drama, Fantasy",6.8,55322.0,2020.0,ts16649
+tt0088484,Blackadder II,tvSeries,Comedy,8.6,52215.0,1986.0,tm115336
+tt9471404,The Chosen,tvSeries,"Drama, History",9.2,51960.0,2017.0,ts53559
+tt7920978,Persona,tvSeries,"Crime, Drama, Mystery",9.0,51682.0,2018.0,ts79331
+tt0168366,Pokémon,tvSeries,"Action, Adventure, Animation",7.6,51296.0,1997.0,ts21223
+tt9660182,Resident Evil,tvSeries,"Action, Horror, Sci-Fi",4.2,47773.0,2022.0,ts252861

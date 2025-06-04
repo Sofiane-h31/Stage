@@ -1,0 +1,7 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt1010048,Slumdog Millionaire,movie,"Crime, Drama, Romance",8.0,895153.0,2008.0,tm54060,5.0,tous publics,https://www.mycanal.fr/cinema/slumdog-millionaire/h/40592384_50889,MyCanal,-16,"'gb', 'fr', 'us', 'in'"
+tt1010048,Slumdog Millionaire,movie,"Crime, Drama, Romance",8.0,895153.0,2008.0,tm54060,5.0,tous publics,https://www.paramountplus.com/movies/slumdog-millionaire/mi_iv12awv2YFT4HwRRuoNtid78_5YPL?searchReferral=,Paramount+,12,"'gb', 'fr', 'us', 'in'"
+tt8332922,A Quiet Place Part II,movie,"Drama, Horror, Sci-Fi",7.2,304096.0,2020.0,tm431186,4.0,12,https://www.paramountplus.com/movies/a-quiet-place-2/kMs57oTkCVDLFEWwu_7fVFGPSBRG5Fxg?searchReferral=,Paramount+,16,'us'
+tt8332922,A Quiet Place Part II,movie,"Drama, Horror, Sci-Fi",7.2,304096.0,2020.0,tm431186,4.0,12,https://www.mycanal.fr/cinema/sans-un-bruit-2/h/13501579_50662,MyCanal,-12,'us'
+tt0436697,The Queen,movie,"Biography, Drama",7.3,117740.0,2006.0,tm35198,4.0,tous publics,https://www.mycanal.fr/cinema/the-queen/h/40439273_50889,MyCanal,-12,"'gb', 'us', 'fr', 'it'"
+tt0436697,The Queen,movie,"Biography, Drama",7.3,117740.0,2006.0,tm35198,4.0,tous publics,https://www.paramountplus.com/movies/queen/PiuuQKt52MOGmmTFFvBHMW_KVih7yl7d?searchReferral=,Paramount+,0,"'gb', 'us', 'fr', 'it'"

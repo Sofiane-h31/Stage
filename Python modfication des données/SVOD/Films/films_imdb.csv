@@ -1,0 +1,1486 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,CodePays
+tt0111161,The Shawshank Redemption,movie,Drama,9.3,3044564.0,1994.0,tm119206,3.0,tous publics avec avertissement,'us'
+tt0468569,The Dark Knight,movie,"Action, Crime, Drama",9.0,3021134.0,2008.0,tm56184,2.0,tous publics,"'us', 'gb'"
+tt1375666,Inception,movie,"Action, Adventure, Sci-Fi",8.8,2684072.0,2010.0,tm92641,4.0,tous publics,"'us', 'gb'"
+tt0137523,Fight Club,movie,"Crime, Drama, Thriller",8.8,2465169.0,1999.0,tm42409,1.0,16,"'de', 'us'"
+tt0109830,Forrest Gump,movie,"Drama, Romance",8.8,2379299.0,1994.0,tm122434,2.0,tous publics,'us'
+tt0816692,Interstellar,movie,"Adventure, Drama, Sci-Fi",8.7,2345627.0,2014.0,tm157099,3.0,tous publics,"'us', 'gb', 'ca'"
+tt0110912,Pulp Fiction,movie,"Crime, Drama",8.8,2334909.0,1994.0,tm112130,1.0,12,'us'
+tt0133093,The Matrix,movie,"Action, Sci-Fi",8.7,2156057.0,1999.0,tm10,3.0,tous publics avec avertissement,"'us', 'au'"
+tt0068646,The Godfather,movie,"Crime, Drama",9.2,2125282.0,1972.0,tm155580,3.0,12::(new rating),'us'
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,movie,"Adventure, Drama, Fantasy",8.9,2107957.0,2001.0,tm44313,1.0,tous publics,"'nz', 'us', 'gb'"
+tt0167260,The Lord of the Rings: The Return of the King,movie,"Adventure, Drama, Fantasy",9.0,2077973.0,2003.0,tm142381,1.0,tous publics avec avertissement,"'nz', 'us'"
+tt1345836,The Dark Knight Rises,movie,"Action, Crime, Drama",8.4,1913559.0,2012.0,tm39888,2.0,tous publics,"'us', 'gb'"
+tt0167261,The Lord of the Rings: The Two Towers,movie,"Adventure, Drama, Fantasy",8.8,1873596.0,2002.0,tm115982,1.0,tous publics avec avertissement,"'nz', 'us'"
+tt1853728,Django Unchained,movie,Western,8.5,1791607.0,2012.0,tm41792,1.0,12,'us'
+tt0172495,Gladiator,movie,"Action, Adventure, Drama",8.5,1760458.0,2000.0,tm28142,4.0,tous publics avec avertissement,"'us', 'gb', 'mt', 'ma'"
+tt0993846,The Wolf of Wall Street,movie,"Biography, Comedy, Crime",8.2,1687611.0,2013.0,tm188690,2.0,12,'us'
+tt0361748,Inglourious Basterds,movie,"Adventure, Drama, War",8.4,1683117.0,2009.0,tm143861,3.0,12,"'us', 'de'"
+tt0372784,Batman Begins,movie,"Action, Crime, Drama",8.2,1646729.0,2005.0,tm167206,2.0,tous publics,"'us', 'gb'"
+tt0102926,The Silence of the Lambs,movie,"Crime, Drama, Horror",8.6,1635761.0,1991.0,tm8843,1.0,16,'us'
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,"'us', 'ca', 'au'"
+tt0120815,Saving Private Ryan,movie,"Drama, War",8.6,1570071.0,1998.0,tm57554,2.0,tous publics avec avertissement,'us'
+tt1130884,Shutter Island,movie,"Drama, Mystery, Thriller",8.2,1550072.0,2010.0,tm99575,1.0,12,"'us', 'ca'"
+tt0482571,The Prestige,movie,"Drama, Mystery, Sci-Fi",8.5,1514959.0,2006.0,tm22747,3.0,tous publics,"'gb', 'us'"
+tt0076759,Star Wars: Episode IV - A New Hope,movie,"Action, Adventure, Fantasy",8.6,1509213.0,1977.0,tm1,1.0,tous publics,'us'
+tt0848228,The Avengers,movie,"Action, Sci-Fi",8.0,1508524.0,2012.0,tm64957,1.0,tous publics,'us'
+tt0407887,The Departed,movie,"Crime, Drama, Thriller",8.5,1488088.0,2006.0,tm27911,1.0,tous publics avec avertissement::(theatrical rating),"'us', 'hk'"
+tt0120689,The Green Mile,movie,"Crime, Drama, Fantasy",8.6,1485848.0,1999.0,tm54285,2.0,12,'us'
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,movie,"Action, Adventure, Fantasy",8.7,1441801.0,1980.0,tm2,1.0,tous publics,'us'
+tt0499549,Avatar,movie,"Action, Adventure, Fantasy",7.9,1431034.0,2009.0,tm135853,1.0,tous publics,"'us', 'gb'"
+tt0071562,The Godfather Part II,movie,"Crime, Drama",9.0,1429484.0,1974.0,tm112061,3.0,tous publics avec avertissement::(new rating),'us'
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,'us'
+tt4154796,Avengers: Endgame,movie,"Action, Adventure, Sci-Fi",8.4,1357535.0,2019.0,tm1855,1.0,tous publics,'us'
+tt0120338,Titanic,movie,"Drama, Romance",7.9,1339709.0,1997.0,tm191110,1.0,tous publics,'us'
+tt0099685,Goodfellas,movie,"Biography, Crime, Drama",8.7,1326154.0,1990.0,tm155787,4.0,16,'us'
+tt2015381,Guardians of the Galaxy,movie,"Action, Adventure, Comedy",8.0,1317605.0,2014.0,tm140097,1.0,tous publics,"'us', 'gb'"
+tt0110413,Léon: The Professional,movie,"Action, Crime, Drama",8.5,1302955.0,1994.0,tm116655,2.0,12,"'fr', 'us'"
+tt4154756,Avengers: Infinity War,movie,"Action, Adventure, Sci-Fi",8.4,1287752.0,2018.0,tm591,1.0,tous publics,"'us', 'no'"
+tt0120382,The Truman Show,movie,"Comedy, Drama",8.2,1281584.0,1998.0,tm68909,1.0,tous publics,'us'
+tt0910970,WALL·E,movie,"Adventure, Animation, Family",8.4,1261273.0,2008.0,tm25151,1.0,tous publics,"'us', 'jp'"
+tt0266697,Kill Bill: Vol. 1,movie,"Action, Crime, Thriller",8.2,1251053.0,2003.0,tm137220,4.0,16,'us'
+tt0169547,American Beauty,movie,Drama,8.3,1249003.0,1999.0,tm57615,2.0,tous publics,'us'
+tt0103064,Terminator 2: Judgment Day,movie,"Action, Adventure, Sci-Fi",8.6,1232823.0,1991.0,tm8613,3.0,tous publics,"'us', 'fr'"
+tt0434409,V for Vendetta,movie,"Action, Drama, Sci-Fi",8.1,1215241.0,2005.0,tm184362,5.0,tous publics avec avertissement,"'us', 'gb', 'de'"
+tt1431045,Deadpool,movie,"Action, Comedy, Sci-Fi",8.0,1206609.0,2016.0,tm123777,1.0,12,'us'
+tt0110357,The Lion King,movie,"Adventure, Animation, Drama",8.5,1203738.0,1994.0,tm309655,1.0,tous publics,'us'
+tt1049413,Up,movie,"Adventure, Animation, Comedy",8.3,1181972.0,2009.0,tm153612,1.0,tous publics,'us'
+tt0371746,Iron Man,movie,"Action, Adventure, Sci-Fi",7.9,1174076.0,2008.0,tm51227,1.0,tous publics,"'us', 'ca'"
+tt0081505,The Shining,movie,"Drama, Horror",8.4,1166709.0,1980.0,tm97341,3.0,12,"'gb', 'us'"
+tt1392190,Mad Max: Fury Road,movie,"Action, Adventure, Sci-Fi",8.1,1165476.0,2015.0,tm139376,3.0,tous publics avec avertissement,"'au', 'us'"
+tt0086190,Star Wars: Episode VI - Return of the Jedi,movie,"Action, Adventure, Fantasy",8.3,1165448.0,1983.0,tm3,1.0,tous publics,'us'
+tt0266543,Finding Nemo,movie,"Adventure, Animation, Comedy",8.2,1160400.0,2003.0,tm135549,1.0,tous publics,"'us', 'jp'"
+tt0119217,Good Will Hunting,movie,"Drama, Romance",8.3,1138082.0,1997.0,tm191716,4.0,tous publics,'us'
+tt0105236,Reservoir Dogs,movie,"Crime, Thriller",8.3,1132845.0,1992.0,tm123099,5.0,16,'us'
+tt0112573,Braveheart,movie,"Biography, Drama, War",8.3,1129549.0,1995.0,tm12503,1.0,tous publics,'us'
+tt0114709,Toy Story,movie,"Adventure, Animation, Comedy",8.3,1122770.0,1995.0,tm14765,1.0,tous publics,'us'
+tt0477348,No Country for Old Men,movie,"Crime, Drama, Thriller",8.2,1122412.0,2007.0,tm68666,2.0,12,'us'
+tt2267998,Gone Girl,movie,"Drama, Mystery, Thriller",8.1,1121299.0,2014.0,tm157735,2.0,tous publics avec avertissement,'us'
+tt0107290,Jurassic Park,movie,"Action, Adventure, Sci-Fi",8.2,1119668.0,1993.0,tm184504,1.0,tous publics,'us'
+tt0082971,Raiders of the Lost Ark,movie,"Action, Adventure",8.4,1074423.0,1981.0,tm128131,3.0,tous publics,'us'
+tt2582802,Whiplash,movie,"Drama, Music",8.5,1074244.0,2014.0,tm158646,1.0,tous publics,'us'
+tt6751668,Parasite,movie,"Drama, Thriller",8.5,1062546.0,2019.0,tm414170,2.0,tous publics avec avertissement,'kr'
+tt1392170,The Hunger Games,movie,"Action, Adventure, Sci-Fi",7.2,1043361.0,2012.0,tm57536,1.0,tous publics avec avertissement,'us'
+tt0198781,"Monsters, Inc.",movie,"Adventure, Animation, Comedy",8.1,1028141.0,2001.0,tm37560,1.0,tous publics,'us'
+tt0268978,A Beautiful Mind,movie,"Biography, Drama, Mystery",8.2,1022195.0,2001.0,tm46003,3.0,tous publics,'us'
+tt0078748,Alien,movie,"Horror, Sci-Fi",8.5,1016274.0,1979.0,tm72398,1.0,12,"'gb', 'us'"
+tt2488496,Star Wars: Episode VII - The Force Awakens,movie,"Action, Adventure, Sci-Fi",7.8,999877.0,2015.0,tm7,1.0,tous publics,"'us', 'gb'"
+tt0095016,Die Hard,movie,"Action, Thriller",8.2,990293.0,1988.0,tm52974,1.0,tous publics,'us'
+tt0075314,Taxi Driver,movie,"Crime, Drama",8.2,979287.0,1976.0,tm84618,1.0,16,'us'
+tt0253474,The Pianist,movie,"Biography, Drama, Music",8.5,968376.0,2002.0,tm114752,3.0,tous publics,"'fr', 'pl', 'de', 'gb', 'us'"
+tt3659388,The Martian,movie,"Adventure, Drama, Sci-Fi",8.0,968338.0,2015.0,tm138400,3.0,tous publics,"'us', 'gb', 'hu', 'jo'"
+tt0086250,Scarface,movie,"Crime, Drama",8.3,965909.0,1983.0,tm59031,2.0,12::(new rating),'us'
+tt2395427,Avengers: Age of Ultron,movie,"Action, Adventure, Sci-Fi",7.3,960315.0,2015.0,tm141000,1.0,tous publics,'us'
+tt1160419,Dune: Part One,movie,"Action, Adventure, Drama",8.0,956824.0,2021.0,tm305113,3.0,tous publics,"'us', 'ca'"
+tt10872600,Spider-Man: No Way Home,movie,"Action, Adventure, Fantasy",8.2,952090.0,2021.0,tm835252,2.0,tous publics,'us'
+tt0208092,Snatch,movie,"Comedy, Crime",8.2,946286.0,2000.0,tm25947,1.0,tous publics,"'gb', 'us'"
+tt1843866,Captain America: The Winter Soldier,movie,"Action, Adventure, Sci-Fi",7.7,935090.0,2014.0,tm159149,1.0,tous publics,'us'
+tt0800369,Thor,movie,"Action, Fantasy",7.0,933659.0,2011.0,tm171064,1.0,tous publics,'us'
+tt0458339,Captain America: The First Avenger,movie,"Action, Adventure, Sci-Fi",6.9,933051.0,2011.0,tm162906,1.0,tous publics,'us'
+tt1300854,Iron Man 3,movie,"Action, Adventure, Sci-Fi",7.1,932317.0,2013.0,tm177964,1.0,tous publics,'us'
+tt0435761,Toy Story 3,movie,"Adventure, Animation, Comedy",8.3,931844.0,2010.0,tm101226,1.0,tous publics,'us'
+tt2278388,The Grand Budapest Hotel,movie,"Comedy, Drama",8.1,926733.0,2014.0,tm162843,4.0,tous publics,"'us', 'de'"
+tt0050083,12 Angry Men,movie,"Crime, Drama",9.0,925339.0,1957.0,tm1962,1.0,tous publics,'us'
+tt0145487,Spider-Man,movie,"Action, Adventure, Sci-Fi",7.4,923817.0,2002.0,tm109418,4.0,tous publics,'us'
+tt0066921,A Clockwork Orange,movie,"Crime, Sci-Fi",8.2,911697.0,1971.0,tm11500,3.0,16,"'gb', 'us'"
+tt1663202,The Revenant,movie,"Adventure, Drama, Western",8.0,911627.0,2015.0,tm139729,2.0,12,"'us', 'hk', 'tw', 'ar'"
+tt0245429,Spirited Away,movie,"Adventure, Animation, Family",8.6,910573.0,2001.0,tm48297,1.0,tous publics,"'jp', 'us'"
+tt7131622,Once Upon a Time... in Hollywood,movie,"Comedy, Drama",7.6,909776.0,2019.0,tm327097,1.0,12,"'us', 'gb', 'cn'"
+tt0241527,Harry Potter and the Sorcerer's Stone,movie,"Adventure, Family, Fantasy",7.7,904271.0,2001.0,tm50154,3.0,tous publics,"'gb', 'us'"
+tt1228705,Iron Man 2,movie,"Action, Sci-Fi",6.9,903251.0,2010.0,tm92312,1.0,tous publics,'us'
+tt1010048,Slumdog Millionaire,movie,"Crime, Drama, Romance",8.0,895153.0,2008.0,tm54060,5.0,tous publics,"'gb', 'fr', 'us', 'in'"
+tt0120915,Star Wars: Episode I - The Phantom Menace,movie,"Action, Adventure, Fantasy",6.5,892383.0,1999.0,tm4,1.0,tous publics,"'us', 'gb'"
+tt15398776,Oppenheimer,movie,"Biography, Drama, History",8.3,892125.0,2023.0,tm1111989,1.0,tous publics,"'us', 'gb'"
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,"'us', 'ca', 'bg'"
+tt0118715,The Big Lebowski,movie,"Comedy, Crime",8.1,890649.0,1998.0,tm60593,2.0,tous publics,"'gb', 'us'"
+tt3315342,Logan,movie,"Action, Drama, Sci-Fi",8.1,890042.0,2017.0,tm12118,1.0,12 avec avertissement,'us'
+tt3498820,Captain America: Civil War,movie,"Action, Sci-Fi",7.8,889033.0,2016.0,tm123356,1.0,tous publics,"'us', 'de', 'pr'"
+tt1119646,The Hangover,movie,Comedy,7.7,887374.0,2009.0,tm137072,3.0,tous publics,"'us', 'de'"
+tt0382932,Ratatouille,movie,"Adventure, Animation, Comedy",8.1,885567.0,2007.0,tm70557,1.0,tous publics,'us'
+tt0121766,Star Wars: Episode III - Revenge of the Sith,movie,"Action, Adventure, Fantasy",7.6,884559.0,2005.0,tm6,1.0,tous publics,"'us', 'it', 'ch', 'th', 'gb'"
+tt1454468,Gravity,movie,"Drama, Sci-Fi, Thriller",7.7,881950.0,2013.0,tm179029,3.0,tous publics,"'gb', 'us'"
+tt1825683,Black Panther,movie,"Action, Adventure, Sci-Fi",7.3,874709.0,2018.0,tm418,1.0,tous publics,'us'
+tt1392214,Prisoners,movie,"Crime, Drama, Mystery",8.2,871790.0,2013.0,tm166586,1.0,12,'us'
+tt1877830,The Batman,movie,"Action, Crime, Drama",7.8,871135.0,2022.0,tm244142,3.0,tous publics avec avertissement,'us'
+tt2096673,Inside Out,movie,"Adventure, Animation, Comedy",8.1,867515.0,2015.0,tm135902,1.0,tous publics,'us'
+tt0947798,Black Swan,movie,"Drama, Thriller",8.0,859395.0,2010.0,tm100061,1.0,16::(itunes),'us'
+tt0317705,The Incredibles,movie,"Action, Adventure, Animation",8.0,855466.0,2004.0,tm84505,1.0,tous publics,'us'
+tt0083658,Blade Runner,movie,"Action, Drama, Sci-Fi",8.1,854308.0,1982.0,tm40461,3.0,tous publics avec avertissement,"'us', 'gb'"
+tt2084970,The Imitation Game,movie,"Biography, Drama, Thriller",8.0,853286.0,2014.0,tm140877,2.0,tous publics,'us'
+tt0060196,"The Good, the Bad and the Ugly",movie,"Adventure, Western",8.8,853188.0,1966.0,tm71121,1.0,tous publics avec avertissement,"'it', 'es', 'xwg', 'us'"
+tt0480249,I Am Legend,movie,"Drama, Horror, Sci-Fi",7.2,849919.0,2007.0,tm70807,2.0,tous publics avec avertissement,"'us', 'gb'"
+tt1211837,Doctor Strange,movie,"Action, Adventure, Fantasy",7.5,843460.0,2016.0,tm123360,1.0,tous publics,"'us', 'hk', 'np'"
+tt1205489,Gran Torino,movie,Drama,8.1,839471.0,2008.0,tm48591,3.0,tous publics,"'de', 'us'"
+tt0097576,Indiana Jones and the Last Crusade,movie,"Action, Adventure",8.2,838705.0,1989.0,tm140316,3.0,tous publics,'us'
+tt0378194,Kill Bill: Vol. 2,movie,"Action, Crime, Thriller",8.0,837956.0,2004.0,tm89040,3.0,12,'us'
+tt0317248,City of God,movie,"Crime, Drama",8.6,837485.0,2002.0,tm119115,6.0,16,"'br', 'fr'"
+tt0770828,Man of Steel,movie,"Action, Adventure, Sci-Fi",7.1,834132.0,2013.0,tm165938,3.0,tous publics,"'us', 'gb', 'ca'"
+tt0093058,Full Metal Jacket,movie,"Drama, War",8.2,822069.0,1987.0,tm22327,3.0,12,"'gb', 'us'"
+tt0211915,Amélie,movie,"Comedy, Romance",8.3,818602.0,2001.0,tm50138,2.0,tous publics,"'fr', 'de'"
+tt2543164,Arrival,movie,"Drama, Mystery, Sci-Fi",7.9,817556.0,2016.0,tm205861,4.0,tous publics,"'us', 'ca'"
+tt0090605,Aliens,movie,"Action, Adventure, Horror",8.4,808971.0,1986.0,tm121723,1.0,12::(new rating),"'gb', 'us'"
+tt0401792,Sin City,movie,"Crime, Thriller",8.0,807634.0,2005.0,tm175595,2.0,12 avec avertissement,'us'
+tt0383574,Pirates of the Caribbean: Dead Man's Chest,movie,"Action, Adventure, Fantasy",7.4,797423.0,2006.0,tm31764,1.0,tous publics,'us'
+tt3896198,Guardians of the Galaxy Vol. 2,movie,"Action, Adventure, Comedy",7.6,795018.0,2017.0,tm386,1.0,tous publics,'us'
+tt1285016,The Social Network,movie,"Biography, Drama",7.8,790606.0,2010.0,tm86803,5.0,tous publics,'us'
+tt0121765,Star Wars: Episode II - Attack of the Clones,movie,"Action, Adventure, Fantasy",6.6,789938.0,2002.0,tm5,1.0,tous publics,"'us', 'gb'"
+tt0144084,American Psycho,movie,"Crime, Drama, Horror",7.6,780836.0,2000.0,tm23894,2.0,16,'us'
+tt2911666,John Wick,movie,"Action, Crime, Thriller",7.5,780765.0,2014.0,tm153649,1.0,12,'us'
+tt0118799,Life Is Beautiful,movie,"Comedy, Drama, Romance",8.6,778431.0,1997.0,tm191045,1.0,tous publics,'it'
+tt0126029,Shrek,movie,"Adventure, Animation, Comedy",7.9,773634.0,2001.0,tm50314,2.0,tous publics,'us'
+tt5013056,Dunkirk,movie,"Action, Drama, History",7.8,773375.0,2017.0,tm232797,3.0,tous publics,"'gb', 'nl', 'fr', 'us'"
+tt1631867,Edge of Tomorrow,movie,"Action, Adventure, Sci-Fi",7.9,772555.0,2014.0,tm135878,2.0,tous publics,"'us', 'ca', 'in'"
+tt2975590,Batman v Superman: Dawn of Justice,movie,"Action, Adventure, Sci-Fi",6.5,771347.0,2016.0,tm1881,3.0,tous publics avec avertissement,"'us', 'ma'"
+tt1877832,X-Men: Days of Future Past,movie,"Action, Adventure, Sci-Fi",7.9,770283.0,2014.0,tm155402,1.0,tous publics,"'gb', 'us', 'ca'"
+tt2024544,12 Years a Slave,movie,"Biography, Drama, History",8.1,764787.0,2013.0,tm188852,3.0,tous publics avec avertissement,"'gb', 'us'"
+tt1045658,Silver Linings Playbook,movie,"Comedy, Drama, Romance",7.7,759577.0,2012.0,tm59428,4.0,tous publics,'us'
+tt0113277,Heat,movie,"Action, Crime, Drama",8.3,758193.0,1995.0,tm11005,2.0,tous publics avec avertissement,'us'
+tt2250912,Spider-Man: Homecoming,movie,"Action, Adventure, Sci-Fi",7.4,757661.0,2017.0,tm422,1.0,tous publics,'us'
+tt0116282,Fargo,movie,"Crime, Drama, Thriller",8.1,756549.0,1996.0,tm106648,3.0,12,"'gb', 'us'"
+tt0062622,2001: A Space Odyssey,movie,"Adventure, Sci-Fi",8.3,753650.0,1968.0,tm362,3.0,tous publics,"'gb', 'us'"
+tt0816711,World War Z,movie,"Action, Adventure, Horror",7.0,752752.0,2013.0,tm179734,4.0,12,"'us', 'gb'"
+tt2802144,Kingsman: The Secret Service,movie,"Action, Adventure, Comedy",7.7,752634.0,2014.0,tm132771,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt1981115,Thor: The Dark World,movie,"Action, Adventure, Fantasy",6.7,752006.0,2013.0,tm179159,1.0,tous publics,'us'
+tt0478970,Ant-Man,movie,"Action, Comedy, Sci-Fi",7.2,751259.0,2015.0,tm141020,1.0,tous publics,'us'
+tt1951264,The Hunger Games: Catching Fire,movie,"Action, Adventure, Sci-Fi",7.5,748081.0,2013.0,tm165518,1.0,tous publics avec avertissement,'us'
+tt0316654,Spider-Man 2,movie,"Action, Adventure, Sci-Fi",7.5,746966.0,2004.0,tm79988,3.0,tous publics,'us'
+tt1270798,X-Men: First Class,movie,"Action, Sci-Fi",7.7,746649.0,2011.0,tm165634,1.0,tous publics,"'us', 'gb'"
+tt0405159,Million Dollar Baby,movie,"Drama, Sport",8.1,746394.0,2004.0,tm84441,1.0,tous publics,'us'
+tt1386697,Suicide Squad,movie,"Action, Adventure, Fantasy",5.9,741205.0,2016.0,tm122844,4.0,tous publics avec avertissement,'us'
+tt0780504,Drive,movie,"Action, Drama",7.8,736221.0,2011.0,tm166168,2.0,12,'us'
+tt1136608,District 9,movie,"Action, Sci-Fi, Thriller",7.9,735687.0,2009.0,tm136410,1.0,tous publics avec avertissement,"'za', 'us', 'nz', 'ca'"
+tt0948470,The Amazing Spider-Man,movie,"Action, Sci-Fi",6.9,733592.0,2012.0,tm44730,3.0,tous publics,'us'
+tt4633694,Spider-Man: Into the Spider-Verse,movie,"Action, Adventure, Animation",8.4,731047.0,2018.0,tm222003,2.0,tous publics,"'ca', 'us'"
+tt0304141,Harry Potter and the Prisoner of Azkaban,movie,"Adventure, Family, Fantasy",7.9,729483.0,2004.0,tm86278,2.0,tous publics,"'gb', 'us'"
+tt0295297,Harry Potter and the Chamber of Secrets,movie,"Adventure, Family, Fantasy",7.4,729453.0,2002.0,tm109994,3.0,tous publics,"'gb', 'us'"
+tt0421715,The Curious Case of Benjamin Button,movie,"Drama, Fantasy, Romance",7.8,721664.0,2008.0,tm52046,2.0,tous publics,'us'
+tt1504320,The King's Speech,movie,"Biography, Drama, History",8.0,721561.0,2010.0,tm92034,3.0,tous publics,"'us', 'gb'"
+tt0451279,Wonder Woman,movie,"Action, Adventure, Fantasy",7.3,720040.0,2017.0,tm11937,3.0,tous publics,"'us', 'cn', 'hk'"
+tt0449088,Pirates of the Caribbean: At World's End,movie,"Action, Adventure, Fantasy",7.1,719487.0,2007.0,tm84873,1.0,tous publics,'us'
+tt3748528,Rogue One: A Star Wars Story,movie,"Action, Adventure, Sci-Fi",7.8,718732.0,2016.0,tm202481,1.0,tous publics,'us'
+tt0330373,Harry Potter and the Goblet of Fire,movie,"Adventure, Family, Fantasy",7.7,717574.0,2005.0,tm178628,3.0,tous publics avec avertissement,"'gb', 'us'"
+tt0107048,Groundhog Day,movie,"Comedy, Drama, Fantasy",8.0,716497.0,1993.0,tm182885,3.0,tous publics,'us'
+tt1856101,Blade Runner 2049,movie,"Action, Drama, Mystery",8.0,713675.0,2017.0,tm239091,3.0,tous publics avec avertissement,"'us', 'ca', 'es'"
+tt5463162,Deadpool 2,movie,"Action, Adventure, Comedy",7.6,713031.0,2018.0,tm239698,1.0,12,"'us', 'ca'"
+tt0369610,Jurassic World,movie,"Action, Adventure, Sci-Fi",6.9,702103.0,2015.0,tm142876,1.0,tous publics avec avertissement,"'us', 'ca'"
+tt1798709,Her,movie,"Drama, Romance, Sci-Fi",8.0,701794.0,2013.0,tm169422,1.0,tous publics,'us'
+tt0418279,Transformers,movie,"Action, Adventure, Sci-Fi",7.1,697207.0,2007.0,tm74317,4.0,tous publics,'us'
+tt0099785,Home Alone,movie,"Comedy, Family",7.7,696295.0,1990.0,tm155184,1.0,tous publics,'us'
+tt2527336,Star Wars: Episode VIII - The Last Jedi,movie,"Action, Adventure, Fantasy",6.9,695384.0,2017.0,tm8,1.0,tous publics,'us'
+tt0988045,Sherlock Holmes,movie,"Action, Adventure, Mystery",7.6,690518.0,2009.0,tm154187,3.0,tous publics,"'us', 'de'"
+tt2294629,Frozen,movie,"Adventure, Animation, Comedy",7.4,688647.0,2013.0,tm181359,1.0,tous publics,'us'
+tt0454876,Life of Pi,movie,"Adventure, Drama, Fantasy",7.9,685186.0,2012.0,tm63441,1.0,tous publics,"'us', 'tw', 'gb', 'ca', 'in', 'fr'"
+tt1637725,Ted,movie,Comedy,6.9,684047.0,2012.0,tm31827,1.0,tous publics avec avertissement,'us'
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),movie,"Comedy, Drama",7.7,682235.0,2014.0,tm151077,4.0,tous publics,'us'
+tt1446714,Prometheus,movie,"Adventure, Mystery, Sci-Fi",7.0,676661.0,2012.0,tm69294,1.0,12,"'gb', 'us'"
+tt0120903,X-Men,movie,"Action, Adventure, Sci-Fi",7.3,673362.0,2000.0,tm18191,1.0,tous publics,"'us', 'ca'"
+tt0440963,The Bourne Ultimatum,movie,"Action, Mystery, Thriller",8.0,671473.0,2007.0,tm79442,2.0,tous publics,"'us', 'de', 'fr', 'es'"
+tt0469494,There Will Be Blood,movie,Drama,8.2,671210.0,2007.0,tm76553,3.0,tous publics avec avertissement,'us'
+tt0413300,Spider-Man 3,movie,"Action, Adventure, Sci-Fi",6.3,669087.0,2007.0,tm83839,3.0,tous publics,'us'
+tt0373889,Harry Potter and the Order of the Phoenix,movie,"Action, Adventure, Family",7.5,666593.0,2007.0,tm85382,3.0,tous publics,"'gb', 'us'"
+tt0162222,Cast Away,movie,"Adventure, Drama, Romance",7.8,665933.0,2000.0,tm21856,4.0,tous publics,'us'
+tt0332280,The Notebook,movie,"Drama, Romance",7.8,655696.0,2004.0,tm89663,2.0,tous publics,'us'
+tt1024648,Argo,movie,"Biography, Drama, History",7.7,652604.0,2012.0,tm60292,2.0,tous publics,"'gb', 'us'"
+tt0234215,The Matrix Reloaded,movie,"Action, Sci-Fi",7.2,652143.0,2003.0,tm11,3.0,tous publics,'us'
+tt3890160,Baby Driver,movie,"Action, Crime, Drama",7.5,651171.0,2017.0,tm219267,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt2380307,Coco,movie,"Adventure, Animation, Drama",8.4,650187.0,2017.0,tm220546,1.0,tous publics,"'us', 'mx'"
+tt0240772,Ocean's Eleven,movie,"Crime, Thriller",7.7,646643.0,2001.0,tm38774,2.0,tous publics,'us'
+tt1156398,Zombieland,movie,"Action, Comedy, Horror",7.5,645534.0,2009.0,tm145203,1.0,tous publics,'us'
+tt0120363,Toy Story 2,movie,"Adventure, Animation, Comedy",7.9,645083.0,1999.0,tm40070,1.0,tous publics,'us'
+tt1396484,It,movie,Horror,7.3,644073.0,2017.0,tm244208,3.0,12,"'us', 'ca'"
+tt0119488,L.A. Confidential,movie,"Crime, Drama, Mystery",8.2,641224.0,1997.0,tm192099,2.0,tous publics,'us'
+tt11286314,Don't Look Up,movie,"Comedy, Drama, Sci-Fi",7.2,640211.0,2021.0,tm856378,1.0,18,"'us', 'ca'"
+tt2119532,Hacksaw Ridge,movie,"Biography, Drama, History",8.1,637503.0,2016.0,tm196552,1.0,12,'us'
+tt4154664,Captain Marvel,movie,"Action, Adventure, Sci-Fi",6.8,637219.0,2019.0,tm570,1.0,tous publics,"'us', 'au'"
+tt2872718,Nightcrawler,movie,"Crime, Drama, Thriller",7.8,637098.0,2014.0,tm151663,2.0,tous publics avec avertissement,'us'
+tt6966692,Green Book,movie,"Biography, Comedy, Drama",8.2,635863.0,2018.0,tm404187,1.0,tous publics,"'us', 'cn'"
+tt0443706,Zodiac,movie,"Crime, Drama, Mystery",7.7,635719.0,2007.0,tm76351,3.0,tous publics avec avertissement,'us'
+tt0120735,"Lock, Stock and Two Smoking Barrels",movie,"Comedy, Crime",8.1,635221.0,1998.0,tm66918,1.0,tous publics,"'gb', 'us'"
+tt0926084,Harry Potter and the Deathly Hallows: Part 1,movie,"Adventure, Family, Fantasy",7.7,631343.0,2010.0,tm91787,3.0,tous publics,"'gb', 'us'"
+tt0034583,Casablanca,movie,"Drama, Romance, War",8.5,631274.0,1942.0,tm77588,3.0,tous publics,'us'
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,"'us', 'gb'"
+tt1219289,Limitless,movie,"Sci-Fi, Thriller",7.4,629892.0,2011.0,tm161959,3.0,tous publics,'us'
+tt0796366,Star Trek,movie,"Action, Adventure, Sci-Fi",7.9,629634.0,2009.0,tm132448,3.0,tous publics,"'us', 'de'"
+tt6644200,A Quiet Place,movie,"Drama, Horror, Sci-Fi",7.5,629153.0,2018.0,tm312979,3.0,12,'us'
+tt0417741,Harry Potter and the Half-Blood Prince,movie,"Action, Adventure, Family",7.6,628210.0,2009.0,tm144798,3.0,tous publics,"'gb', 'us'"
+tt0116629,Independence Day,movie,"Action, Adventure, Sci-Fi",7.0,626847.0,1996.0,tm111989,1.0,tous publics,'us'
+tt1232829,21 Jump Street,movie,"Action, Comedy, Crime",7.2,623280.0,2012.0,tm46613,3.0,tous publics,'us'
+tt1727824,Bohemian Rhapsody,movie,"Biography, Drama, Music",7.9,622803.0,2018.0,tm318913,1.0,tous publics,"'gb', 'us'"
+tt1343092,The Great Gatsby,movie,"Drama, Romance",7.2,620816.0,2013.0,tm177242,2.0,tous publics,"'au', 'us'"
+tt0365748,Shaun of the Dead,movie,"Comedy, Horror",7.9,619159.0,2004.0,tm88828,3.0,12,"'gb', 'fr', 'us'"
+tt1323594,Despicable Me,movie,"Adventure, Animation, Comedy",7.6,610283.0,2010.0,tm90485,2.0,tous publics,"'us', 'fr'"
+tt1250777,Kick-Ass,movie,"Action, Comedy, Crime",7.6,609209.0,2010.0,tm93845,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt0450259,Blood Diamond,movie,"Adventure, Drama, Thriller",8.0,607391.0,2006.0,tm32919,2.0,12,"'us', 'de', 'gb'"
+tt0181689,Minority Report,movie,"Action, Crime, Mystery",7.6,602597.0,2002.0,tm113842,4.0,tous publics avec avertissement,'us'
+tt0409459,Watchmen,movie,"Action, Drama, Mystery",7.6,598266.0,2009.0,tm145677,1.0,12,'us'
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,'us'
+tt0290334,X2: X-Men United,movie,"Action, Sci-Fi, Thriller",7.4,597632.0,2003.0,tm136160,1.0,tous publics,"'ca', 'us'"
+tt6320628,Spider-Man: Far from Home,movie,"Action, Adventure, Comedy",7.4,597315.0,2019.0,tm301071,1.0,tous publics,"'us', 'cz', 'au', 'ca', 'it'"
+tt0343818,"I, Robot",movie,"Action, Mystery, Sci-Fi",7.1,596864.0,2004.0,tm92414,1.0,tous publics,"'us', 'de'"
+tt0258463,The Bourne Identity,movie,"Action, Mystery, Thriller",7.8,594917.0,2002.0,tm108160,2.0,tous publics,"'cz', 'de', 'us'"
+tt1318514,Rise of the Planet of the Apes,movie,"Action, Drama, Sci-Fi",7.6,592808.0,2011.0,tm176070,1.0,tous publics,"'us', 'gb', 'ca'"
+tt1570728,"Crazy, Stupid, Love.",movie,"Comedy, Drama, Romance",7.4,592126.0,2011.0,tm166064,3.0,tous publics,'us'
+tt0454921,The Pursuit of Happyness,movie,"Biography, Drama",8.0,591781.0,2006.0,tm20959,1.0,tous publics,'us'
+tt0097165,Dead Poets Society,movie,"Comedy, Drama",8.1,591440.0,1989.0,tm134674,4.0,tous publics,'us'
+tt4972582,Split,movie,"Horror, Thriller",7.3,591210.0,2016.0,tm236706,3.0,12,"'us', 'jp'"
+tt1022603,500 Days of Summer,movie,"Comedy, Drama, Romance",7.6,590558.0,2009.0,tm2193,4.0,tous publics,'us'
+tt1298650,Pirates of the Caribbean: On Stranger Tides,movie,"Action, Adventure, Fantasy",6.6,586816.0,2011.0,tm173805,1.0,tous publics,"'us', 'gb'"
+tt1457767,The Conjuring,movie,"Horror, Mystery, Thriller",7.5,584418.0,2013.0,tm160621,2.0,12,'us'
+tt5027774,"Three Billboards Outside Ebbing, Missouri",movie,"Comedy, Crime, Drama",8.1,583099.0,2017.0,tm244171,4.0,tous publics,"'gb', 'us'"
+tt6710474,Everything Everywhere All at Once,movie,"Action, Adventure, Comedy",7.8,580739.0,2022.0,tm1137671,1.0,tous publics,'us'
+tt2948356,Zootopia,movie,"Action, Adventure, Animation",8.0,579626.0,2016.0,tm122337,1.0,tous publics,'us'
+tt2713180,Fury,movie,"Action, Drama, War",7.6,578959.0,2014.0,tm157843,1.0,12,"'cn', 'us'"
+tt1270797,Venom,movie,"Action, Adventure, Sci-Fi",6.6,578079.0,2018.0,tm313044,1.0,tous publics,"'us', 'cn'"
+tt1659337,The Perks of Being a Wallflower,movie,Drama,7.9,570827.0,2012.0,tm60939,1.0,tous publics,'us'
+tt1483013,Oblivion,movie,"Action, Adventure, Sci-Fi",7.0,570819.0,2013.0,tm183480,2.0,tous publics,'us'
+tt0356910,Mr. & Mrs. Smith,movie,"Action, Comedy, Crime",6.5,568086.0,2005.0,tm176981,2.0,tous publics,'us'
+tt0945513,Source Code,movie,"Action, Drama, Mystery",7.5,567800.0,2011.0,tm170839,2.0,tous publics,"'us', 'ca', 'fr', 'de'"
+tt0095953,Rain Man,movie,Drama,8.0,565434.0,1988.0,tm43389,1.0,tous publics,'us'
+tt1872181,The Amazing Spider-Man 2,movie,"Action, Adventure, Sci-Fi",6.6,563931.0,2014.0,tm145631,2.0,tous publics,'us'
+tt0242653,The Matrix Revolutions,movie,"Action, Sci-Fi",6.7,560948.0,2003.0,tm12,3.0,tous publics avec avertissement,"'us', 'au'"
+tt0376994,X-Men: The Last Stand,movie,"Action, Adventure, Sci-Fi",6.6,559970.0,2006.0,tm38375,1.0,tous publics,"'us', 'gb', 'ca'"
+tt1411697,The Hangover Part II,movie,Comedy,6.5,556432.0,2011.0,tm167643,2.0,tous publics,'us'
+tt0458525,X-Men Origins: Wolverine,movie,"Action, Sci-Fi",6.5,554643.0,2009.0,tm154915,1.0,tous publics,"'us', 'gb'"
+tt0087469,Indiana Jones and the Temple of Doom,movie,"Action, Adventure",7.5,552309.0,1984.0,tm168802,3.0,tous publics,'us'
+tt0425112,Hot Fuzz,movie,"Action, Comedy, Mystery",7.8,551957.0,2007.0,tm66720,2.0,tous publics,"'gb', 'fr', 'us'"
+tt0441773,Kung Fu Panda,movie,"Action, Adventure, Animation",7.6,551426.0,2008.0,tm47756,1.0,tous publics,'us'
+tt0367594,Charlie and the Chocolate Factory,movie,"Adventure, Comedy, Family",6.7,551366.0,2005.0,tm160815,5.0,tous publics,"'gb', 'us'"
+tt2179136,American Sniper,movie,"Action, Biography, Drama",7.3,550803.0,2014.0,tm137713,4.0,tous publics avec avertissement,'us'
+tt0206634,Children of Men,movie,"Drama, Sci-Fi, Thriller",7.9,547724.0,2006.0,tm28136,2.0,tous publics avec avertissement,"'us', 'gb', 'jp'"
+tt0099487,Edward Scissorhands,movie,"Drama, Fantasy, Romance",7.8,546413.0,1990.0,tm147893,3.0,tous publics,'us'
+tt1663662,Pacific Rim,movie,"Action, Adventure, Sci-Fi",6.9,545315.0,2013.0,tm168436,1.0,tous publics,"'us', 'mx'"
+tt1229238,Mission: Impossible - Ghost Protocol,movie,"Action, Adventure, Thriller",7.4,543953.0,2011.0,tm166978,3.0,tous publics,"'us', 'ae', 'ru', 'ca', 'cz', 'in'"
+tt0268380,Ice Age,movie,"Adventure, Animation, Comedy",7.5,543270.0,2002.0,tm116550,1.0,tous publics,'us'
+tt4425200,John Wick: Chapter 2,movie,"Action, Crime, Thriller",7.4,540793.0,2017.0,tm233164,1.0,12,"'us', 'it', 'hk', 'ca'"
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,'us'
+tt0449059,Little Miss Sunshine,movie,"Comedy, Drama",7.8,537554.0,2006.0,tm26292,3.0,tous publics,'us'
+tt1790864,The Maze Runner,movie,"Action, Mystery, Sci-Fi",6.8,536142.0,2014.0,tm140507,1.0,tous publics avec avertissement,"'us', 'gb'"
+tt1630029,Avatar: The Way of Water,movie,"Action, Adventure, Fantasy",7.5,534214.0,2022.0,tm1904,1.0,tous publics avec avertissement,'us'
+tt0298148,Shrek 2,movie,"Adventure, Animation, Comedy",7.4,531385.0,2004.0,tm89680,2.0,tous publics,'us'
+tt2245084,Big Hero 6,movie,"Action, Adventure, Animation",7.8,529327.0,2014.0,tm148170,1.0,tous publics,'us'
+tt0092099,Top Gun,movie,"Action, Drama",7.0,528271.0,1986.0,tm1217553,3.0,tous publics,'us'
+tt3183660,Fantastic Beasts and Where to Find Them,movie,"Adventure, Family, Fantasy",7.2,525306.0,2016.0,tm123342,3.0,tous publics,"'gb', 'us', 'ca'"
+tt1951265,The Hunger Games: Mockingjay - Part 1,movie,"Action, Adventure, Sci-Fi",6.6,524747.0,2014.0,tm158648,1.0,tous publics,"'us', 'ca', 'fr'"
+tt1950186,Ford v Ferrari,movie,"Action, Biography, Drama",8.1,523040.0,2019.0,tm420873,1.0,tous publics,'us'
+tt0398286,Tangled,movie,"Adventure, Animation, Comedy",7.7,521033.0,2010.0,tm100894,1.0,tous publics,"'us', 'jp'"
+tt1895587,Spotlight,movie,"Biography, Crime, Drama",8.1,518846.0,2015.0,tm218359,1.0,tous publics,'us'
+tt2527338,Star Wars: Episode IX - The Rise of Skywalker,movie,"Action, Adventure, Fantasy",6.4,517942.0,2019.0,tm9,1.0,tous publics,"'us', 'gb'"
+tt1677720,Ready Player One,movie,"Action, Adventure, Sci-Fi",7.4,517171.0,2018.0,tm225321,4.0,tous publics,"'us', 'in', 'sg', 'ca', 'gb', 'jp', 'au'"
+tt9419884,Doctor Strange in the Multiverse of Madness,movie,"Action, Adventure, Fantasy",6.9,515432.0,2022.0,tm318385,1.0,tous publics,'us'
+tt1291584,Warrior,movie,"Action, Drama, Sport",8.1,514507.0,2011.0,tm166548,1.0,tous publics,'us'
+tt0362227,The Terminal,movie,"Comedy, Drama, Romance",7.4,514115.0,2004.0,tm89677,4.0,tous publics,'us'
+tt1568346,The Girl with the Dragon Tattoo,movie,"Crime, Drama, Mystery",7.8,513750.0,2011.0,tm161802,1.0,12,"'se', 'us'"
+tt1454029,The Help,movie,Drama,8.1,512950.0,2011.0,tm168805,1.0,tous publics,"'us', 'in'"
+tt1430132,The Wolverine,movie,"Action, Sci-Fi",6.7,511657.0,2013.0,tm187305,1.0,tous publics avec avertissement,"'us', 'gb', 'jp'"
+tt1596363,The Big Short,movie,"Biography, Comedy, Drama",7.8,511422.0,2015.0,tm222133,4.0,tous publics,'us'
+tt1800241,American Hustle,movie,"Crime, Drama",7.2,509872.0,2013.0,tm181748,1.0,tous publics,"'us', 'cn'"
+tt3397884,Sicario,movie,"Action, Crime, Drama",7.7,508741.0,2015.0,tm141107,1.0,12,"'us', 'mx', 'hk'"
+tt1535109,Captain Phillips,movie,"Action, Biography, Crime",7.8,507876.0,2013.0,tm176861,2.0,tous publics avec avertissement,"'us', 'gb', 'mt'"
+tt1099212,Twilight,movie,"Drama, Fantasy, Romance",5.3,507006.0,2008.0,tm57772,1.0,tous publics,"'us', 'gb'"
+tt1723121,We're the Millers,movie,"Comedy, Crime",7.0,506688.0,2013.0,tm173363,3.0,tous publics,"'us', 'gb'"
+tt0327056,Mystic River,movie,"Crime, Drama, Mystery",7.9,504121.0,2003.0,tm139536,3.0,12,"'us', 'au'"
+tt1408101,Star Trek Into Darkness,movie,"Action, Adventure, Sci-Fi",7.7,504099.0,2013.0,tm188442,3.0,tous publics,'us'
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,movie,"Action, Adventure",6.2,503234.0,2008.0,tm58329,3.0,tous publics,'us'
+tt0317219,Cars,movie,"Adventure, Animation, Comedy",7.3,503086.0,2006.0,tm31341,1.0,tous publics,'us'
+tt0099088,Back to the Future Part III,movie,"Adventure, Comedy, Sci-Fi",7.5,500687.0,1990.0,tm156886,3.0,tous publics,'us'
+tt0372183,The Bourne Supremacy,movie,"Action, Thriller",7.7,500207.0,2004.0,tm92758,2.0,tous publics,"'us', 'de', 'in', 'ru'"
+tt2103281,Dawn of the Planet of the Apes,movie,"Action, Adventure, Drama",7.6,500039.0,2014.0,tm144049,1.0,tous publics,"'us', 'gb', 'ca'"
+tt0458352,The Devil Wears Prada,movie,"Comedy, Drama",6.9,499721.0,2006.0,tm32004,1.0,tous publics,"'us', 'fr'"
+tt6263850,Deadpool & Wolverine,movie,"Action, Adventure, Comedy",7.6,498250.0,2024.0,tm843068,1.0,12,"'us', 'gb', 'nz', 'ca'"
+tt0319262,The Day After Tomorrow,movie,"Action, Adventure, Sci-Fi",6.5,497006.0,2004.0,tm85114,1.0,tous publics,'us'
+tt2980516,The Theory of Everything,movie,"Biography, Drama, Romance",7.7,496889.0,2014.0,tm160708,1.0,tous publics,"'gb', 'jp', 'us'"
+tt0139654,Training Day,movie,"Crime, Drama, Thriller",7.8,496078.0,2001.0,tm51064,2.0,12,'us'
+tt0101414,Beauty and the Beast,movie,"Animation, Family, Fantasy",8.0,493215.0,1991.0,tm195553,1.0,tous publics,"'us', 'jp'"
+tt12593682,Bullet Train,movie,"Action, Comedy, Thriller",7.3,492778.0,2022.0,tm1069551,1.0,12,"'us', 'jp'"
+tt1515091,Sherlock Holmes: A Game of Shadows,movie,"Action, Adventure, Mystery",7.4,492510.0,2011.0,tm178201,3.0,tous publics,'us'
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,"'us', 'ca', 'gb'"
+tt0407304,War of the Worlds,movie,"Action, Adventure, Sci-Fi",6.5,490489.0,2005.0,tm172683,4.0,tous publics,'us'
+tt0117060,Mission: Impossible,movie,"Action, Adventure, Thriller",7.2,490252.0,1996.0,tm107744,3.0,tous publics,'us'
+tt0217505,Gangs of New York,movie,"Crime, Drama",7.5,488595.0,2002.0,tm105987,3.0,12,"'us', 'it'"
+tt0103639,Aladdin,movie,"Adventure, Animation, Comedy",8.0,486572.0,1992.0,tm318224,1.0,tous publics,'us'
+tt0347149,Howl's Moving Castle,movie,"Adventure, Animation, Family",8.2,483356.0,2004.0,tm79928,1.0,tous publics,"'jp', 'us'"
+tt1535108,Elysium,movie,"Action, Drama, Sci-Fi",6.6,482382.0,2013.0,tm168654,3.0,tous publics avec avertissement,"'us', 'ca'"
+tt0120616,The Mummy,movie,"Action, Adventure, Fantasy",7.1,482265.0,1999.0,tm122327,1.0,tous publics,'us'
+tt1772341,Wreck-It Ralph,movie,"Adventure, Animation, Comedy",7.7,479800.0,2012.0,tm30584,1.0,tous publics,'us'
+tt0780536,In Bruges,movie,"Comedy, Crime, Drama",7.9,479359.0,2008.0,tm41942,3.0,tous publics avec avertissement,"'gb', 'us'"
+tt3385516,X-Men: Apocalypse,movie,"Action, Adventure, Sci-Fi",6.8,479267.0,2016.0,tm122347,1.0,tous publics,'us'
+tt1499658,Horrible Bosses,movie,"Comedy, Crime",6.9,479147.0,2011.0,tm170754,2.0,tous publics,'us'
+tt2283362,Jumanji: Welcome to the Jungle,movie,"Action, Adventure, Comedy",7.0,478825.0,2017.0,tm219286,1.0,tous publics,"'us', 'au', 'ca', 'mx', 'in', 'gb'"
+tt0070047,The Exorcist,movie,Horror,8.1,477825.0,1973.0,tm190788,2.0,12,'us'
+tt0093773,Predator,movie,"Action, Adventure, Horror",7.8,477209.0,1987.0,tm19698,1.0,12,"'us', 'mx'"
+tt11564570,Glass Onion,movie,"Comedy, Crime, Drama",7.1,476628.0,2022.0,tm915749,1.0,13::(self-applied),'us'
+tt1355644,Passengers,movie,"Drama, Romance, Sci-Fi",7.0,474886.0,2016.0,tm213870,2.0,tous publics,"'hk', 'au', 'us'"
+tt5095030,Ant-Man and the Wasp,movie,"Action, Adventure, Comedy",7.0,473024.0,2018.0,tm227990,1.0,tous publics,"'us', 'ca'"
+tt0382625,The Da Vinci Code,movie,"Mystery, Thriller",6.6,472902.0,2006.0,tm23568,3.0,tous publics,"'us', 'mt', 'fr', 'gb'"
+tt0087332,Ghostbusters,movie,"Action, Comedy, Fantasy",7.8,470581.0,1984.0,tm197031,2.0,tous publics,'us'
+tt0942385,Tropic Thunder,movie,"Action, Comedy, War",7.1,468586.0,2008.0,tm28346,2.0,tous publics,"'us', 'gb', 'de'"
+tt3170832,Room,movie,"Drama, Thriller",8.1,467924.0,2015.0,tm140174,2.0,tous publics avec avertissement,"'ie', 'ca', 'gb', 'us'"
+tt2584384,Jojo Rabbit,movie,"Comedy, Drama, War",7.9,467385.0,2019.0,tm419055,4.0,tous publics,"'cz', 'nz', 'us', 'de'"
+tt1637688,In Time,movie,"Action, Sci-Fi, Thriller",6.7,467377.0,2011.0,tm180545,1.0,tous publics,'us'
+tt0093779,The Princess Bride,movie,"Adventure, Comedy, Family",8.0,466526.0,1987.0,tm19438,1.0,tous publics,'us'
+tt0120591,Armageddon,movie,"Action, Adventure, Sci-Fi",6.7,466109.0,1998.0,tm58094,1.0,tous publics,'us'
+tt9376612,Shang-Chi and the Legend of the Ten Rings,movie,"Action, Adventure, Fantasy",7.3,463469.0,2021.0,tm821207,1.0,tous publics,'us'
+tt6264654,Free Guy,movie,"Action, Adventure, Comedy",7.1,462750.0,2021.0,tm460711,1.0,tous publics,"'us', 'ca'"
+tt1217209,Brave,movie,"Action, Adventure, Animation",7.1,462079.0,2012.0,tm51645,1.0,tous publics,"'us', 'jp', 'gb'"
+tt0377092,Mean Girls,movie,Comedy,7.1,461767.0,2004.0,tm91952,6.0,tous publics,"'us', 'ca'"
+tt1605783,Midnight in Paris,movie,"Comedy, Fantasy, Romance",7.6,461564.0,2011.0,tm164877,2.0,tous publics,"'es', 'us', 'fr'"
+tt5580390,The Shape of Water,movie,"Drama, Fantasy, Romance",7.3,460681.0,2017.0,tm244209,1.0,tous publics avec avertissement,"'us', 'mx'"
+tt0119698,Princess Mononoke,movie,"Adventure, Animation, Fantasy",8.3,460498.0,1997.0,tm192569,1.0,tous publics,'jp'
+tt0443453,Borat,movie,Comedy,7.4,460393.0,2006.0,tm21208,1.0,tous publics,"'us', 'gb'"
+tt0360717,King Kong,movie,"Action, Adventure, Romance",7.2,459507.0,2005.0,tm178788,3.0,tous publics avec avertissement,"'us', 'nz', 'de'"
+tt0119567,The Lost World: Jurassic Park,movie,"Action, Adventure, Sci-Fi",6.6,459291.0,1997.0,tm193042,1.0,tous publics,'us'
+tt0351283,Madagascar,movie,"Adventure, Animation, Comedy",6.9,458520.0,2005.0,tm174799,2.0,tous publics,"'us', 'ca', 'gb'"
+tt0217869,Unbreakable,movie,"Drama, Mystery, Sci-Fi",7.3,456632.0,2000.0,tm18133,1.0,tous publics::(theatrical),'us'
+tt0091763,Platoon,movie,"Drama, War",8.1,456252.0,1986.0,tm110805,1.0,12,"'us', 'gb'"
+tt12361974,Zack Snyder's Justice League,movie,"Action, Adventure, Fantasy",7.9,455985.0,2021.0,tm893885,3.0,12::(self-applied),'us'
+tt1014759,Alice in Wonderland,movie,"Adventure, Family, Fantasy",6.4,455554.0,2010.0,tm130611,1.0,tous publics,"'us', 'it', 'ca', 'jp', 'gb'"
+tt9764362,The Menu,movie,"Comedy, Horror, Thriller",7.2,454930.0,2022.0,tm1198110,1.0,12,'us'
+tt0105695,Unforgiven,movie,"Drama, Western",8.2,454523.0,1992.0,tm128806,3.0,tous publics,'us'
+tt0831387,Godzilla,movie,"Action, Adventure, Sci-Fi",6.4,454134.0,2014.0,tm158958,2.0,tous publics avec avertissement,"'us', 'jp'"
+tt6146586,John Wick: Chapter 3 - Parabellum,movie,"Action, Crime, Thriller",7.4,453311.0,2019.0,tm322433,1.0,12 avec avertissement,"'us', 'ma', 'ua', 'it'"
+tt1302006,The Irishman,movie,"Biography, Crime, Drama",7.8,453308.0,2019.0,tm244149,1.0,16::(self-applied),'us'
+tt3480822,Black Widow,movie,"Action, Adventure, Sci-Fi",6.6,453226.0,2021.0,tm439797,1.0,tous publics,'us'
+tt0119174,The Game,movie,"Drama, Mystery, Thriller",7.7,452845.0,1997.0,tm193015,3.0,tous publics,'us'
+tt0163651,American Pie,movie,Comedy,7.0,451674.0,1999.0,tm57601,2.0,tous publics,'us'
+tt0032138,The Wizard of Oz,movie,"Adventure, Family, Fantasy",8.1,450650.0,1939.0,tm155702,3.0,tous publics,'us'
+tt0455944,The Equalizer,movie,"Action, Crime, Thriller",7.3,445625.0,2014.0,tm160558,2.0,12,'us'
+tt1245492,This Is the End,movie,"Comedy, Fantasy",6.6,444961.0,2013.0,tm159637,1.0,tous publics avec avertissement,'us'
+tt1399103,Transformers: Dark of the Moon,movie,"Action, Adventure, Sci-Fi",6.2,444354.0,2011.0,tm184015,3.0,tous publics,"'us', 'hk', 'kh', 'gb'"
+tt1690953,Despicable Me 2,movie,"Adventure, Animation, Comedy",7.3,444328.0,2013.0,tm166553,3.0,tous publics,"'us', 'fr'"
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",movie,"Adventure, Family, Fantasy",6.9,444077.0,2005.0,tm180742,1.0,tous publics,"'gb', 'us'"
+tt1055369,Transformers: Revenge of the Fallen,movie,"Action, Adventure, Sci-Fi",6.0,441836.0,2009.0,tm138894,4.0,tous publics,"'us', 'jo', 'gb'"
+tt0099674,The Godfather Part III,movie,"Crime, Drama",7.6,439634.0,1990.0,tm1522993,3.0,tous publics,'us'
+tt0232500,The Fast and the Furious,movie,"Action, Crime, Thriller",6.8,438140.0,2001.0,tm45787,2.0,tous publics,"'us', 'de'"
+tt1517451,A Star Is Born,movie,"Drama, Music, Romance",7.6,436136.0,2018.0,tm266686,3.0,tous publics,'us'
+tt10648342,Thor: Love and Thunder,movie,"Action, Adventure, Comedy",6.1,433829.0,2022.0,tm821210,1.0,tous publics,"'au', 'us'"
+tt8367814,The Gentlemen,movie,"Action, Crime",7.8,433782.0,2019.0,tm441050,1.0,tous publics avec avertissement,"'us', 'gb'"
+tt1060277,Cloverfield,movie,"Action, Horror, Sci-Fi",7.0,433691.0,2008.0,tm36606,3.0,tous publics avec avertissement,'us'
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,'us'
+tt0840361,The Town,movie,"Crime, Drama, Thriller",7.5,431282.0,2010.0,tm101190,3.0,tous publics,"'us', 'gb'"
+tt0361862,The Machinist,movie,"Drama, Thriller",7.6,429485.0,2004.0,tm85617,3.0,12,"'es', 'us'"
+tt0104431,Home Alone 2: Lost in New York,movie,"Adventure, Comedy, Crime",6.9,429183.0,1992.0,tm130837,1.0,tous publics,'us'
+tt6791350,Guardians of the Galaxy Vol. 3,movie,"Action, Adventure, Comedy",7.9,429129.0,2023.0,tm317636,2.0,tous publics,"'us', 'nz', 'fr', 'ca'"
+tt0337978,Live Free or Die Hard,movie,"Action, Thriller",7.1,429046.0,2007.0,tm77083,1.0,tous publics,"'us', 'gb'"
+tt1905041,Fast & Furious 6,movie,"Action, Thriller",7.0,428819.0,2013.0,tm177568,1.0,tous publics,"'us', 'jp', 'es', 'hk', 'gb'"
+tt2820852,Furious 7,movie,"Action, Thriller",7.1,427397.0,2015.0,tm138641,1.0,tous publics avec avertissement,"'us', 'cn', 'jp', 'ca', 'ae'"
+tt0349903,Ocean's Twelve,movie,"Crime, Thriller",6.5,426745.0,2004.0,tm85992,2.0,tous publics,'us'
+tt2381249,Mission: Impossible - Rogue Nation,movie,"Action, Adventure, Thriller",7.4,425638.0,2015.0,tm137836,3.0,tous publics,"'us', 'cn', 'gb', 'at', 'ma', 'hk'"
+tt0118971,The Devil's Advocate,movie,"Drama, Fantasy, Mystery",7.5,423488.0,1997.0,tm191848,1.0,12,'us'
+tt2294449,22 Jump Street,movie,"Action, Comedy, Crime",7.0,423282.0,2014.0,tm155841,3.0,tous publics,'us'
+tt1596343,Fast Five,movie,"Action, Crime, Thriller",7.3,420736.0,2011.0,tm170517,1.0,tous publics,"'us', 'jp', 'br'"
+tt0112864,Die Hard with a Vengeance,movie,"Action, Adventure, Thriller",7.6,420303.0,1995.0,tm8637,1.0,tous publics,'us'
+tt7784604,Hereditary,movie,"Drama, Horror, Mystery",7.3,419755.0,2018.0,tm364165,1.0,12,'us'
+tt0096895,Batman,movie,"Action, Adventure",7.5,419702.0,1989.0,tm138000,3.0,tous publics,"'us', 'gb'"
+tt0120912,Men in Black II,movie,"Action, Adventure, Comedy",6.2,419025.0,2002.0,tm114954,2.0,tous publics,'us'
+tt0147800,10 Things I Hate About You,movie,"Comedy, Drama, Romance",7.4,418829.0,1999.0,tm874,1.0,tous publics,'us'
+tt0117571,Scream,movie,"Horror, Mystery",7.4,417645.0,1996.0,tm927825,1.0,16,'us'
+tt3521164,Moana,movie,"Adventure, Animation, Comedy",7.6,415657.0,2016.0,tm120111,1.0,tous publics,'us'
+tt2582846,The Fault in Our Stars,movie,"Drama, Romance",7.6,414966.0,2014.0,tm141973,1.0,tous publics,'us'
+tt0119094,Face/Off,movie,"Action, Crime, Sci-Fi",7.3,414604.0,1997.0,tm189515,2.0,12,'us'
+tt1542344,127 Hours,movie,"Biography, Drama",7.5,413973.0,2010.0,tm102558,4.0,tous publics avec avertissement,"'gb', 'us', 'fr'"
+tt1587310,Maleficent,movie,"Action, Adventure, Drama",6.9,413702.0,2014.0,tm147258,1.0,tous publics,"'us', 'ca', 'gb'"
+tt0454848,Inside Man,movie,"Crime, Drama, Mystery",7.6,413001.0,2006.0,tm27163,2.0,tous publics,'us'
+tt2194499,About Time,movie,"Comedy, Drama, Fantasy",7.8,412671.0,2013.0,tm186121,1.0,tous publics,"'gb', 'us'"
+tt1190080,2012,movie,"Action, Adventure, Sci-Fi",5.8,410599.0,2009.0,tm143713,2.0,tous publics,'us'
+tt0230600,The Others,movie,"Horror, Mystery, Thriller",7.6,410112.0,2001.0,tm47890,2.0,12,"'es', 'fr', 'us'"
+tt1632708,Friends with Benefits,movie,"Comedy, Romance",6.5,409310.0,2011.0,tm173917,1.0,tous publics,'us'
+tt1453405,Monsters University,movie,"Adventure, Animation, Comedy",7.2,408917.0,2013.0,tm186511,1.0,tous publics,"'us', 'jp'"
+tt0111257,Speed,movie,"Action, Adventure, Thriller",7.3,408748.0,1994.0,tm192870,1.0,tous publics,'us'
+tt9032400,Eternals,movie,"Action, Adventure, Fantasy",6.2,408200.0,2021.0,tm439804,1.0,tous publics,'us'
+tt2948372,Soul,movie,"Adventure, Animation, Comedy",8.0,408167.0,2020.0,tm375501,1.0,6+::(self-applied),'us'
+tt0096283,My Neighbor Totoro,movie,"Animation, Comedy, Family",8.1,407740.0,1988.0,tm38744,1.0,tous publics,'jp'
+tt0166924,Mulholland Drive,movie,"Drama, Mystery, Thriller",7.9,407184.0,2001.0,tm30858,3.0,tous publics,"'fr', 'us'"
+tt1706620,Snowpiercer,movie,"Action, Sci-Fi, Thriller",7.1,406914.0,2013.0,tm166118,2.0,12,"'kr', 'cz'"
+tt2737304,Bird Box,movie,"Horror, Mystery, Sci-Fi",6.6,406531.0,2018.0,tm374132,1.0,16,'us'
+tt0317919,Mission: Impossible III,movie,"Action, Adventure, Thriller",6.9,405108.0,2006.0,tm22457,3.0,tous publics,"'us', 'de', 'cn', 'it'"
+tt0328107,Man on Fire,movie,"Action, Crime, Drama",7.7,403317.0,2004.0,tm80657,1.0,12,"'ch', 'gb', 'us', 'mx'"
+tt0094721,Beetlejuice,movie,"Comedy, Fantasy",7.5,403239.0,1988.0,tm39601,2.0,tous publics,'us'
+tt0091042,Ferris Bueller's Day Off,movie,Comedy,7.8,402614.0,1986.0,tm116000,3.0,tous publics,'us'
+tt1490017,The Lego Movie,movie,"Action, Adventure, Animation",7.7,402254.0,2014.0,tm154995,3.0,tous publics,"'us', 'dk', 'au', 'no'"
+tt0286106,Signs,movie,"Drama, Mystery, Sci-Fi",6.8,401267.0,2002.0,tm115633,1.0,tous publics,'us'
+tt1409024,Men in Black³,movie,"Action, Adventure, Comedy",6.8,400729.0,2012.0,tm33253,3.0,tous publics,"'ae', 'us'"
+tt0448115,Shazam!,movie,"Action, Adventure, Comedy",7.0,400487.0,2019.0,tm1897,3.0,tous publics,"'us', 'ca'"
+tt0120663,Eyes Wide Shut,movie,"Drama, Mystery, Thriller",7.5,399557.0,1999.0,tm62326,2.0,tous publics,"'gb', 'us'"
+tt0317740,The Italian Job,movie,"Action, Crime, Thriller",7.0,398923.0,2003.0,tm134144,1.0,tous publics,"'us', 'it', 'gb', 'de', 'fr'"
+tt0343660,50 First Dates,movie,"Comedy, Drama, Romance",6.8,398650.0,2004.0,tm86355,2.0,tous publics,'us'
+tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,movie,"Drama, Horror, Musical",7.3,397785.0,2007.0,tm82467,2.0,12,"'us', 'gb'"
+tt0443543,The Illusionist,movie,"Drama, Fantasy, Mystery",7.5,397399.0,2006.0,tm38304,1.0,tous publics,"'us', 'cz'"
+tt0099423,Die Hard 2,movie,"Action, Thriller",7.1,396515.0,1990.0,tm162823,1.0,tous publics,'us'
+tt0113497,Jumanji,movie,"Adventure, Comedy, Family",7.1,395836.0,1995.0,tm10270,3.0,tous publics,'us'
+tt0081398,Raging Bull,movie,"Biography, Drama, Sport",8.1,395758.0,1980.0,tm103040,1.0,12,'us'
+tt4912910,Mission: Impossible - Fallout,movie,"Action, Adventure, Thriller",7.7,395642.0,2018.0,tm218937,3.0,tous publics,"'us', 'cn', 'fr', 'no'"
+tt0107688,The Nightmare Before Christmas,movie,"Animation, Family, Fantasy",7.9,395319.0,1993.0,tm185041,1.0,tous publics,'us'
+tt0087843,Once Upon a Time in America,movie,"Crime, Drama",8.3,395245.0,1984.0,tm180542,2.0,tous publics,"'it', 'us'"
+tt0338751,The Aviator,movie,"Biography, Drama",7.5,395239.0,2004.0,tm86637,3.0,tous publics,"'us', 'de'"
+tt1068680,Yes Man,movie,"Comedy, Romance",6.8,394899.0,2008.0,tm31383,4.0,tous publics,"'us', 'gb'"
+tt3778644,Solo: A Star Wars Story,movie,"Action, Adventure, Sci-Fi",6.9,394748.0,2018.0,tm215172,1.0,tous publics,'us'
+tt1951266,The Hunger Games: Mockingjay - Part 2,movie,"Action, Adventure, Sci-Fi",6.6,394180.0,2015.0,tm133531,1.0,tous publics,"'us', 'de', 'ca', 'fr'"
+tt0477347,Night at the Museum,movie,"Adventure, Comedy, Family",6.5,393633.0,2006.0,tm22112,1.0,tous publics,"'us', 'gb'"
+tt0120755,Mission: Impossible II,movie,"Action, Adventure, Thriller",6.1,392776.0,2000.0,tm27395,3.0,tous publics,"'us', 'de', 'au'"
+tt0360486,Constantine,movie,"Action, Fantasy, Horror",7.0,392549.0,2005.0,tm173562,2.0,12,"'us', 'de'"
+tt0357413,Anchorman: The Legend of Ron Burgundy,movie,Comedy,7.1,390611.0,2004.0,tm80906,3.0,tous publics,'us'
+tt0119396,Jackie Brown,movie,"Crime, Drama, Thriller",7.5,389909.0,1997.0,tm191766,3.0,tous publics avec avertissement,'us'
+tt0298130,The Ring,movie,"Horror, Mystery",7.1,389645.0,2002.0,tm109304,3.0,12,"'us', 'jp'"
+tt0363163,Downfall,movie,"Biography, Drama, History",8.2,388677.0,2004.0,tm81493,2.0,tous publics avec avertissement,"'de', 'at', 'it'"
+tt1182345,Moon,movie,"Drama, Mystery, Sci-Fi",7.8,386311.0,2009.0,tm133067,2.0,tous publics,"'gb', 'us'"
+tt0100405,Pretty Woman,movie,"Comedy, Romance",7.1,386202.0,1990.0,tm153016,1.0,tous publics,'us'
+tt4649466,Kingsman: The Golden Circle,movie,"Action, Adventure, Comedy",6.7,385636.0,2017.0,tm232801,1.0,tous publics,"'gb', 'us', 'it'"
+tt1041829,The Proposal,movie,"Comedy, Drama, Romance",6.8,380850.0,2009.0,tm154243,1.0,tous publics,'us'
+tt0790724,Jack Reacher,movie,"Action, Thriller",7.0,379349.0,2012.0,tm53381,3.0,tous publics avec avertissement,'us'
+tt0496806,Ocean's Thirteen,movie,"Crime, Thriller",6.9,377655.0,2007.0,tm82525,2.0,tous publics,'us'
+tt0077416,The Deer Hunter,movie,"Drama, War",8.1,375647.0,1978.0,tm17792,1.0,12,"'us', 'gb'"
+tt1065073,Boyhood,movie,Drama,7.9,375250.0,2014.0,tm153755,2.0,tous publics,'us'
+tt1748122,Moonrise Kingdom,movie,"Adventure, Comedy, Drama",7.8,374818.0,2012.0,tm32658,1.0,tous publics,'us'
+tt0878804,The Blind Side,movie,"Biography, Drama, Sport",7.6,374636.0,2009.0,tm133374,1.0,tous publics,'us'
+tt1320253,The Expendables,movie,"Action, Adventure, Thriller",6.4,372975.0,2010.0,tm97349,2.0,12,"'us', 'bg', 'es', 'de'"
+tt0117500,The Rock,movie,"Action, Adventure, Thriller",7.4,369867.0,1996.0,tm109086,1.0,tous publics,'us'
+tt0100802,Total Recall,movie,"Action, Adventure, Sci-Fi",7.5,368955.0,1990.0,tm157356,1.0,12,"'us', 'mx'"
+tt0212338,Meet the Parents,movie,"Comedy, Romance",7.0,368176.0,2000.0,tm18856,4.0,tous publics,'us'
+tt1104001,Tron: Legacy,movie,"Action, Adventure, Sci-Fi",6.8,367512.0,2010.0,tm99496,1.0,tous publics,"'us', 'in', 'gb', 'mx', 'jp', 'ca'"
+tt1403865,True Grit,movie,"Drama, Western",7.6,367111.0,2010.0,tm90190,3.0,tous publics,'us'
+tt2788710,The Interview,movie,"Action, Adventure, Comedy",6.5,367050.0,2014.0,tm157121,1.0,tous publics avec avertissement,'us'
+tt0368891,National Treasure,movie,"Action, Adventure, Mystery",6.9,367015.0,2004.0,tm90391,1.0,tous publics,'us'
+tt6857112,Us,movie,"Horror, Mystery, Thriller",6.8,366971.0,2019.0,tm322852,1.0,12,"'us', 'cn', 'jp'"
+tt0822854,Shooter,movie,"Action, Drama, Thriller",7.2,366637.0,2007.0,tm84371,4.0,tous publics,'us'
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,movie,"Action, Adventure, Fantasy",6.5,366086.0,2017.0,tm387,1.0,tous publics,"'us', 'au', 'gb', 'ca'"
+tt0910936,Pineapple Express,movie,"Action, Comedy, Crime",6.9,365502.0,2008.0,tm30136,1.0,tous publics,'us'
+tt1231583,Due Date,movie,"Comedy, Drama",6.5,365305.0,2010.0,tm90864,4.0,tous publics,'us'
+tt0125439,Notting Hill,movie,"Comedy, Drama, Romance",7.2,365288.0,1999.0,tm39130,3.0,tous publics,"'gb', 'us'"
+tt0071315,Chinatown,movie,"Drama, Mystery, Thriller",8.1,365023.0,1974.0,tm109939,3.0,12,'us'
+tt0887883,Burn After Reading,movie,"Comedy, Crime, Drama",7.0,364114.0,2008.0,tm45399,2.0,tous publics,"'gb', 'fr', 'us'"
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt0110148,Interview with the Vampire,movie,"Drama, Fantasy, Horror",7.5,362835.0,1994.0,tm113636,2.0,12,'us'
+tt0213149,Pearl Harbor,movie,"Action, Drama, Romance",6.3,361311.0,2001.0,tm48661,1.0,tous publics,'us'
+tt0167190,Hellboy,movie,"Action, Adventure, Fantasy",6.9,361301.0,2004.0,tm92889,5.0,tous publics avec avertissement,'us'
+tt7653254,Marriage Story,movie,"Drama, Romance",7.9,360723.0,2019.0,tm403709,1.0,13::(self-applied),"'gb', 'us'"
+tt0053125,North by Northwest,movie,"Adventure, Drama, Mystery",8.3,360440.0,1959.0,tm40187,3.0,tous publics,'us'
+tt4881806,Jurassic World: Fallen Kingdom,movie,"Action, Adventure, Sci-Fi",6.1,360397.0,2018.0,tm217382,1.0,tous publics avec avertissement,"'us', 'cn'"
+tt0112471,Before Sunrise,movie,"Comedy, Drama, Romance",8.1,359120.0,1995.0,tm10236,2.0,tous publics,"'us', 'at'"
+tt0884328,The Mist,movie,"Horror, Sci-Fi, Thriller",7.1,358419.0,2007.0,tm74402,1.0,12,'us'
+tt0209163,The Mummy Returns,movie,"Action, Adventure, Fantasy",6.4,357873.0,2001.0,tm45952,1.0,tous publics,"'us', 'ma', 'gb', 'jo'"
+tt0462538,The Simpsons Movie,movie,"Adventure, Animation, Comedy",7.3,357587.0,2007.0,tm75152,1.0,tous publics,'us'
+tt2140479,The Accountant,movie,"Action, Crime, Drama",7.3,357072.0,2016.0,tm204161,3.0,tous publics avec avertissement,'us'
+tt0120667,Fantastic Four,movie,"Action, Adventure, Fantasy",5.7,356117.0,2005.0,tm139213,1.0,tous publics,"'de', 'us', 'ca'"
+tt0359950,The Secret Life of Walter Mitty,movie,"Adventure, Comedy, Drama",7.3,355661.0,2013.0,tm171462,1.0,tous publics,"'us', 'gb'"
+tt0116367,From Dusk Till Dawn,movie,"Action, Crime, Horror",7.2,355638.0,1996.0,tm107359,3.0,16,"'us', 'mx'"
+tt1193138,Up in the Air,movie,"Comedy, Drama, Romance",7.4,355381.0,2009.0,tm153600,2.0,tous publics,'us'
+tt0414387,Pride & Prejudice,movie,"Drama, Romance",7.8,354010.0,2005.0,tm173412,4.0,tous publics,"'gb', 'fr', 'us'"
+tt1591095,Insidious,movie,"Horror, Mystery, Thriller",6.8,353137.0,2010.0,tm88465,3.0,12,"'us', 'ca'"
+tt3606756,Incredibles 2,movie,"Action, Adventure, Animation",7.5,351375.0,2018.0,tm399,1.0,tous publics,"'us', 'jp'"
+tt0105323,Scent of a Woman,movie,Drama,8.0,351068.0,1992.0,tm125153,1.0,tous publics,'us'
+tt1645170,The Dictator,movie,Comedy,6.5,350900.0,2012.0,tm67583,3.0,tous publics,'us'
+tt0119528,Liar Liar,movie,"Comedy, Fantasy",6.9,349907.0,1997.0,tm189907,1.0,tous publics,'us'
+tt0095327,Grave of the Fireflies,movie,"Animation, Drama, War",8.5,349295.0,1988.0,tm54176,1.0,tous publics,'jp'
+tt1951261,The Hangover Part III,movie,"Comedy, Crime",5.8,348873.0,2013.0,tm166238,2.0,tous publics,'us'
+tt0457939,The Holiday,movie,"Comedy, Romance",7.0,348654.0,2006.0,tm31297,3.0,tous publics,'us'
+tt2771200,Beauty and the Beast,movie,"Adventure, Family, Fantasy",7.1,347986.0,2017.0,tm195553,1.0,tous publics,'us'
+tt0413267,Shrek the Third,movie,"Adventure, Animation, Comedy",6.1,347648.0,2007.0,tm84301,2.0,tous publics,'us'
+tt1638355,The Man from U.N.C.L.E.,movie,"Action, Adventure, Comedy",7.2,347004.0,2015.0,tm138395,1.0,tous publics,"'gb', 'us'"
+tt0031381,Gone with the Wind,movie,"Drama, Romance, War",8.2,346505.0,1939.0,tm156463,3.0,tous publics,'us'
+tt2322441,Fifty Shades of Grey,movie,"Drama, Romance, Thriller",4.2,346496.0,2015.0,tm139217,4.0,12,'us'
+tt0332379,School of Rock,movie,"Comedy, Music",7.2,345387.0,2003.0,tm129774,3.0,tous publics,"'us', 'de'"
+tt0472043,Apocalypto,movie,"Action, Adventure, Drama",7.8,345081.0,2006.0,tm27140,1.0,12,"'us', 'mx'"
+tt0094226,The Untouchables,movie,"Crime, Drama, Thriller",7.8,343473.0,1987.0,tm23389,4.0,tous publics,'us'
+tt0970179,Hugo,movie,"Adventure, Drama, Family",7.5,343261.0,2011.0,tm173538,1.0,tous publics,"'us', 'gb'"
+tt0381849,3:10 to Yuma,movie,"Action, Crime, Drama",7.6,342949.0,2007.0,tm79639,3.0,18::(self-applied),'us'
+tt0386588,Hitch,movie,"Comedy, Romance",6.6,342648.0,2005.0,tm176763,1.0,tous publics,'us'
+tt14230458,Poor Things,movie,"Comedy, Drama, Romance",7.8,341839.0,2023.0,tm1028203,2.0,tous publics avec avertissement,"'ie', 'gb', 'us', 'hu'"
+tt0190590,"O Brother, Where Art Thou?",movie,"Adventure, Comedy, Crime",7.7,341529.0,2000.0,tm23114,2.0,tous publics,"'gb', 'fr', 'us'"
+tt1981677,Pitch Perfect,movie,"Comedy, Music, Romance",7.1,341074.0,2012.0,tm33728,1.0,tous publics,'us'
+tt2109248,Transformers: Age of Extinction,movie,"Action, Adventure, Sci-Fi",5.6,340862.0,2014.0,tm155098,4.0,tous publics,"'us', 'cn', 'hk'"
+tt0103644,Alien³,movie,"Action, Horror, Sci-Fi",6.4,340604.0,1992.0,tm127337,1.0,12,"'gb', 'us'"
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,"'us', 'gb'"
+tt7991608,Red Notice,movie,"Action, Comedy, Thriller",6.3,339951.0,2021.0,tm404856,1.0,13::(self-applied),"'us', 'gb', 'sg', 'it', 'th', 'ca'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,"'br', 'fr', 'it', 'us'"
+tt0129387,There's Something About Mary,movie,"Comedy, Romance",7.1,339438.0,1998.0,tm63032,1.0,tous publics,'us'
+tt0453467,Deja Vu,movie,"Action, Crime, Sci-Fi",7.1,337459.0,2006.0,tm35122,1.0,tous publics,"'us', 'gb'"
+tt0944835,Salt,movie,"Action, Thriller",6.5,337410.0,2010.0,tm87132,1.0,tous publics avec avertissement,'us'
+tt3682448,Bridge of Spies,movie,"Drama, History, Thriller",7.6,336527.0,2015.0,tm139694,2.0,tous publics,"'us', 'in', 'de'"
+tt0119177,Gattaca,movie,"Drama, Sci-Fi, Thriller",7.7,336010.0,1997.0,tm192405,3.0,tous publics,'us'
+tt0120201,Starship Troopers,movie,"Action, Adventure, Sci-Fi",7.3,335142.0,1997.0,tm192037,3.0,12,'us'
+tt5727208,Uncut Gems,movie,"Crime, Drama, Thriller",7.4,334995.0,2019.0,tm366227,1.0,16::(self-applied),'us'
+tt0399201,The Island,movie,"Action, Sci-Fi, Thriller",6.8,334383.0,2005.0,tm179587,2.0,tous publics avec avertissement,'us'
+tt4034228,Manchester by the Sea,movie,Drama,7.8,334125.0,2016.0,tm233523,3.0,tous publics,'us'
+tt0320661,Kingdom of Heaven,movie,"Action, Adventure, Drama",7.3,333814.0,2005.0,tm179021,2.0,tous publics,"'gb', 'de', 'es', 'ma', 'us', 'it', 'fr'"
+tt0106977,The Fugitive,movie,"Action, Crime, Drama",7.8,333482.0,1993.0,tm189434,2.0,tous publics,'us'
+tt0120762,Mulan,movie,"Adventure, Animation, Comedy",7.7,332135.0,1998.0,tm266656,1.0,tous publics,'us'
+tt0212720,A.I. Artificial Intelligence,movie,"Adventure, Drama, Sci-Fi",7.2,331343.0,2001.0,tm29940,4.0,tous publics,"'us', 'gb'"
+tt1397280,Taken 2,movie,"Action, Crime, Thriller",6.2,330884.0,2012.0,tm57798,1.0,tous publics avec avertissement,"'fr', 'us', 'tr', 'gb'"
+tt1485796,The Greatest Showman,movie,"Biography, Drama, Musical",7.5,330834.0,2017.0,tm120596,1.0,tous publics,"'us', 'cn'"
+tt1790885,Zero Dark Thirty,movie,"Drama, History, Thriller",7.4,330489.0,2012.0,tm61801,2.0,tous publics::(with warning),"'us', 'in', 'jo'"
+tt0118880,Con Air,movie,"Action, Crime, Thriller",6.9,330355.0,1997.0,tm191846,1.0,12,'us'
+tt2316204,Alien: Covenant,movie,"Horror, Sci-Fi, Thriller",6.4,329816.0,2017.0,tm123143,1.0,12,"'gb', 'us'"
+tt0056172,Lawrence of Arabia,movie,"Adventure, Biography, Drama",8.3,329194.0,1962.0,tm10529,2.0,tous publics,"'gb', 'us'"
+tt1764651,The Expendables 2,movie,"Action, Adventure, Thriller",6.6,328860.0,2012.0,tm56436,2.0,12,"'us', 'de', 'cn'"
+tt1152836,Public Enemies,movie,"Biography, Crime, Drama",6.9,328620.0,2009.0,tm131038,2.0,tous publics,"'jp', 'us'"
+tt4550098,Nocturnal Animals,movie,"Drama, Thriller",7.4,328542.0,2016.0,tm239727,2.0,tous publics,"'us', 'cn'"
+tt0120623,A Bug's Life,movie,"Adventure, Animation, Comedy",7.2,327053.0,1998.0,tm62982,1.0,tous publics,'us'
+tt1125849,The Wrestler,movie,"Drama, Sport",7.9,325771.0,2008.0,tm34805,2.0,tous publics avec avertissement,"'us', 'fr'"
+tt1028528,Death Proof,movie,"Drama, Thriller",7.0,324597.0,2007.0,tm71765,2.0,12,'us'
+tt1598778,Contagion,movie,"Drama, Thriller",6.8,324407.0,2011.0,tm158304,1.0,tous publics,"'ae', 'us'"
+tt7349950,It Chapter Two,movie,"Drama, Fantasy, Horror",6.5,324231.0,2019.0,tm348986,3.0,12,"'us', 'ca'"
+tt1013752,Fast & Furious,movie,"Action, Thriller",6.5,323616.0,2009.0,tm151471,1.0,tous publics,"'jp', 'us'"
+tt1253863,300: Rise of an Empire,movie,"Action, Drama",6.2,323552.0,2014.0,tm135608,3.0,12 avec avertissement,"'us', 'bg'"
+tt0077651,Halloween,movie,"Horror, Thriller",7.7,323515.0,1978.0,tm79895,4.0,16,'us'
+tt0265666,The Royal Tenenbaums,movie,"Comedy, Drama",7.6,322775.0,2001.0,tm49864,4.0,tous publics,'us'
+tt1194173,The Bourne Legacy,movie,"Action, Adventure, Thriller",6.6,322108.0,2012.0,tm68950,2.0,tous publics,"'us', 'jp', 'kr', 'ca', 'ae', 'ph'"
+tt4123430,Fantastic Beasts: The Crimes of Grindelwald,movie,"Adventure, Family, Fantasy",6.5,321487.0,2018.0,tm208397,3.0,tous publics,"'gb', 'us'"
+tt0814314,Seven Pounds,movie,"Drama, Mystery, Thriller",7.6,320976.0,2008.0,tm47321,1.0,tous publics,'us'
+tt2277860,Finding Dory,movie,"Adventure, Animation, Comedy",7.2,319902.0,2016.0,tm123374,1.0,tous publics,'us'
+tt3464902,The Lobster,movie,"Drama, Romance, Sci-Fi",7.1,319191.0,2015.0,tm143928,4.0,tous publics avec avertissement,"'ie', 'gb', 'gr', 'fr', 'nl', 'us', 'be'"
+tt3065204,The Conjuring 2,movie,"Horror, Mystery, Thriller",7.3,318758.0,2016.0,tm138297,2.0,12,"'ca', 'us', 'gb'"
+tt0808151,Angels & Demons,movie,"Mystery, Thriller",6.7,318212.0,2009.0,tm151533,2.0,tous publics,"'us', 'it'"
+tt4160708,Don't Breathe,movie,"Crime, Horror, Thriller",7.1,317938.0,2016.0,tm209412,1.0,16,"'us', 'hu'"
+tt9243946,El Camino,movie,"Crime, Drama, Thriller",7.3,316883.0,2019.0,tm827648,1.0,16::(self-applied),'us'
+tt3450958,War for the Planet of the Apes,movie,"Action, Adventure, Drama",7.4,316198.0,2017.0,tm122386,1.0,tous publics,"'us', 'ca'"
+tt0463985,The Fast and the Furious: Tokyo Drift,movie,"Action, Crime, Thriller",6.1,315708.0,2006.0,tm32039,2.0,tous publics,"'de', 'us'"
+tt0077631,Grease,movie,"Comedy, Musical, Romance",7.2,314699.0,1978.0,tm17823,5.0,tous publics,'us'
+tt0783233,Atonement,movie,"Drama, Mystery, Romance",7.8,314282.0,2007.0,tm75465,5.0,tous publics,"'gb', 'fr', 'us'"
+tt0121164,Corpse Bride,movie,"Animation, Comedy, Drama",7.4,313871.0,2005.0,tm173551,2.0,tous publics,'us'
+tt0089218,The Goonies,movie,"Adventure, Comedy, Family",7.7,312864.0,1985.0,tm120970,2.0,tous publics,'us'
+tt0170016,How the Grinch Stole Christmas,movie,"Comedy, Family, Fantasy",6.4,312499.0,2000.0,tm20110,1.0,tous publics,"'de', 'us'"
+tt0437086,Alita: Battle Angel,movie,"Action, Adventure, Sci-Fi",7.3,312444.0,2019.0,tm244154,1.0,tous publics avec avertissement,"'jp', 'ca', 'us'"
+tt3263904,Sully,movie,"Biography, Drama",7.4,311768.0,2016.0,tm228812,2.0,tous publics,'us'
+tt0473075,Prince of Persia: The Sands of Time,movie,"Action, Adventure, Fantasy",6.5,311623.0,2010.0,tm96866,1.0,tous publics,'us'
+tt3402236,Murder on the Orient Express,movie,"Crime, Drama, Mystery",6.5,310907.0,2017.0,tm242630,1.0,tous publics,"'us', 'gb', 'mt'"
+tt1259571,The Twilight Saga: New Moon,movie,"Adventure, Drama, Fantasy",4.8,310762.0,2009.0,tm142371,1.0,tous publics,'us'
+tt2674426,Me Before You,movie,"Drama, Romance",7.4,310624.0,2016.0,tm138369,1.0,tous publics,'us'
+tt0322259,2 Fast 2 Furious,movie,"Action, Crime, Thriller",5.9,310488.0,2003.0,tm138322,2.0,tous publics avec avertissement,"'de', 'us'"
+tt0800039,Forgetting Sarah Marshall,movie,"Comedy, Drama, Romance",7.1,310470.0,2008.0,tm33545,3.0,tous publics,'us'
+tt0120669,Fear and Loathing in Las Vegas,movie,"Adventure, Comedy, Drama",7.5,310433.0,1998.0,tm58976,2.0,12,'us'
+tt0463854,28 Weeks Later,movie,"Horror, Sci-Fi",6.9,310199.0,2007.0,tm79234,1.0,12 avec avertissement,"'gb', 'es', 'us'"
+tt0438097,Ice Age: The Meltdown,movie,"Adventure, Animation, Comedy",6.8,307963.0,2006.0,tm26315,1.0,tous publics,"'us', 'gb'"
+tt8228288,The Platform,movie,"Horror, Mystery, Sci-Fi",7.0,307401.0,2019.0,tm824398,1.0,18::(streaming rating),'es'
+tt0203009,Moulin Rouge!,movie,"Drama, Musical, Romance",7.6,307344.0,2001.0,tm30891,1.0,tous publics,"'au', 'us'"
+tt0258000,Panic Room,movie,"Crime, Drama, Thriller",6.8,307052.0,2002.0,tm111819,2.0,tous publics avec avertissement,'us'
+tt1213663,The World's End,movie,"Action, Comedy, Sci-Fi",6.9,306159.0,2013.0,tm179796,2.0,tous publics,"'gb', 'jp', 'us'"
+tt0196229,Zoolander,movie,Comedy,6.5,305828.0,2001.0,tm34310,3.0,tous publics,"'de', 'us', 'au'"
+tt0112442,Bad Boys,movie,"Action, Comedy, Crime",6.8,305793.0,1995.0,tm12438,2.0,tous publics,'us'
+tt0212985,Hannibal,movie,"Crime, Drama, Thriller",6.8,304666.0,2001.0,tm50674,1.0,12 avec avertissement,"'gb', 'it', 'us'"
+tt0450385,1408,movie,"Fantasy, Horror, Mystery",6.8,304637.0,2007.0,tm70179,2.0,tous publics avec avertissement,'us'
+tt0107614,Mrs. Doubtfire,movie,"Comedy, Drama",7.1,304592.0,1993.0,tm189828,1.0,tous publics,'us'
+tt8332922,A Quiet Place Part II,movie,"Drama, Horror, Sci-Fi",7.2,304096.0,2020.0,tm431186,4.0,12,'us'
+tt0195714,Final Destination,movie,"Horror, Thriller",6.7,303774.0,2000.0,tm25160,1.0,12,"'us', 'ca'"
+tt6139732,Aladdin,movie,"Adventure, Comedy, Family",6.9,303636.0,2019.0,tm318224,1.0,tous publics,"'us', 'gb', 'sg', 'ca', 'cz', 'rs', 'cn'"
+tt0118884,Contact,movie,"Drama, Mystery, Sci-Fi",7.5,303471.0,1997.0,tm191853,2.0,tous publics,'us'
+tt1133985,Green Lantern,movie,"Action, Adventure, Sci-Fi",5.5,303353.0,2011.0,tm168537,3.0,tous publics,'us'
+tt0187078,Gone in 60 Seconds,movie,"Action, Crime, Thriller",6.5,303002.0,2000.0,tm24785,1.0,tous publics,'us'
+tt0104257,A Few Good Men,movie,"Drama, Thriller",7.7,302396.0,1992.0,tm1975,1.0,tous publics,'us'
+tt0097757,The Little Mermaid,movie,"Adventure, Animation, Family",7.6,302279.0,1989.0,tm407861,1.0,tous publics,'us'
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,'us'
+tt0381681,Before Sunset,movie,"Drama, Romance",8.1,302231.0,2004.0,tm93423,1.0,tous publics,"'fr', 'us'"
+tt7349662,BlacKkKlansman,movie,"Biography, Comedy, Crime",7.5,302221.0,2018.0,tm359260,1.0,tous publics,"'us', 'cn'"
+tt0185937,The Blair Witch Project,movie,"Horror, Mystery",6.5,302185.0,1999.0,tm41646,2.0,12,'us'
+tt0452623,Gone Baby Gone,movie,"Crime, Drama, Mystery",7.6,302068.0,2007.0,tm81013,3.0,12,'us'
+tt0095765,Cinema Paradiso,movie,"Drama, Romance",8.5,301355.0,1988.0,tm39338,3.0,tous publics,"'it', 'fr'"
+tt1340138,Terminator Genisys,movie,"Action, Adventure, Sci-Fi",6.3,300329.0,2015.0,tm136924,3.0,tous publics avec avertissement,"'us', 'ca'"
+tt2302755,Olympus Has Fallen,movie,"Action, Thriller",6.5,300288.0,2013.0,tm182429,2.0,12 avec avertissement,'us'
+tt1817273,The Place Beyond the Pines,movie,"Crime, Drama, Thriller",7.3,299740.0,2012.0,tm62008,2.0,tous publics,'us'
+tt0120804,Resident Evil,movie,"Action, Horror, Sci-Fi",6.6,299501.0,2002.0,tm109300,1.0,12,"'de', 'gb', 'fr', 'jp', 'us'"
+tt1922777,Sinister,movie,"Horror, Mystery, Thriller",6.8,299432.0,2012.0,tm34975,3.0,12::(with warning),"'us', 'gb', 'ca'"
+tt3040964,The Jungle Book,movie,"Action, Adventure, Animation",7.3,299255.0,2016.0,tm121851,1.0,tous publics,"'gb', 'us', 'nz', 'fr', 'ca', 'in'"
+tt0800320,Clash of the Titans,movie,"Action, Adventure, Fantasy",5.8,299251.0,2010.0,tm94595,2.0,tous publics,"'us', 'gb', 'au'"
+tt0151804,Office Space,movie,Comedy,7.6,299191.0,1999.0,tm48336,1.0,tous publics,'us'
+tt0116695,Jerry Maguire,movie,"Comedy, Drama, Romance",7.3,298528.0,1996.0,tm107165,3.0,unrated,'us'
+tt0251127,How to Lose a Guy in 10 Days,movie,"Comedy, Romance",6.5,297990.0,2003.0,tm129601,4.0,tous publics,"'us', 'de'"
+tt1979376,Toy Story 4,movie,"Adventure, Animation, Comedy",7.6,297587.0,2019.0,tm11948,1.0,tous publics,'us'
+tt0837562,Hotel Transylvania,movie,"Animation, Comedy, Family",7.0,297404.0,2012.0,tm69164,1.0,tous publics,"'us', 'ca'"
+tt0093870,RoboCop,movie,"Action, Crime, Sci-Fi",7.6,296789.0,1987.0,tm147429,2.0,12 avec avertissement::(new rating),'us'
+tt0061722,The Graduate,movie,"Comedy, Drama, Romance",8.0,296664.0,1967.0,tm119810,1.0,tous publics,'us'
+tt5362988,Wind River,movie,"Crime, Drama, Mystery",7.7,296561.0,2017.0,tm244259,1.0,12,"'gb', 'fr', 'us', 'ca'"
+tt0348150,Superman Returns,movie,"Action, Adventure, Sci-Fi",6.1,296106.0,2006.0,tm27397,3.0,tous publics,"'us', 'au'"
+tt0290002,Meet the Fockers,movie,"Comedy, Romance",6.3,295463.0,2004.0,tm91957,3.0,tous publics,'us'
+tt1375670,Grown Ups,movie,Comedy,6.0,295339.0,2010.0,tm93055,1.0,tous publics,'us'
+tt1650554,Kick-Ass 2,movie,"Action, Comedy, Crime",6.5,295151.0,2013.0,tm175985,2.0,12,"'gb', 'jp', 'us'"
+tt0053291,Some Like It Hot,movie,"Comedy, Music, Romance",8.2,295135.0,1959.0,tm44489,3.0,12,'us'
+tt0259711,Vanilla Sky,movie,"Fantasy, Mystery, Romance",6.9,294809.0,2001.0,tm34471,3.0,tous publics,"'us', 'es'"
+tt0183649,Phone Booth,movie,"Crime, Thriller",7.1,294699.0,2002.0,tm114756,1.0,tous publics,'us'
+tt0320691,Underworld,movie,"Action, Fantasy, Thriller",7.0,293918.0,2003.0,tm133732,2.0,12,"'us', 'gb', 'de', 'hu'"
+tt10838180,The Matrix Resurrections,movie,"Action, Sci-Fi",5.6,293356.0,2021.0,tm827124,3.0,tous publics,"'us', 'au'"
+tt0401729,John Carter,movie,"Action, Adventure, Sci-Fi",6.6,293126.0,2012.0,tm72333,1.0,tous publics,'us'
+tt6823368,Glass,movie,"Drama, Horror, Sci-Fi",6.6,292990.0,2019.0,tm315727,2.0,12,"'us', 'cn'"
+tt4046784,Maze Runner: The Scorch Trials,movie,"Action, Adventure, Sci-Fi",6.3,292446.0,2015.0,tm138116,1.0,tous publics avec avertissement,'us'
+tt0486655,Stardust,movie,"Adventure, Fantasy, Romance",7.6,292317.0,2007.0,tm84906,3.0,tous publics,"'gb', 'us', 'is'"
+tt0111503,True Lies,movie,"Action, Comedy, Thriller",7.3,291849.0,1994.0,tm117947,3.0,tous publics,'us'
+tt0795421,Mamma Mia!,movie,"Comedy, Musical, Romance",6.5,291197.0,2008.0,tm34089,1.0,tous publics,"'gb', 'de', 'us'"
+tt0083944,First Blood,movie,"Action, Adventure, Thriller",7.7,289460.0,1982.0,tm47170,2.0,tous publics::(new rating),'us'
+tt0059578,For a Few Dollars More,movie,"Drama, Western",8.2,288612.0,1965.0,tm81183,1.0,10::(tv rating),"'it', 'es', 'xwg'"
+tt0368447,The Village,movie,"Drama, Mystery, Thriller",6.6,288564.0,2004.0,tm93105,1.0,tous publics,'us'
+tt1077368,Dark Shadows,movie,"Comedy, Fantasy, Horror",6.2,288225.0,2012.0,tm39896,2.0,tous publics,"'us', 'au', 'gb'"
+tt0093409,Lethal Weapon,movie,"Action, Crime, Thriller",7.6,286765.0,1987.0,tm21072,2.0,12::(new rating),'us'
+tt2381941,Focus,movie,"Comedy, Crime, Drama",6.6,286474.0,2015.0,tm139918,3.0,tous publics,"'us', 'ar'"
+tt0486576,Fantastic Four: Rise of the Silver Surfer,movie,"Action, Adventure, Fantasy",5.6,286464.0,2007.0,tm74359,1.0,tous publics,"'gb', 'de', 'us', 'hk', 'cn', 'th', 'ca'"
+tt0432283,Fantastic Mr. Fox,movie,"Adventure, Animation, Comedy",7.9,286344.0,2009.0,tm151348,1.0,tous publics,'us'
+tt0286716,Hulk,movie,"Action, Sci-Fi",5.6,285883.0,2003.0,tm136651,1.0,tous publics,'us'
+tt0075686,Annie Hall,movie,"Comedy, Romance",7.9,284402.0,1977.0,tm92591,1.0,tous publics,'us'
+tt6105098,The Lion King,movie,"Adventure, Animation, Drama",6.8,283256.0,2019.0,tm309655,1.0,tous publics,"'us', 'gb', 'ke'"
+tt0119643,Meet Joe Black,movie,"Drama, Fantasy, Romance",7.2,283066.0,1998.0,tm49453,3.0,tous publics,'us'
+tt1464335,Uncharted,movie,"Action, Adventure",6.3,282570.0,2022.0,tm206726,1.0,tous publics,"'es', 'us'"
+tt2024469,Non-Stop,movie,"Action, Mystery, Thriller",6.9,282273.0,2014.0,tm156923,2.0,tous publics avec avertissement,"'gb', 'fr', 'ca', 'us'"
+tt5537002,Killers of the Flower Moon,movie,"Crime, Drama, History",7.6,282118.0,2023.0,tm327233,1.0,tous publics avec avertissement,'us'
+tt0118583,Alien Resurrection,movie,"Action, Horror, Sci-Fi",6.2,282037.0,1997.0,tm191623,1.0,12 avec avertissement,'us'
+tt2953050,Encanto,movie,"Animation, Comedy, Family",7.2,281823.0,2021.0,tm858873,1.0,tous publics,'us'
+tt3228774,Cruella,movie,"Adventure, Comedy, Crime",7.3,281577.0,2021.0,tm240625,1.0,tous publics,"'us', 'gb', 'ca', 'ie'"
+tt1931533,Seven Psychopaths,movie,"Comedy, Crime",7.1,281412.0,2012.0,tm73061,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt0172156,Bad Boys II,movie,"Action, Comedy, Crime",6.6,281205.0,2003.0,tm147849,2.0,tous publics avec avertissement,'us'
+tt11138512,The Northman,movie,"Action, Adventure, Drama",7.0,279273.0,2022.0,tm1042649,1.0,12 avec avertissement,"'gb', 'cn', 'us'"
+tt0252866,American Pie 2,movie,Comedy,6.4,279008.0,2001.0,tm43292,3.0,tous publics,'us'
+tt11813216,The Banshees of Inisherin,movie,"Comedy, Drama",7.7,278925.0,2022.0,tm1177080,1.0,tous publics,"'ie', 'gb', 'us'"
+tt8936646,Extraction,movie,"Action, Crime, Thriller",6.8,278369.0,2020.0,tm496322,1.0,18::(self-applied),"'us', 'in'"
+tt0243155,Bridget Jones's Diary,movie,"Comedy, Drama, Romance",6.8,278126.0,2001.0,tm33947,3.0,tous publics,"'ie', 'gb', 'fr', 'us'"
+tt1823672,Chappie,movie,"Action, Crime, Drama",6.8,277804.0,2015.0,tm143085,1.0,tous publics avec avertissement,'us'
+tt0059742,The Sound of Music,movie,"Biography, Drama, Family",8.1,276475.0,1965.0,tm88215,1.0,tous publics,'us'
+tt0448134,Sunshine,movie,"Sci-Fi, Thriller",7.2,276458.0,2007.0,tm71893,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt0364725,Dodgeball: A True Underdog Story,movie,"Comedy, Sport",6.7,275947.0,2004.0,tm85291,1.0,tous publics,"'de', 'us'"
+tt0118688,Batman & Robin,movie,"Action, Sci-Fi",3.8,275818.0,1997.0,tm190778,3.0,tous publics,"'us', 'gb'"
+tt1080016,Ice Age: Dawn of the Dinosaurs,movie,"Adventure, Animation, Comedy",6.9,275725.0,2009.0,tm145443,1.0,tous publics,"'us', 'gb', 'ca'"
+tt0112462,Batman Forever,movie,"Action, Adventure",5.4,275363.0,1995.0,tm16069,3.0,tous publics,"'us', 'gb'"
+tt4846340,Hidden Figures,movie,"Biography, Drama, History",7.8,274503.0,2016.0,tm236713,1.0,tous publics,'us'
+tt0358273,Walk the Line,movie,"Biography, Drama, Music",7.8,274221.0,2005.0,tm160767,1.0,tous publics,"'de', 'us'"
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,"'us', 'gb'"
+tt1016150,All Quiet on the Western Front,movie,"Drama, History, War",7.8,274139.0,2022.0,tm57755,1.0,16::(self-applied),"'de', 'us', 'gb'"
+tt0478087,21,movie,"Crime, Drama, Thriller",6.8,274138.0,2008.0,tm40009,1.0,tous publics,'us'
+tt0080339,Airplane!,movie,Comedy,7.7,273884.0,1980.0,tm100005,4.0,tous publics,'us'
+tt2293640,Minions,movie,"Adventure, Animation, Comedy",6.4,273296.0,2015.0,tm137837,2.0,tous publics,"'us', 'fr'"
+tt1401152,Unknown,movie,"Action, Mystery, Thriller",6.8,273272.0,2011.0,tm167232,1.0,tous publics,"'us', 'de', 'gb', 'fr', 'jp', 'ca'"
+tt0429493,The A-Team,movie,"Action, Adventure, Crime",6.7,273020.0,2010.0,tm92075,1.0,tous publics,"'us', 'gb'"
+tt0080678,The Elephant Man,movie,"Biography, Drama",8.2,272890.0,1980.0,tm96620,2.0,tous publics,"'us', 'gb'"
+tt0045152,Singin' in the Rain,movie,"Comedy, Musical, Romance",8.3,272671.0,1952.0,tm60665,3.0,tous publics,'us'
+tt1673434,The Twilight Saga: Breaking Dawn - Part 2,movie,"Adventure, Drama, Fantasy",5.6,272335.0,2012.0,tm33564,1.0,tous publics,'us'
+tt0844471,Cloudy with a Chance of Meatballs,movie,"Adventure, Animation, Comedy",6.9,272193.0,2009.0,tm150260,1.0,tous publics,'us'
+tt1959490,Noah,movie,"Action, Adventure, Drama",5.8,271865.0,2014.0,tm145876,1.0,tous publics,'us'
+tt0479884,Crank,movie,"Action, Crime, Thriller",6.9,271297.0,2006.0,tm28557,2.0,12,'us'
+tt1325004,The Twilight Saga: Eclipse,movie,"Action, Adventure, Drama",5.1,270955.0,2010.0,tm96958,1.0,tous publics,'us'
+tt1032755,RocknRolla,movie,"Action, Crime, Thriller",7.2,270734.0,2008.0,tm37948,1.0,tous publics,"'gb', 'us', 'fr'"
+tt1706593,Chronicle,movie,"Adventure, Drama, Sci-Fi",7.0,270542.0,2012.0,tm56305,1.0,tous publics,'us'
+tt2935510,Ad Astra,movie,"Adventure, Drama, Mystery",6.5,270392.0,2019.0,tm266641,2.0,tous publics,"'us', 'cn', 'br'"
+tt0092890,Dirty Dancing,movie,"Drama, Music, Romance",7.1,269458.0,1987.0,tm20356,1.0,tous publics,'us'
+tt1601913,The Grey,movie,"Action, Adventure, Drama",6.7,269138.0,2011.0,tm167386,2.0,12,"'us', 'gb'"
+tt1798684,Southpaw,movie,"Action, Drama, Sport",7.3,268780.0,2015.0,tm139844,2.0,tous publics,"'us', 'cn', 'hk'"
+tt0057115,The Great Escape,movie,"Adventure, Drama, Thriller",8.2,268749.0,1963.0,tm30821,1.0,tous publics,'us'
+tt0119282,Hercules,movie,"Action, Adventure, Animation",7.3,268073.0,1997.0,tm148235,1.0,tous publics,'us'
+tt3079380,Spy,movie,"Action, Comedy",7.0,268031.0,2015.0,tm135759,1.0,tous publics,'us'
+tt0120660,Enemy of the State,movie,"Action, Thriller",7.3,267851.0,1998.0,tm46927,1.0,tous publics,'us'
+tt5442430,Life,movie,"Horror, Sci-Fi, Thriller",6.6,267809.0,2017.0,tm244205,1.0,12,'us'
+tt3281548,Little Women,movie,"Drama, Romance",7.8,267306.0,2019.0,tm424851,1.0,tous publics,'us'
+tt2126355,San Andreas,movie,"Action, Adventure, Thriller",6.1,267296.0,2015.0,tm138310,2.0,tous publics,'us'
+tt0250494,Legally Blonde,movie,"Comedy, Romance",6.5,267268.0,2001.0,tm53144,2.0,tous publics,'us'
+tt0985699,Valkyrie,movie,"Drama, History, Thriller",7.1,266678.0,2008.0,tm46993,1.0,tous publics,"'gb', 'fr', 'de', 'it', 'es', 'jp', 'us'"
+tt2704998,Game Night,movie,"Action, Adventure, Comedy",6.9,265480.0,2018.0,tm312967,3.0,tous publics,'us'
+tt0486822,Disturbia,movie,"Crime, Drama, Mystery",6.8,264938.0,2007.0,tm76196,3.0,12,'us'
+tt1179904,Paranormal Activity,movie,"Horror, Mystery",6.3,264919.0,2007.0,tm156213,1.0,tous publics avec avertissement,'us'
+tt2660888,Star Trek Beyond,movie,"Action, Adventure, Sci-Fi",7.0,264824.0,2016.0,tm122828,3.0,tous publics,"'us', 'cn'"
+tt4630562,The Fate of the Furious,movie,"Action, Crime, Thriller",6.6,264430.0,2017.0,tm207115,1.0,tous publics,"'cn', 'jp', 'us'"
+tt1324999,The Twilight Saga: Breaking Dawn - Part 1,movie,"Adventure, Drama, Fantasy",4.9,263528.0,2011.0,tm177669,1.0,tous publics,'us'
+tt0052618,Ben-Hur,movie,"Adventure, Drama",8.1,263501.0,1959.0,tm42704,3.0,tous publics,'us'
+tt1243957,The Tourist,movie,"Action, Thriller",6.0,263396.0,2010.0,tm101347,1.0,tous publics,"'gb', 'fr', 'it', 'us'"
+tt0335345,The Passion of the Christ,movie,Drama,7.3,263179.0,2004.0,tm81482,1.0,12,'us'
+tt0112697,Clueless,movie,"Comedy, Romance",6.9,263074.0,1995.0,tm16284,2.0,tous publics,'us'
+tt0914798,The Boy in the Striped Pajamas,movie,"Drama, War",7.7,262190.0,2008.0,tm28559,4.0,12,"'gb', 'us'"
+tt0108550,What's Eating Gilbert Grape,movie,Drama,7.7,262025.0,1993.0,tm186631,1.0,unrated,'us'
+tt0087363,Gremlins,movie,"Comedy, Fantasy, Horror",7.3,262015.0,1984.0,tm173440,2.0,tous publics,'us'
+tt1436562,Rio,movie,"Adventure, Animation, Comedy",6.9,261489.0,2011.0,tm176113,1.0,tous publics,"'us', 'gb'"
+tt0465234,National Treasure: Book of Secrets,movie,"Action, Adventure, Mystery",6.5,261377.0,2007.0,tm79327,1.0,tous publics,'us'
+tt0134119,The Talented Mr. Ripley,movie,"Crime, Drama, Thriller",7.4,261315.0,1999.0,tm43808,4.0,tous publics,'us'
+tt0259324,Ghost Rider,movie,"Action, Fantasy, Thriller",5.3,261215.0,2007.0,tm81619,1.0,tous publics avec avertissement,"'us', 'au'"
+tt0163978,The Beach,movie,"Adventure, Drama, Romance",6.6,261183.0,2000.0,tm24188,1.0,tous publics,"'gb', 'us'"
+tt0117381,Primal Fear,movie,"Crime, Drama, Mystery",7.7,261017.0,1996.0,tm106239,4.0,tous publics,'us'
+tt2321549,The Babadook,movie,"Drama, Horror, Mystery",6.8,260779.0,2014.0,tm144325,2.0,12,"'au', 'ca'"
+tt0110632,Natural Born Killers,movie,"Crime, Romance",7.2,260277.0,1994.0,tm116488,2.0,16,'us'
+tt0435625,The Descent,movie,"Adventure, Horror, Thriller",7.2,260181.0,2005.0,tm163646,5.0,16,'gb'
+tt0479952,Madagascar: Escape 2 Africa,movie,"Adventure, Animation, Comedy",6.6,259873.0,2008.0,tm31247,1.0,tous publics,"'us', 'gb'"
+tt0120855,Tarzan,movie,"Adventure, Animation, Comedy",7.3,259244.0,1999.0,tm44033,1.0,tous publics,"'us', 'jp'"
+tt0134847,Pitch Black,movie,"Horror, Sci-Fi, Thriller",7.0,259244.0,2000.0,tm24610,1.0,tous publics,'us'
+tt1649418,The Gray Man,movie,"Action, Mystery, Thriller",6.5,258234.0,2022.0,tm1080445,1.0,13::(self-applied),"'us', 'cz', 'gb', 'ca', 'th', 'dk', 'fr', 'kh', 'vn'"
+tt0338348,The Polar Express,movie,"Adventure, Animation, Family",6.6,257482.0,2004.0,tm78713,2.0,tous publics,"'us', 'au'"
+tt5034838,Godzilla vs. Kong,movie,"Action, Sci-Fi, Thriller",6.3,256999.0,2021.0,tm239926,2.0,tous publics,"'us', 'au', 'hk'"
+tt1033575,The Descendants,movie,"Comedy, Drama",7.3,256309.0,2011.0,tm176744,1.0,tous publics,'us'
+tt0103874,Dracula,movie,"Fantasy, Horror, Romance",7.4,256056.0,1992.0,tm125008,4.0,12,"'us', 'gb'"
+tt0448011,Knowing,movie,"Mystery, Sci-Fi, Thriller",6.2,256011.0,2009.0,tm156145,1.0,tous publics,"'us', 'gb', 'au'"
+tt1959563,The Hitman's Bodyguard,movie,"Action, Comedy, Crime",6.9,255745.0,2017.0,tm266684,2.0,12,"'us', 'hk', 'bg', 'nl', 'ca', 'gb', 'fr'"
+tt0098635,When Harry Met Sally...,movie,"Comedy, Drama, Romance",7.7,255565.0,1989.0,tm138875,1.0,tous publics,'us'
+tt0123755,Cube,movie,"Horror, Mystery, Sci-Fi",7.1,255412.0,1997.0,tm190941,1.0,12,'ca'
+tt5580036,"I, Tonya",movie,"Biography, Comedy, Drama",7.5,253289.0,2017.0,tm244376,2.0,tous publics,"'us', 'gb', 'qa'"
+tt1289401,Ghostbusters,movie,"Action, Comedy, Fantasy",6.8,253230.0,2016.0,tm197031,2.0,tous publics,"'us', 'au'"
+tt1424381,Predators,movie,"Action, Adventure, Sci-Fi",6.4,252682.0,2010.0,tm92692,1.0,12,'us'
+tt5164214,Ocean's Eight,movie,"Action, Comedy, Crime",6.3,252394.0,2018.0,tm266647,3.0,tous publics,'us'
+tt1655442,The Artist,movie,"Comedy, Drama, Romance",7.8,252270.0,2011.0,tm174707,4.0,tous publics,"'fr', 'be', 'us'"
+tt0116996,Mars Attacks!,movie,"Comedy, Sci-Fi",6.4,252262.0,1996.0,tm110012,2.0,tous publics,"'us', 'jp', 'gb'"
+tt0485947,Mr. Nobody,movie,"Drama, Fantasy, Romance",7.7,252227.0,2009.0,tm147127,1.0,tous publics,"'be', 'de', 'ca', 'fr', 'gb', 'lu', 'us'"
+tt0117509,Romeo + Juliet,movie,"Drama, Romance",6.7,252179.0,1996.0,tm109186,1.0,tous publics,"'us', 'mx', 'au', 'ca'"
+tt0265208,The Girl Next Door,movie,"Comedy, Drama, Romance",6.7,252021.0,2004.0,tm85811,3.0,tous publics,'us'
+tt0462499,Rambo,movie,"Action, Thriller",7.0,251237.0,2008.0,tm29737,1.0,12,"'de', 'us'"
+tt10954600,Ant-Man and the Wasp: Quantumania,movie,"Action, Adventure, Comedy",6.0,251129.0,2023.0,tm1031694,1.0,tous publics,"'us', 'au', 'ca'"
+tt0302886,Old School,movie,Comedy,7.0,250602.0,2003.0,tm150112,3.0,tous publics,'us'
+tt0299658,Chicago,movie,"Comedy, Crime, Musical",7.2,250301.0,2002.0,tm119082,1.0,tous publics,"'us', 'de'"
+tt4196776,Jason Bourne,movie,"Action, Thriller",6.6,250275.0,2016.0,tm202383,2.0,tous publics,"'us', 'cn', 'es', 'jp', 'is', 'de', 'it'"
+tt0094737,Big,movie,"Comedy, Drama, Fantasy",7.3,250193.0,1988.0,tm54681,1.0,tous publics,'us'
+tt1411238,No Strings Attached,movie,"Comedy, Romance",6.2,250075.0,2011.0,tm183892,1.0,tous publics,"'us', 'gb'"
+tt0315733,21 Grams,movie,"Crime, Drama, Thriller",7.6,250024.0,2003.0,tm138053,1.0,12,'us'
+tt0100157,Misery,movie,"Drama, Thriller",7.8,249976.0,1990.0,tm150976,3.0,12,'us'
+tt0983193,The Adventures of Tintin,movie,"Action, Adventure, Animation",7.3,249257.0,2011.0,tm158112,3.0,tous publics,"'nz', 'us'"
+tt11866324,Prey,movie,"Action, Adventure, Horror",7.1,249131.0,2022.0,tm1150382,2.0,16::(self-applied),'us'
+tt0043014,Sunset Boulevard,movie,"Drama, Film-Noir",8.4,248927.0,1950.0,tm65789,1.0,tous publics,'us'
+tt1210819,The Lone Ranger,movie,"Action, Adventure, Drama",6.4,248880.0,2013.0,tm176445,1.0,tous publics,'us'
+tt0063522,Rosemary's Baby,movie,"Drama, Horror",8.0,248377.0,1968.0,tm12409,2.0,12,'us'
+tt6806448,Fast & Furious Presents: Hobbs & Shaw,movie,"Action, Adventure, Thriller",6.5,248252.0,2019.0,tm360631,1.0,tous publics,"'us', 'jp', 'gb'"
+tt18412256,Alien: Romulus,movie,"Horror, Sci-Fi, Thriller",7.1,248082.0,2024.0,tm1349473,1.0,12,"'gb', 'us', 'hu', 'au', 'nz', 'ca'"
+tt0099653,Ghost,movie,"Drama, Fantasy, Romance",7.1,247901.0,1990.0,tm148145,1.0,tous publics,'us'
+tt2637276,Ted 2,movie,Comedy,6.3,247836.0,2015.0,tm136211,2.0,tous publics avec avertissement,'us'
+tt5083738,The Favourite,movie,"Biography, Comedy, Drama",7.5,247648.0,2018.0,tm232803,3.0,tous publics,"'ie', 'gb', 'us'"
+tt0408306,Munich,movie,"Drama, History, Thriller",7.5,247237.0,2005.0,tm174540,3.0,tous publics avec avertissement,"'fr', 'ca', 'us'"
+tt0311113,Master and Commander: The Far Side of the World,movie,"Action, Adventure, Drama",7.5,246739.0,2003.0,tm144250,3.0,tous publics avec avertissement,'us'
+tt2463208,The Adam Project,movie,"Action, Adventure, Comedy",6.7,246617.0,2022.0,tm1082564,1.0,13::(self-applied),'us'
+tt13833688,The Whale,movie,Drama,7.6,246462.0,2022.0,tm1241748,3.0,tous publics,'us'
+tt0758774,Body of Lies,movie,"Action, Drama, Thriller",7.0,245264.0,2008.0,tm36188,3.0,tous publics,"'us', 'gb'"
+tt1234721,RoboCop,movie,"Action, Crime, Sci-Fi",6.1,244801.0,2014.0,tm147429,1.0,tous publics,"'us', 'ca'"
+tt0129167,The Iron Giant,movie,"Action, Adventure, Animation",8.1,244785.0,1999.0,tm46715,3.0,tous publics,"'us', 'cz', 'gb'"
+tt0376541,Closer,movie,"Drama, Romance",7.1,244450.0,2004.0,tm88738,1.0,tous publics,"'gb', 'us'"
+tt0373469,Kiss Kiss Bang Bang,movie,"Comedy, Crime, Mystery",7.5,244033.0,2005.0,tm178675,2.0,tous publics,'us'
+tt3553976,Captain Fantastic,movie,"Comedy, Drama",7.8,243914.0,2016.0,tm239721,2.0,tous publics,'us'
+tt2334879,White House Down,movie,"Action, Drama, Thriller",6.3,243611.0,2013.0,tm163262,1.0,tous publics,'us'
+tt0083907,The Evil Dead,movie,Horror,7.4,242611.0,1981.0,tm124924,2.0,12::(new rating),'us'
+tt0481499,The Croods,movie,"Adventure, Animation, Comedy",7.1,242570.0,2013.0,tm178627,2.0,tous publics,'us'
+tt0353969,Memories of Murder,movie,"Crime, Drama, Mystery",8.1,241365.0,2003.0,tm136288,4.0,tous publics,'kr'
+tt9777666,The Tomorrow War,movie,"Action, Adventure, Drama",6.6,241126.0,2021.0,tm463130,1.0,10::(tv rating),'us'
+tt1972591,King Arthur: Legend of the Sword,movie,"Action, Adventure, Drama",6.7,240569.0,2017.0,tm120073,3.0,tous publics,"'gb', 'us', 'in', 'ca'"
+tt0210945,Remember the Titans,movie,"Biography, Comedy, Drama",7.8,240517.0,2000.0,tm19613,1.0,tous publics,'us'
+tt0106519,Carlito's Way,movie,"Crime, Drama, Thriller",7.9,240346.0,1993.0,tm189954,2.0,12,'us'
+tt0212346,Miss Congeniality,movie,"Action, Comedy, Crime",6.3,240195.0,2000.0,tm27388,4.0,tous publics,'us'
+tt0397892,Bolt,movie,"Adventure, Animation, Comedy",6.8,238962.0,2008.0,tm35821,1.0,tous publics,"'us', 'jp'"
+tt0138097,Shakespeare in Love,movie,"Comedy, Drama, History",7.1,238873.0,1998.0,tm53682,2.0,tous publics,"'gb', 'us'"
+tt0079501,Mad Max,movie,"Action, Adventure, Sci-Fi",6.8,238537.0,1979.0,tm74688,2.0,12,'au'
+tt0133152,Planet of the Apes,movie,"Action, Adventure, Sci-Fi",5.7,238052.0,2001.0,tm12233,3.0,tous publics,'us'
+tt0120917,The Emperor's New Groove,movie,"Adventure, Animation, Comedy",7.4,237694.0,2000.0,tm26792,1.0,tous publics,"'us', 'jp', 'fr'"
+tt2404435,The Magnificent Seven,movie,"Action, Adventure, Drama",6.9,237358.0,2016.0,tm205009,1.0,tous publics,"'us', 'au'"
+tt1216475,Cars 2,movie,"Adventure, Animation, Comedy",6.2,236545.0,2011.0,tm171776,1.0,tous publics,"'us', 'jp'"
+tt0287978,Daredevil,movie,"Action, Crime, Drama",5.3,236199.0,2003.0,tm139142,1.0,12,"'us', 'ch'"
+tt0758752,Love & Other Drugs,movie,"Comedy, Drama, Romance",6.7,236185.0,2010.0,tm104892,2.0,tous publics,'us'
+tt1667889,Ice Age: Continental Drift,movie,"Adventure, Animation, Comedy",6.5,234862.0,2012.0,tm57906,1.0,tous publics,"'us', 'gb', 'ca'"
+tt1365519,Tomb Raider,movie,"Action, Adventure, Fantasy",6.3,234495.0,2018.0,tm244150,1.0,tous publics,"'gb', 'us'"
+tt0195685,Erin Brockovich,movie,"Biography, Drama",7.5,234302.0,2000.0,tm18936,3.0,tous publics,'us'
+tt7846844,Enola Holmes,movie,"Adventure, Crime, Drama",6.6,233534.0,2020.0,tm911973,1.0,13::(self-applied),'us'
+tt0097428,Ghostbusters II,movie,"Action, Comedy, Fantasy",6.6,233487.0,1989.0,tm143826,2.0,tous publics,'us'
+tt0337563,13 Going on 30,movie,"Comedy, Fantasy, Romance",6.3,233466.0,2004.0,tm1320,2.0,tous publics,'us'
+tt4513678,Ghostbusters: Afterlife,movie,"Adventure, Comedy, Fantasy",7.0,233146.0,2021.0,tm453762,1.0,tous publics,"'us', 'ca'"
+tt0499448,The Chronicles of Narnia: Prince Caspian,movie,"Action, Adventure, Family",6.5,232922.0,2008.0,tm54852,1.0,tous publics,"'us', 'pl', 'si', 'cz', 'gb', 'au', 'de', 'nz'"
+tt1305806,The Secret in Their Eyes,movie,"Drama, Mystery, Romance",8.2,232767.0,2009.0,tm151065,1.0,tous publics,"'ar', 'es'"
+tt0427944,Thank You for Smoking,movie,"Comedy, Drama",7.5,232585.0,2005.0,tm171738,3.0,tous publics,'us'
+tt0094898,Coming to America,movie,"Comedy, Romance",7.1,232511.0,1988.0,tm53756,1.0,tous publics,'us'
+tt0103772,Basic Instinct,movie,"Drama, Mystery, Thriller",7.1,232117.0,1992.0,tm123418,3.0,16,"'fr', 'us', 'gb'"
+tt5606664,Doctor Sleep,movie,"Drama, Fantasy, Horror",7.3,231611.0,2019.0,tm415918,3.0,12,"'ca', 'us'"
+tt4555426,Darkest Hour,movie,"Biography, Drama, History",7.4,231397.0,2017.0,tm244220,2.0,tous publics,"'gb', 'us', 'cn'"
+tt0207201,What Women Want,movie,"Comedy, Fantasy, Romance",6.5,231008.0,2000.0,tm24462,2.0,tous publics,'us'
+tt0029583,Snow White and the Seven Dwarfs,movie,"Adventure, Animation, Family",7.6,230652.0,1937.0,tm67803,1.0,tous publics,'us'
+tt0959337,Revolutionary Road,movie,"Drama, Romance",7.3,230359.0,2008.0,tm27526,3.0,tous publics,"'gb', 'us'"
+tt1605630,American Reunion,movie,Comedy,6.7,229215.0,2012.0,tm33316,2.0,tous publics,'us'
+tt1077258,Planet Terror,movie,"Action, Comedy, Horror",7.0,228715.0,2007.0,tm75014,2.0,12,"'us', 'mx'"
+tt3011894,Wild Tales,movie,"Comedy, Drama, Thriller",8.1,228572.0,2014.0,tm146788,3.0,tous publics avec avertissement,"'ar', 'es', 'fr', 'gb'"
+tt1255953,Incendies,movie,"Drama, Mystery, War",8.3,227797.0,2010.0,tm93739,2.0,tous publics avec avertissement,"'ca', 'fr'"
+tt2709768,The Secret Life of Pets,movie,"Adventure, Animation, Comedy",6.5,227411.0,2016.0,tm203765,2.0,tous publics,"'us', 'fr', 'jp'"
+tt1489889,Central Intelligence,movie,"Action, Comedy, Crime",6.3,226355.0,2016.0,tm206707,1.0,tous publics,"'us', 'cn'"
+tt0050825,Paths of Glory,movie,"Drama, War",8.4,226054.0,1957.0,tm122436,1.0,(banned),'us'
+tt0096438,Who Framed Roger Rabbit,movie,"Adventure, Animation, Comedy",7.7,225814.0,1988.0,tm49092,1.0,tous publics,"'us', 'gb'"
+tt1291150,Teenage Mutant Ninja Turtles,movie,"Action, Adventure, Comedy",5.8,225438.0,2014.0,tm145849,3.0,tous publics,'us'
+tt0275847,Lilo & Stitch,movie,"Adventure, Animation, Comedy",7.3,225347.0,2002.0,tm114448,1.0,tous publics,"'us', 'jp'"
+tt0146316,Lara Croft: Tomb Raider,movie,"Action, Adventure, Fantasy",5.8,225218.0,2001.0,tm39452,1.0,tous publics,"'us', 'gb', 'jp', 'de'"
+tt0181865,Traffic,movie,"Crime, Drama, Thriller",7.5,225115.0,2000.0,tm21809,1.0,tous publics avec avertissement,"'de', 'us'"
+tt0974661,17 Again,movie,"Comedy, Drama, Fantasy",6.4,224822.0,2009.0,tm150977,1.0,tous publics,'us'
+tt1899353,The Raid: Redemption,movie,"Action, Crime, Thriller",7.6,224374.0,2011.0,tm163491,1.0,16,"'id', 'fr', 'us'"
+tt0086960,Beverly Hills Cop,movie,"Action, Comedy, Crime",7.4,224139.0,1984.0,tm172251,3.0,tous publics,'us'
+tt0461770,Enchanted,movie,"Adventure, Animation, Comedy",7.1,224027.0,2007.0,tm84668,1.0,tous publics,"'us', 'dz', 'nz'"
+tt0838221,The Darjeeling Limited,movie,"Adventure, Comedy, Drama",7.2,223959.0,2007.0,tm79129,3.0,tous publics,"'us', 'in'"
+tt0370263,Alien vs. Predator,movie,"Action, Adventure, Horror",5.7,223686.0,2004.0,tm86997,1.0,tous publics avec avertissement,"'cz', 'gb', 'de', 'ca', 'us'"
+tt0328828,American Wedding,movie,Comedy,6.3,223407.0,2003.0,tm142967,2.0,unrated,"'us', 'de'"
+tt0099810,The Hunt for Red October,movie,"Action, Adventure, Thriller",7.5,222895.0,1990.0,tm160644,3.0,tous publics,'us'
+tt0120082,Scream 2,movie,"Horror, Mystery",6.3,222768.0,1997.0,tm192490,3.0,12,'us'
+tt0117705,Space Jam,movie,"Adventure, Animation, Comedy",6.5,222529.0,1996.0,tm112659,2.0,tous publics,'us'
+tt1428538,Hansel & Gretel: Witch Hunters,movie,"Action, Fantasy, Horror",6.1,222181.0,2013.0,tm166714,3.0,12,"'de', 'us'"
+tt1155056,"I Love You, Man",movie,"Comedy, Romance",7.0,221761.0,2009.0,tm145035,3.0,tous publics,'us'
+tt2234155,The Internship,movie,Comedy,6.3,221341.0,2013.0,tm180058,4.0,tous publics,'us'
+tt0870154,Jungle Cruise,movie,"Action, Adventure, Comedy",6.6,221339.0,2021.0,tm344880,1.0,tous publics,"'us', 'hu', 'ca'"
+tt1078912,Night at the Museum: Battle of the Smithsonian,movie,"Adventure, Comedy, Family",6.0,220975.0,2009.0,tm142274,1.0,tous publics,"'us', 'ca'"
+tt1340800,Tinker Tailor Soldier Spy,movie,"Drama, Mystery, Thriller",7.0,220051.0,2011.0,tm163919,1.0,tous publics,"'gb', 'fr', 'de', 'us'"
+tt1462764,Indiana Jones and the Dial of Destiny,movie,"Action, Adventure, Sci-Fi",6.5,219879.0,2023.0,tm239633,1.0,tous publics,'us'
+tt3741700,Godzilla: King of the Monsters,movie,"Action, Adventure, Fantasy",6.0,219809.0,2019.0,tm235768,3.0,tous publics,"'us', 'jp', 'cn'"
+tt1606378,A Good Day to Die Hard,movie,"Action, Thriller",5.2,219396.0,2013.0,tm177341,1.0,tous publics,"'us', 'gb', 'hu'"
+tt0120630,Chicken Run,movie,"Adventure, Animation, Comedy",7.1,219180.0,2000.0,tm20088,2.0,tous publics,"'gb', 'fr', 'us'"
+tt1120985,Blue Valentine,movie,"Drama, Romance",7.3,218639.0,2010.0,tm97265,4.0,tous publics,'us'
+tt1623205,Oz the Great and Powerful,movie,"Adventure, Family, Fantasy",6.3,218520.0,2013.0,tm179250,1.0,tous publics,'us'
+tt6565702,X-Men: Dark Phoenix,movie,"Action, Adventure, Sci-Fi",5.7,218387.0,2019.0,tm244126,1.0,tous publics avec avertissement,'us'
+tt4779682,The Meg,movie,"Action, Horror, Sci-Fi",5.7,218370.0,2018.0,tm244140,3.0,tous publics avec avertissement,"'us', 'cn'"
+tt0114898,Waterworld,movie,"Action, Adventure, Sci-Fi",6.3,218208.0,1995.0,tm9259,2.0,tous publics,'us'
+tt1046173,G.I. Joe: The Rise of Cobra,movie,"Action, Adventure, Sci-Fi",5.7,218119.0,2009.0,tm151176,5.0,tous publics,"'us', 'cz', 'fr'"
+tt1013743,Knight and Day,movie,"Action, Adventure, Comedy",6.3,218099.0,2010.0,tm91548,3.0,tous publics,'us'
+tt0118571,Air Force One,movie,"Action, Crime, Drama",6.5,218087.0,1997.0,tm192135,1.0,tous publics,'us'
+tt0074285,Carrie,movie,"Horror, Mystery",7.4,218068.0,1976.0,tm181452,1.0,16,'us'
+tt1284575,Bad Teacher,movie,"Comedy, Romance",5.7,217553.0,2011.0,tm176239,1.0,tous publics,'us'
+tt1155076,The Karate Kid,movie,"Action, Drama, Family",6.2,216759.0,2010.0,tm102403,1.0,tous publics,"'cn', 'hk', 'us'"
+tt0088846,Brazil,movie,"Drama, Sci-Fi, Thriller",7.8,216584.0,1985.0,tm123788,1.0,12,"'gb', 'us'"
+tt0829150,Dracula Untold,movie,"Action, Drama, Fantasy",6.2,216060.0,2014.0,tm140524,1.0,tous publics avec avertissement,"'us', 'jp'"
+tt0362270,The Life Aquatic with Steve Zissou,movie,"Action, Adventure, Comedy",7.2,216056.0,2004.0,tm75924,4.0,tous publics,'us'
+tt0318627,Resident Evil: Apocalypse,movie,"Action, Horror, Sci-Fi",6.1,215959.0,2004.0,tm94422,1.0,12,"'de', 'gb', 'fr', 'ca', 'us'"
+tt0094625,Akira,movie,"Animation, Drama, Fantasy",8.0,215881.0,1988.0,tm44887,2.0,16,'jp'
+tt0102798,Robin Hood: Prince of Thieves,movie,"Action, Adventure, Drama",6.9,215878.0,1991.0,tm10242,1.0,tous publics,'us'
+tt7798634,Ready or Not,movie,"Action, Comedy, Horror",6.8,215721.0,2019.0,tm473057,1.0,12,"'us', 'ca'"
+tt1560220,Zombieland: Double Tap,movie,"Action, Comedy, Horror",6.7,215627.0,2019.0,tm244188,3.0,tous publics avec avertissement,'us'
+tt3766354,The Equalizer 2,movie,"Action, Crime, Mystery",6.7,215411.0,2018.0,tm213066,1.0,12,'us'
+tt0091064,The Fly,movie,"Drama, Horror, Sci-Fi",7.6,214583.0,1986.0,tm114838,3.0,12::(new rating),"'us', 'ca'"
+tt2094766,Assassin's Creed,movie,"Action, Adventure, Sci-Fi",5.6,214534.0,2016.0,tm1899,5.0,12,"'us', 'fr', 'gb', 'hk', 'tw', 'mt', 'es', 'ca'"
+tt4729430,Klaus,movie,"Adventure, Animation, Comedy",8.2,214412.0,2019.0,tm375883,1.0,7::(self-applied),"'es', 'gb', 'us', 'at', 'ca', 'fr'"
+tt2345759,The Mummy,movie,"Action, Adventure, Fantasy",5.4,214343.0,2017.0,tm122327,1.0,tous publics,"'us', 'cn', 'jp'"
+tt2406566,Atomic Blonde,movie,"Action, Thriller",6.7,214188.0,2017.0,tm244634,2.0,12,"'us', 'se', 'hu'"
+tt0401855,Underworld: Evolution,movie,"Action, Fantasy, Thriller",6.7,214041.0,2006.0,tm32414,2.0,12,"'us', 'ca'"
+tt0477080,Unstoppable,movie,"Action, Thriller",6.8,213840.0,2010.0,tm102443,1.0,tous publics,'us'
+tt1111422,The Taking of Pelham 123,movie,"Action, Crime, Thriller",6.4,212900.0,2009.0,tm152406,3.0,tous publics,"'us', 'gb'"
+tt10288566,Another Round,movie,"Comedy, Drama",7.7,212763.0,2020.0,tm679789,3.0,tous publics,"'dk', 'se', 'nl', 'be', 'fr'"
+tt0111282,Stargate,movie,"Action, Adventure, Sci-Fi",7.0,212264.0,1994.0,tm193099,3.0,tous publics,"'fr', 'us'"
+tt0113247,La haine,movie,"Crime, Drama",8.1,211799.0,1995.0,tm7867,2.0,tous publics,'fr'
+tt2873282,Red Sparrow,movie,"Action, Drama, Thriller",6.6,211764.0,2018.0,tm244180,1.0,12 avec avertissement,"'us', 'hu'"
+tt1458175,The Next Three Days,movie,"Action, Crime, Drama",7.3,211642.0,2010.0,tm104229,1.0,tous publics,"'us', 'fr'"
+tt1723811,Shame,movie,Drama,7.2,211532.0,2011.0,tm165055,1.0,12,"'gb', 'ca'"
+tt0993842,Hanna,movie,"Action, Adventure, Drama",6.7,211179.0,2011.0,tm167897,3.0,tous publics::(with warning),"'us', 'gb', 'de'"
+tt1136617,The Killer,movie,"Action, Adventure, Crime",6.7,210987.0,2023.0,tm1299143,1.0,16::(netflix rating),'us'
+tt0375063,Sideways,movie,"Comedy, Drama, Romance",7.5,210973.0,2004.0,tm89991,3.0,tous publics,'us'
+tt2338151,PK,movie,"Comedy, Drama, Sci-Fi",8.1,210880.0,2014.0,tm147913,1.0,13,'in'
+tt0432021,Resident Evil: Extinction,movie,"Action, Horror, Sci-Fi",6.2,210856.0,2007.0,tm79664,1.0,12,"'de', 'jp', 'mx', 'ca', 'us'"
+tt0114148,Pocahontas,movie,"Adventure, Animation, Drama",6.7,210803.0,1995.0,tm11864,1.0,tous publics,"'us', 'jp'"
+tt0183790,A Knight's Tale,movie,"Action, Adventure, Drama",7.0,210682.0,2001.0,tm35112,3.0,tous publics,'us'
+tt2446042,Taken 3,movie,"Action, Thriller",6.0,210287.0,2014.0,tm136195,1.0,tous publics avec avertissement,"'fr', 'es', 'us'"
+tt12801262,Luca,movie,"Adventure, Animation, Comedy",7.4,210191.0,2021.0,tm375874,1.0,6+::(self-applied),'us'
+tt1213641,First Man,movie,"Biography, Drama, History",7.3,210144.0,2018.0,tm296917,3.0,tous publics,"'us', 'jp', 'cn'"
+tt1606389,The Vow,movie,"Drama, Romance",6.8,209773.0,2012.0,tm57991,1.0,tous publics,"'us', 'au', 'fr', 'ca', 'de', 'br', 'gb', 'cn'"
+tt0814255,Percy Jackson & the Olympians: The Lightning Thief,movie,"Adventure, Family, Fantasy",5.9,209378.0,2010.0,tm90273,1.0,tous publics avec avertissement,"'gb', 'ca', 'us'"
+tt0053604,The Apartment,movie,"Comedy, Drama, Romance",8.3,208962.0,1960.0,tm58955,1.0,tous publics,'us'
+tt0116209,The English Patient,movie,"Drama, Romance, War",7.4,208750.0,1996.0,tm110567,2.0,tous publics,"'us', 'gb'"
+tt13560574,X,movie,"Horror, Mystery, Thriller",6.5,208585.0,2022.0,tm1150807,2.0,16,"'us', 'nz'"
+tt0050976,The Seventh Seal,movie,"Drama, Fantasy",8.1,208547.0,1957.0,tm120889,2.0,tous publics,'se'
+tt3416742,What We Do in the Shadows,movie,"Comedy, Horror",7.6,208105.0,2014.0,tm144181,2.0,tous publics,"'nz', 'us'"
+tt0082694,The Road Warrior,movie,"Action, Adventure, Sci-Fi",7.6,207780.0,1981.0,tm130740,2.0,tous publics avec avertissement,'au'
+tt4520988,Frozen II,movie,"Adventure, Animation, Comedy",6.8,207612.0,2019.0,tm244184,1.0,tous publics,"'jp', 'us'"
+tt1038988,REC,movie,"Horror, Mystery, Thriller",7.4,207237.0,2007.0,tm77399,4.0,12,'es'
+tt0021749,City Lights,movie,"Comedy, Drama, Romance",8.5,206980.0,1931.0,tm52402,1.0,tous publics,'us'
+tt0366548,Happy Feet,movie,"Adventure, Animation, Comedy",6.4,206971.0,2006.0,tm37546,3.0,tous publics,"'us', 'au'"
+tt0120863,The Thin Red Line,movie,"Drama, History, War",7.6,206579.0,1998.0,tm62578,3.0,tous publics,'us'
+tt0061852,The Jungle Book,movie,"Adventure, Animation, Comedy",7.6,206498.0,1967.0,tm121851,1.0,tous publics,'us'
+tt5519340,Bright,movie,"Action, Fantasy, Thriller",6.3,206150.0,2017.0,tm244307,1.0,16,"'us', 'mx', 'au', 'ca', 'in'"
+tt0119081,Event Horizon,movie,"Horror, Sci-Fi, Thriller",6.6,206071.0,1997.0,tm190727,3.0,12,"'gb', 'us'"
+tt3631112,The Girl on the Train,movie,"Crime, Drama, Mystery",6.5,205733.0,2016.0,tm230565,1.0,12,"'us', 'in'"
+tt8106534,6 Underground,movie,"Action, Thriller",6.1,205151.0,2019.0,tm417553,1.0,16::(self-applied),"'us', 'sg', 'ca', 'cn', 'th', 'de', 'ae', 'it', 'ch', 'hu', 'fr', 'gb', 'at'"
+tt0063442,Planet of the Apes,movie,"Adventure, Sci-Fi",8.0,204934.0,1968.0,tm12233,1.0,tous publics::(new rating),'us'
+tt2267968,Kung Fu Panda 3,movie,"Action, Adventure, Animation",7.1,204741.0,2016.0,tm120108,1.0,tous publics,"'us', 'cn'"
+tt3915174,Puss in Boots: The Last Wish,movie,"Action, Adventure, Animation",7.8,204439.0,2022.0,tm558,1.0,tous publics,"'us', 'jp'"
+tt0352248,Cinderella Man,movie,"Biography, Drama, Romance",8.0,204315.0,2005.0,tm179462,2.0,tous publics,'us'
+tt5715874,The Killing of a Sacred Deer,movie,"Drama, Horror, Mystery",7.0,204205.0,2017.0,tm244198,2.0,12 avec avertissement,"'ie', 'gb', 'us'"
+tt6450804,Terminator: Dark Fate,movie,"Action, Adventure, Sci-Fi",6.2,204184.0,2019.0,tm12196,2.0,tous publics avec avertissement,"'us', 'es', 'hu', 'cn'"
+tt0128445,Rushmore,movie,"Comedy, Drama, Romance",7.6,203156.0,1998.0,tm64906,4.0,tous publics,'us'
+tt3470600,Sing,movie,"Animation, Comedy, Family",7.1,202820.0,2016.0,tm206686,1.0,tous publics,"'jp', 'us', 'fr'"
+tt4857264,The Invisible Guest,movie,"Crime, Drama, Mystery",8.0,202678.0,2016.0,tm267401,1.0,10,'es'
+tt0106697,Demolition Man,movie,"Action, Sci-Fi, Thriller",6.7,202549.0,1993.0,tm191327,2.0,tous publics,'us'
+tt0375912,Layer Cake,movie,"Crime, Drama, Thriller",7.2,202462.0,2004.0,tm81909,3.0,12,"'gb', 'us'"
+tt0106308,Army of Darkness,movie,"Comedy, Horror",7.4,202145.0,1992.0,tm124721,3.0,12,'us'
+tt0122690,Ronin,movie,"Action, Crime, Thriller",7.2,201633.0,1998.0,tm52437,2.0,tous publics,"'gb', 'us'"
+tt7657566,Death on the Nile,movie,"Crime, Drama, Mystery",6.3,201627.0,2022.0,tm372685,1.0,tous publics,'us'
+tt2333784,The Expendables 3,movie,"Action, Adventure, Comedy",6.1,201592.0,2014.0,tm147761,2.0,tous publics avec avertissement,"'us', 'fr', 'de', 'bg'"
+tt1446192,Rise of the Guardians,movie,"Action, Adventure, Animation",7.2,201538.0,2012.0,tm38980,1.0,tous publics,"'us', 'in'"
+tt1465522,Tucker and Dale vs Evil,movie,"Comedy, Horror",7.5,201439.0,2010.0,tm96385,2.0,12,"'ca', 'gb', 'us', 'in'"
+tt1935859,Miss Peregrine's Home for Peculiar Children,movie,"Adventure, Drama, Family",6.7,201184.0,2016.0,tm120376,2.0,tous publics avec avertissement,"'us', 'gb', 'be', 'ca'"
+tt3104988,Crazy Rich Asians,movie,"Comedy, Drama, Romance",6.9,201153.0,2018.0,tm357148,2.0,tous publics,"'us', 'cn'"
+tt0455590,The Last King of Scotland,movie,"Biography, Drama, History",7.6,201148.0,2006.0,tm37463,4.0,12,"'gb', 'de', 'us'"
+tt0266308,Battle Royale,movie,"Adventure, Drama, Thriller",7.5,200958.0,2000.0,tm22725,1.0,16,'jp'
+tt0385752,The Golden Compass,movie,"Adventure, Family, Fantasy",6.1,200560.0,2007.0,tm81030,3.0,tous publics,"'gb', 'us', 'ca', 'fr', 'au'"
+tt1070874,The Trial of the Chicago 7,movie,"Drama, History, Thriller",7.7,200334.0,2020.0,tm840196,1.0,16,"'us', 'gb', 'in'"
+tt10293406,The Power of the Dog,movie,"Drama, Western",6.8,200320.0,2021.0,tm674063,1.0,16,"'nz', 'gb', 'ca', 'au', 'us'"
+tt0387808,Idiocracy,movie,"Adventure, Comedy, Sci-Fi",6.5,200140.0,2006.0,tm26752,1.0,tous publics,'us'
+tt5104604,Isle of Dogs,movie,"Adventure, Animation, Comedy",7.8,200086.0,2018.0,tm244151,3.0,tous publics,"'gb', 'de', 'jp', 'us'"
+tt14849194,The Holdovers,movie,"Comedy, Drama",7.9,199821.0,2023.0,tm1261131,1.0,tous publics,'us'
+tt1646987,Wrath of the Titans,movie,"Action, Adventure, Fantasy",5.7,199490.0,2012.0,tm30583,2.0,tous publics,"'us', 'es'"
+tt9484998,Palm Springs,movie,"Comedy, Fantasy, Mystery",7.4,199380.0,2020.0,tm487556,1.0,16::(self-applied),"'us', 'hk'"
+tt4701182,Bumblebee,movie,"Action, Adventure, Sci-Fi",6.7,199260.0,2018.0,tm272414,4.0,tous publics,"'us', 'cn'"
+tt0054698,Breakfast at Tiffany's,movie,"Comedy, Drama, Romance",7.5,198740.0,1961.0,tm57722,3.0,tous publics,'us'
+tt0108160,Sleepless in Seattle,movie,"Comedy, Drama, Romance",6.8,198738.0,1993.0,tm185123,3.0,tous publics,'us'
+tt1661199,Cinderella,movie,"Adventure, Drama, Family",6.9,198521.0,2015.0,tm61052,1.0,tous publics,"'gb', 'us', 'dk', 'ca', 'it'"
+tt0450278,Hostel,movie,Horror,5.9,198332.0,2005.0,tm183790,3.0,16 avec avertissement,"'us', 'cz'"
+tt0072271,The Texas Chain Saw Massacre,movie,Horror,7.4,198329.0,1974.0,tm106779,3.0,(banned),'us'
+tt0120647,Deep Impact,movie,"Action, Drama, Sci-Fi",6.3,198005.0,1998.0,tm54441,1.0,tous publics,'us'
+tt1596350,This Means War,movie,"Action, Comedy, Romance",6.3,197681.0,2012.0,tm29067,1.0,tous publics,'us'
+tt0104691,The Last of the Mohicans,movie,"Action, Adventure, Drama",7.6,197471.0,1992.0,tm124262,1.0,tous publics,'us'
+tt0293429,Mortal Kombat,movie,"Action, Adventure, Fantasy",6.0,196965.0,2021.0,tm474986,2.0,12 avec avertissement,'us'
+tt3062096,Inferno,movie,"Action, Adventure, Crime",6.2,196215.0,2016.0,tm120551,2.0,tous publics,"'hu', 'us'"
+tt0078346,Superman,movie,"Action, Adventure, Sci-Fi",7.4,196192.0,1978.0,tm12694,3.0,tous publics,"'us', 'gb', 'ch', 'pa'"
+tt0276751,About a Boy,movie,"Comedy, Drama, Romance",7.1,196117.0,2002.0,tm112606,3.0,tous publics,"'gb', 'fr', 'us', 'de'"
+tt0095705,The Naked Gun: From the Files of Police Squad!,movie,"Comedy, Crime",7.6,196051.0,1988.0,tm52008,3.0,tous publics,'us'
+tt2226417,Insidious: Chapter 2,movie,"Horror, Mystery, Thriller",6.6,196044.0,2013.0,tm180572,4.0,12,"'gb', 'ca', 'us'"
+tt1964418,Tomorrowland,movie,"Action, Adventure, Family",6.4,195837.0,2015.0,tm140416,1.0,tous publics,'us'
+tt4244994,The Last Duel,movie,"Drama, History, Thriller",7.3,195700.0,2021.0,tm841254,1.0,12 avec avertissement,"'us', 'gb'"
+tt0097733,Lethal Weapon 2,movie,"Action, Crime, Thriller",7.3,195592.0,1989.0,tm142336,3.0,tous publics,'us'
+tt0389722,30 Days of Night,movie,"Horror, Thriller",6.6,195569.0,2007.0,tm79689,2.0,12,'us'
+tt0993840,Army of the Dead,movie,"Action, Adventure, Crime",5.8,195369.0,2021.0,tm456513,2.0,16,'us'
+tt5848272,Ralph Breaks the Internet,movie,"Adventure, Animation, Comedy",7.0,195194.0,2018.0,tm240627,1.0,tous publics,'us'
+tt0146882,High Fidelity,movie,"Comedy, Drama, Music",7.4,195087.0,2000.0,tm21226,1.0,tous publics,"'gb', 'us'"
+tt1628841,Independence Day: Resurgence,movie,"Action, Adventure, Sci-Fi",5.2,194644.0,2016.0,tm120589,1.0,tous publics,"'us', 'in'"
+tt0017136,Metropolis,movie,"Drama, Sci-Fi",8.3,194414.0,1927.0,tm20203,1.0,tous publics,'de'
+tt2231461,Rampage,movie,"Action, Adventure, Sci-Fi",6.1,194340.0,2018.0,tm298080,4.0,tous publics avec avertissement,'us'
+tt0061512,Cool Hand Luke,movie,"Crime, Drama",8.0,194312.0,1967.0,tm116782,2.0,12,'us'
+tt0918940,The Legend of Tarzan,movie,"Action, Adventure, Drama",6.2,193475.0,2016.0,tm123330,2.0,tous publics,"'gb', 'ca', 'us', 'au'"
+tt0072684,Barry Lyndon,movie,"Adventure, Drama, War",8.1,193363.0,1975.0,tm123656,3.0,tous publics,"'gb', 'us'"
+tt9770150,Nomadland,movie,Drama,7.3,193199.0,2020.0,tm855323,4.0,tous publics,'us'
+tt7556122,The Old Guard,movie,"Action, Thriller",6.7,192825.0,2020.0,tm849003,1.0,16::(self-applied),"'us', 'fr', 'is', 'gb', 'ma', 'ca'"
+tt0058331,Mary Poppins,movie,"Comedy, Family, Fantasy",7.8,192770.0,1964.0,tm189724,1.0,tous publics,'us'
+tt1231587,Hot Tub Time Machine,movie,"Comedy, Sci-Fi",6.4,192234.0,2010.0,tm87478,1.0,tous publics,'us'
+tt0110322,Legends of the Fall,movie,"Drama, Romance, War",7.5,191620.0,1994.0,tm116720,1.0,tous publics,'us'
+tt0293564,Rush Hour 3,movie,"Action, Comedy, Crime",6.2,191578.0,2007.0,tm79984,1.0,tous publics,"'us', 'de'"
+tt0100403,Predator 2,movie,"Action, Horror, Sci-Fi",6.3,191551.0,1990.0,tm150098,1.0,12,'us'
+tt0101272,The Addams Family,movie,"Comedy, Fantasy",7.0,191307.0,1991.0,tm9428,1.0,tous publics,'us'
+tt9639470,Last Night in Soho,movie,"Drama, Horror, Mystery",7.0,191162.0,2021.0,tm454813,2.0,12,"'gb', 'cn', 'us'"
+tt0092067,Castle in the Sky,movie,"Adventure, Animation, Family",8.0,190998.0,1986.0,tm121105,1.0,tous publics,'jp'
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,"'us', 'jp', 'gb', 'ca'"
+tt0087544,Nausicaä of the Valley of the Wind,movie,"Adventure, Animation, Sci-Fi",8.0,190759.0,1984.0,tm170523,1.0,tous publics,'jp'
+tt1502397,Bad Boys for Life,movie,"Action, Comedy, Crime",6.5,190618.0,2020.0,tm136250,2.0,tous publics avec avertissement,'us'
+tt0454841,The Hills Have Eyes,movie,"Horror, Thriller",6.4,190267.0,2006.0,tm37904,1.0,16,"'us', 'fr', 'ma'"
+tt1583421,G.I. Joe: Retaliation,movie,"Action, Adventure, Sci-Fi",5.7,190144.0,2013.0,tm165164,2.0,tous publics,"'us', 'ca'"
+tt0055254,One Hundred and One Dalmatians,movie,"Adventure, Animation, Comedy",7.3,189848.0,1961.0,tm54168,1.0,tous publics,'us'
+tt0089880,Rambo: First Blood Part II,movie,"Action, Adventure, Thriller",6.5,189810.0,1985.0,tm123031,2.0,tous publics,"'us', 'mx'"
+tt2170439,Horrible Bosses 2,movie,"Comedy, Crime",6.3,189572.0,2014.0,tm152608,2.0,tous publics avec avertissement,'us'
+tt0042876,Rashomon,movie,"Crime, Drama, Mystery",8.2,189428.0,1950.0,tm58806,3.0,tous publics,'jp'
+tt0087182,Dune,movie,"Action, Adventure, Sci-Fi",6.3,188656.0,1984.0,tm166964,1.0,tous publics,"'us', 'mx'"
+tt0389790,Bee Movie,movie,"Adventure, Animation, Comedy",6.1,188636.0,2007.0,tm79814,1.0,tous publics,"'us', 'ca'"
+tt2543472,Wonder,movie,"Drama, Family",7.9,188492.0,2017.0,tm244232,1.0,tous publics,"'us', 'hk', 'ca'"
+tt4016934,The Handmaiden,movie,"Drama, Romance, Thriller",8.1,188305.0,2016.0,tm146371,1.0,12 avec avertissement,'kr'
+tt0311429,The League of Extraordinary Gentlemen,movie,"Action, Adventure, Fantasy",5.8,188250.0,2003.0,tm131792,3.0,tous publics,"'us', 'de', 'cz', 'gb'"
+tt0478304,The Tree of Life,movie,"Drama, Fantasy",6.8,188229.0,2011.0,tm170469,1.0,tous publics,'us'
+tt0084516,Poltergeist,movie,"Horror, Thriller",7.3,188110.0,1982.0,tm44004,2.0,16,'us'
+tt1217613,Battle Los Angeles,movie,"Action, Adventure, Sci-Fi",5.7,187721.0,2011.0,tm172381,2.0,tous publics,'us'
+tt6856242,The King's Man,movie,"Action, Adventure, Thriller",6.3,186799.0,2021.0,tm434720,1.0,tous publics,"'gb', 'us'"
+tt0117008,Matilda,movie,"Comedy, Family, Fantasy",7.0,185949.0,1996.0,tm109144,1.0,tous publics,'us'
+tt11858890,The Creator,movie,"Action, Adventure, Drama",6.7,185839.0,2023.0,tm1232018,1.0,tous publics,'us'
+tt0120484,The Waterboy,movie,"Comedy, Sport",6.2,185624.0,1998.0,tm49668,1.0,tous publics,'us'
+tt3393786,Jack Reacher: Never Go Back,movie,"Action, Thriller",6.2,185508.0,2016.0,tm218129,3.0,tous publics avec avertissement,"'us', 'cn'"
+tt2404463,The Heat,movie,"Action, Comedy, Crime",6.6,185041.0,2013.0,tm186984,1.0,tous publics,"'us', 'gb'"
+tt10638522,Talk to Me,movie,"Horror, Thriller",7.1,184173.0,2022.0,tm1254721,1.0,16,"'au', 'gb'"
+tt3322940,Annabelle,movie,"Horror, Mystery, Thriller",5.5,184154.0,2014.0,tm157052,3.0,12,'us'
+tt0104714,Lethal Weapon 3,movie,"Action, Crime, Thriller",6.7,183935.0,1992.0,tm122409,3.0,tous publics,'us'
+tt4123432,Fantastic Beasts: The Secrets of Dumbledore,movie,"Adventure, Fantasy",6.2,183898.0,2022.0,tm208407,3.0,tous publics,"'gb', 'us'"
+tt0103074,Thelma & Louise,movie,"Adventure, Crime, Drama",7.6,183808.0,1991.0,tm9571,1.0,tous publics,"'us', 'gb', 'fr'"
+tt1220634,Resident Evil: Afterlife,movie,"Action, Horror, Sci-Fi",5.8,183574.0,2010.0,tm96208,1.0,tous publics avec avertissement,"'de', 'ca', 'us'"
+tt0215129,Road Trip,movie,Comedy,6.5,183500.0,2000.0,tm24877,2.0,tous publics,'us'
+tt1528100,Exodus: Gods and Kings,movie,"Action, Adventure, Drama",6.0,183440.0,2014.0,tm147399,4.0,tous publics,"'gb', 'es', 'us'"
+tt0465494,Hitman,movie,"Action, Crime, Thriller",6.2,183164.0,2007.0,tm65052,1.0,unrated,"'fr', 'us', 'gb', 'tr'"
+tt1502712,Fantastic Four,movie,"Action, Adventure, Sci-Fi",4.3,183160.0,2015.0,tm139213,1.0,tous publics,"'us', 'de', 'gb', 'ca'"
+tt2369135,Need for Speed,movie,"Action, Crime, Drama",6.4,182925.0,2014.0,tm159081,1.0,tous publics,"'us', 'in'"
+tt0970416,The Day the Earth Stood Still,movie,"Adventure, Drama, Sci-Fi",5.5,182890.0,2008.0,tm47554,1.0,tous publics,"'us', 'ca'"
+tt0892782,Monsters vs. Aliens,movie,"Action, Adventure, Animation",6.4,182796.0,2009.0,tm133797,1.0,tous publics,"'us', 'gb'"
+tt0986263,Surrogates,movie,"Action, Sci-Fi, Thriller",6.3,182772.0,2009.0,tm152577,1.0,tous publics,'us'
+tt1411250,Riddick,movie,"Action, Adventure, Sci-Fi",6.4,182686.0,2013.0,tm180256,1.0,12,"'ca', 'us'"
+tt4116284,The Lego Batman Movie,movie,"Action, Adventure, Animation",7.3,182482.0,2017.0,tm196644,3.0,tous publics,"'us', 'dk', 'au'"
+tt0398808,Bridge to Terabithia,movie,"Drama, Family, Fantasy",7.2,182459.0,2007.0,tm68232,1.0,tous publics,"'us', 'nz'"
+tt0372588,Team America: World Police,movie,"Action, Comedy",7.2,182322.0,2004.0,tm83813,1.0,12,"'us', 'de'"
+tt7040874,A Simple Favor,movie,"Comedy, Crime, Mystery",6.8,182115.0,2018.0,tm356560,1.0,tous publics,"'ca', 'us'"
+tt5814060,The Nun,movie,"Horror, Mystery, Thriller",5.4,181867.0,2018.0,tm308123,2.0,12,'us'
+tt0108358,Tombstone,movie,"Biography, Drama, History",7.8,181770.0,1993.0,tm185050,1.0,tous publics,'us'
+tt0988595,27 Dresses,movie,"Comedy, Romance",6.1,181400.0,2008.0,tm28648,1.0,tous publics,'us'
+tt3794354,Sonic the Hedgehog,movie,"Action, Adventure, Comedy",6.5,181391.0,2020.0,tm374139,4.0,tous publics,"'us', 'jp', 'ca', 'gb'"
+tt0042332,Cinderella,movie,"Animation, Family, Fantasy",7.3,181154.0,1950.0,tm61052,2.0,tous publics,'us'
+tt5109280,Raya and the Last Dragon,movie,"Action, Adventure, Animation",7.3,180843.0,2021.0,tm417522,1.0,tous publics,'us'
+tt0393162,Coach Carter,movie,"Biography, Drama, Sport",7.3,180477.0,2005.0,tm159310,4.0,tous publics,"'us', 'de'"
+tt0346491,Alexander,movie,"Action, Biography, Drama",5.6,180296.0,2004.0,tm84827,2.0,tous publics avec avertissement,"'us', 'gb', 'de', 'nl', 'fr', 'it', 'ma', 'th'"
+tt0274166,Johnny English,movie,"Action, Adventure, Comedy",6.3,180190.0,2003.0,tm129597,3.0,tous publics,"'gb', 'fr', 'mc', 'us'"
+tt5052474,Sicario: Day of the Soldado,movie,"Action, Crime, Drama",7.1,179970.0,2018.0,tm239778,1.0,12,"'us', 'mx', 'it'"
+tt1618434,Murder Mystery,movie,"Crime, Mystery, Romance",6.1,179953.0,2019.0,tm441231,1.0,13::(self-applied),"'us', 'it', 'ca'"
+tt2191701,Grown Ups 2,movie,Comedy,5.4,179852.0,2013.0,tm177048,1.0,tous publics,'us'
+tt0349683,King Arthur,movie,"Action, Adventure, Drama",6.3,179677.0,2004.0,tm88820,1.0,tous publics,"'ie', 'gb', 'us'"
+tt10028196,Laal Singh Chaddha,movie,"Comedy, Drama, Romance",5.9,179622.0,2022.0,tm473703,1.0,tous publics,'in'
+tt2209418,Before Midnight,movie,"Drama, Romance",7.9,179311.0,2013.0,tm181889,2.0,tous publics,"'us', 'gr'"
+tt0074958,Network,movie,Drama,8.1,179295.0,1976.0,tm85518,1.0,tous publics,'us'
+tt7146812,Onward,movie,"Adventure, Animation, Comedy",7.4,179198.0,2020.0,tm375500,1.0,tous publics,"'us', 'jp'"
+tt0159097,The Virgin Suicides,movie,"Drama, Romance",7.2,179046.0,1999.0,tm46039,1.0,tous publics,'us'
+tt0465538,Michael Clayton,movie,"Crime, Drama, Mystery",7.2,178907.0,2007.0,tm78592,1.0,tous publics,'us'
+tt0472399,The Mechanic,movie,"Action, Crime, Thriller",6.5,178559.0,2011.0,tm175342,1.0,12,"'us', 'de'"
+tt0832266,"Definitely, Maybe",movie,"Comedy, Drama, Romance",7.1,178542.0,2008.0,tm26708,3.0,tous publics,"'gb', 'fr', 'de', 'us'"
+tt8178634,RRR,movie,"Action, Adventure, Drama",7.8,178472.0,2022.0,tm463762,1.0,not rated,'in'
+tt0938283,The Last Airbender,movie,"Action, Adventure, Family",3.9,178433.0,2010.0,tm101053,4.0,tous publics,"'us', 'vn', 'gb', 'ca', 'dk'"
+tt10366460,CODA,movie,"Comedy, Drama, Music",8.0,178358.0,2021.0,tm983754,2.0,13,"'fr', 'ca', 'us'"
+tt0116583,The Hunchback of Notre Dame,movie,"Animation, Drama, Family",7.0,178306.0,1996.0,tm108880,1.0,tous publics,'us'
+tt0381707,White Chicks,movie,"Comedy, Crime",5.9,178211.0,2004.0,tm82145,1.0,tous publics,'us'
+tt3371366,Transformers: The Last Knight,movie,"Action, Adventure, Sci-Fi",5.2,177925.0,2017.0,tm209527,4.0,tous publics,"'us', 'cn', 'ca'"
+tt4500922,Maze Runner: The Death Cure,movie,"Action, Adventure, Sci-Fi",6.3,177885.0,2018.0,tm207148,1.0,tous publics avec avertissement,'us'
+tt0780521,The Princess and the Frog,movie,"Adventure, Animation, Comedy",7.2,177794.0,2009.0,tm149656,1.0,tous publics,"'us', 'br', 'ca'"
+tt0105793,Wayne's World,movie,"Comedy, Music",7.0,177460.0,1992.0,tm130127,3.0,tous publics,'us'
+tt0097814,Kiki's Delivery Service,movie,"Animation, Family, Fantasy",7.8,177454.0,1989.0,tm140029,1.0,tous publics,'jp'
+tt0118694,In the Mood for Love,movie,"Drama, Romance",8.0,177201.0,2000.0,tm18499,2.0,tous publics,"'hk', 'fr'"
+tt0022100,M,movie,"Crime, Mystery, Thriller",8.3,177057.0,1931.0,tm47834,1.0,tous publics,'de'
+tt6166392,Wonka,movie,"Adventure, Comedy, Family",7.0,176918.0,2023.0,tm993076,2.0,tous publics,"'us', 'gb', 'ca'"
+tt0122151,Lethal Weapon 4,movie,"Action, Crime, Thriller",6.6,176742.0,1998.0,tm56110,3.0,12,'us'
+tt6412452,The Ballad of Buster Scruggs,movie,"Comedy, Drama, Musical",7.2,176551.0,2018.0,tm425889,1.0,16,'us'
+tt0408790,Flightplan,movie,"Drama, Mystery, Thriller",6.3,176281.0,2005.0,tm161164,1.0,tous publics,'us'
+tt1279935,Date Night,movie,"Comedy, Crime, Romance",6.3,176268.0,2010.0,tm90219,1.0,tous publics,'us'
+tt0330793,The Punisher,movie,"Action, Crime, Drama",6.4,176155.0,2004.0,tm81297,1.0,16,"'us', 'de', 'jp'"
+tt1335975,47 Ronin,movie,"Action, Drama, Fantasy",6.2,175626.0,2013.0,tm168549,1.0,tous publics,"'jp', 'us'"
+tt3640424,Allied,movie,"Action, Drama, Romance",7.1,175440.0,2016.0,tm232194,1.0,tous publics,"'gb', 'us', 'cn'"
+tt2848292,Pitch Perfect 2,movie,"Comedy, Music",6.4,175355.0,2015.0,tm137965,1.0,tous publics,'us'
+tt7740496,Nightmare Alley,movie,"Crime, Drama, Thriller",7.0,175266.0,2021.0,tm855362,2.0,tous publics avec avertissement,"'us', 'mx', 'ca'"
+tt0876563,Ponyo,movie,"Adventure, Animation, Comedy",7.6,175181.0,2008.0,tm35255,1.0,tous publics,'jp'
+tt0066999,Dirty Harry,movie,"Action, Crime, Thriller",7.7,175141.0,1971.0,tm14873,3.0,12::(new rating),'us'
+tt17009710,Anatomy of a Fall,movie,"Crime, Drama, Thriller",7.6,175061.0,2023.0,tm1337628,2.0,tous publics,'fr'
+tt0073629,The Rocky Horror Picture Show,movie,"Comedy, Horror, Musical",7.4,175027.0,1975.0,tm125564,1.0,tous publics::(1970s),"'gb', 'us'"
+tt0458481,Sin City: A Dame to Kill For,movie,"Action, Crime, Thriller",6.5,174889.0,2014.0,tm148815,1.0,12,"'us', 'gb'"
+tt1563738,One Day,movie,"Drama, Romance",7.0,174888.0,2011.0,tm168126,1.0,tous publics,"'us', 'gb'"
+tt0086465,Trading Places,movie,Comedy,7.5,174378.0,1983.0,tm58235,1.0,tous publics,'us'
+tt11245972,Scream,movie,"Horror, Mystery, Thriller",6.3,174319.0,2022.0,tm927825,2.0,16,'us'
+tt6155172,Roma,movie,Drama,7.6,174231.0,2018.0,tm288499,1.0,13::(self-applied),"'mx', 'us'"
+tt1139328,The Ghost Writer,movie,"Crime, Drama, Mystery",7.2,174126.0,2010.0,tm95022,2.0,tous publics,"'fr', 'de', 'gb', 'be', 'us'"
+tt0109831,Four Weddings and a Funeral,movie,"Comedy, Drama, Romance",7.1,174057.0,1994.0,tm122429,1.0,tous publics,'gb'
+tt0134084,Scream 3,movie,"Horror, Mystery",5.7,173871.0,2000.0,tm24706,1.0,12,'us'
+tt0498380,Letters from Iwo Jima,movie,"Action, Adventure, Drama",7.8,173758.0,2006.0,tm23485,3.0,tous publics avec avertissement,'us'
+tt0247638,The Princess Diaries,movie,"Comedy, Family, Romance",6.4,173625.0,2001.0,tm48427,1.0,tous publics,"'us', 'gb'"
+tt0963966,The Sorcerer's Apprentice,movie,"Action, Adventure, Family",6.1,173570.0,2010.0,tm102214,1.0,tous publics,'us'
+tt2140373,Saving Mr. Banks,movie,"Biography, Comedy, Drama",7.5,172964.0,2013.0,tm168780,1.0,tous publics,"'au', 'gb', 'us'"
+tt6628394,Bad Times at the El Royale,movie,"Crime, Drama, Mystery",7.1,172954.0,2018.0,tm311839,3.0,12,'us'
+tt0266987,Spy Game,movie,"Action, Crime, Thriller",7.1,172430.0,2001.0,tm30917,1.0,tous publics,"'gb', 'fr', 'de', 'jp', 'us'"
+tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,movie,"Adventure, Family, Fantasy",6.3,172332.0,2010.0,tm94814,1.0,tous publics,"'us', 'gb', 'ca', 'au', 'de'"
+tt5971474,The Little Mermaid,movie,"Adventure, Family, Fantasy",7.2,172070.0,2023.0,tm407861,1.0,tous publics,'us'
+tt0822832,Marley & Me,movie,"Drama, Family",7.0,172067.0,2008.0,tm29339,2.0,tous publics,'us'
+tt0097523,"Honey, I Shrunk the Kids",movie,"Adventure, Comedy, Family",6.4,171953.0,1989.0,tm142764,1.0,tous publics,"'us', 'mx'"
+tt0834001,Underworld: Rise of the Lycans,movie,"Action, Fantasy, Thriller",6.5,171866.0,2009.0,tm138022,2.0,tous publics avec avertissement,"'us', 'nz', 'au'"
+tt5433138,F9: The Fast Saga,movie,"Action, Crime, Thriller",5.2,171748.0,2021.0,tm239632,1.0,tous publics,"'us', 'th', 'ca', 'jp'"
+tt1057500,Invictus,movie,"Biography, Drama, History",7.3,171287.0,2009.0,tm150864,2.0,tous publics,'us'
+tt0435705,Next,movie,"Action, Sci-Fi, Thriller",6.2,170757.0,2007.0,tm68758,2.0,tous publics,'us'
+tt13320622,The Lost City,movie,"Action, Adventure, Comedy",6.1,170235.0,2022.0,tm1000711,1.0,tous publics,'us'
+tt0093748,"Planes, Trains & Automobiles",movie,"Comedy, Drama",7.6,170177.0,1987.0,tm19558,3.0,tous publics,'us'
+tt0094291,Wall Street,movie,"Crime, Drama",7.3,169911.0,1987.0,tm23477,1.0,tous publics,'us'
+tt0093437,The Lost Boys,movie,"Comedy, Horror",7.2,169694.0,1987.0,tm19783,3.0,tous publics,'us'
+tt0107362,Last Action Hero,movie,"Action, Adventure, Comedy",6.5,169369.0,1993.0,tm187187,3.0,tous publics,'us'
+tt3469046,Despicable Me 3,movie,"Adventure, Animation, Comedy",6.3,169323.0,2017.0,tm196787,2.0,tous publics,"'us', 'fr'"
+tt0099938,Kindergarten Cop,movie,"Action, Comedy, Crime",6.3,169269.0,1990.0,tm155150,3.0,tous publics,'us'
+tt6266538,Vice,movie,"Biography, Comedy, Drama",7.2,169230.0,2018.0,tm366889,2.0,tous publics,'us'
+tt2278871,Blue Is the Warmest Colour,movie,"Drama, Romance",7.7,168772.0,2013.0,tm182049,2.0,12 avec avertissement::(withdrawn),"'fr', 'be', 'es'"
+tt11214590,House of Gucci,movie,"Biography, Crime, Drama",6.6,168680.0,2021.0,tm884133,1.0,tous publics,"'us', 'ca', 'gb'"
+tt3774114,Snowden,movie,"Biography, Crime, Drama",7.3,168377.0,2016.0,tm123172,1.0,tous publics,"'us', 'de', 'fr'"
+tt0120681,From Hell,movie,"Crime, Horror, Mystery",6.7,168357.0,2001.0,tm43364,1.0,12,"'us', 'gb', 'cz'"
+tt0082198,Conan the Barbarian,movie,"Adventure, Fantasy",6.9,168266.0,1982.0,tm60816,3.0,12,"'us', 'mx'"
+tt1267297,Hercules,movie,"Action, Adventure, Fantasy",6.0,168238.0,2014.0,tm148235,3.0,tous publics avec avertissement,"'hu', 'us'"
+tt21382296,Carry-On,movie,"Action, Crime, Thriller",6.5,167832.0,2024.0,tm1477112,1.0,13::(streaming rating),'us'
+tt0120587,Antz,movie,"Adventure, Animation, Comedy",6.5,167629.0,1998.0,tm58856,2.0,tous publics,"'us', 'gb'"
+tt0464141,The Orphanage,movie,"Drama, Horror, Mystery",7.4,167417.0,2007.0,tm75931,3.0,12,"'es', 'mx', 'fr', 'be'"
+tt0397535,Memoirs of a Geisha,movie,"Drama, Romance",7.3,167153.0,2005.0,tm176528,1.0,tous publics,'us'
+tt0053285,Sleeping Beauty,movie,"Adventure, Animation, Family",7.2,167053.0,1959.0,tm51992,1.0,tous publics,'us'
+tt0990407,The Green Hornet,movie,"Action, Comedy, Crime",5.8,166929.0,2011.0,tm167016,1.0,tous publics,'us'
+tt0032910,Pinocchio,movie,"Adventure, Animation, Comedy",7.5,166751.0,1940.0,tm82546,1.0,tous publics,'us'
+tt0119345,I Know What You Did Last Summer,movie,"Horror, Mystery",5.8,166443.0,1997.0,tm191374,3.0,12,'us'
+tt1600196,The Drop,movie,"Crime, Drama, Mystery",7.0,166293.0,2014.0,tm147061,1.0,tous publics,'us'
+tt0082340,Escape from New York,movie,"Action, Adventure, Sci-Fi",7.1,165770.0,1981.0,tm124856,1.0,tous publics,"'gb', 'us'"
+tt7984766,The King,movie,"Biography, Drama, History",7.3,165430.0,2019.0,tm417392,2.0,16::(self-applied),"'gb', 'hu', 'us', 'au'"
+tt0122933,Analyze This,movie,"Comedy, Crime",6.7,165401.0,1999.0,tm65522,1.0,tous publics,"'us', 'au'"
+tt0113568,Ghost in the Shell,movie,"Action, Animation, Crime",7.9,165294.0,1995.0,tm9668,3.0,tous publics,"'jp', 'gb'"
+tt8097030,Turning Red,movie,"Adventure, Animation, Comedy",6.9,165070.0,2022.0,tm375923,1.0,tous publics,"'us', 'ca'"
+tt1496025,Underworld: Awakening,movie,"Action, Fantasy, Thriller",6.3,164582.0,2012.0,tm37263,2.0,12,"'us', 'ca'"
+tt0120783,The Parent Trap,movie,"Adventure, Comedy, Drama",6.7,164484.0,1998.0,tm57184,1.0,tous publics,"'us', 'gb'"
+tt0128442,Rounders,movie,"Crime, Drama",7.3,164466.0,1998.0,tm64924,1.0,tous publics,'us'
+tt0107120,Hocus Pocus,movie,"Comedy, Family, Fantasy",6.9,164429.0,1993.0,tm190165,1.0,tous publics,'us'
+tt5108870,Morbius,movie,"Action, Adventure, Horror",5.1,164357.0,2022.0,tm435125,1.0,tous publics avec avertissement,'us'
+tt0276919,Dogville,movie,"Crime, Drama",8.0,164119.0,2003.0,tm129039,2.0,12,"'dk', 'nl', 'se', 'de', 'gb', 'fr', 'fi', 'no', 'it'"
+tt4566758,Mulan,movie,"Action, Adventure, Drama",5.8,164062.0,2020.0,tm266656,1.0,tous publics,"'us', 'cn'"
+tt0088323,The NeverEnding Story,movie,"Adventure, Drama, Family",7.3,164054.0,1984.0,tm170315,3.0,tous publics,"'xwg', 'us'"
+tt0430105,Four Brothers,movie,"Action, Crime, Drama",6.8,163973.0,2005.0,tm184913,3.0,12,'us'
+tt0473705,State of Play,movie,"Crime, Drama, Mystery",7.1,163935.0,2009.0,tm134860,2.0,tous publics,"'gb', 'fr', 'us'"
+tt12263384,Extraction II,movie,"Action, Crime, Thriller",7.0,163552.0,2023.0,tm1150381,1.0,7,"'cz', 'at', 'au', 'us', 'es', 'de', 'ca', 'gb'"
+tt0116922,Lost Highway,movie,"Drama, Mystery, Thriller",7.6,163276.0,1997.0,tm192346,2.0,12,"'fr', 'us'"
+tt6343314,Creed II,movie,"Action, Drama, Sport",7.1,162661.0,2018.0,tm353731,1.0,tous publics,'us'
+tt9421570,The Guilty,movie,"Crime, Drama, Thriller",6.3,162489.0,2021.0,tm986168,1.0,13::(self-applied),'us'
+tt0101507,Boyz n the Hood,movie,"Crime, Drama",7.8,162300.0,1991.0,tm8359,1.0,12,'us'
+tt16277242,Society of the Snow,movie,"Adventure, Biography, Drama",7.8,161920.0,2023.0,tm1357418,1.0,16::(self-applied),'es'
+tt7395114,The Devil All the Time,movie,"Crime, Drama, Thriller",7.1,161684.0,2020.0,tm368699,1.0,16::(self-applied),'us'
+tt1131734,Jennifer's Body,movie,"Comedy, Horror",5.5,161601.0,2009.0,tm139029,1.0,12,"'us', 'ca'"
+tt0350258,Ray,movie,"Biography, Drama, Music",7.7,161397.0,2004.0,tm81079,2.0,tous publics,'us'
+tt10545296,The Hunger Games: The Ballad of Songbirds & Snakes,movie,"Action, Adventure, Drama",6.6,161234.0,2023.0,tm1150069,1.0,tous publics,"'us', 'ca'"
+tt7959026,The Mule,movie,"Crime, Drama, Thriller",7.0,161106.0,2018.0,tm371923,3.0,tous publics,"'us', 'ca'"
+tt0079417,Kramer vs. Kramer,movie,Drama,7.8,161054.0,1979.0,tm75312,1.0,tous publics,'us'
+tt0989757,Dear John,movie,"Drama, Romance, War",6.3,161037.0,2010.0,tm100674,1.0,tous publics,'us'
+tt0322330,Freaky Friday,movie,"Comedy, Family, Fantasy",6.3,160938.0,2003.0,tm150254,1.0,tous publics,'us'
+tt0090728,Big Trouble in Little China,movie,"Action, Adventure, Comedy",7.2,160938.0,1986.0,tm112770,1.0,tous publics,'us'
+tt0043274,Alice in Wonderland,movie,"Adventure, Animation, Comedy",7.3,160784.0,1951.0,tm130611,1.0,tous publics,'us'
+tt0159365,Cold Mountain,movie,"Adventure, Drama, Romance",7.2,160664.0,2003.0,tm134169,3.0,tous publics,"'us', 'it', 'ro'"
+tt1727388,The Way Way Back,movie,"Comedy, Drama",7.4,160374.0,2013.0,tm171375,1.0,tous publics,'us'
+tt0120768,The Negotiator,movie,"Action, Crime, Drama",7.3,160184.0,1998.0,tm49343,1.0,tous publics,"'us', 'de'"
+tt0095159,A Fish Called Wanda,movie,"Comedy, Crime",7.5,160069.0,1988.0,tm854,1.0,tous publics,"'gb', 'us'"
+tt0093105,"Good Morning, Vietnam",movie,"Biography, Comedy, Drama",7.3,159994.0,1987.0,tm20239,4.0,tous publics,'us'
+tt0034492,Bambi,movie,"Adventure, Animation, Drama",7.3,159986.0,1942.0,tm79357,1.0,tous publics,'us'
+tt13143964,Borat Subsequent Moviefilm,movie,Comedy,6.6,159934.0,2020.0,tm938209,1.0,18::(self-applied),"'us', 'gb', 'ro'"
+tt0046183,Peter Pan,movie,"Adventure, Animation, Family",7.3,159810.0,1953.0,tm105286,1.0,tous publics,'us'
+tt1403981,Remember Me,movie,"Drama, Romance",7.1,159487.0,2010.0,tm96222,1.0,tous publics,'us'
+tt5140878,Annabelle: Creation,movie,"Horror, Mystery, Thriller",6.5,159349.0,2017.0,tm244192,3.0,12,'us'
+tt8847712,The French Dispatch,movie,"Comedy, Drama, Romance",7.1,159148.0,2021.0,tm429301,1.0,tous publics,"'us', 'de', 'se', 'fr', 'gb'"
+tt15314262,The Beekeeper,movie,"Action, Crime, Thriller",6.3,158381.0,2024.0,tm1358983,1.0,12::(tv rating),"'gb', 'us'"
+tt0089530,Mad Max Beyond Thunderdome,movie,"Action, Adventure, Sci-Fi",6.2,158232.0,1985.0,tm127505,2.0,tous publics,'au'
+tt0335438,Starsky & Hutch,movie,"Comedy, Crime",6.1,157962.0,2004.0,tm81270,3.0,tous publics,'us'
+tt0762107,I Now Pronounce You Chuck & Larry,movie,"Comedy, Romance",5.9,157575.0,2007.0,tm78767,1.0,tous publics,'us'
+tt0257076,S.W.A.T.,movie,"Action, Adventure, Crime",6.1,157172.0,2003.0,tm145432,1.0,tous publics,'us'
+tt0373074,Kung Fu Hustle,movie,"Action, Comedy, Fantasy",7.7,157075.0,2004.0,tm77380,1.0,tous publics,"'hk', 'cn', 'us'"
+tt1334260,Never Let Me Go,movie,"Drama, Romance",7.1,156703.0,2010.0,tm101778,1.0,tous publics,"'gb', 'us'"
+tt2203939,The Other Woman,movie,"Comedy, Romance",6.0,156695.0,2014.0,tm147945,1.0,tous publics,'us'
+tt0079116,Escape from Alcatraz,movie,"Biography, Crime, Drama",7.6,156350.0,1979.0,tm67211,4.0,tous publics,'us'
+tt1389137,We Bought a Zoo,movie,"Comedy, Drama, Family",7.0,156232.0,2011.0,tm167877,1.0,tous publics,'us'
+tt0100507,Rocky V,movie,"Drama, Sport",5.4,156005.0,1990.0,tm155460,1.0,tous publics,'us'
+tt0421239,Red Eye,movie,Thriller,6.4,155574.0,2005.0,tm178078,4.0,tous publics,'us'
+tt0048280,Lady and the Tramp,movie,"Adventure, Animation, Comedy",7.3,155527.0,1955.0,tm111159,1.0,tous publics,'us'
+tt1758830,This Is 40,movie,"Comedy, Drama, Romance",6.2,155335.0,2012.0,tm71339,1.0,tous publics,'us'
+tt2381111,Brooklyn,movie,"Drama, Romance",7.5,155307.0,2015.0,tm134804,2.0,tous publics,"'ie', 'gb', 'ca', 'us'"
+tt1855325,Resident Evil: Retribution,movie,"Action, Horror, Sci-Fi",5.3,154950.0,2012.0,tm39771,1.0,12,"'de', 'ca', 'us'"
+tt8009428,Hustle,movie,"Comedy, Drama, Sport",7.3,154814.0,2022.0,tm1126268,1.0,7::(self-applied),'us'
+tt0451079,Horton Hears a Who!,movie,"Adventure, Animation, Comedy",6.8,154715.0,2008.0,tm38852,1.0,tous publics,"'us', 'gb'"
+tt0096256,They Live,movie,"Action, Horror, Sci-Fi",7.2,154693.0,1988.0,tm49210,1.0,tous publics,'us'
+tt0106918,The Firm,movie,"Drama, Mystery, Thriller",6.9,154526.0,1993.0,tm187766,2.0,tous publics,'us'
+tt1399683,Winter's Bone,movie,"Crime, Drama, Mystery",7.1,154493.0,2010.0,tm95604,1.0,tous publics avec avertissement,'us'
+tt2283336,Men in Black: International,movie,"Action, Adventure, Comedy",5.6,154454.0,2019.0,tm353050,2.0,tous publics,"'us', 'cn', 'gb'"
+tt3829266,The Predator,movie,"Action, Adventure, Sci-Fi",5.3,154287.0,2018.0,tm228271,1.0,12,"'ca', 'us', 'gb', 'in', 'au', 'br', 'cn'"
+tt1488606,Triple Frontier,movie,"Action, Thriller",6.5,154122.0,2019.0,tm244207,1.0,16,'us'
+tt0103855,The Bodyguard,movie,"Drama, Music, Romance",6.4,154013.0,1992.0,tm128086,3.0,tous publics,'us'
+tt9893250,I Care a Lot,movie,"Comedy, Crime, Drama",6.4,153869.0,2020.0,tm834851,1.0,13::(self-applied),"'us', 'gb'"
+tt3289956,The Autopsy of Jane Doe,movie,"Horror, Mystery, Thriller",6.8,153679.0,2016.0,tm244529,2.0,12 avec avertissement,'gb'
+tt2034800,The Great Wall,movie,"Action, Adventure, Fantasy",5.9,153489.0,2016.0,tm120593,1.0,tous publics,"'us', 'cn', 'hk', 'au', 'ca', 'jp'"
+tt0312004,Wallace & Gromit: The Curse of the Were-Rabbit,movie,"Adventure, Animation, Comedy",7.5,153346.0,2005.0,tm160757,2.0,tous publics,"'gb', 'us'"
+tt0046250,Roman Holiday,movie,"Comedy, Drama, Romance",8.0,153191.0,1953.0,tm105262,3.0,tous publics,'us'
+tt0091203,Highlander,movie,"Action, Adventure, Fantasy",7.0,153122.0,1986.0,tm112013,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt2222042,Love and Monsters,movie,"Action, Adventure, Comedy",6.9,152955.0,2020.0,tm617100,1.0,13::(self-applied),"'ca', 'us', 'au'"
+tt2510894,Hotel Transylvania 2,movie,"Adventure, Animation, Comedy",6.6,152935.0,2015.0,tm132278,1.0,tous publics,"'us', 'ca'"
+tt0387131,The Constant Gardener,movie,"Drama, Mystery, Romance",7.3,152575.0,2005.0,tm173792,2.0,tous publics,"'gb', 'de', 'ke', 'fr', 'us', 'ch'"
+tt1100089,Foxcatcher,movie,"Biography, Drama, History",7.0,152543.0,2014.0,tm160300,1.0,tous publics,'us'
+tt1939659,Carrie,movie,"Drama, Horror, Thriller",5.8,152290.0,2013.0,tm181452,1.0,12,'us'
+tt13238346,Past Lives,movie,"Drama, Romance",7.8,152244.0,2023.0,tm1294945,2.0,tous publics,"'us', 'kr'"
+tt1086772,Blended,movie,"Comedy, Romance",6.5,151940.0,2014.0,tm152025,1.0,tous publics,'us'
+tt1351685,Jack the Giant Slayer,movie,"Action, Adventure, Fantasy",6.3,151452.0,2013.0,tm168764,3.0,tous publics,'us'
+tt5886046,Escape Room,movie,"Action, Adventure, Horror",6.4,151245.0,2019.0,tm413279,3.0,tous publics avec avertissement,"'us', 'za'"
+tt2180411,Into the Woods,movie,"Adventure, Comedy, Drama",5.9,151104.0,2014.0,tm157149,1.0,tous publics,"'us', 'ca', 'it', 'gb'"
+tt1648190,The Dark Tower,movie,"Action, Adventure, Fantasy",5.6,151022.0,2017.0,tm219307,1.0,tous publics,'us'
+tt0079522,Manhattan,movie,"Comedy, Drama, Romance",7.8,151014.0,1979.0,tm74167,1.0,tous publics,'us'
+tt7069210,The Conjuring: The Devil Made Me Do It,movie,"Horror, Mystery, Thriller",6.3,150827.0,2021.0,tm405069,3.0,12,'us'
+tt15789038,Elemental,movie,"Adventure, Animation, Comedy",7.0,150466.0,2023.0,tm912189,1.0,tous publics::(self-applied),'us'
+tt1915581,Magic Mike,movie,"Comedy, Drama, Music",6.1,150267.0,2012.0,tm70092,3.0,tous publics avec avertissement,'us'
+tt0051201,Witness for the Prosecution,movie,"Crime, Drama, Mystery",8.4,149987.0,1957.0,tm122880,1.0,tous publics,'us'
+tt0104952,My Cousin Vinny,movie,"Comedy, Crime",7.6,149954.0,1992.0,tm130960,1.0,tous publics,'us'
+tt0120784,Payback,movie,"Action, Crime, Drama",7.1,149893.0,1999.0,tm47823,3.0,16,'us'
+tt3874544,The Boss Baby,movie,"Adventure, Animation, Comedy",6.3,149791.0,2017.0,tm123331,2.0,tous publics,'us'
+tt0256380,Shallow Hal,movie,"Comedy, Drama, Fantasy",6.0,149680.0,2001.0,tm32302,1.0,tous publics,"'us', 'de'"
+tt4052882,The Shallows,movie,"Drama, Horror, Thriller",6.3,149518.0,2016.0,tm227535,1.0,tous publics::(with warning),'us'
+tt2446980,Joy,movie,"Biography, Drama",6.6,149503.0,2015.0,tm143528,3.0,tous publics,'us'
+tt0815236,She's Out of My League,movie,"Comedy, Romance",6.4,149501.0,2010.0,tm87957,3.0,tous publics,'us'
+tt0097441,Glory,movie,"Biography, Drama, History",7.8,149232.0,1989.0,tm136733,1.0,tous publics,'us'
+tt10676048,The Marvels,movie,"Action, Adventure, Sci-Fi",5.5,149059.0,2023.0,tm833311,1.0,tous publics,'us'
+tt0325703,Lara Croft: Tomb Raider - The Cradle of Life,movie,"Action, Adventure, Fantasy",5.5,148560.0,2003.0,tm146164,1.0,tous publics,"'us', 'de', 'jp', 'gb', 'hk'"
+tt1571234,Mortal Engines,movie,"Action, Adventure, Fantasy",6.1,148206.0,2018.0,tm305414,3.0,tous publics,"'cn', 'jp', 'nz', 'us'"
+tt11271038,Licorice Pizza,movie,"Comedy, Drama, Romance",7.1,148184.0,2021.0,tm864613,3.0,tous publics,"'us', 'ca'"
+tt1549920,The Last Stand,movie,"Action, Thriller, Western",6.3,148159.0,2013.0,tm173038,2.0,tous publics avec avertissement,"'us', 'kr'"
+tt0790736,R.I.P.D.,movie,"Action, Adventure, Comedy",5.6,148079.0,2013.0,tm179772,1.0,tous publics,'us'
+tt0249462,Billy Elliot,movie,"Drama, Music",7.7,148027.0,2000.0,tm21177,2.0,tous publics,"'gb', 'fr'"
+tt0093177,Hellraiser,movie,"Horror, Thriller",6.9,147919.0,1987.0,tm18681,1.0,12,'gb'
+tt1109624,Paddington,movie,"Adventure, Comedy, Family",7.3,147519.0,2014.0,tm140389,1.0,tous publics,"'gb', 'fr'"
+tt3316960,Still Alice,movie,Drama,7.5,147246.0,2014.0,tm149150,1.0,tous publics,"'us', 'gb', 'fr'"
+tt5462602,The Big Sick,movie,"Comedy, Drama, Romance",7.5,147204.0,2017.0,tm263420,1.0,18::(self-applied),'us'
+tt0033563,Dumbo,movie,"Adventure, Animation, Drama",7.2,147201.0,1941.0,tm87946,1.0,tous publics,'us'
+tt0385880,Monster House,movie,"Animation, Comedy, Family",6.7,147151.0,2006.0,tm27268,1.0,tous publics,'us'
+tt9620288,King Richard,movie,"Biography, Drama, Sport",7.5,146886.0,2021.0,tm820276,3.0,tous publics,"'us', 'au'"
+tt0327850,The Rundown,movie,"Action, Adventure, Comedy",6.7,146527.0,2003.0,tm136145,3.0,tous publics,'us'
+tt2177771,The Monuments Men,movie,"Biography, Comedy, Drama",6.1,145761.0,2014.0,tm150041,1.0,tous publics,"'de', 'us'"
+tt17024450,The Equalizer 3,movie,"Action, Crime, Thriller",6.8,145584.0,2023.0,tm1198657,1.0,12,"'us', 'it', 'au'"
+tt1634122,Johnny English Reborn,movie,"Action, Adventure, Comedy",6.3,145563.0,2011.0,tm169399,4.0,tous publics,"'gb', 'fr', 'us'"
+tt0063350,Night of the Living Dead,movie,"Horror, Thriller",7.8,145336.0,1968.0,tm12881,4.0,16::(new rating),'us'
+tt0379725,Capote,movie,"Biography, Crime, Drama",7.3,145335.0,2005.0,tm168017,1.0,tous publics::(with warning),"'us', 'ca'"
+tt0816442,The Book Thief,movie,"Drama, War",7.5,145263.0,2013.0,tm188307,1.0,tous publics,"'de', 'us', 'gb'"
+tt0947810,Green Zone,movie,"Action, Drama, Thriller",6.8,145256.0,2010.0,tm93752,1.0,tous publics,"'gb', 'fr', 'es', 'jp', 'us'"
+tt0095956,Rambo III,movie,"Action, Adventure, Thriller",5.8,145213.0,1988.0,tm43363,2.0,tous publics,'us'
+tt2388715,Oculus,movie,"Horror, Mystery, Thriller",6.5,145172.0,2013.0,tm148836,3.0,12,'us'
+tt0404032,The Exorcism of Emily Rose,movie,"Drama, Horror, Thriller",6.7,144974.0,2005.0,tm180185,2.0,12,'us'
+tt2631186,Baahubali: The Beginning,movie,"Action, Drama",8.0,144843.0,2015.0,tm137002,1.0,tous publics,'in'
+tt0067116,The French Connection,movie,"Action, Crime, Drama",7.7,144817.0,1971.0,tm15462,1.0,tous publics,'us'
+tt0070608,Robin Hood,movie,"Adventure, Animation, Comedy",7.5,144758.0,1973.0,tm186525,1.0,tous publics,'us'
+tt0042192,All About Eve,movie,Drama,8.2,144741.0,1950.0,tm59340,1.0,tous publics,'us'
+tt0106582,Cliffhanger,movie,"Action, Adventure, Thriller",6.5,144661.0,1993.0,tm186589,3.0,tous publics,"'fr', 'it', 'jp', 'us'"
+tt0424095,Flushed Away,movie,"Action, Adventure, Animation",6.6,144550.0,2006.0,tm44491,1.0,tous publics,"'gb', 'us'"
+tt0274558,The Hours,movie,"Drama, Romance",7.5,144283.0,2002.0,tm108290,1.0,tous publics,'us'
+tt0089881,Ran,movie,"Action, Drama, War",8.2,143897.0,1985.0,tm123009,1.0,tous publics,"'jp', 'fr'"
+tt0092644,Beverly Hills Cop II,movie,"Action, Comedy, Crime",6.6,143546.0,1987.0,tm23820,2.0,tous publics,'us'
+tt2305051,Wild,movie,"Adventure, Biography, Drama",7.1,143099.0,2014.0,tm147578,4.0,tous publics avec avertissement,'us'
+tt0424345,Clerks II,movie,Comedy,7.3,142767.0,2006.0,tm42653,1.0,tous publics,'us'
+tt2692250,Night at the Museum: Secret of the Tomb,movie,"Adventure, Comedy, Family",6.2,142764.0,2014.0,tm153184,1.0,tous publics,"'gb', 'us'"
+tt0070511,Papillon,movie,"Biography, Crime, Drama",8.0,142310.0,1973.0,tm186233,1.0,tous publics,"'fr', 'us'"
+tt0325805,Matchstick Men,movie,"Comedy, Crime, Drama",7.3,142168.0,2003.0,tm145132,3.0,tous publics,'us'
+tt1034032,Gamer,movie,"Action, Sci-Fi, Thriller",5.7,141935.0,2009.0,tm132647,2.0,12,'us'
+tt0118617,Anastasia,movie,"Adventure, Animation, Drama",7.1,141845.0,1997.0,tm191392,1.0,tous publics,'us'
+tt8404614,The Two Popes,movie,"Biography, Comedy, Drama",7.6,141753.0,2019.0,tm435520,1.0,13::(self-applied),"'gb', 'it', 'ar', 'us'"
+tt0918927,Doubt,movie,"Drama, Mystery",7.5,141722.0,2008.0,tm54146,5.0,tous publics,'us'
+tt0230011,Atlantis: The Lost Empire,movie,"Action, Adventure, Animation",6.9,141447.0,2001.0,tm29915,1.0,tous publics,"'us', 'jp'"
+tt0012349,The Kid,movie,"Comedy, Drama, Family",8.2,141207.0,1921.0,tm122846,1.0,tous publics,'us'
+tt0075005,The Omen,movie,"Horror, Mystery",7.5,141171.0,1976.0,tm87075,1.0,12::(new rating),"'gb', 'us'"
+tt1538403,The Mortal Instruments: City of Bones,movie,"Action, Adventure, Fantasy",5.8,141094.0,2013.0,tm162926,2.0,tous publics avec avertissement,"'us', 'de', 'ca', 'gb'"
+tt9495224,Black Mirror: Bandersnatch,movie,"Drama, Fantasy, Mystery",7.1,141087.0,2018.0,tm449070,1.0,16,"'gb', 'us'"
+tt0133240,Treasure Planet,movie,"Adventure, Animation, Family",7.2,141073.0,2002.0,tm103874,1.0,tous publics,'us'
+tt0758730,Aliens vs. Predator: Requiem,movie,"Action, Horror, Sci-Fi",4.6,140869.0,2007.0,tm78162,1.0,12,'us'
+tt14948432,Red One,movie,"Action, Adventure, Comedy",6.3,140844.0,2024.0,tm1200268,1.0,16::(streaming rating),"'us', 'ca'"
+tt0111070,The Santa Clause,movie,"Comedy, Drama, Family",6.6,140823.0,1994.0,tm115014,1.0,tous publics,"'us', 'ca'"
+tt1205537,Jack Ryan: Shadow Recruit,movie,"Action, Drama, Thriller",6.2,140679.0,2014.0,tm160438,3.0,tous publics,"'us', 'ru', 'gb'"
+tt5758778,Skyscraper,movie,"Action, Adventure, Thriller",5.8,140304.0,2018.0,tm312879,2.0,tous publics,'us'
+tt1234548,The Men Who Stare at Goats,movie,"Comedy, War",6.2,139917.0,2009.0,tm147211,2.0,tous publics,"'us', 'gb'"
+tt5649144,The Florida Project,movie,Drama,7.6,139880.0,2017.0,tm266676,4.0,tous publics,'us'
+tt0251075,Evolution,movie,"Comedy, Sci-Fi",6.1,139541.0,2001.0,tm37483,1.0,tous publics,'us'
+tt0468492,The Host,movie,"Drama, Horror, Sci-Fi",7.1,138588.0,2006.0,tm28886,3.0,tous publics avec avertissement,"'kr', 'jp'"
+tt0453451,Mr. Bean's Holiday,movie,"Comedy, Family",6.4,138314.0,2007.0,tm78919,4.0,tous publics,"'gb', 'fr', 'de', 'us'"
+tt4651520,Bad Moms,movie,Comedy,6.2,138283.0,2016.0,tm233156,2.0,tous publics,"'us', 'cn'"
+tt1448755,Killer Elite,movie,"Action, Crime, Thriller",6.4,138187.0,2011.0,tm167879,2.0,tous publics avec avertissement,"'gb', 'au', 'us', 'jo', 'ma'"
+tt1860213,Dirty Grandpa,movie,Comedy,5.9,138103.0,2016.0,tm141022,1.0,tous publics::(with warning),"'us', 'gb'"
+tt17663992,Scream VI,movie,"Horror, Mystery, Thriller",6.4,138019.0,2023.0,tm1188520,1.0,12,"'us', 'ca', 'gb'"
+tt3967856,Okja,movie,"Action, Adventure, Drama",7.3,137683.0,2017.0,tm244174,1.0,13::(self-applied),"'kr', 'us'"
+tt4034354,Swiss Army Man,movie,"Comedy, Drama, Fantasy",6.9,137535.0,2016.0,tm233028,1.0,13::(self-applied),'us'
+tt1038919,The Bounty Hunter,movie,"Action, Comedy, Romance",5.5,137307.0,2010.0,tm95186,1.0,tous publics,'us'
+tt0074486,Eraserhead,movie,"Fantasy, Horror",7.3,137151.0,1977.0,tm92249,4.0,16,'us'
+tt1482459,The Lorax,movie,"Adventure, Animation, Comedy",6.4,137053.0,2012.0,tm49674,1.0,tous publics,"'us', 'fr'"
+tt1489887,Booksmart,movie,Comedy,7.1,136569.0,2019.0,tm460712,1.0,13::(self-applied),'us'
+tt3606752,Cars 3,movie,"Adventure, Animation, Comedy",6.7,136523.0,2017.0,tm227992,1.0,tous publics,"'us', 'jp'"
+tt0120890,Wild Things,movie,"Crime, Drama, Mystery",6.6,136373.0,1998.0,tm54903,1.0,16,'us'
+tt0060827,Persona,movie,"Drama, Thriller",8.0,136209.0,1966.0,tm68506,1.0,tous publics,'se'
+tt2312718,Homefront,movie,"Action, Crime, Thriller",6.5,136208.0,2013.0,tm188116,1.0,tous publics::(with warning),'us'
+tt3748172,Gerald's Game,movie,"Drama, Horror, Thriller",6.5,136187.0,2017.0,tm266666,1.0,16::(self-applied),'us'
+tt0120657,The 13th Warrior,movie,"Action, Adventure, History",6.6,135971.0,1999.0,tm873,1.0,tous publics,'us'
+tt1616195,J. Edgar,movie,"Biography, Drama, Romance",6.5,135817.0,2011.0,tm178303,2.0,tous publics,'us'
+tt2265171,The Raid 2,movie,"Action, Crime, Thriller",7.9,135782.0,2014.0,tm143360,1.0,16 avec avertissement,"'id', 'us', 'my'"
+tt1067106,A Christmas Carol,movie,"Adventure, Animation, Comedy",6.8,135686.0,2009.0,tm130738,1.0,tous publics,'us'
+tt0096446,Willow,movie,"Action, Adventure, Drama",7.2,135579.0,1988.0,tm47587,1.0,tous publics,'us'
+tt1298649,The Watch,movie,"Comedy, Sci-Fi",5.7,135372.0,2012.0,tm62478,1.0,tous publics avec avertissement,"'us', 'gb'"
+tt1937390,Nymphomaniac: Vol. I,movie,Drama,6.9,135297.0,2013.0,tm165397,1.0,12,"'dk', 'de', 'be', 'gb', 'fr', 'se', 'us'"
+tt0373883,Halloween,movie,Horror,6.0,135053.0,2007.0,tm79895,1.0,16,'us'
+tt0117731,Star Trek: First Contact,movie,"Action, Adventure, Drama",7.6,135045.0,1996.0,tm113286,3.0,tous publics,'us'
+tt0338564,Infernal Affairs,movie,"Crime, Drama, Mystery",8.0,134862.0,2002.0,tm108648,2.0,12,'hk'
+tt7979580,The Mitchells vs. the Machines,movie,"Adventure, Animation, Comedy",7.6,134788.0,2021.0,tm370144,1.0,7::(self-applied),"'hk', 'ca', 'us'"
+tt1528854,Daddy's Home,movie,"Comedy, Family",6.2,134740.0,2015.0,tm136504,1.0,tous publics,'us'
+tt0245574,Y tu mamá también,movie,Drama,7.7,134597.0,2001.0,tm34019,1.0,12,'mx'
+tt0084827,Tron,movie,"Action, Adventure, Sci-Fi",6.7,134360.0,1982.0,tm46793,1.0,tous publics,"'us', 'tw', 'jp', 'gb'"
+tt7160372,The Zone of Interest,movie,"Drama, History, War",7.3,134178.0,2023.0,tm327806,2.0,tous publics,"'gb', 'pl', 'us'"
+tt1979388,The Good Dinosaur,movie,"Action, Adventure, Animation",6.7,133922.0,2015.0,tm141414,1.0,tous publics,"'us', 'jp'"
+tt0362120,Scary Movie 4,movie,Comedy,5.1,133899.0,2006.0,tm24088,1.0,tous publics,'us'
+tt14138650,The Pale Blue Eye,movie,"Crime, Horror, Mystery",6.6,133274.0,2022.0,tm1174318,1.0,16::(self-applied),'us'
+tt0267913,Scooby-Doo,movie,"Adventure, Comedy, Family",5.3,132813.0,2002.0,tm115688,3.0,tous publics,"'us', 'au'"
+tt0119303,Home Alone 3,movie,"Action, Comedy, Crime",4.6,132788.0,1997.0,tm192747,1.0,tous publics,'us'
+tt0084726,Star Trek II: The Wrath of Khan,movie,"Action, Adventure, Sci-Fi",7.7,132721.0,1982.0,tm44304,4.0,tous publics,'us'
+tt0449010,Eragon,movie,"Action, Adventure, Family",5.1,132649.0,2006.0,tm35085,1.0,tous publics,"'gb', 'hu', 'us'"
+tt0190138,The Whole Nine Yards,movie,"Comedy, Crime",6.7,132614.0,2000.0,tm18293,1.0,tous publics,'us'
+tt3846674,To All the Boys I've Loved Before,movie,"Comedy, Drama, Romance",7.0,132613.0,2018.0,tm410435,1.0,7::(self-applied),'us'
+tt1135503,Julie & Julia,movie,"Biography, Drama, Romance",7.0,132489.0,2009.0,tm155309,1.0,tous publics,'us'
+tt0101410,Barton Fink,movie,"Comedy, Drama, Thriller",7.6,132486.0,1991.0,tm8820,1.0,tous publics,"'gb', 'us'"
+tt1911644,The Call,movie,"Drama, Horror, Thriller",6.7,132349.0,2013.0,tm171042,1.0,12,'us'
+tt0480025,This Is England,movie,"Crime, Drama",7.7,132278.0,2006.0,tm80821,2.0,16::(recommended rating),'gb'
+tt14230388,Asteroid City,movie,"Comedy, Drama, Romance",6.4,132253.0,2023.0,tm1187540,2.0,tous publics,'us'
+tt0467197,Max Payne,movie,"Action, Crime, Drama",5.3,132186.0,2008.0,tm50009,1.0,12,"'us', 'ca'"
+tt0455824,Australia,movie,"Adventure, Drama, Romance",6.6,132086.0,2008.0,tm40566,1.0,tous publics,"'gb', 'au', 'us'"
+tt0114388,Sense and Sensibility,movie,"Drama, Romance",7.7,131622.0,1995.0,tm15925,1.0,tous publics,"'gb', 'us'"
+tt5638642,The Ritual,movie,"Horror, Mystery, Thriller",6.4,131615.0,2017.0,tm287684,1.0,16,"'gb', 'ca'"
+tt22687790,A Haunting in Venice,movie,"Crime, Drama, Horror",6.5,131576.0,2023.0,tm1273616,2.0,tous publics avec avertissement,'us'
+tt0087884,"Paris, Texas",movie,Drama,8.1,131491.0,1984.0,tm174079,3.0,tous publics,"'xwg', 'fr', 'gb'"
+tt0074119,All the President's Men,movie,"Drama, History, Thriller",7.9,131192.0,1976.0,tm84964,2.0,tous publics,'us'
+tt4501244,Why Him?,movie,Comedy,6.2,131057.0,2016.0,tm229239,1.0,tous publics,'us'
+tt0071360,The Conversation,movie,"Drama, Mystery, Thriller",7.7,130917.0,1974.0,tm110158,1.0,tous publics,'us'
+tt0216216,The 6th Day,movie,"Action, Mystery, Sci-Fi",5.9,130880.0,2000.0,tm25166,1.0,tous publics,'us'
+tt10298810,Lightyear,movie,"Action, Adventure, Animation",6.1,130807.0,2022.0,tm912188,1.0,tous publics,"'us', 'ca'"
+tt7599146,Sound of Freedom,movie,"Biography, Crime, Drama",7.6,130793.0,2023.0,tm512536,1.0,tous publics,"'mx', 'us'"
+tt1389072,Downsizing,movie,"Drama, Fantasy, Sci-Fi",5.8,130643.0,2017.0,tm204157,1.0,tous publics,"'us', 'no'"
+tt5164432,"Love, Simon",movie,"Comedy, Drama, Romance",7.5,130615.0,2018.0,tm316375,3.0,tous publics,'us'
+tt1854564,Percy Jackson: Sea of Monsters,movie,"Adventure, Family, Fantasy",5.7,130566.0,2013.0,tm179573,1.0,tous publics,"'us', 'ca'"
+tt1000774,Sex and the City,movie,"Comedy, Drama, Romance",5.7,130524.0,2008.0,tm36583,2.0,tous publics avec avertissement,'us'
+tt0112740,Crimson Tide,movie,"Action, Drama, Thriller",7.4,130474.0,1995.0,tm12631,1.0,tous publics,'us'
+tt0328880,Brother Bear,movie,"Adventure, Animation, Comedy",6.9,130471.0,2003.0,tm140670,1.0,tous publics,"'us', 'jp'"
+tt1071875,Ghost Rider: Spirit of Vengeance,movie,"Action, Fantasy, Thriller",4.3,130395.0,2011.0,tm176661,1.0,tous publics avec avertissement,"'ae', 'us'"
+tt1355630,If I Stay,movie,"Drama, Fantasy, Music",6.7,129993.0,2014.0,tm144713,1.0,tous publics,'us'
+tt0365907,A Walk Among the Tombstones,movie,"Action, Crime, Drama",6.5,129893.0,2014.0,tm148671,1.0,12,'us'
+tt1590193,The Commuter,movie,"Action, Mystery, Thriller",6.3,129504.0,2018.0,tm244210,1.0,tous publics avec avertissement,"'us', 'gb', 'fr', 'cn', 'ca', 'es'"
+tt0056801,8½,movie,Drama,8.0,129299.0,1963.0,tm660,2.0,tous publics,"'it', 'fr'"
+tt0327554,Catwoman,movie,"Action, Crime, Fantasy",3.4,129207.0,2004.0,tm96586,3.0,tous publics,'us'
+tt0317198,Bridget Jones: The Edge of Reason,movie,"Comedy, Drama, Romance",6.0,129204.0,2004.0,tm85794,2.0,tous publics,"'ie', 'gb', 'fr', 'us'"
+tt0119395,The Jackal,movie,"Action, Crime, Drama",6.4,128953.0,1997.0,tm192722,2.0,tous publics,"'gb', 'fr', 'de', 'jp', 'us'"
+tt0146838,Any Given Sunday,movie,"Drama, Sport",6.9,128709.0,1999.0,tm53419,2.0,tous publics,'us'
+tt0164184,The Sum of All Fears,movie,"Action, Drama, Thriller",6.5,128599.0,2002.0,tm114273,2.0,tous publics,"'us', 'de', 'ca'"
+tt0082010,An American Werewolf in London,movie,"Comedy, Horror",7.5,128566.0,1981.0,tm123492,2.0,12::(new rating),"'gb', 'us'"
+tt0435651,The Giver,movie,"Drama, Romance, Sci-Fi",6.4,128511.0,2014.0,tm153284,1.0,tous publics,"'ca', 'za', 'us'"
+tt0203019,Men of Honor,movie,"Biography, Drama",7.2,128499.0,2000.0,tm18850,1.0,tous publics,'us'
+tt0256415,Sweet Home Alabama,movie,"Comedy, Romance",6.2,128344.0,2002.0,tm111540,1.0,tous publics,'us'
+tt0817230,Valentine's Day,movie,"Comedy, Romance",5.8,127859.0,2010.0,tm99238,4.0,tous publics,'us'
+tt1025100,Gemini Man,movie,"Action, Sci-Fi, Thriller",5.7,127799.0,2019.0,tm319828,1.0,tous publics,"'us', 'cn', 'co'"
+tt7401588,Instant Family,movie,"Comedy, Drama",7.3,127593.0,2018.0,tm362169,1.0,tous publics,'us'
+tt8503618,Hamilton,movie,"Biography, Drama, History",8.3,127579.0,2020.0,tm439596,1.0,12,'us'
+tt0430357,Miami Vice,movie,"Action, Crime, Drama",6.1,127470.0,2006.0,tm24918,2.0,tous publics,"'us', 'de', 'py', 'uy'"
+tt0422720,Marie Antoinette,movie,"Biography, Drama, History",6.5,127372.0,2006.0,tm36266,2.0,tous publics,"'fr', 'jp', 'us'"
+tt0102510,The Naked Gun 2½: The Smell of Fear,movie,"Comedy, Crime",6.9,127329.0,1991.0,tm8123,3.0,tous publics,'us'
+tt1981128,Geostorm,movie,"Action, Sci-Fi, Thriller",5.3,127212.0,2017.0,tm120595,1.0,tous publics,"'us', 'hk', 'jp', 'ae'"
+tt0137494,Entrapment,movie,"Action, Crime, Romance",6.3,127025.0,1999.0,tm57265,2.0,tous publics,"'gb', 'de', 'us'"
+tt0822847,Priest,movie,"Action, Fantasy, Horror",5.7,126701.0,2011.0,tm166662,1.0,tous publics avec avertissement,'us'
+tt0064665,Midnight Cowboy,movie,Drama,7.8,126677.0,1969.0,tm73142,1.0,12,'us'
+tt1408253,Ride Along,movie,"Action, Comedy, Crime",6.1,126639.0,2014.0,tm134383,1.0,tous publics,'us'
+tt9243804,The Green Knight,movie,"Adventure, Drama, Fantasy",6.6,126115.0,2021.0,tm852712,1.0,7,"'us', 'ca', 'ie'"
+tt4777008,Maleficent: Mistress of Evil,movie,"Adventure, Drama, Family",6.6,126056.0,2019.0,tm423725,1.0,tous publics,"'gb', 'ca', 'us', 'fr'"
+tt0085794,The King of Comedy,movie,"Comedy, Crime, Drama",7.8,126054.0,1982.0,tm49873,2.0,tous publics,'us'
+tt0031679,Mr. Smith Goes to Washington,movie,"Comedy, Drama",8.1,125999.0,1939.0,tm154590,2.0,tous publics,'us'
+tt2139881,Long Shot,movie,"Comedy, Romance",6.8,125713.0,2019.0,tm361275,1.0,tous publics,"'us', 'ca', 'co'"
+tt0094862,Child's Play,movie,"Horror, Thriller",6.7,125004.0,1988.0,tm60248,2.0,12::(new rating),'us'
+tt0200550,Coyote Ugly,movie,"Comedy, Drama, Music",5.8,124884.0,2000.0,tm23573,1.0,tous publics,'us'
+tt0061418,Bonnie and Clyde,movie,"Action, Biography, Crime",7.7,124775.0,1967.0,tm119281,2.0,tous publics,'us'
+tt0055614,West Side Story,movie,"Crime, Drama, Musical",7.6,124771.0,1961.0,tm49355,1.0,tous publics,'us'
+tt0105112,Patriot Games,movie,"Action, Thriller",6.9,124766.0,1992.0,tm126020,3.0,tous publics,'us'
+tt8721424,"tick, tick... BOOM!",movie,"Biography, Comedy, Drama",7.5,124713.0,2021.0,tm979026,1.0,13::(self-applied),'us'
+tt0068473,Deliverance,movie,"Adventure, Drama, Thriller",7.6,124475.0,1972.0,tm154986,1.0,12,'us'
+tt1179034,From Paris with Love,movie,"Action, Crime, Thriller",6.4,124234.0,2010.0,tm100704,1.0,tous publics avec avertissement,"'fr', 'gb', 'us'"
+tt6048922,Greyhound,movie,"Drama, History, War",7.0,124169.0,2020.0,tm408218,2.0,tous publics,"'us', 'ca', 'cn'"
+tt0070379,Mean Streets,movie,"Crime, Drama, Thriller",7.2,124104.0,1973.0,tm189991,1.0,16,'us'
+tt0421073,Street Kings,movie,"Action, Crime, Thriller",6.8,123917.0,2008.0,tm46638,1.0,12,'us'
+tt3195644,Insidious: Chapter 3,movie,"Horror, Mystery, Thriller",6.1,123773.0,2015.0,tm135107,3.0,12,"'gb', 'ca', 'us'"
+tt11233960,The Unforgivable,movie,"Crime, Drama, Mystery",7.1,123769.0,2021.0,tm1092864,1.0,13::(self-applied),"'gb', 'de', 'us'"
+tt0467200,The Other Boleyn Girl,movie,"Biography, Drama, History",6.7,123701.0,2008.0,tm31187,1.0,tous publics,"'gb', 'us'"
+tt4849438,Baahubali 2: The Conclusion,movie,"Action, Drama",8.2,123533.0,2017.0,tm221953,1.0,tous publics,'in'
+tt0970866,Little Fockers,movie,"Comedy, Romance",5.5,123037.0,2010.0,tm104521,3.0,tous publics,'us'
+tt2870612,"As Above, So Below",movie,"Horror, Mystery, Thriller",6.3,122779.0,2014.0,tm160768,2.0,12,"'us', 'fr'"
+tt15325794,Fall,movie,"Action, Thriller",6.4,122588.0,2022.0,tm1221988,1.0,12,"'gb', 'us'"
+tt1067583,Water for Elephants,movie,"Drama, Romance",6.9,122427.0,2011.0,tm167853,1.0,tous publics,"'us', 'gb'"
+tt1142977,Frankenweenie,movie,"Animation, Comedy, Drama",6.9,122115.0,2012.0,tm63238,1.0,tous publics,"'us', 'gb'"
+tt0348836,Gothika,movie,"Horror, Mystery, Thriller",5.8,122110.0,2003.0,tm139717,1.0,12,'us'
+tt0366627,The Jacket,movie,"Drama, Fantasy, Mystery",7.1,122057.0,2005.0,tm173180,1.0,12,"'de', 'us'"
+tt0758746,Friday the 13th,movie,"Horror, Mystery, Thriller",5.5,121955.0,2009.0,tm141390,3.0,12 avec avertissement,'us'
+tt5090568,Transformers: Rise of the Beasts,movie,"Action, Adventure, Sci-Fi",6.0,121889.0,2023.0,tm952314,1.0,tous publics,"'us', 'ca', 'gb', 'nz', 'hu', 'pe', 'cn'"
+tt2304933,The 5th Wave,movie,"Action, Adventure, Sci-Fi",5.2,121864.0,2016.0,tm1837,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt2671706,Fences,movie,Drama,7.2,121788.0,2016.0,tm245764,2.0,tous publics,"'us', 'ca'"
+tt0425123,Just Like Heaven,movie,"Comedy, Drama, Fantasy",6.7,121749.0,2005.0,tm169949,5.0,tous publics,'us'
+tt1307068,Seeking a Friend for the End of the World,movie,"Adventure, Comedy, Drama",6.7,121391.0,2012.0,tm69276,2.0,tous publics,'us'
+tt0116213,Eraser,movie,"Action, Crime, Thriller",6.2,121353.0,1996.0,tm111163,1.0,tous publics avec avertissement,'us'
+tt0115433,101 Dalmatians,movie,"Adventure, Comedy, Crime",5.8,121167.0,1996.0,tm1695,1.0,tous publics,"'us', 'gb'"
+tt0095647,Mississippi Burning,movie,"Crime, Drama, Mystery",7.8,120974.0,1988.0,tm40102,1.0,tous publics,'us'
+tt0406375,Zathura: A Space Adventure,movie,"Action, Adventure, Comedy",6.3,120941.0,2005.0,tm181571,4.0,tous publics,'us'
+tt4495098,Gran Turismo,movie,"Action, Adventure, Drama",7.1,120805.0,2023.0,tm1226692,1.0,tous publics,"'jp', 'us'"
+tt5323662,A Silent Voice: The Movie,movie,"Animation, Drama",8.1,120668.0,2016.0,tm233425,1.0,tous publics avec avertissement,'jp'
+tt0168629,Dancer in the Dark,movie,"Crime, Drama, Musical",7.9,120665.0,2000.0,tm25815,2.0,tous publics avec avertissement,"'dk', 'de', 'nl', 'it', 'us', 'gb', 'fr', 'se', 'fi', 'is', 'no'"
+tt1488589,Guillermo del Toro's Pinocchio,movie,"Adventure, Animation, Drama",7.6,120549.0,2022.0,tm438816,1.0,7::(self-applied),"'us', 'mx', 'fr'"
+tt0050986,Wild Strawberries,movie,"Drama, Romance",8.1,120486.0,1957.0,tm119834,3.0,tous publics,'se'
+tt0368008,The Manchurian Candidate,movie,"Drama, Mystery, Sci-Fi",6.6,120481.0,2004.0,tm80680,3.0,tous publics,'us'
+tt0096969,Born on the Fourth of July,movie,"Biography, Drama, War",7.2,120384.0,1989.0,tm140059,2.0,tous publics avec avertissement,'us'
+tt1985966,Cloudy with a Chance of Meatballs 2,movie,"Adventure, Animation, Comedy",6.3,120375.0,2013.0,tm187979,2.0,tous publics,"'us', 'ca'"
+tt0114924,While You Were Sleeping,movie,"Comedy, Drama, Romance",6.8,120328.0,1995.0,tm7861,1.0,tous publics,'us'
+tt0384806,The Amityville Horror,movie,Horror,5.9,120314.0,2005.0,tm184573,1.0,12 avec avertissement,'us'
+tt1315981,A Single Man,movie,"Drama, Romance, Thriller",7.5,120239.0,2009.0,tm132107,1.0,tous publics,'us'
+tt0065421,The Aristocats,movie,"Adventure, Animation, Comedy",7.1,120164.0,1970.0,tm102135,1.0,tous publics,'us'
+tt0901476,Bride Wars,movie,"Comedy, Romance",5.5,119462.0,2009.0,tm147357,1.0,tous publics,'us'
+tt0367959,Hannibal Rising,movie,"Adventure, Crime, Drama",6.1,119152.0,2007.0,tm85270,2.0,12,"'cz', 'gb', 'fr', 'it', 'us'"
+tt1702439,Safe Haven,movie,"Drama, Romance, Thriller",6.7,119083.0,2013.0,tm167488,1.0,tous publics,'us'
+tt0081573,Superman II,movie,"Action, Adventure, Sci-Fi",6.8,119047.0,1980.0,tm127965,3.0,tous publics,"'gb', 'us'"
+tt0013442,Nosferatu: A Symphony of Horror,movie,"Fantasy, Horror",7.8,118925.0,1922.0,tm85393,3.0,tous publics,'de'
+tt0084805,Tootsie,movie,"Comedy, Drama, Romance",7.4,118745.0,1982.0,tm45681,2.0,tous publics,'us'
+tt1063669,The Wave,movie,"Drama, Thriller",7.6,118594.0,2008.0,tm39805,2.0,tous publics,"'de', 'fr'"
+tt0107206,In the Line of Fire,movie,"Action, Crime, Drama",7.2,118543.0,1993.0,tm187791,1.0,tous publics avec avertissement,'us'
+tt1078940,Couples Retreat,movie,Comedy,5.5,118490.0,2009.0,tm153838,3.0,tous publics,'us'
+tt1131729,The Boat That Rocked,movie,"Comedy, Drama, Music",7.3,118350.0,2009.0,tm145200,4.0,tous publics,"'gb', 'fr', 'de', 'us'"
+tt1860353,Turbo,movie,"Adventure, Animation, Comedy",6.4,118219.0,2013.0,tm177357,1.0,tous publics,"'us', 'in'"
+tt0106611,Cool Runnings,movie,"Adventure, Comedy, Family",7.0,117994.0,1993.0,tm190696,1.0,tous publics,'us'
+tt0436697,The Queen,movie,"Biography, Drama",7.3,117740.0,2006.0,tm35198,4.0,tous publics,"'gb', 'us', 'fr', 'it'"
+tt0098439,Tango & Cash,movie,"Action, Comedy, Crime",6.4,117483.0,1989.0,tm142345,2.0,tous publics,'us'
+tt2548396,The Cloverfield Paradox,movie,"Horror, Sci-Fi, Thriller",5.5,117184.0,2018.0,tm239286,1.0,16::(netflix self-rating),'us'
+tt0119164,The Full Monty,movie,"Comedy, Drama",7.2,117091.0,1997.0,tm191752,1.0,tous publics,"'gb', 'us'"
+tt0106220,Addams Family Values,movie,"Comedy, Fantasy",6.8,117059.0,1993.0,tm189018,3.0,tous publics,'us'
+tt0099700,Gremlins 2: The New Batch,movie,"Comedy, Fantasy, Horror",6.4,117050.0,1990.0,tm154233,2.0,tous publics,'us'
+tt3717490,Power Rangers,movie,"Action, Adventure, Fantasy",5.9,116958.0,2017.0,tm123152,2.0,tous publics,"'us', 'hk', 'jp', 'ca', 'nz'"
+tt0396555,Meet the Robinsons,movie,"Adventure, Animation, Comedy",6.8,116901.0,2007.0,tm68147,1.0,tous publics,'us'
+tt1682180,Stoker,movie,"Drama, Thriller",6.7,116878.0,2013.0,tm179765,1.0,12 avec avertissement,"'gb', 'us'"
+tt4465564,Fifty Shades Darker,movie,"Drama, Mystery, Romance",4.6,116855.0,2017.0,tm209407,3.0,12,"'us', 'cn', 'jp'"
+tt0025316,It Happened One Night,movie,"Comedy, Romance",8.1,116803.0,1934.0,tm105201,2.0,tous publics::(dvd rating),'us'
+tt3811906,Malignant,movie,"Crime, Horror, Mystery",6.2,116767.0,2021.0,tm826359,3.0,12 avec avertissement,"'us', 'cn'"
+tt0086567,WarGames,movie,"Action, Drama, Sci-Fi",7.1,116744.0,1983.0,tm60183,1.0,tous publics,'us'
+tt0790686,Mirrors,movie,"Horror, Mystery",6.1,116733.0,2008.0,tm57625,1.0,12,"'us', 'ro', 'de', 'fr'"
+tt0110622,Naked Gun 33 1/3: The Final Insult,movie,"Comedy, Crime",6.5,116521.0,1994.0,tm112513,3.0,tous publics,'us'
+tt2224026,Home,movie,"Adventure, Animation, Comedy",6.5,116467.0,2015.0,tm132273,1.0,tous publics,"'us', 'in'"
+tt0088930,Clue,movie,"Comedy, Crime, Mystery",7.3,116368.0,1985.0,tm126571,3.0,tous publics,'us'
+tt0247745,Super Troopers,movie,"Comedy, Crime, Mystery",7.0,116159.0,2001.0,tm33358,1.0,tous publics avec avertissement,'us'
+tt9071322,Dark Waters,movie,"Biography, Drama, History",7.6,115722.0,2019.0,tm826673,2.0,tous publics,'us'
+tt4225622,The Babysitter,movie,"Comedy, Horror",6.4,115642.0,2017.0,tm280828,1.0,16::(self-applied),'us'
+tt6911608,Mamma Mia! Here We Go Again,movie,"Comedy, Musical, Romance",6.6,115592.0,2018.0,tm322760,1.0,tous publics,"'gb', 'us', 'jp', 'cn', 'hr'"
+tt0080120,The Warriors,movie,"Action, Crime, Thriller",7.5,115567.0,1979.0,tm73475,1.0,12::(new rating),'us'
+tt0390521,Super Size Me,movie,Documentary,7.2,115513.0,2004.0,tm87000,1.0,tous publics,"'us', 'bg'"
+tt0338337,Paycheck,movie,"Action, Mystery, Sci-Fi",6.3,115434.0,2003.0,tm129271,3.0,tous publics,"'us', 'ca'"
+tt0230030,Bedazzled,movie,"Comedy, Fantasy",6.1,115431.0,2000.0,tm24114,1.0,tous publics,"'de', 'us'"
+tt1206885,Rambo: Last Blood,movie,"Action, Crime, Thriller",6.1,115366.0,2019.0,tm414584,1.0,12 avec avertissement,"'us', 'hk', 'fr', 'bg', 'es', 'se', 'pt'"
+tt4731136,A Cure for Wellness,movie,"Drama, Fantasy, Horror",6.4,115285.0,2016.0,tm209410,2.0,12,"'de', 'lu', 'us'"
+tt1853739,You're Next,movie,"Drama, Horror, Mystery",6.6,115221.0,2011.0,tm174452,2.0,16,"'us', 'gb'"
+tt1007029,The Iron Lady,movie,"Biography, Drama",6.4,115220.0,2011.0,tm177990,3.0,tous publics,"'gb', 'fr'"
+tt0108394,Three Colors: Blue,movie,"Drama, Music, Mystery",7.8,115182.0,1993.0,tm186297,2.0,tous publics,"'fr', 'pl', 'ch'"
+tt1433108,Faster,movie,"Action, Crime, Drama",6.4,115062.0,2010.0,tm103390,1.0,12,'us'
+tt0313542,Runaway Jury,movie,"Crime, Drama, Thriller",7.1,115044.0,2003.0,tm136858,3.0,tous publics,'us'
+tt0861739,Elite Squad,movie,"Action, Crime, Drama",8.0,115022.0,2007.0,tm85041,1.0,16,"'br', 'ar'"
+tt1226837,Beautiful Boy,movie,"Biography, Drama",7.4,114573.0,2018.0,tm373034,1.0,tous publics avec avertissement,'us'
+tt19770238,Aftersun,movie,Drama,7.6,114516.0,2022.0,tm1268039,2.0,tous publics,"'gb', 'us', 'tr', 'ph', 'nl'"
+tt0870111,Frost/Nixon,movie,"Biography, Drama, History",7.6,114504.0,2008.0,tm42923,2.0,tous publics,"'us', 'gb', 'fr'"
+tt8385148,Hitman's Wife's Bodyguard,movie,"Action, Comedy, Crime",6.1,114450.0,2021.0,tm1063493,2.0,tous publics avec avertissement,"'gb', 'us', 'se', 'bg', 'fr'"
+tt4364194,The Peanut Butter Falcon,movie,"Adventure, Comedy, Drama",7.6,114005.0,2019.0,tm449500,2.0,tous publics,'us'
+tt0111495,Three Colors: Red,movie,"Drama, Mystery, Romance",8.1,113837.0,1994.0,tm117953,2.0,tous publics,"'fr', 'ch', 'pl'"
+tt0118689,Bean,movie,"Adventure, Comedy, Family",6.5,113791.0,1997.0,tm192447,2.0,tous publics,"'gb', 'us'"
+tt1029234,Martyrs,movie,Horror,7.0,113748.0,2008.0,tm50176,1.0,16 avec avertissement,"'fr', 'ca'"
+tt0462504,Rescue Dawn,movie,"Adventure, Biography, War",7.2,113693.0,2006.0,tm27007,2.0,tous publics,"'lu', 'us'"
+tt1478964,Attack the Block,movie,"Action, Adventure, Comedy",6.7,113677.0,2011.0,tm182230,2.0,tous publics,"'gb', 'fr'"
+tt0105417,Sister Act,movie,"Comedy, Family, Music",6.5,113621.0,1992.0,tm124857,1.0,tous publics,'us'
+tt0138749,The Road to El Dorado,movie,"Adventure, Animation, Comedy",6.9,113592.0,2000.0,tm24888,1.0,tous publics,"'us', 'ca', 'fr'"
+tt0427152,Dinner for Schmucks,movie,Comedy,5.9,113559.0,2010.0,tm89581,3.0,tous publics,'us'
+tt1073498,Meet the Spartans,movie,"Comedy, Fantasy",2.8,113559.0,2008.0,tm29998,1.0,tous publics,'us'
+tt0105665,Twin Peaks: Fire Walk with Me,movie,"Drama, Horror, Mystery",7.3,112770.0,1992.0,tm126913,3.0,12,"'fr', 'us'"
+tt1536044,Paranormal Activity 2,movie,"Horror, Mystery",5.7,112704.0,2010.0,tm99840,3.0,tous publics::(with warning),'us'
+tt4589218,Five Nights at Freddy's,movie,"Horror, Mystery, Thriller",5.4,112696.0,2023.0,tm428148,1.0,12,'us'
+tt0373926,The Interpreter,movie,"Crime, Mystery, Thriller",6.4,112521.0,2005.0,tm173066,2.0,tous publics,"'gb', 'fr', 'de', 'us'"
+tt0120902,The X Files,movie,"Drama, Mystery, Sci-Fi",7.0,112483.0,1998.0,tm61554,1.0,tous publics,'us'
+tt0349205,Cheaper by the Dozen,movie,"Comedy, Family",5.9,112470.0,2003.0,tm137900,1.0,tous publics,'us'
+tt1675192,Take Shelter,movie,"Drama, Thriller",7.3,112438.0,2011.0,tm174868,1.0,tous publics avec avertissement,'us'
+tt0109444,Clear and Present Danger,movie,"Action, Crime, Drama",6.9,112406.0,1994.0,tm119004,4.0,tous publics,"'us', 'ca'"
+tt0848537,Epic,movie,"Action, Adventure, Animation",6.6,112270.0,2013.0,tm166170,1.0,tous publics,"'us', 'gb'"
+tt1714915,Only Lovers Left Alive,movie,"Comedy, Drama, Fantasy",7.2,111867.0,2013.0,tm159241,3.0,tous publics,"'gb', 'de', 'gr', 'fr'"
+tt0076786,Suspiria,movie,Horror,7.3,111853.0,1977.0,tm91241,2.0,16,'it'
+tt0298814,The Core,movie,"Action, Adventure, Sci-Fi",5.5,111364.0,2003.0,tm130860,1.0,tous publics,"'us', 'fr', 'gb', 'it'"
+tt0118887,Cop Land,movie,"Crime, Drama, Thriller",7.0,111347.0,1997.0,tm191862,3.0,tous publics,'us'
+tt1568921,The Secret World of Arrietty,movie,"Adventure, Animation, Drama",7.6,111282.0,2010.0,tm102394,1.0,tous publics,'jp'
+tt0386140,The Legend of Zorro,movie,"Action, Adventure, Romance",6.0,111281.0,2005.0,tm185635,1.0,tous publics,'us'
+tt0066206,Patton,movie,"Biography, Drama, War",7.9,111239.0,1970.0,tm99906,4.0,tous publics,'us'
+tt10370710,The Worst Person in the World,movie,"Comedy, Drama, Romance",7.7,111047.0,2021.0,tm941023,1.0,tous publics,"'no', 'fr', 'se', 'dk'"
+tt1985949,The Angry Birds Movie,movie,"Action, Adventure, Animation",6.3,110993.0,2016.0,tm1845,1.0,tous publics,"'us', 'fi'"
+tt0452702,Vacancy,movie,"Horror, Thriller",6.2,110896.0,2007.0,tm78476,3.0,12,'us'
+tt0335245,The Ladykillers,movie,"Comedy, Crime, Thriller",6.2,110786.0,2004.0,tm96982,1.0,tous publics,'us'
+tt0057546,The Sword in the Stone,movie,"Adventure, Animation, Comedy",7.1,110608.0,1963.0,tm32115,1.0,tous publics,'us'
+tt0120907,eXistenZ,movie,"Horror, Mystery, Sci-Fi",6.8,110444.0,1999.0,tm47047,3.0,12,"'gb', 'fr', 'ca'"
+tt1571222,A Dangerous Method,movie,"Biography, Drama, Romance",6.4,110441.0,2011.0,tm185395,2.0,tous publics,"'gb', 'de', 'ca'"
+tt14641788,Enola Holmes 2,movie,"Action, Adventure, Crime",6.8,110391.0,2022.0,tm1107591,1.0,13::(self-applied),'us'
+tt3605418,Knock Knock,movie,"Crime, Thriller",4.9,110390.0,2015.0,tm132495,1.0,12 avec avertissement,"'cl', 'il', 'us'"
+tt0386117,Where the Wild Things Are,movie,"Adventure, Drama, Family",6.7,110381.0,2009.0,tm144224,3.0,tous publics,"'de', 'us', 'au'"
+tt0879870,Eat Pray Love,movie,"Biography, Drama, Romance",5.8,110333.0,2010.0,tm97072,1.0,tous publics,'us'
+tt0400717,Open Season,movie,"Adventure, Animation, Comedy",6.1,110162.0,2006.0,tm27598,1.0,tous publics,'us'
+tt3622592,Paper Towns,movie,"Adventure, Comedy, Drama",6.2,110015.0,2015.0,tm140381,3.0,tous publics,'us'
+tt0892318,Letters to Juliet,movie,"Adventure, Comedy, Drama",6.5,109933.0,2010.0,tm95179,1.0,tous publics::(dvd rating),'us'
+tt0104652,Porco Rosso,movie,"Adventure, Animation, Comedy",7.7,109762.0,1992.0,tm128586,1.0,tous publics,'jp'
+tt1860242,The Highwaymen,movie,"Biography, Crime, Drama",6.9,109631.0,2019.0,tm420826,1.0,16::(self-applied),'us'
+tt2241351,Money Monster,movie,"Action, Crime, Drama",6.5,109519.0,2016.0,tm218972,1.0,tous publics,'us'
+tt1396218,Mr. Popper's Penguins,movie,"Comedy, Family, Fantasy",6.0,109485.0,2011.0,tm173814,1.0,tous publics,'us'
+tt0480255,The Losers,movie,"Action, Adventure, Comedy",6.2,109426.0,2010.0,tm96622,1.0,tous publics,"'us', 'fr'"
+tt0090329,Witness,movie,"Drama, Romance, Thriller",7.3,109267.0,1985.0,tm132153,3.0,tous publics,'us'
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,movie,"Action, Adventure, Fantasy",8.1,1266603.0,2003.0,tm133512,1.0,tous publics,'us'
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,movie,"Adventure, Family, Fantasy",8.1,997781.0,2011.0,tm177297,3.0,tous publics,"'gb', 'us'"
+tt15097216,Jai Bhim,movie,"Crime, Drama",8.6,225748.0,2021.0,tm1108724,1.0,16::(self applied),"'in', 'us'"
+tt0949731,The Happening,movie,"Adventure, Drama, Sci-Fi",5.0,222595.0,2008.0,tm30505,1.0,tous publics avec avertissement,"'us', 'in'"
+tt13287846,Napoleon,movie,"Action, Adventure, Biography",6.3,173345.0,2023.0,tm1325511,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt0290673,Irreversible,movie,"Crime, Drama, Mystery",7.3,155240.0,2002.0,tm104417,1.0,16 avec avertissement,'fr'
+tt0172493,"Girl, Interrupted",movie,"Biography, Drama",7.3,224420.0,1999.0,tm44402,1.0,tous publics,"'us', 'de'"
+tt1911658,Penguins of Madagascar,movie,"Action, Adventure, Animation",6.6,109222.0,2014.0,tm161282,1.0,tous publics,"'us', 'gb'"
+tt2481498,"Extremely Wicked, Shockingly Evil and Vile",movie,"Biography, Crime, Drama",6.7,109052.0,2019.0,tm444017,1.0,16,'us'
+tt9362930,Blue Beetle,movie,"Action, Adventure, Sci-Fi",5.9,108693.0,2023.0,tm452641,3.0,tous publics,"'us', 'mx', 'ca', 'de'"
+tt1602620,Amour,movie,Drama,7.9,108310.0,2012.0,tm42327,3.0,tous publics,"'fr', 'de', 'at'"
+tt1027718,Wall Street: Money Never Sleeps,movie,Drama,6.2,108303.0,2010.0,tm102339,1.0,tous publics,'us'
+tt0248667,Ali,movie,"Biography, Drama, Sport",6.7,108168.0,2001.0,tm57131,3.0,tous publics,'us'
+tt0115759,Broken Arrow,movie,"Action, Adventure, Thriller",6.1,108097.0,1996.0,tm110850,1.0,tous publics,'us'
+tt0032455,Fantasia,movie,"Animation, Family, Fantasy",7.7,107986.0,1940.0,tm74391,1.0,tous publics,'us'
+tt0115685,The Birdcage,movie,Comedy,7.2,107945.0,1996.0,tm105127,1.0,tous publics,'us'
+tt0156887,Perfect Blue,movie,"Animation, Crime, Drama",8.0,107939.0,1997.0,tm190768,1.0,12,'jp'
+tt0345950,The SpongeBob SquarePants Movie,movie,"Adventure, Animation, Comedy",7.2,107919.0,2004.0,tm79916,4.0,tous publics,"'us', 'au', 'kr'"
+tt2193215,The Counselor,movie,"Action, Adventure, Crime",5.4,107913.0,2013.0,tm172676,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt0100935,Wild at Heart,movie,"Crime, Drama, Thriller",7.2,107863.0,1990.0,tm155030,1.0,12,'us'
+tt0163187,Runaway Bride,movie,"Comedy, Romance",5.6,107662.0,1999.0,tm50106,1.0,tous publics,'us'
+tt0098206,Road House,movie,"Action, Thriller",6.7,107267.0,1989.0,tm1425500,1.0,tous publics avec avertissement,'us'
+tt12412888,Sonic the Hedgehog 2,movie,"Action, Adventure, Comedy",6.5,107091.0,2022.0,tm919225,2.0,tous publics,"'us', 'jp', 'gb'"
+tt0318462,The Motorcycle Diaries,movie,"Adventure, Biography, Drama",7.7,106981.0,2004.0,tm82734,1.0,tous publics,"'fr', 'gb', 'us', 'ar', 'pe', 'cl', 'de'"
+tt4218572,Widows,movie,"Crime, Drama, Thriller",6.8,106884.0,2018.0,tm312766,1.0,tous publics avec avertissement,"'gb', 'us'"
+tt9663764,Aquaman and the Lost Kingdom,movie,"Action, Adventure, Fantasy",5.6,106723.0,2023.0,tm460935,2.0,tous publics,"'us', 'gb', 'ca', 'au', 'is'"
+tt0054047,The Magnificent Seven,movie,"Action, Adventure, Drama",7.7,106685.0,1960.0,tm205009,2.0,tous publics,'us'
+tt0318649,Sahara,movie,"Action, Adventure, Comedy",6.1,106564.0,2005.0,tm172656,2.0,tous publics,"'gb', 'fr', 'de', 'es', 'us'"
