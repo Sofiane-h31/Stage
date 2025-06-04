@@ -1,3 +1,14 @@
+# Dépôt
+Les fichiers CSV des séries/films avec la classification par SVOD : 
+Python modfication des données\resseries.csv ou Python modfication des données\resfilms.csv
+
+Les fichiers CSV du contenu par SVOD :
+Python modfication des données\SVOD\Films ou Python modfication des données\SVOD\Séries
+
+Les fichiers CSV du contenu croisé par SVOD
+Python modfication des données\SVOD\Films|Séries\SVODcroisés
+
+
 # Notebook
 J'utilise Google Colab pour la plupart des tâches. Je vous joins donc un lien vers ce dernier (vous y avez ainsi accès en temps réel):
 https://colab.research.google.com/drive/1UhJ15bjE1Mob_ZzN5uFZomTqPAj6DB6b?usp=sharing
