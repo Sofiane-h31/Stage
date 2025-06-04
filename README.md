@@ -10,8 +10,10 @@ Python modfication des données\SVOD\Films|Séries\SVODcroisées
 
 
 # Notebook
-J'utilise Google Colab pour la plupart des tâches. Je vous joins donc un lien vers ce dernier (vous y avez ainsi accès en temps réel):
+J'utilise Google Colab pour la plupart des tâches non-liées au webscraping. Je vous joins donc un lien vers ce dernier (vous y avez ainsi accès en temps réel):
 https://colab.research.google.com/drive/1UhJ15bjE1Mob_ZzN5uFZomTqPAj6DB6b?usp=sharing
+
+Si vous préférez le code en fichier .py faites-moi le savoir.
 
 
 # Informations sur le Webscraping
