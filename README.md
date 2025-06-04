@@ -6,7 +6,7 @@ Les fichiers CSV du contenu par SVOD :
 Python modfication des données\SVOD\Films ou Python modfication des données\SVOD\Séries
 
 Les fichiers CSV du contenu croisé par SVOD
-Python modfication des données\SVOD\Films|Séries\SVODcroisés
+Python modfication des données\SVOD\Films|Séries\SVODcroisées
 
 
 # Notebook
