@@ -3,7 +3,6 @@ import re
 import html
 import pandas as pd
 
-dataplat=pd.read_csv('dataplatfilms.csv', index_col=0)
 
 probdef = []
 proburl = []
@@ -29,7 +28,7 @@ def ttsaisons(url):
 
 
 def classifPV(url):
-    serie=False
+    serie=True
     if 'app' in url:
         url=url+'&language=fr-FR'
     headers = {
@@ -41,7 +40,7 @@ def classifPV(url):
         classifsais=[]
         numep=0
         try:
-            print(saisons)
+            #print(saisons)
             for saison in saisons:
                 site=requests.get(saison, headers=headers)
                 #print(site.text)
@@ -72,7 +71,8 @@ def classifPV(url):
             proburl.append((url, e))
 
 
-#print(classifPV('https://www.primevideo.com/-/fr/detail/0HBR13BMSENIDUL4DXZVG1T2R8'))
+'''  #Series ou films
+dataplat=pd.read_csv('dataplatfilms.csv', index_col=0)
 eta = 1
 
 for i in dataplat['Diffuseur']:
@@ -92,3 +92,36 @@ print(len(probdef))
 print(proburl)
 print(len(proburl))
 dataplat.to_csv('dataplatfilms.csv')
+'''
+#-------------------------- Épisodes ----------------------------
+
+#print(classifPV('https://www.primevideo.com/-/fr/detail/0IQX4B70WS4VB5JSB4GBTCACON'))
+dataepisode=pd.DataFrame(columns=['NomSérie', 'NumEpisode', 'SVOD', 'ClassifEpisode'])
+
+
+dataplat=pd.read_csv('resseries.csv', index_col=0)
+eta = 1
+lig=0
+for i in dataplat['Diffuseur'][0:100]:
+    print((dataplat.loc[dataplat['Diffuseur']==i, 'title']).to_string(), '     ', eta, '/ 639')
+    if 'primevideo' in i:
+        try:
+            for j in classifPV(i)[1]:
+                dataepisode.loc[lig]=[dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0], j[0], 'Prime Video', j[1]]
+                lig+=1
+        except Exception as e:
+            probdef.append((i, e))
+        eta += 1
+
+
+
+print(probdef)
+print(len(probdef))
+
+print(proburl)
+print(len(proburl))
+dataepisode.to_csv('dataepisodes.csv')
+
+
+
+
