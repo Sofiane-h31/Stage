@@ -14,7 +14,7 @@ J'utilise Google Colab pour la plupart des tâches. Je vous joins donc un lien v
 https://colab.research.google.com/drive/1UhJ15bjE1Mob_ZzN5uFZomTqPAj6DB6b?usp=sharing
 
 
-# Code Pycharm
+# Informations sur le Webscraping
 Documentation IMDbPY :
 https://imdbpy.readthedocs.io/_/downloads/en/stable/pdf/
 
