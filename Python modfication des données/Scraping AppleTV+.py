@@ -3,11 +3,12 @@ import numpy as np
 import requests
 import re
 #------------------------------------------------------SÉRIES----------------------------------------------------------------------------------
-dataplat=pd.read_csv('dataplatfilms.csv', index_col=0)
+'''
+dataplat=pd.read_csv('dataplatseries.csv', index_col=0)
 probdef=[]
 proburl=[]
 
-'''
+
 def idserie(url):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'
@@ -108,8 +109,12 @@ print(proburl)
 print(len(proburl))
 dataplat.to_csv('dataplatTest.csv')
 
-'''
+
 #------------------------------------------------------FILMS----------------------------------------------------------------------------------
+dataplat=pd.read_csv('dataplatfilms.csv', index_col=0)
+probdef=[]
+proburl=[]
+
 
 
 def idserie(url):
@@ -169,3 +174,124 @@ print(len(probdef))
 print(proburl)
 print(len(proburl))
 dataplat.to_csv('dataplatTest.csv')
+
+'''
+#------------------------------------------------------EPISODES----------------------------------------------------------------------------------
+dataplat=pd.read_csv('resseries.csv', index_col=0)
+dataepisodes=pd.read_csv('dataepisodes.csv', index_col=0)
+probdef=[]
+proburl=[]
+
+
+def idserie(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'
+    }
+    if 'episode' in url:
+
+        siteep=requests.get(url, headers=headers)
+        #print(siteep.text)
+        url=re.search(r'"actionUrl":"([^"]+)"', siteep.text).group(1)
+        id=''
+        for i in url[::-1]:
+            if i!='/':
+                id+=i
+            else:
+                break
+        site=requests.get(url, headers=headers)
+        classifserie=re.search(r'data-rating="([^"]+)"', site.text)
+        print(classifserie.group(1))
+        return id[::-1], classifserie.group(1)
+    else:
+        id=''
+        for i in url[29:]:
+            if i!='?':
+                id+=i
+            else:
+                break
+        shlas=id.find('/')
+        id=id[shlas+1:]
+        site = requests.get(url, headers=headers)
+        #print(site.text)
+        classifserie = re.search(r'data-rating="([^"]+)"', site.text)
+        #print(classifserie.group(1))
+        return id, classifserie.group(1)
+
+erreurs=[]
+
+
+
+
+
+def classifApple(url):
+    try:
+        id, classifserie=idserie(url)
+        url = f"https://tv.apple.com/api/uts/v3/shows/{id}/episodes"
+
+        params = {
+            'caller': 'web',
+            'locale': 'fr-FR',
+            'nextToken': '0:999999999',
+            'pfm': 'web',
+            'sf': '143442',
+            'utscf': 'OjAAAAEAAAAAAAAAEAAAACMA',
+            'utsk': '6e3013c6d6fae3c2:::::235656c069bb0efb',
+            'v': '82'
+        }
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36'
+        }
+
+        response = requests.get(url, params=params, headers=headers)
+
+        if response.status_code == 200:
+            data=response.json()
+
+            episodes = data.get('data', {}).get('episodes', [])
+            listepi=[]
+            for ep in episodes:
+                if 'rating' in ep.keys():
+                    classif=ep['rating']['displayName']
+                else:
+                    classif = classifserie
+                numsais = ep.get('seasonNumber', 'N/A')
+                numep = ep.get('episodeNumber', 'N/A')
+                listepi.append((numsais, numep, classif))
+            return classifserie,listepi
+    except Exception as e:
+        proburl.append((url,e))
+
+
+
+url='https://tv.apple.com/fr/episode/le-bon-cote-de-lenfer/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv_12&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx'
+url2='https://tv.apple.com/fr/show/south-park/umc.cmc.1n9fnkfiemhayikewq5xitzn6?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12'
+url3='https://tv.apple.com/fr/show/yellowstone/umc.cmc.2bnarwrthyaosxk1pkoefxzj0?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv_12'
+#print(classifApple(url))
+
+
+eta = 0
+numepisode=1
+for i in dataplat['Diffuseur'][:186]:
+    print((dataplat.loc[dataplat['Diffuseur']==i, 'title']).to_string(), '     ', eta, '/ 118')
+    if 'apple' in i:
+        try:
+            for j in classifApple(i)[1]:
+                print(dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0])
+                dataepisodes=dataepisodes._append({'NomSérie':dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0],
+                                                   'NumEpisode':numepisode,
+                                                   'SVOD':'AppleTV+',
+                                                   'ClassifEpisode':j[-1]}, ignore_index=True)
+                numepisode+=1
+        except Exception as e:
+            probdef.append((i, e))
+        eta += 1
+
+print(probdef)
+print(len(probdef))
+
+print(proburl)
+print(len(proburl))
+dataepisodes.to_csv('dataepisodesTest.csv')
+
+
