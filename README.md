@@ -1,5 +1,9 @@
-# Stage
+# Notebook
+J'utilise Google Colab pour la plupart des tâches, je vous joins donc un lien vers ce dernier (ainsi vous avez accès à ce dernier à temps réel)
+https://colab.research.google.com/drive/1UhJ15bjE1Mob_ZzN5uFZomTqPAj6DB6b?usp=sharing
 
+
+# Code Pycharm
 Documentation IMDbPY :
 https://imdbpy.readthedocs.io/_/downloads/en/stable/pdf/
 
