@@ -2,7 +2,6 @@ import requests
 import re
 import pandas as pd
 
-dataplat=pd.read_csv('resseries.csv', index_col=0)
 probdef=[]
 proburl = []
 def classifPara(url):
@@ -18,9 +17,11 @@ def classifPara(url):
                 else:
                     break
 
-            response = requests.get(url, headers=headers)
-            saison=re.search(r'\s*<option value="([^"]*)"\n?\s*selected', response.text)
-            saison=int(saison.group(1))
+            site=requests.get(url, headers=headers)
+            #print(site.text)
+            saisons=re.findall(r'\s*<option value="([^"]*)"\n?\s*', site.text)
+            for i in range(len(saisons)):
+                saisons[i]=int(saisons[i])
             res=[]
 
 
@@ -30,22 +31,19 @@ def classifPara(url):
                 "Referer": url,
                 "X-Requested-With": "XMLHttpRequest",
             }
-            numep=1
-            while True:
-
+            for saison in saisons:
                 url = f"https://www.paramountplus.com/fr/shows/{noms}/xhr/episodes/page/0/size/100/xs/0/season/{saison}/"
                 response = requests.get(url, headers=headers)
 
                 response.raise_for_status()
                 data = response.json()
                 episodes = data.get("result", {}).get("data", [])
+
                 if episodes==[]:
                     break
                 #print(episodes)
                 for ep in episodes:
-                    res.append((numep, ep.get('rating')))    #ep.get('label') pour le nom
-                    numep+=1
-                saison+=1
+                    res.append((ep.get('season_number'),ep.get('episode_number') ,ep.get('rating')))    #ep.get('label') pour le nom
                 #print(cpt)
             return max(res, key=lambda x: int(x[1]) if x[1]!='' else 1)[1], res
         else:
@@ -59,7 +57,7 @@ def classifPara(url):
 
 
 
-#print(classifPara('https://www.paramountplus.com/shows/yellowstone/video/vPXPeC4posOemTL_KvmcbAPhi6j_s7_f/yellowstone-daybreak?searchReferral='))
+print(classifPara('https://www.paramountplus.com/shows/yellowstone/video/vPXPeC4posOemTL_KvmcbAPhi6j_s7_f/yellowstone-daybreak?searchReferral='))
 #print(proburl)
 '''
 eta = 0
@@ -81,22 +79,21 @@ print(len(proburl))
 dataplat.to_csv('dataplatTest.csv')
 '''
 #------------------------------------------------- EPISODES -----------------------------------
-dataepisodes=pd.read_csv('dataepisodes.csv')
+dataseries=pd.read_csv('resseries.csv', index_col=0)
+dataepisodes=pd.read_csv('dataepisodes2.csv', index_col=0)
 eta=0
-for j in dataplat.index[:186]:
-    if dataplat.loc[j, 'SVOD']=='Paramount+':
-        try:
-            print(f"{dataplat.loc[j, 'title']}      {eta} / 4")
-            res=classifPara(dataplat.loc[j, 'Diffuseur'])[1]
+for i in dataseries.index[:186]:
+    eta+=1
+    print(f"{dataseries.loc[i, 'title']}      {eta} / 186")
+    try:
+        if dataseries.loc[i, 'SVOD']=='Paramount+':
+            res=classifPara(dataseries.loc[i, 'Diffuseur'])[1]
             for h in res:
-                dataepisodes=dataepisodes._append({'NomSérie':dataplat.loc[j, 'title'],
-                                                    'NumEpisode':h[0],
-                                                    'SVOD':'Paramount+',
-                                                    'ClassifEpisode':h[1]}, ignore_index=True)
+                dataepisodes=dataepisodes._append({'idSerie':dataseries.loc[i, 'id'], 'title':dataseries.loc[i, 'title'],'SVOD': dataseries.loc[i, 'SVOD'] ,'saison':h[0], 'episode':h[1], 'ClassifEP':h[2]}, ignore_index=True)
+    except Exception as e:
+        proburl.append((dataseries.loc[i, 'id'], e))
+print(dataepisodes)
+dataepisodes.to_csv('dataepisodes2Test.csv')
 
-        except Exception as e:
-            proburl.append((dataplat.loc[j, 'id'], e))
-        eta+=1
-dataepisodes.to_csv('dataepisodesTest.csv')
 print(proburl)
 print(len(proburl))
