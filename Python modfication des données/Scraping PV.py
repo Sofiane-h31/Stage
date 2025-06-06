@@ -95,38 +95,12 @@ print(len(proburl))
 dataplat.to_csv('dataplatfilms.csv')
 
 #-------------------------- Épisodes ----------------------------
-
-#print(classifPV('https://www.primevideo.com/-/fr/detail/0IQX4B70WS4VB5JSB4GBTCACON'))
-dataepisode=pd.DataFrame(columns=['NomSérie', 'NumEpisode', 'SVOD', 'ClassifEpisode'])
-
-
-dataplat=pd.read_csv('resseries.csv', index_col=0)
-eta = 1
-lig=0
-for i in dataplat['Diffuseur'][0:100]:
-    print((dataplat.loc[dataplat['Diffuseur']==i, 'title']).to_string(), '     ', eta, '/ 639')
-    if 'primevideo' in i:
-        try:
-            for j in classifPV(i)[1]:
-                dataepisode.loc[lig]=[dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0], j[0], 'Prime Video', j[1]]
-                lig+=1
-        except Exception as e:
-            probdef.append((i, e))
-        eta += 1
-
-
-
-print(probdef)
-print(len(probdef))
-
-print(proburl)
-print(len(proburl))
-dataepisode.to_csv('dataepisodes.csv')
 '''
 
 probdef = []
 proburl = []
-
+dataseries=pd.read_csv('resseries.csv', index_col=0)
+dataepisodes=pd.DataFrame(columns=['idSerie', 'title', 'SVOD', 'saison', 'episode', 'ClassifEP'])
 
 
 def ttsaisons(url):
@@ -156,9 +130,7 @@ def classifPV(url):
     }
     if serie==True:
         saisons=ttsaisons(url)
-        classifep = []
-        classifsais=[]
-        numep=0
+        listepi=[]
         try:
             #print(saisons)
             for saison in saisons:
@@ -166,11 +138,27 @@ def classifPV(url):
                 #print(site.text)
                 if site.status_code==200:
                     detailepi=re.findall(r'<span class="_36qUej izvPPq"><span>S\. (\d+) ÉP\. (\d+)</span>.+?aria-label="Ce contenu est classé ([^"]+)"', site.text)
-                    print (detailepi)
+                    listepi.extend([elt for elt in detailepi])
+            return listepi
 
         except Exception as e:
             proburl.append((url, e))
 
-print(classifPV('https://app.primevideo.com/detail?gti=amzn1.dv.gti.8b96ae49-3860-49a5-8d15-7bd50c2ef008'))
+eta=0
+for i in dataseries.index[:186]:
+    eta+=1
+    print(f"{dataseries.loc[i, 'title']}      {eta} / 186")
+    if dataseries.loc[i, 'SVOD']=='Prime Video':
+        res=classifPV(dataseries.loc[i, 'Diffuseur'])
+        for h in res:
+            dataepisodes=dataepisodes._append({'idSerie':dataseries.loc[i, 'id'], 'title':dataseries.loc[i, 'title'],'SVOD': dataseries.loc[i, 'SVOD'] ,'saison':h[0], 'episode':h[1], 'ClassifEP':h[2]}, ignore_index=True)
+
+print(dataepisodes)
+dataepisodes.to_csv('dataepisodes2.csv')
+
+print(proburl)
+print(len(proburl))
+
+
 
 
