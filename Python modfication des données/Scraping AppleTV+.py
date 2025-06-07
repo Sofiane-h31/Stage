@@ -178,7 +178,7 @@ dataplat.to_csv('dataplatTest.csv')
 '''
 #------------------------------------------------------EPISODES----------------------------------------------------------------------------------
 dataplat=pd.read_csv('resseries.csv', index_col=0)
-dataepisodes=pd.read_csv('dataepisodes.csv', index_col=0)
+dataepisodes=pd.read_csv('dataepisodes2.csv', index_col=0)
 probdef=[]
 proburl=[]
 
@@ -271,18 +271,17 @@ url3='https://tv.apple.com/fr/show/yellowstone/umc.cmc.2bnarwrthyaosxk1pkoefxzj0
 
 
 eta = 0
-numepisode=1
 for i in dataplat['Diffuseur'][:186]:
     print((dataplat.loc[dataplat['Diffuseur']==i, 'title']).to_string(), '     ', eta, '/ 118')
     if 'apple' in i:
         try:
             for j in classifApple(i)[1]:
-                print(dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0])
-                dataepisodes=dataepisodes._append({'NomSérie':dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0],
-                                                   'NumEpisode':numepisode,
-                                                   'SVOD':'AppleTV+',
-                                                   'ClassifEpisode':j[-1]}, ignore_index=True)
-                numepisode+=1
+                dataepisodes=dataepisodes._append({'idSerie':dataplat.loc[dataplat['Diffuseur']==i, 'id'].values[0],
+                                                    'title':dataplat.loc[dataplat['Diffuseur']==i, 'title'].values[0],
+                                                   'SVOD': dataplat.loc[dataplat['Diffuseur']==i, 'SVOD'].values[0],
+                                                   'saison':j[0],
+                                                   'episode':j[1],
+                                                   'ClassifEP':j[2]}, ignore_index=True)
         except Exception as e:
             probdef.append((i, e))
         eta += 1
@@ -292,6 +291,6 @@ print(len(probdef))
 
 print(proburl)
 print(len(proburl))
-dataepisodes.to_csv('dataepisodesTest.csv')
+dataepisodes.to_csv('dataepisodes2Test.csv')
 
 
