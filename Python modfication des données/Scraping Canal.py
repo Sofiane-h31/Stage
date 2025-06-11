@@ -1,8 +1,7 @@
 import pandas as pd
 import requests
 import re
-from simplejustwatchapi import *
-dataplat=pd.read_csv('resseries.csv', index_col=0)
+#dataplat=pd.read_csv('resseries.csv', index_col=0)
 probdef=[]
 proburl=[]
 
@@ -40,36 +39,46 @@ dataplat.to_csv('dataplatTest.csv')
 
 '''
 #-----------------------------------EPISODES------------------------------------
-def episodesCanal(idjw):
-    seri = details(idjw)
-    headers = {
-        "accept": "application/json",
-        "Authorization": f"Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMDg4Y2JmOTRjMWVhY2RkN2E3NzZlNTYzYWZmNmMyOCIsIm5iZiI6MTc0NzMxMTgyOS44MzMsInN1YiI6IjY4MjVkY2Q1YWZjOTY2NGQ4NTVhM2E2YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.iy7E3VfMCN5Pxw8jTIBNcTaruLFpfWZlU9PSIAffTWw"
+def episodesCanal(url):
+    headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     }
-    url = f"https://api.themoviedb.org/3/tv/{seri.tmdb_id}"
-    response = requests.get(url, headers=headers)
-    data = response.json()
-    return data['number_of_episodes'], data['first_air_date']
+    site=requests.get(url, headers=headers)
+    saisons=re.findall(r'"displayTemplate":"episodesList","URLPage":"([^"]+)', site.text)
+    res=[]
+    for lien in saisons:
+        lien = lien.replace("\\u002F", "/")
+        lien = lien.replace("\\u003A", ":")
+        lien = lien.replace("\\u002E", ".")
+        apisais=requests.get(lien, headers=headers)
+        for h in apisais.json()['episodes']['contents']:
+            res.append((str(h['seasonNumber']), str(h['episodeNumber']), h['editorialTitle']))
+    return res
 
+
+
+print(episodesCanal("https://www.mycanal.fr/series/boardwalk-empire/h/40470406_50889"))
+
+'''
 dataepisodes=pd.read_csv('dataepisodes.csv', index_col=0)
 
 eta=0
-probannee=[]
 for i in dataplat.index[:20]:
     print(f"{dataplat.loc[i, 'title']}    {eta}/43")
     if dataplat.loc[i, 'SVOD']=='Canal+' or dataplat.loc[i, 'SVOD']=='MyCanal':
         eta+=1
         try:
-            res=episodesCanal(dataplat.loc[i, 'idjw'])
-            for j in range(1, res[0]+1):
+            res=episodesCanal(dataplat.loc[i, 'Diffuseur'])
+            for j in res:
                 dataepisodes = dataepisodes._append(
-                {'NomSérie': dataplat.loc[i, 'title'],
-                     'NumEpisode': j,
+                {'idSerie': dataplat.loc[i, 'id'],
+                'title': dataplat.loc[i, 'title'],
                      'SVOD': 'Canal+/MyCanal',
-                     'ClassifEpisode': dataplat.loc[i, 'ClassificationSVOD'],},
+                     'saison': j[0],
+                     'episode':j[1],
+                     'ClassifEp': dataplat.loc[i, 'ClassificationSVOD'],},
                     ignore_index=True)
-            if str(dataplat.loc[i, 'releaseYear'])[:4] not in res[1]:
-                probannee.append((i, dataplat.loc[i, 'releaseYear'], res[1]))
+
         except Exception as e:
             probdef.append((i, dataplat.loc[i, 'title'], e))
 
@@ -80,3 +89,28 @@ print(len(probdef))
 print(probannee)
 print(len(probannee))
 dataepisodes.to_csv('dataepisodesTest.csv')
+'''
+
+dataplat=pd.read_csv('resseriesvecteur.csv', index_col=0)
+dataepisodes=pd.read_csv('resepisodesTestApple.csv', index_col=0)
+prob=[]
+eta=0
+for k in dataplat.index[:186]:
+    eta+=1
+    print(f"{dataplat.loc[k, 'title']}      {eta} / 186")
+    try:
+        if dataplat.loc[k, 'id'] in dataepisodes['idSerie'].values and dataplat.loc[k, 'SVOD'] in ('MyCanal', 'Canal+'):
+            urlser=dataplat.loc[k, 'Diffuseur']
+            res = episodesCanal(urlser)
+            for idx,j in dataepisodes[dataepisodes['idSerie']==dataplat.loc[k, 'id']].iterrows():
+                for h in res:
+                    if h[0]==str(j.saison) and h[1]==str(j.episode):
+                        #print(html.unescape(h[2]))
+                        dataepisodes.loc[idx, 'titreEP']=h[2]
+    except Exception as e:
+        prob.append((k))
+        print(e)
+
+print(prob)
+print(len(prob))
+dataepisodes.to_csv('resepisodesTestCanal.csv')
