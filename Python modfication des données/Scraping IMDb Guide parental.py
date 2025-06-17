@@ -1,13 +1,22 @@
 import pandas as pd
 import requests
 import re
-dataseries=pd.read_csv('resseriesvecteur.csv', index_col=0)
+dataseries=pd.read_csv('resfilmsvecteur.csv', index_col=0)
 valparent=[None]*len(dataseries)
 dataseries.insert(12, 'ValNudite', valparent)
-dataseries.insert(13, 'ValViolence', valparent)
-dataseries.insert(14, 'ValVulgarite', valparent)
-dataseries.insert(15, 'ValStupefiants', valparent)
-dataseries.insert(16, 'ValIntensite', valparent)
+dataseries.insert(13, 'ScoreNudite', valparent)
+
+dataseries.insert(14, 'ValViolence', valparent)
+dataseries.insert(15, 'ScoreViolence', valparent)
+
+dataseries.insert(16, 'ValVulgarite', valparent)
+dataseries.insert(17, 'ScoreVulgarite', valparent)
+
+dataseries.insert(18, 'ValStupefiants', valparent)
+dataseries.insert(19, 'ScoreStupefiants', valparent)
+
+dataseries.insert(20, 'ValIntensite', valparent)
+dataseries.insert(21, 'ScoreIntensite', valparent)
 
 def parental(url):
     headers={
@@ -22,7 +31,7 @@ print(parental('https://www.imdb.com/fr/title/tt0903747/parentalguide/?ref_=tt_s
 prob=[]
 idSer=''
 eta=0
-for h in dataseries.index[:20]:
+for h in dataseries.index:
     try:
         if dataseries.loc[h, 'id']!=idSer:
             eta += 1
@@ -31,19 +40,25 @@ for h in dataseries.index[:20]:
             res=parental(f"https://www.imdb.com/fr/title/{idSer}/parentalguide/?ref_=tt_stry_pg")
         for k in res:
             if 'nudité' in k[0]:
-                dataseries.loc[h, 'ValNudite']=f"{k[1]}:{round(int(k[2])/int(k[3])*100, 2)}%"
+                dataseries.loc[h, 'ValNudite']=k[1]
+                dataseries.loc[h,'ScoreNudite']=round(int(k[2])/int(k[3])*100, 2)
             if 'horreur' in k[0]:
-                dataseries.loc[h, 'ValViolence']=f"{k[1]}:{round(int(k[2])/int(k[3])*100, 2)}%"
+                dataseries.loc[h, 'ValViolence']=k[1]
+                dataseries.loc[h,'ScoreViolence']=round(int(k[2])/int(k[3])*100, 2)
             if 'vulgaires' in k[0]:
-                dataseries.loc[h, 'ValVulgarite']=f"{k[1]}:{round(int(k[2])/int(k[3])*100, 2)}%"
+                dataseries.loc[h, 'ValVulgarite']=k[1]
+                dataseries.loc[h,'ScoreVulgarite']=round(int(k[2])/int(k[3])*100, 2)
             if 'tabagisme' in k[0]:
-                dataseries.loc[h, 'ValStupefiants']=f"{k[1]}:{round(int(k[2])/int(k[3])*100, 2)}%"
+                dataseries.loc[h, 'ValStupefiants']=k[1]
+                dataseries.loc[h,'ScoreStupefiants']=round(int(k[2])/int(k[3])*100, 2)
+
             if 'intensité' in k[0]:
-                dataseries.loc[h, 'ValIntensite']=f"{k[1]}:{round(int(k[2])/int(k[3])*100, 2)}%"
+                dataseries.loc[h, 'ValIntensite']=k[1]
+                dataseries.loc[h,'ScoreIntensite']=round(int(k[2])/int(k[3])*100, 2)
     except Exception as e:
         prob.append((h, dataseries.loc[h, 'id'], e))
 
 print(prob)
 print(len(prob))
 
-dataseries.to_csv('dataseriesParental.csv')
+dataseries.to_csv('datafilmsParental3.csv')
