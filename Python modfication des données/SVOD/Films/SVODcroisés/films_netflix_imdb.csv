@@ -1,0 +1,296 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt0816692,Interstellar,movie,"Adventure, Drama, Sci-Fi",8.7,2345627.0,2014.0,tm157099,3.0,tous publics,https://www.netflix.com/title/70305903,Netflix,13+,"'us', 'gb', 'ca'"
+tt1853728,Django Unchained,movie,Western,8.5,1791607.0,2012.0,tm41792,1.0,12,https://www.netflix.com/title/70230640,Netflix,16+,'us'
+tt0172495,Gladiator,movie,"Action, Adventure, Drama",8.5,1760458.0,2000.0,tm28142,4.0,tous publics avec avertissement,https://www.netflix.com/title/60000929,Netflix,16+,"'us', 'gb', 'mt', 'ma'"
+tt0361748,Inglourious Basterds,movie,"Adventure, Drama, War",8.4,1683117.0,2009.0,tm143861,3.0,12,https://www.netflix.com/title/70108777,Netflix,18+,"'us', 'de'"
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,https://www.netflix.com/title/81092221,Netflix,16+,"'us', 'ca', 'au'"
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,https://www.netflix.com/title/60010110,Netflix,13+,'us'
+tt0120382,The Truman Show,movie,"Comedy, Drama",8.2,1281584.0,1998.0,tm68909,1.0,tous publics,https://www.netflix.com/title/11819086,Netflix,13+,'us'
+tt0103064,Terminator 2: Judgment Day,movie,"Action, Adventure, Sci-Fi",8.6,1232823.0,1991.0,tm8613,3.0,tous publics,https://www.netflix.com/title/60028202,Netflix,16+,"'us', 'fr'"
+tt0082971,Raiders of the Lost Ark,movie,"Action, Adventure",8.4,1074423.0,1981.0,tm128131,3.0,tous publics,https://www.netflix.com/title/60011649,Netflix,13+,'us'
+tt0075314,Taxi Driver,movie,"Crime, Drama",8.2,979287.0,1976.0,tm84618,1.0,16,https://www.netflix.com/title/18907685,Netflix,16+,'us'
+tt0086250,Scarface,movie,"Crime, Drama",8.3,965909.0,1983.0,tm59031,2.0,12::(new rating),https://www.netflix.com/title/60029681,Netflix,16+,'us'
+tt1160419,Dune: Part One,movie,"Action, Adventure, Drama",8.0,956824.0,2021.0,tm305113,3.0,tous publics,https://www.netflix.com/title/81199139,Netflix,13+,"'us', 'ca'"
+tt10872600,Spider-Man: No Way Home,movie,"Action, Adventure, Fantasy",8.2,952090.0,2021.0,tm835252,2.0,tous publics,https://www.netflix.com/title/81465707,Netflix,13+,'us'
+tt0208092,Snatch,movie,"Comedy, Crime",8.2,946286.0,2000.0,tm25947,1.0,tous publics,https://www.netflix.com/title/60003388,Netflix,16+,"'gb', 'us'"
+tt0145487,Spider-Man,movie,"Action, Adventure, Sci-Fi",7.4,923817.0,2002.0,tm109418,4.0,tous publics,https://www.netflix.com/title/60004481,Netflix,13+,'us'
+tt0245429,Spirited Away,movie,"Adventure, Animation, Family",8.6,910573.0,2001.0,tm48297,1.0,tous publics,https://www.netflix.com/title/60023642,Netflix,10+,"'jp', 'us'"
+tt15398776,Oppenheimer,movie,"Biography, Drama, History",8.3,892125.0,2023.0,tm1111989,1.0,tous publics,https://www.netflix.com/title/81602830,Netflix,16+,"'us', 'gb'"
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,https://www.netflix.com/title/70056440,Netflix,18+,"'us', 'ca', 'bg'"
+tt1119646,The Hangover,movie,Comedy,7.7,887374.0,2009.0,tm137072,3.0,tous publics,https://www.netflix.com/title/70113002,Netflix,16+,"'us', 'de'"
+tt1877830,The Batman,movie,"Action, Crime, Drama",7.8,871135.0,2022.0,tm244142,3.0,tous publics avec avertissement,https://www.netflix.com/title/81500601,Netflix,13+,'us'
+tt0097576,Indiana Jones and the Last Crusade,movie,"Action, Adventure",8.2,838705.0,1989.0,tm140316,3.0,tous publics,https://www.netflix.com/title/60010487,Netflix,13+,'us'
+tt2543164,Arrival,movie,"Drama, Mystery, Sci-Fi",7.9,817556.0,2016.0,tm205861,4.0,tous publics,https://www.netflix.com/title/80117799,Netflix,13+,"'us', 'ca'"
+tt1285016,The Social Network,movie,"Biography, Drama",7.8,790606.0,2010.0,tm86803,5.0,tous publics,https://www.netflix.com/title/70132721,Netflix,13+,'us'
+tt0118799,Life Is Beautiful,movie,"Comedy, Drama, Romance",8.6,778431.0,1997.0,tm191045,1.0,tous publics,https://www.netflix.com/title/1192333,Netflix,13+,'it'
+tt0126029,Shrek,movie,"Adventure, Animation, Comedy",7.9,773634.0,2001.0,tm50314,2.0,tous publics,https://www.netflix.com/title/60020686,Netflix,7+,'us'
+tt0405159,Million Dollar Baby,movie,"Drama, Sport",8.1,746394.0,2004.0,tm84441,1.0,tous publics,https://www.netflix.com/title/70018292,Netflix,13+,'us'
+tt1386697,Suicide Squad,movie,"Action, Adventure, Fantasy",5.9,741205.0,2016.0,tm122844,4.0,tous publics avec avertissement,https://www.netflix.com/title/80091595,Netflix,16+,'us'
+tt0948470,The Amazing Spider-Man,movie,"Action, Sci-Fi",6.9,733592.0,2012.0,tm44730,3.0,tous publics,https://www.netflix.com/title/70208599,Netflix,13+,'us'
+tt0451279,Wonder Woman,movie,"Action, Adventure, Fantasy",7.3,720040.0,2017.0,tm11937,3.0,tous publics,https://www.netflix.com/title/80157091,Netflix,13+,"'us', 'cn', 'hk'"
+tt0107048,Groundhog Day,movie,"Comedy, Drama, Fantasy",8.0,716497.0,1993.0,tm182885,3.0,tous publics,https://www.netflix.com/title/563104,Netflix,10+,'us'
+tt1856101,Blade Runner 2049,movie,"Action, Drama, Mystery",8.0,713675.0,2017.0,tm239091,3.0,tous publics avec avertissement,https://www.netflix.com/title/80185760,Netflix,16+,"'us', 'ca', 'es'"
+tt0418279,Transformers,movie,"Action, Adventure, Sci-Fi",7.1,697207.0,2007.0,tm74317,4.0,tous publics,https://www.netflix.com/title/70058026,Netflix,13+,'us'
+tt1637725,Ted,movie,Comedy,6.9,684047.0,2012.0,tm31827,1.0,tous publics avec avertissement,https://www.netflix.com/title/70218756,Netflix,16+,'us'
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),movie,"Comedy, Drama",7.7,682235.0,2014.0,tm151077,4.0,tous publics,https://www.netflix.com/title/80000643,Netflix,13+,'us'
+tt0162222,Cast Away,movie,"Adventure, Drama, Romance",7.8,665933.0,2000.0,tm21856,4.0,tous publics,https://www.netflix.com/title/60020683,Netflix,13+,'us'
+tt1156398,Zombieland,movie,"Action, Comedy, Horror",7.5,645534.0,2009.0,tm145203,1.0,tous publics,https://www.netflix.com/title/70123542,Netflix,16+,'us'
+tt1396484,It,movie,Horror,7.3,644073.0,2017.0,tm244208,3.0,12,https://www.netflix.com/title/80177770,Netflix,16+,"'us', 'ca'"
+tt11286314,Don't Look Up,movie,"Comedy, Drama, Sci-Fi",7.2,640211.0,2021.0,tm856378,1.0,18,https://www.netflix.com/title/81252357,Netflix,13+,"'us', 'ca'"
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,https://www.netflix.com/title/81198930,Netflix,13+,"'us', 'gb'"
+tt1219289,Limitless,movie,"Sci-Fi, Thriller",7.4,629892.0,2011.0,tm161959,3.0,tous publics,https://www.netflix.com/title/70142827,Netflix,13+,'us'
+tt0365748,Shaun of the Dead,movie,"Comedy, Horror",7.9,619159.0,2004.0,tm88828,3.0,12,https://www.netflix.com/title/70003227,Netflix,16+,"'gb', 'fr', 'us'"
+tt1323594,Despicable Me,movie,"Adventure, Animation, Comedy",7.6,610283.0,2010.0,tm90485,2.0,tous publics,https://www.netflix.com/title/70115629,Netflix,7+,"'us', 'fr'"
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,https://www.netflix.com/title/60010111,Netflix,13+,'us'
+tt6710474,Everything Everywhere All at Once,movie,"Action, Adventure, Comedy",7.8,580739.0,2022.0,tm1137671,1.0,tous publics,https://www.netflix.com/title/81569721,Netflix,13+,'us'
+tt2713180,Fury,movie,"Action, Drama, War",7.6,578959.0,2014.0,tm157843,1.0,12,https://www.netflix.com/title/70305907,Netflix,16+,"'cn', 'us'"
+tt0356910,Mr. & Mrs. Smith,movie,"Action, Comedy, Crime",6.5,568086.0,2005.0,tm176981,2.0,tous publics,https://www.netflix.com/title/70021641,Netflix,16+,'us'
+tt0087469,Indiana Jones and the Temple of Doom,movie,"Action, Adventure",7.5,552309.0,1984.0,tm168802,3.0,tous publics,https://www.netflix.com/title/60010488,Netflix,13+,'us'
+tt0367594,Charlie and the Chocolate Factory,movie,"Adventure, Comedy, Family",6.7,551366.0,2005.0,tm160815,5.0,tous publics,https://www.netflix.com/title/70021648,Netflix,7+,"'gb', 'us'"
+tt2179136,American Sniper,movie,"Action, Biography, Drama",7.3,550803.0,2014.0,tm137713,4.0,tous publics avec avertissement,https://www.netflix.com/title/80013871,Netflix,16+,'us'
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,https://www.netflix.com/title/81004278,Netflix,13+,'us'
+tt0298148,Shrek 2,movie,"Adventure, Animation, Comedy",7.4,531385.0,2004.0,tm89680,2.0,tous publics,https://www.netflix.com/title/60034572,Netflix,7+,'us'
+tt1677720,Ready Player One,movie,"Action, Adventure, Sci-Fi",7.4,517171.0,2018.0,tm225321,4.0,tous publics,https://www.netflix.com/title/80211726,Netflix,13+,"'us', 'in', 'sg', 'ca', 'gb', 'jp', 'au'"
+tt1596363,The Big Short,movie,"Biography, Comedy, Drama",7.8,511422.0,2015.0,tm222133,4.0,tous publics,https://www.netflix.com/title/80075560,Netflix,13+,'us'
+tt0327056,Mystic River,movie,"Crime, Drama, Mystery",7.9,504121.0,2003.0,tm139536,3.0,12,https://www.netflix.com/title/60031232,Netflix,16+,"'us', 'au'"
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,movie,"Action, Adventure",6.2,503234.0,2008.0,tm58329,3.0,tous publics,https://www.netflix.com/title/70084799,Netflix,13+,'us'
+tt0099088,Back to the Future Part III,movie,"Adventure, Comedy, Sci-Fi",7.5,500687.0,1990.0,tm156886,3.0,tous publics,https://www.netflix.com/title/60024059,Netflix,7+,'us'
+tt2980516,The Theory of Everything,movie,"Biography, Drama, Romance",7.7,496889.0,2014.0,tm160708,1.0,tous publics,https://www.netflix.com/title/80000644,Netflix,13+,"'gb', 'jp', 'us'"
+tt12593682,Bullet Train,movie,"Action, Comedy, Thriller",7.3,492778.0,2022.0,tm1069551,1.0,12,https://www.netflix.com/title/81511779,Netflix,18+,"'us', 'jp'"
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,https://www.netflix.com/title/80187362,Netflix,13+,"'us', 'ca', 'gb'"
+tt0347149,Howl's Moving Castle,movie,"Adventure, Animation, Family",8.2,483356.0,2004.0,tm79928,1.0,tous publics,https://www.netflix.com/title/70028883,Netflix,7+,"'jp', 'us'"
+tt1535108,Elysium,movie,"Action, Drama, Sci-Fi",6.6,482382.0,2013.0,tm168654,3.0,tous publics avec avertissement,https://www.netflix.com/title/70251536,Netflix,16+,"'us', 'ca'"
+tt11564570,Glass Onion,movie,"Comedy, Crime, Drama",7.1,476628.0,2022.0,tm915749,1.0,13::(self-applied),https://www.netflix.com/title/81458416,Netflix,13+,'us'
+tt0382625,The Da Vinci Code,movie,"Mystery, Thriller",6.6,472902.0,2006.0,tm23568,3.0,tous publics,https://www.netflix.com/title/70035186,Netflix,13+,"'us', 'mt', 'fr', 'gb'"
+tt0119698,Princess Mononoke,movie,"Adventure, Animation, Fantasy",8.3,460498.0,1997.0,tm192569,1.0,tous publics,https://www.netflix.com/title/28630857,Netflix,13+,'jp'
+tt0360717,King Kong,movie,"Action, Adventure, Romance",7.2,459507.0,2005.0,tm178788,3.0,tous publics avec avertissement,https://www.netflix.com/title/70021664,Netflix,16+,"'us', 'nz', 'de'"
+tt1302006,The Irishman,movie,"Biography, Crime, Drama",7.8,453308.0,2019.0,tm244149,1.0,16::(self-applied),https://www.netflix.com/title/80175798,Netflix,16+,'us'
+tt0455944,The Equalizer,movie,"Action, Crime, Thriller",7.3,445625.0,2014.0,tm160558,2.0,12,https://www.netflix.com/title/70305892,Netflix,16+,'us'
+tt1245492,This Is the End,movie,"Comedy, Fantasy",6.6,444961.0,2013.0,tm159637,1.0,tous publics avec avertissement,https://www.netflix.com/title/70264796,Netflix,16+,'us'
+tt1690953,Despicable Me 2,movie,"Adventure, Animation, Comedy",7.3,444328.0,2013.0,tm166553,3.0,tous publics,https://www.netflix.com/title/70264803,Netflix,7+,"'us', 'fr'"
+tt1055369,Transformers: Revenge of the Fallen,movie,"Action, Adventure, Sci-Fi",6.0,441836.0,2009.0,tm138894,4.0,tous publics,https://www.netflix.com/title/70103763,Netflix,13+,"'us', 'jo', 'gb'"
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,https://www.netflix.com/title/81414001,Netflix,16+,'us'
+tt0118971,The Devil's Advocate,movie,"Drama, Fantasy, Mystery",7.5,423488.0,1997.0,tm191848,1.0,12,https://www.netflix.com/title/1181732,Netflix,16+,'us'
+tt0454848,Inside Man,movie,"Crime, Drama, Mystery",7.6,413001.0,2006.0,tm27163,2.0,tous publics,https://www.netflix.com/title/70044379,Netflix,16+,'us'
+tt1632708,Friends with Benefits,movie,"Comedy, Romance",6.5,409310.0,2011.0,tm173917,1.0,tous publics,https://www.netflix.com/title/70167075,Netflix,13+,'us'
+tt0096283,My Neighbor Totoro,movie,"Animation, Comedy, Family",8.1,407740.0,1988.0,tm38744,1.0,tous publics,https://www.netflix.com/title/60032294,Netflix,Tous publics,'jp'
+tt2737304,Bird Box,movie,"Horror, Mystery, Sci-Fi",6.6,406531.0,2018.0,tm374132,1.0,16,https://www.netflix.com/title/80196789,Netflix,16+,'us'
+tt1409024,Men in Black³,movie,"Action, Adventure, Comedy",6.8,400729.0,2012.0,tm33253,3.0,tous publics,https://www.netflix.com/title/70217910,Netflix,13+,"'ae', 'us'"
+tt0100802,Total Recall,movie,"Action, Adventure, Sci-Fi",7.5,368955.0,1990.0,tm157356,1.0,12,https://www.netflix.com/title/1057618,Netflix,16+,"'us', 'mx'"
+tt2788710,The Interview,movie,"Action, Adventure, Comedy",6.5,367050.0,2014.0,tm157121,1.0,tous publics avec avertissement,https://www.netflix.com/title/70305895,Netflix,16+,'us'
+tt6857112,Us,movie,"Horror, Mystery, Thriller",6.8,366971.0,2019.0,tm322852,1.0,12,https://www.netflix.com/title/81026600,Netflix,16+,"'us', 'cn', 'jp'"
+tt0822854,Shooter,movie,"Action, Drama, Thriller",7.2,366637.0,2007.0,tm84371,4.0,tous publics,https://www.netflix.com/title/70056430,Netflix,16+,'us'
+tt0125439,Notting Hill,movie,"Comedy, Drama, Romance",7.2,365288.0,1999.0,tm39130,3.0,tous publics,https://www.netflix.com/title/21304015,Netflix,7+,"'gb', 'us'"
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,https://www.netflix.com/title/80139562,Netflix,13+,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt0110148,Interview with the Vampire,movie,"Drama, Fantasy, Horror",7.5,362835.0,1994.0,tm113636,2.0,12,https://www.netflix.com/title/631281,Netflix,16+,'us'
+tt0167190,Hellboy,movie,"Action, Adventure, Fantasy",6.9,361301.0,2004.0,tm92889,5.0,tous publics avec avertissement,https://www.netflix.com/title/60034549,Netflix,13+,'us'
+tt7653254,Marriage Story,movie,"Drama, Romance",7.9,360723.0,2019.0,tm403709,1.0,13::(self-applied),https://www.netflix.com/title/80223779,Netflix,13+,"'gb', 'us'"
+tt2140479,The Accountant,movie,"Action, Crime, Drama",7.3,357072.0,2016.0,tm204161,3.0,tous publics avec avertissement,https://www.netflix.com/title/80071227,Netflix,16+,'us'
+tt0414387,Pride & Prejudice,movie,"Drama, Romance",7.8,354010.0,2005.0,tm173412,4.0,tous publics,https://www.netflix.com/title/70032594,Netflix,13+,"'gb', 'fr', 'us'"
+tt0105323,Scent of a Woman,movie,Drama,8.0,351068.0,1992.0,tm125153,1.0,tous publics,https://www.netflix.com/title/937499,Netflix,13+,'us'
+tt0119528,Liar Liar,movie,"Comedy, Fantasy",6.9,349907.0,1997.0,tm189907,1.0,tous publics,https://www.netflix.com/title/1152469,Netflix,13+,'us'
+tt0095327,Grave of the Fireflies,movie,"Animation, Drama, War",8.5,349295.0,1988.0,tm54176,1.0,tous publics,https://www.netflix.com/title/557010,Netflix,13+,'jp'
+tt0457939,The Holiday,movie,"Comedy, Romance",7.0,348654.0,2006.0,tm31297,3.0,tous publics,https://www.netflix.com/title/70045854,Netflix,7+,'us'
+tt0413267,Shrek the Third,movie,"Adventure, Animation, Comedy",6.1,347648.0,2007.0,tm84301,2.0,tous publics,https://www.netflix.com/title/70047102,Netflix,7+,'us'
+tt2322441,Fifty Shades of Grey,movie,"Drama, Romance, Thriller",4.2,346496.0,2015.0,tm139217,4.0,12,https://www.netflix.com/title/80013872,Netflix,16+,'us'
+tt0094226,The Untouchables,movie,"Crime, Drama, Thriller",7.8,343473.0,1987.0,tm23389,4.0,tous publics,https://www.netflix.com/title/60004086,Netflix,16+,'us'
+tt0386588,Hitch,movie,"Comedy, Romance",6.6,342648.0,2005.0,tm176763,1.0,tous publics,https://www.netflix.com/title/70019506,Netflix,10+,'us'
+tt0190590,"O Brother, Where Art Thou?",movie,"Adventure, Comedy, Crime",7.7,341529.0,2000.0,tm23114,2.0,tous publics,https://www.netflix.com/title/60002991,Netflix,13+,"'gb', 'fr', 'us'"
+tt1981677,Pitch Perfect,movie,"Comedy, Music, Romance",7.1,341074.0,2012.0,tm33728,1.0,tous publics,https://www.netflix.com/title/70244166,Netflix,13+,'us'
+tt2109248,Transformers: Age of Extinction,movie,"Action, Adventure, Sci-Fi",5.6,340862.0,2014.0,tm155098,4.0,tous publics,https://www.netflix.com/title/70299855,Netflix,13+,"'us', 'cn', 'hk'"
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,https://www.netflix.com/title/287357,Netflix,13+,"'us', 'gb'"
+tt7991608,Red Notice,movie,"Action, Comedy, Thriller",6.3,339951.0,2021.0,tm404856,1.0,13::(self-applied),https://www.netflix.com/title/81161626,Netflix,13+,"'us', 'gb', 'sg', 'it', 'th', 'ca'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,https://www.netflix.com/title/80169498,Netflix,13+,"'br', 'fr', 'it', 'us'"
+tt0944835,Salt,movie,"Action, Thriller",6.5,337410.0,2010.0,tm87132,1.0,tous publics avec avertissement,https://www.netflix.com/title/70118402,Netflix,16+,'us'
+tt5727208,Uncut Gems,movie,"Crime, Drama, Thriller",7.4,334995.0,2019.0,tm366227,1.0,16::(self-applied),https://www.netflix.com/title/80990663,Netflix,16+,'us'
+tt4034228,Manchester by the Sea,movie,Drama,7.8,334125.0,2016.0,tm233523,3.0,tous publics,https://www.netflix.com/title/80097527,Netflix,13+,'us'
+tt7349950,It Chapter Two,movie,"Drama, Fantasy, Horror",6.5,324231.0,2019.0,tm348986,3.0,12,https://www.netflix.com/title/81081050,Netflix,16+,"'us', 'ca'"
+tt9243946,El Camino,movie,"Crime, Drama, Thriller",7.3,316883.0,2019.0,tm827648,1.0,16::(self-applied),https://www.netflix.com/title/81078819,Netflix,16+,'us'
+tt0077631,Grease,movie,"Comedy, Musical, Romance",7.2,314699.0,1978.0,tm17823,5.0,tous publics,https://www.netflix.com/title/60000577,Netflix,10+,'us'
+tt0783233,Atonement,movie,"Drama, Mystery, Romance",7.8,314282.0,2007.0,tm75465,5.0,tous publics,https://www.netflix.com/title/70059993,Netflix,16+,"'gb', 'fr', 'us'"
+tt0170016,How the Grinch Stole Christmas,movie,"Comedy, Family, Fantasy",6.4,312499.0,2000.0,tm20110,1.0,tous publics,https://www.netflix.com/title/60000901,Netflix,Tous publics,"'de', 'us'"
+tt8228288,The Platform,movie,"Horror, Mystery, Sci-Fi",7.0,307401.0,2019.0,tm824398,1.0,18::(streaming rating),https://www.netflix.com/title/81128579,Netflix,18+,'es'
+tt0450385,1408,movie,"Fantasy, Horror, Mystery",6.8,304637.0,2007.0,tm70179,2.0,tous publics avec avertissement,https://www.netflix.com/title/70058020,Netflix,16+,'us'
+tt0195714,Final Destination,movie,"Horror, Thriller",6.7,303774.0,2000.0,tm25160,1.0,12,https://www.netflix.com/title/60000393,Netflix,16+,"'us', 'ca'"
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,https://www.netflix.com/title/81198904,Netflix,13+,'us'
+tt1817273,The Place Beyond the Pines,movie,"Crime, Drama, Thriller",7.3,299740.0,2012.0,tm62008,2.0,tous publics,https://www.netflix.com/title/70241757,Netflix,16+,'us'
+tt0837562,Hotel Transylvania,movie,"Animation, Comedy, Family",7.0,297404.0,2012.0,tm69164,1.0,tous publics,https://www.netflix.com/title/70220028,Netflix,7+,"'us', 'ca'"
+tt1375670,Grown Ups,movie,Comedy,6.0,295339.0,2010.0,tm93055,1.0,tous publics,https://www.netflix.com/title/70125231,Netflix,13+,'us'
+tt10838180,The Matrix Resurrections,movie,"Action, Sci-Fi",5.6,293356.0,2021.0,tm827124,3.0,tous publics,https://www.netflix.com/title/81475316,Netflix,16+,"'us', 'au'"
+tt2381941,Focus,movie,"Comedy, Crime, Drama",6.6,286474.0,2015.0,tm139918,3.0,tous publics,https://www.netflix.com/title/80015343,Netflix,13+,"'us', 'ar'"
+tt0119643,Meet Joe Black,movie,"Drama, Fantasy, Romance",7.2,283066.0,1998.0,tm49453,3.0,tous publics,https://www.netflix.com/title/5670418,Netflix,13+,'us'
+tt1464335,Uncharted,movie,"Action, Adventure",6.3,282570.0,2022.0,tm206726,1.0,tous publics,https://www.netflix.com/title/81199140,Netflix,16+,"'es', 'us'"
+tt11138512,The Northman,movie,"Action, Adventure, Drama",7.0,279273.0,2022.0,tm1042649,1.0,12 avec avertissement,https://www.netflix.com/title/81502485,Netflix,16+,"'gb', 'cn', 'us'"
+tt0252866,American Pie 2,movie,Comedy,6.4,279008.0,2001.0,tm43292,3.0,tous publics,https://www.netflix.com/title/60021044,Netflix,16+,'us'
+tt8936646,Extraction,movie,"Action, Crime, Thriller",6.8,278369.0,2020.0,tm496322,1.0,18::(self-applied),https://www.netflix.com/title/80230399,Netflix,16+,"'us', 'in'"
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,https://www.netflix.com/title/81165134,Netflix,16+,"'us', 'gb'"
+tt1016150,All Quiet on the Western Front,movie,"Drama, History, War",7.8,274139.0,2022.0,tm57755,1.0,16::(self-applied),https://www.netflix.com/title/81260280,Netflix,16+,"'de', 'us', 'gb'"
+tt2293640,Minions,movie,"Adventure, Animation, Comedy",6.4,273296.0,2015.0,tm137837,2.0,tous publics,https://www.netflix.com/title/80033394,Netflix,7+,"'us', 'fr'"
+tt1401152,Unknown,movie,"Action, Mystery, Thriller",6.8,273272.0,2011.0,tm167232,1.0,tous publics,https://www.netflix.com/title/70139387,Netflix,16+,"'us', 'de', 'gb', 'fr', 'jp', 'ca'"
+tt0844471,Cloudy with a Chance of Meatballs,movie,"Adventure, Animation, Comedy",6.9,272193.0,2009.0,tm150260,1.0,tous publics,https://www.netflix.com/title/70113007,Netflix,Tous publics,'us'
+tt2935510,Ad Astra,movie,"Adventure, Drama, Mystery",6.5,270392.0,2019.0,tm266641,2.0,tous publics,https://www.netflix.com/title/81010971,Netflix,13+,"'us', 'cn', 'br'"
+tt3281548,Little Women,movie,"Drama, Romance",7.8,267306.0,2019.0,tm424851,1.0,tous publics,https://www.netflix.com/title/81140933,Netflix,7+,'us'
+tt1243957,The Tourist,movie,"Action, Thriller",6.0,263396.0,2010.0,tm101347,1.0,tous publics,https://www.netflix.com/title/70142888,Netflix,13+,"'gb', 'fr', 'it', 'us'"
+tt0117381,Primal Fear,movie,"Crime, Drama, Mystery",7.7,261017.0,1996.0,tm106239,4.0,tous publics,https://www.netflix.com/title/873159,Netflix,13+,'us'
+tt1649418,The Gray Man,movie,"Action, Mystery, Thriller",6.5,258234.0,2022.0,tm1080445,1.0,13::(self-applied),https://www.netflix.com/title/81160697,Netflix,13+,"'us', 'cz', 'gb', 'ca', 'th', 'dk', 'fr', 'kh', 'vn'"
+tt0103874,Dracula,movie,"Fantasy, Horror, Romance",7.4,256056.0,1992.0,tm125008,4.0,12,https://www.netflix.com/title/328942,Netflix,16+,"'us', 'gb'"
+tt0265208,The Girl Next Door,movie,"Comedy, Drama, Romance",6.7,252021.0,2004.0,tm85811,3.0,tous publics,https://www.netflix.com/title/60033326,Netflix,13+,'us'
+tt0299658,Chicago,movie,"Comedy, Crime, Musical",7.2,250301.0,2002.0,tm119082,1.0,tous publics,https://www.netflix.com/title/60024946,Netflix,13+,"'us', 'de'"
+tt0983193,The Adventures of Tintin,movie,"Action, Adventure, Animation",7.3,249257.0,2011.0,tm158112,3.0,tous publics,https://www.netflix.com/title/70121502,Netflix,10+,"'nz', 'us'"
+tt2637276,Ted 2,movie,Comedy,6.3,247836.0,2015.0,tm136211,2.0,tous publics avec avertissement,https://www.netflix.com/title/80031715,Netflix,16+,'us'
+tt2463208,The Adam Project,movie,"Action, Adventure, Comedy",6.7,246617.0,2022.0,tm1082564,1.0,13::(self-applied),https://www.netflix.com/title/81309354,Netflix,13+,'us'
+tt1234721,RoboCop,movie,"Action, Crime, Sci-Fi",6.1,244801.0,2014.0,tm147429,1.0,tous publics,https://www.netflix.com/title/70289948,Netflix,13+,"'us', 'ca'"
+tt2334879,White House Down,movie,"Action, Drama, Thriller",6.3,243611.0,2013.0,tm163262,1.0,tous publics,https://www.netflix.com/title/70264801,Netflix,13+,'us'
+tt0481499,The Croods,movie,"Adventure, Animation, Comedy",7.1,242570.0,2013.0,tm178627,2.0,tous publics,https://www.netflix.com/title/70143241,Netflix,7+,'us'
+tt1972591,King Arthur: Legend of the Sword,movie,"Action, Adventure, Drama",6.7,240569.0,2017.0,tm120073,3.0,tous publics,https://www.netflix.com/title/80144140,Netflix,13+,"'gb', 'us', 'in', 'ca'"
+tt0758752,Love & Other Drugs,movie,"Comedy, Drama, Romance",6.7,236185.0,2010.0,tm104892,2.0,tous publics,https://www.netflix.com/title/70128698,Netflix,16+,'us'
+tt0195685,Erin Brockovich,movie,"Biography, Drama",7.5,234302.0,2000.0,tm18936,3.0,tous publics,https://www.netflix.com/title/60000165,Netflix,13+,'us'
+tt7846844,Enola Holmes,movie,"Adventure, Crime, Drama",6.6,233534.0,2020.0,tm911973,1.0,13::(self-applied),https://www.netflix.com/title/81277950,Netflix,13+,'us'
+tt4513678,Ghostbusters: Afterlife,movie,"Adventure, Comedy, Fantasy",7.0,233146.0,2021.0,tm453762,1.0,tous publics,https://www.netflix.com/title/81489818,Netflix,13+,"'us', 'ca'"
+tt0094898,Coming to America,movie,"Comedy, Romance",7.1,232511.0,1988.0,tm53756,1.0,tous publics,https://www.netflix.com/title/391018,Netflix,10+,'us'
+tt0103772,Basic Instinct,movie,"Drama, Mystery, Thriller",7.1,232117.0,1992.0,tm123418,3.0,16,https://www.netflix.com/title/286139,Netflix,16+,"'fr', 'us', 'gb'"
+tt2709768,The Secret Life of Pets,movie,"Adventure, Animation, Comedy",6.5,227411.0,2016.0,tm203765,2.0,tous publics,https://www.netflix.com/title/80095314,Netflix,Tous publics,"'us', 'fr', 'jp'"
+tt1489889,Central Intelligence,movie,"Action, Comedy, Crime",6.3,226355.0,2016.0,tm206707,1.0,tous publics,https://www.netflix.com/title/80094318,Netflix,13+,"'us', 'cn'"
+tt0146316,Lara Croft: Tomb Raider,movie,"Action, Adventure, Fantasy",5.8,225218.0,2001.0,tm39452,1.0,tous publics,https://www.netflix.com/title/60004467,Netflix,13+,"'us', 'gb', 'jp', 'de'"
+tt2234155,The Internship,movie,Comedy,6.3,221341.0,2013.0,tm180058,4.0,tous publics,https://www.netflix.com/title/70263890,Netflix,13+,'us'
+tt1013743,Knight and Day,movie,"Action, Adventure, Comedy",6.3,218099.0,2010.0,tm91548,3.0,tous publics,https://www.netflix.com/title/70127226,Netflix,13+,'us'
+tt1155076,The Karate Kid,movie,"Action, Drama, Family",6.2,216759.0,2010.0,tm102403,1.0,tous publics,https://www.netflix.com/title/70125931,Netflix,10+,"'cn', 'hk', 'us'"
+tt0829150,Dracula Untold,movie,"Action, Drama, Fantasy",6.2,216060.0,2014.0,tm140524,1.0,tous publics avec avertissement,https://www.netflix.com/title/70305899,Netflix,16+,"'us', 'jp'"
+tt0094625,Akira,movie,"Animation, Drama, Fantasy",8.0,215881.0,1988.0,tm44887,2.0,16,https://www.netflix.com/title/60021103,Netflix,16+,'jp'
+tt0102798,Robin Hood: Prince of Thieves,movie,"Action, Adventure, Drama",6.9,215878.0,1991.0,tm10242,1.0,tous publics,https://www.netflix.com/title/60028308,Netflix,16+,'us'
+tt1560220,Zombieland: Double Tap,movie,"Action, Comedy, Horror",6.7,215627.0,2019.0,tm244188,3.0,tous publics avec avertissement,https://www.netflix.com/title/81093420,Netflix,16+,'us'
+tt3766354,The Equalizer 2,movie,"Action, Crime, Mystery",6.7,215411.0,2018.0,tm213066,1.0,12,https://www.netflix.com/title/80236390,Netflix,16+,'us'
+tt2094766,Assassin's Creed,movie,"Action, Adventure, Sci-Fi",5.6,214534.0,2016.0,tm1899,5.0,12,https://www.netflix.com/title/80117445,Netflix,13+,"'us', 'fr', 'gb', 'hk', 'tw', 'mt', 'es', 'ca'"
+tt4729430,Klaus,movie,"Adventure, Animation, Comedy",8.2,214412.0,2019.0,tm375883,1.0,7::(self-applied),https://www.netflix.com/title/80183187,Netflix,7+,"'es', 'gb', 'us', 'at', 'ca', 'fr'"
+tt0993842,Hanna,movie,"Action, Adventure, Drama",6.7,211179.0,2011.0,tm167897,3.0,tous publics::(with warning),https://www.netflix.com/title/70142823,Netflix,16+,"'us', 'gb', 'de'"
+tt1136617,The Killer,movie,"Action, Adventure, Crime",6.7,210987.0,2023.0,tm1299143,1.0,16::(netflix rating),https://www.netflix.com/title/80234448,Netflix,16+,'us'
+tt2338151,PK,movie,"Comedy, Drama, Sci-Fi",8.1,210880.0,2014.0,tm147913,1.0,13,https://www.netflix.com/title/70303496,Netflix,13+,'in'
+tt5519340,Bright,movie,"Action, Fantasy, Thriller",6.3,206150.0,2017.0,tm244307,1.0,16,https://www.netflix.com/title/80119234,Netflix,16+,"'us', 'mx', 'au', 'ca', 'in'"
+tt8106534,6 Underground,movie,"Action, Thriller",6.1,205151.0,2019.0,tm417553,1.0,16::(self-applied),https://www.netflix.com/title/81001887,Netflix,16+,"'us', 'sg', 'ca', 'cn', 'th', 'de', 'ae', 'it', 'ch', 'hu', 'fr', 'gb', 'at'"
+tt6450804,Terminator: Dark Fate,movie,"Action, Adventure, Sci-Fi",6.2,204184.0,2019.0,tm12196,2.0,tous publics avec avertissement,https://www.netflix.com/title/81104905,Netflix,16+,"'us', 'es', 'hu', 'cn'"
+tt0375912,Layer Cake,movie,"Crime, Drama, Thriller",7.2,202462.0,2004.0,tm81909,3.0,12,https://www.netflix.com/title/70020730,Netflix,16+,"'gb', 'us'"
+tt1446192,Rise of the Guardians,movie,"Action, Adventure, Animation",7.2,201538.0,2012.0,tm38980,1.0,tous publics,https://www.netflix.com/title/70243449,Netflix,7+,"'us', 'in'"
+tt0385752,The Golden Compass,movie,"Adventure, Family, Fantasy",6.1,200560.0,2007.0,tm81030,3.0,tous publics,https://www.netflix.com/title/70060016,Netflix,13+,"'gb', 'us', 'ca', 'fr', 'au'"
+tt1070874,The Trial of the Chicago 7,movie,"Drama, History, Thriller",7.7,200334.0,2020.0,tm840196,1.0,16,https://www.netflix.com/title/81043755,Netflix,16+,"'us', 'gb', 'in'"
+tt10293406,The Power of the Dog,movie,"Drama, Western",6.8,200320.0,2021.0,tm674063,1.0,16,https://www.netflix.com/title/81127997,Netflix,16+,"'nz', 'gb', 'ca', 'au', 'us'"
+tt14849194,The Holdovers,movie,"Comedy, Drama",7.9,199821.0,2023.0,tm1261131,1.0,tous publics,https://www.netflix.com/title/81713296,Netflix,13+,'us'
+tt4701182,Bumblebee,movie,"Action, Adventure, Sci-Fi",6.7,199260.0,2018.0,tm272414,4.0,tous publics,https://www.netflix.com/title/81004276,Netflix,13+,"'us', 'cn'"
+tt0450278,Hostel,movie,Horror,5.9,198332.0,2005.0,tm183790,3.0,16 avec avertissement,https://www.netflix.com/title/70043240,Netflix,18+,"'us', 'cz'"
+tt0120647,Deep Impact,movie,"Action, Drama, Sci-Fi",6.3,198005.0,1998.0,tm54441,1.0,tous publics,https://www.netflix.com/title/11819345,Netflix,13+,'us'
+tt0104691,The Last of the Mohicans,movie,"Action, Adventure, Drama",7.6,197471.0,1992.0,tm124262,1.0,tous publics,https://www.netflix.com/title/686619,Netflix,16+,'us'
+tt2226417,Insidious: Chapter 2,movie,"Horror, Mystery, Thriller",6.6,196044.0,2013.0,tm180572,4.0,12,https://www.netflix.com/title/70271486,Netflix,13+,"'gb', 'ca', 'us'"
+tt0993840,Army of the Dead,movie,"Action, Adventure, Crime",5.8,195369.0,2021.0,tm456513,2.0,16,https://www.netflix.com/title/81415852,Netflix,16+,'us'
+tt2231461,Rampage,movie,"Action, Adventure, Sci-Fi",6.1,194340.0,2018.0,tm298080,4.0,tous publics avec avertissement,https://www.netflix.com/title/80216309,Netflix,13+,'us'
+tt7556122,The Old Guard,movie,"Action, Thriller",6.7,192825.0,2020.0,tm849003,1.0,16::(self-applied),https://www.netflix.com/title/81038963,Netflix,16+,"'us', 'fr', 'is', 'gb', 'ma', 'ca'"
+tt0092067,Castle in the Sky,movie,"Adventure, Animation, Family",8.0,190998.0,1986.0,tm121105,1.0,tous publics,https://www.netflix.com/title/60027393,Netflix,7+,'jp'
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,https://www.netflix.com/title/81037695,Netflix,7+,"'us', 'jp', 'gb', 'ca'"
+tt0087544,Nausicaä of the Valley of the Wind,movie,"Adventure, Animation, Sci-Fi",8.0,190759.0,1984.0,tm170523,1.0,tous publics,https://www.netflix.com/title/70019062,Netflix,10+,'jp'
+tt0389790,Bee Movie,movie,"Adventure, Animation, Comedy",6.1,188636.0,2007.0,tm79814,1.0,tous publics,https://www.netflix.com/title/70060010,Netflix,7+,"'us', 'ca'"
+tt0117008,Matilda,movie,"Comedy, Family, Fantasy",7.0,185949.0,1996.0,tm109144,1.0,tous publics,https://www.netflix.com/title/70033005,Netflix,7+,'us'
+tt3322940,Annabelle,movie,"Horror, Mystery, Thriller",5.5,184154.0,2014.0,tm157052,3.0,12,https://www.netflix.com/title/80013775,Netflix,16+,'us'
+tt4123432,Fantastic Beasts: The Secrets of Dumbledore,movie,"Adventure, Fantasy",6.2,183898.0,2022.0,tm208407,3.0,tous publics,https://www.netflix.com/title/81516447,Netflix,13+,"'gb', 'us'"
+tt0465494,Hitman,movie,"Action, Crime, Thriller",6.2,183164.0,2007.0,tm65052,1.0,unrated,https://www.netflix.com/title/70065116,Netflix,16+,"'fr', 'us', 'gb', 'tr'"
+tt3794354,Sonic the Hedgehog,movie,"Action, Adventure, Comedy",6.5,181391.0,2020.0,tm374139,4.0,tous publics,https://www.netflix.com/title/80217006,Netflix,7+,"'us', 'jp', 'ca', 'gb'"
+tt0274166,Johnny English,movie,"Action, Adventure, Comedy",6.3,180190.0,2003.0,tm129597,3.0,tous publics,https://www.netflix.com/title/60026148,Netflix,13+,"'gb', 'fr', 'mc', 'us'"
+tt1618434,Murder Mystery,movie,"Crime, Mystery, Romance",6.1,179953.0,2019.0,tm441231,1.0,13::(self-applied),https://www.netflix.com/title/80242619,Netflix,13+,"'us', 'it', 'ca'"
+tt2191701,Grown Ups 2,movie,Comedy,5.4,179852.0,2013.0,tm177048,1.0,tous publics,https://www.netflix.com/title/70267242,Netflix,13+,'us'
+tt10028196,Laal Singh Chaddha,movie,"Comedy, Drama, Romance",5.9,179622.0,2022.0,tm473703,1.0,tous publics,https://www.netflix.com/title/81318083,Netflix,13+,'in'
+tt0159097,The Virgin Suicides,movie,"Drama, Romance",7.2,179046.0,1999.0,tm46039,1.0,tous publics,https://www.netflix.com/title/60000909,Netflix,13+,'us'
+tt0832266,"Definitely, Maybe",movie,"Comedy, Drama, Romance",7.1,178542.0,2008.0,tm26708,3.0,tous publics,https://www.netflix.com/title/70075478,Netflix,13+,"'gb', 'fr', 'de', 'us'"
+tt8178634,RRR,movie,"Action, Adventure, Drama",7.8,178472.0,2022.0,tm463762,1.0,not rated,https://www.netflix.com/title/81476453,Netflix,16+,'in'
+tt0938283,The Last Airbender,movie,"Action, Adventure, Family",3.9,178433.0,2010.0,tm101053,4.0,tous publics,https://www.netflix.com/title/70119441,Netflix,13+,"'us', 'vn', 'gb', 'ca', 'dk'"
+tt0381707,White Chicks,movie,"Comedy, Crime",5.9,178211.0,2004.0,tm82145,1.0,tous publics,https://www.netflix.com/title/60034587,Netflix,13+,'us'
+tt3371366,Transformers: The Last Knight,movie,"Action, Adventure, Sci-Fi",5.2,177925.0,2017.0,tm209527,4.0,tous publics,https://www.netflix.com/title/80164399,Netflix,13+,"'us', 'cn', 'ca'"
+tt0097814,Kiki's Delivery Service,movie,"Animation, Family, Fantasy",7.8,177454.0,1989.0,tm140029,1.0,tous publics,https://www.netflix.com/title/60027106,Netflix,7+,'jp'
+tt6412452,The Ballad of Buster Scruggs,movie,"Comedy, Drama, Musical",7.2,176551.0,2018.0,tm425889,1.0,16,https://www.netflix.com/title/80200267,Netflix,16+,'us'
+tt0330793,The Punisher,movie,"Action, Crime, Drama",6.4,176155.0,2004.0,tm81297,1.0,16,https://www.netflix.com/title/60034557,Netflix,18+,"'us', 'de', 'jp'"
+tt2848292,Pitch Perfect 2,movie,"Comedy, Music",6.4,175355.0,2015.0,tm137965,1.0,tous publics,https://www.netflix.com/title/80025920,Netflix,7+,'us'
+tt0876563,Ponyo,movie,"Adventure, Animation, Comedy",7.6,175181.0,2008.0,tm35255,1.0,tous publics,https://www.netflix.com/title/70106454,Netflix,7+,'jp'
+tt6155172,Roma,movie,Drama,7.6,174231.0,2018.0,tm288499,1.0,13::(self-applied),https://www.netflix.com/title/80240715,Netflix,13+,"'mx', 'us'"
+tt0107362,Last Action Hero,movie,"Action, Adventure, Comedy",6.5,169369.0,1993.0,tm187187,3.0,tous publics,https://www.netflix.com/title/684660,Netflix,13+,'us'
+tt3469046,Despicable Me 3,movie,"Adventure, Animation, Comedy",6.3,169323.0,2017.0,tm196787,2.0,tous publics,https://www.netflix.com/title/80166314,Netflix,7+,"'us', 'fr'"
+tt0099938,Kindergarten Cop,movie,"Action, Comedy, Crime",6.3,169269.0,1990.0,tm155150,3.0,tous publics,https://www.netflix.com/title/671744,Netflix,16+,'us'
+tt21382296,Carry-On,movie,"Action, Crime, Thriller",6.5,167832.0,2024.0,tm1477112,1.0,13::(streaming rating),https://www.netflix.com/title/81476963,Netflix,13+,'us'
+tt0397535,Memoirs of a Geisha,movie,"Drama, Romance",7.3,167153.0,2005.0,tm176528,1.0,tous publics,https://www.netflix.com/title/70021662,Netflix,16+,'us'
+tt7984766,The King,movie,"Biography, Drama, History",7.3,165430.0,2019.0,tm417392,2.0,16::(self-applied),https://www.netflix.com/title/80182016,Netflix,16+,"'gb', 'hu', 'us', 'au'"
+tt5108870,Morbius,movie,"Action, Adventure, Horror",5.1,164357.0,2022.0,tm435125,1.0,tous publics avec avertissement,https://www.netflix.com/title/81198933,Netflix,13+,'us'
+tt12263384,Extraction II,movie,"Action, Crime, Thriller",7.0,163552.0,2023.0,tm1150381,1.0,7,https://www.netflix.com/title/81098494,Netflix,16+,"'cz', 'at', 'au', 'us', 'es', 'de', 'ca', 'gb'"
+tt9421570,The Guilty,movie,"Crime, Drama, Thriller",6.3,162489.0,2021.0,tm986168,1.0,13::(self-applied),https://www.netflix.com/title/81345983,Netflix,13+,'us'
+tt0101507,Boyz n the Hood,movie,"Crime, Drama",7.8,162300.0,1991.0,tm8359,1.0,12,https://www.netflix.com/title/328438,Netflix,16+,'us'
+tt16277242,Society of the Snow,movie,"Adventure, Biography, Drama",7.8,161920.0,2023.0,tm1357418,1.0,16::(self-applied),https://www.netflix.com/title/81268316,Netflix,16+,'es'
+tt7395114,The Devil All the Time,movie,"Crime, Drama, Thriller",7.1,161684.0,2020.0,tm368699,1.0,16::(self-applied),https://www.netflix.com/title/81028870,Netflix,16+,'us'
+tt5140878,Annabelle: Creation,movie,"Horror, Mystery, Thriller",6.5,159349.0,2017.0,tm244192,3.0,12,https://www.netflix.com/title/80158661,Netflix,16+,'us'
+tt0257076,S.W.A.T.,movie,"Action, Adventure, Crime",6.1,157172.0,2003.0,tm145432,1.0,tous publics,https://www.netflix.com/title/60029196,Netflix,16+,'us'
+tt0373074,Kung Fu Hustle,movie,"Action, Comedy, Fantasy",7.7,157075.0,2004.0,tm77380,1.0,tous publics,https://www.netflix.com/title/70020728,Netflix,16+,"'hk', 'cn', 'us'"
+tt0421239,Red Eye,movie,Thriller,6.4,155574.0,2005.0,tm178078,4.0,tous publics,https://www.netflix.com/title/70028900,Netflix,13+,'us'
+tt8009428,Hustle,movie,"Comedy, Drama, Sport",7.3,154814.0,2022.0,tm1126268,1.0,7::(self-applied),https://www.netflix.com/title/80242342,Netflix,10+,'us'
+tt1488606,Triple Frontier,movie,"Action, Thriller",6.5,154122.0,2019.0,tm244207,1.0,16,https://www.netflix.com/title/80192187,Netflix,16+,'us'
+tt9893250,I Care a Lot,movie,"Comedy, Crime, Drama",6.4,153869.0,2020.0,tm834851,1.0,13::(self-applied),https://www.netflix.com/title/81350429,Netflix,13+,"'us', 'gb'"
+tt2034800,The Great Wall,movie,"Action, Adventure, Fantasy",5.9,153489.0,2016.0,tm120593,1.0,tous publics,https://www.netflix.com/title/80133543,Netflix,13+,"'us', 'cn', 'hk', 'au', 'ca', 'jp'"
+tt2222042,Love and Monsters,movie,"Action, Adventure, Comedy",6.9,152955.0,2020.0,tm617100,1.0,13::(self-applied),https://www.netflix.com/title/81277430,Netflix,13+,"'ca', 'us', 'au'"
+tt2510894,Hotel Transylvania 2,movie,"Adventure, Animation, Comedy",6.6,152935.0,2015.0,tm132278,1.0,tous publics,https://www.netflix.com/title/80048061,Netflix,7+,"'us', 'ca'"
+tt1939659,Carrie,movie,"Drama, Horror, Thriller",5.8,152290.0,2013.0,tm181452,1.0,12,https://www.netflix.com/title/70251537,Netflix,16+,'us'
+tt1086772,Blended,movie,"Comedy, Romance",6.5,151940.0,2014.0,tm152025,1.0,tous publics,https://www.netflix.com/title/70298250,Netflix,13+,'us'
+tt5886046,Escape Room,movie,"Action, Adventure, Horror",6.4,151245.0,2019.0,tm413279,3.0,tous publics avec avertissement,https://www.netflix.com/title/81001691,Netflix,13+,"'us', 'za'"
+tt7069210,The Conjuring: The Devil Made Me Do It,movie,"Horror, Mystery, Thriller",6.3,150827.0,2021.0,tm405069,3.0,12,https://www.netflix.com/title/81238605,Netflix,16+,'us'
+tt3874544,The Boss Baby,movie,"Adventure, Animation, Comedy",6.3,149791.0,2017.0,tm123331,2.0,tous publics,https://www.netflix.com/title/80146758,Netflix,7+,'us'
+tt4052882,The Shallows,movie,"Drama, Horror, Thriller",6.3,149518.0,2016.0,tm227535,1.0,tous publics::(with warning),https://www.netflix.com/title/80094622,Netflix,16+,'us'
+tt0325703,Lara Croft: Tomb Raider - The Cradle of Life,movie,"Action, Adventure, Fantasy",5.5,148560.0,2003.0,tm146164,1.0,tous publics,https://www.netflix.com/title/60029176,Netflix,13+,"'us', 'de', 'jp', 'gb', 'hk'"
+tt1571234,Mortal Engines,movie,"Action, Adventure, Fantasy",6.1,148206.0,2018.0,tm305414,3.0,tous publics,https://www.netflix.com/title/81002746,Netflix,13+,"'cn', 'jp', 'nz', 'us'"
+tt3316960,Still Alice,movie,Drama,7.5,147246.0,2014.0,tm149150,1.0,tous publics,https://www.netflix.com/title/70301350,Netflix,13+,"'us', 'gb', 'fr'"
+tt0385880,Monster House,movie,"Animation, Comedy, Family",6.7,147151.0,2006.0,tm27268,1.0,tous publics,https://www.netflix.com/title/70044595,Netflix,7+,'us'
+tt9620288,King Richard,movie,"Biography, Drama, Sport",7.5,146886.0,2021.0,tm820276,3.0,tous publics,https://www.netflix.com/title/81039550,Netflix,13+,"'us', 'au'"
+tt0327850,The Rundown,movie,"Action, Adventure, Comedy",6.7,146527.0,2003.0,tm136145,3.0,tous publics,https://www.netflix.com/title/60031216,Netflix,13+,'us'
+tt1634122,Johnny English Reborn,movie,"Action, Adventure, Comedy",6.3,145563.0,2011.0,tm169399,4.0,tous publics,https://www.netflix.com/title/70184054,Netflix,13+,"'gb', 'fr', 'us'"
+tt2631186,Baahubali: The Beginning,movie,"Action, Drama",8.0,144843.0,2015.0,tm137002,1.0,tous publics,https://www.netflix.com/title/82031153,Netflix,16+,'in'
+tt1034032,Gamer,movie,"Action, Sci-Fi, Thriller",5.7,141935.0,2009.0,tm132647,2.0,12,https://www.netflix.com/title/70111118,Netflix,16+,'us'
+tt8404614,The Two Popes,movie,"Biography, Comedy, Drama",7.6,141753.0,2019.0,tm435520,1.0,13::(self-applied),https://www.netflix.com/title/80174451,Netflix,13+,"'gb', 'it', 'ar', 'us'"
+tt0918927,Doubt,movie,"Drama, Mystery",7.5,141722.0,2008.0,tm54146,5.0,tous publics,https://www.netflix.com/title/70100377,Netflix,13+,'us'
+tt9495224,Black Mirror: Bandersnatch,movie,"Drama, Fantasy, Mystery",7.1,141087.0,2018.0,tm449070,1.0,16,https://www.netflix.com/title/80988062,Netflix,16+,"'gb', 'us'"
+tt0251075,Evolution,movie,"Comedy, Sci-Fi",6.1,139541.0,2001.0,tm37483,1.0,tous publics,https://www.netflix.com/title/60004471,Netflix,13+,'us'
+tt0453451,Mr. Bean's Holiday,movie,"Comedy, Family",6.4,138314.0,2007.0,tm78919,4.0,tous publics,https://www.netflix.com/title/70060002,Netflix,13+,"'gb', 'fr', 'de', 'us'"
+tt3967856,Okja,movie,"Action, Adventure, Drama",7.3,137683.0,2017.0,tm244174,1.0,13::(self-applied),https://www.netflix.com/title/80091936,Netflix,13+,"'kr', 'us'"
+tt1489887,Booksmart,movie,Comedy,7.1,136569.0,2019.0,tm460712,1.0,13::(self-applied),https://www.netflix.com/title/81061054,Netflix,13+,'us'
+tt3748172,Gerald's Game,movie,"Drama, Horror, Thriller",6.5,136187.0,2017.0,tm266666,1.0,16::(self-applied),https://www.netflix.com/title/80128722,Netflix,16+,'us'
+tt7979580,The Mitchells vs. the Machines,movie,"Adventure, Animation, Comedy",7.6,134788.0,2021.0,tm370144,1.0,7::(self-applied),https://www.netflix.com/title/81399614,Netflix,7+,"'hk', 'ca', 'us'"
+tt0245574,Y tu mamá también,movie,Drama,7.7,134597.0,2001.0,tm34019,1.0,12,https://www.netflix.com/title/60023237,Netflix,16+,'mx'
+tt14138650,The Pale Blue Eye,movie,"Crime, Horror, Mystery",6.6,133274.0,2022.0,tm1174318,1.0,16::(self-applied),https://www.netflix.com/title/81444818,Netflix,16+,'us'
+tt3846674,To All the Boys I've Loved Before,movie,"Comedy, Drama, Romance",7.0,132613.0,2018.0,tm410435,1.0,7::(self-applied),https://www.netflix.com/title/80203147,Netflix,10+,'us'
+tt5638642,The Ritual,movie,"Horror, Mystery, Thriller",6.4,131615.0,2017.0,tm287684,1.0,16,https://www.netflix.com/title/80217312,Netflix,16+,"'gb', 'ca'"
+tt0216216,The 6th Day,movie,"Action, Mystery, Sci-Fi",5.9,130880.0,2000.0,tm25166,1.0,tous publics,https://www.netflix.com/title/60001393,Netflix,13+,'us'
+tt1389072,Downsizing,movie,"Drama, Fantasy, Sci-Fi",5.8,130643.0,2017.0,tm204157,1.0,tous publics,https://www.netflix.com/title/80192836,Netflix,13+,"'us', 'no'"
+tt7401588,Instant Family,movie,"Comedy, Drama",7.3,127593.0,2018.0,tm362169,1.0,tous publics,https://www.netflix.com/title/81018383,Netflix,10+,'us'
+tt1981128,Geostorm,movie,"Action, Sci-Fi, Thriller",5.3,127212.0,2017.0,tm120595,1.0,tous publics,https://www.netflix.com/title/80185871,Netflix,13+,"'us', 'hk', 'jp', 'ae'"
+tt0822847,Priest,movie,"Action, Fantasy, Horror",5.7,126701.0,2011.0,tm166662,1.0,tous publics avec avertissement,https://www.netflix.com/title/70126979,Netflix,16+,'us'
+tt8721424,"tick, tick... BOOM!",movie,"Biography, Comedy, Drama",7.5,124713.0,2021.0,tm979026,1.0,13::(self-applied),https://www.netflix.com/title/81149184,Netflix,13+,'us'
+tt11233960,The Unforgivable,movie,"Crime, Drama, Mystery",7.1,123769.0,2021.0,tm1092864,1.0,13::(self-applied),https://www.netflix.com/title/81028975,Netflix,13+,"'gb', 'de', 'us'"
+tt0467200,The Other Boleyn Girl,movie,"Biography, Drama, History",6.7,123701.0,2008.0,tm31187,1.0,tous publics,https://www.netflix.com/title/70083114,Netflix,16+,"'gb', 'us'"
+tt4849438,Baahubali 2: The Conclusion,movie,"Action, Drama",8.2,123533.0,2017.0,tm221953,1.0,tous publics,https://www.netflix.com/title/80203998,Netflix,16+,'in'
+tt15325794,Fall,movie,"Action, Thriller",6.4,122588.0,2022.0,tm1221988,1.0,12,https://www.netflix.com/title/81619345,Netflix,16+,"'gb', 'us'"
+tt2304933,The 5th Wave,movie,"Action, Adventure, Sci-Fi",5.2,121864.0,2016.0,tm1837,1.0,tous publics avec avertissement,https://www.netflix.com/title/80067831,Netflix,13+,"'gb', 'us'"
+tt0425123,Just Like Heaven,movie,"Comedy, Drama, Fantasy",6.7,121749.0,2005.0,tm169949,5.0,tous publics,https://www.netflix.com/title/70032592,Netflix,7+,'us'
+tt0116213,Eraser,movie,"Action, Crime, Thriller",6.2,121353.0,1996.0,tm111163,1.0,tous publics avec avertissement,https://www.netflix.com/title/478675,Netflix,16+,'us'
+tt1488589,Guillermo del Toro's Pinocchio,movie,"Adventure, Animation, Drama",7.6,120549.0,2022.0,tm438816,1.0,7::(self-applied),https://www.netflix.com/title/80218455,Netflix,10+,"'us', 'mx', 'fr'"
+tt1860353,Turbo,movie,"Adventure, Animation, Comedy",6.4,118219.0,2013.0,tm177357,1.0,tous publics,https://www.netflix.com/title/70267728,Netflix,7+,"'us', 'in'"
+tt2548396,The Cloverfield Paradox,movie,"Horror, Sci-Fi, Thriller",5.5,117184.0,2018.0,tm239286,1.0,16::(netflix self-rating),https://www.netflix.com/title/80134431,Netflix,16+,'us'
+tt4465564,Fifty Shades Darker,movie,"Drama, Mystery, Romance",4.6,116855.0,2017.0,tm209407,3.0,12,https://www.netflix.com/title/80131194,Netflix,16+,"'us', 'cn', 'jp'"
+tt3811906,Malignant,movie,"Crime, Horror, Mystery",6.2,116767.0,2021.0,tm826359,3.0,12 avec avertissement,https://www.netflix.com/title/81083904,Netflix,18+,"'us', 'cn'"
+tt4225622,The Babysitter,movie,"Comedy, Horror",6.4,115642.0,2017.0,tm280828,1.0,16::(self-applied),https://www.netflix.com/title/80164456,Netflix,16+,'us'
+tt1433108,Faster,movie,"Action, Crime, Drama",6.4,115062.0,2010.0,tm103390,1.0,12,https://www.netflix.com/title/70140907,Netflix,16+,'us'
+tt0313542,Runaway Jury,movie,"Crime, Drama, Thriller",7.1,115044.0,2003.0,tm136858,3.0,tous publics,https://www.netflix.com/title/60031241,Netflix,13+,'us'
+tt0138749,The Road to El Dorado,movie,"Adventure, Animation, Comedy",6.9,113592.0,2000.0,tm24888,1.0,tous publics,https://www.netflix.com/title/60000171,Netflix,7+,"'us', 'ca', 'fr'"
+tt4589218,Five Nights at Freddy's,movie,"Horror, Mystery, Thriller",5.4,112696.0,2023.0,tm428148,1.0,12,https://www.netflix.com/title/81760511,Netflix,16+,'us'
+tt0109444,Clear and Present Danger,movie,"Action, Crime, Drama",6.9,112406.0,1994.0,tm119004,4.0,tous publics,https://www.netflix.com/title/382460,Netflix,13+,"'us', 'ca'"
+tt0298814,The Core,movie,"Action, Adventure, Sci-Fi",5.5,111364.0,2003.0,tm130860,1.0,tous publics,https://www.netflix.com/title/60024918,Netflix,13+,"'us', 'fr', 'gb', 'it'"
+tt1568921,The Secret World of Arrietty,movie,"Adventure, Animation, Drama",7.6,111282.0,2010.0,tm102394,1.0,tous publics,https://www.netflix.com/title/70216227,Netflix,7+,'jp'
+tt0386140,The Legend of Zorro,movie,"Action, Adventure, Romance",6.0,111281.0,2005.0,tm185635,1.0,tous publics,https://www.netflix.com/title/70021656,Netflix,13+,'us'
+tt10370710,The Worst Person in the World,movie,"Comedy, Drama, Romance",7.7,111047.0,2021.0,tm941023,1.0,tous publics,https://www.netflix.com/title/81496922,Netflix,13+,"'no', 'fr', 'se', 'dk'"
+tt1985949,The Angry Birds Movie,movie,"Action, Adventure, Animation",6.3,110993.0,2016.0,tm1845,1.0,tous publics,https://www.netflix.com/title/80091938,Netflix,7+,"'us', 'fi'"
+tt14641788,Enola Holmes 2,movie,"Action, Adventure, Crime",6.8,110391.0,2022.0,tm1107591,1.0,13::(self-applied),https://www.netflix.com/title/81406219,Netflix,13+,'us'
+tt0879870,Eat Pray Love,movie,"Biography, Drama, Romance",5.8,110333.0,2010.0,tm97072,1.0,tous publics,https://www.netflix.com/title/70130445,Netflix,13+,'us'
+tt0104652,Porco Rosso,movie,"Adventure, Animation, Comedy",7.7,109762.0,1992.0,tm128586,1.0,tous publics,https://www.netflix.com/title/70019060,Netflix,13+,'jp'
+tt1860242,The Highwaymen,movie,"Biography, Crime, Drama",6.9,109631.0,2019.0,tm420826,1.0,16::(self-applied),https://www.netflix.com/title/80200571,Netflix,16+,'us'
+tt2241351,Money Monster,movie,"Action, Crime, Drama",6.5,109519.0,2016.0,tm218972,1.0,tous publics,https://www.netflix.com/title/80084089,Netflix,13+,'us'
+tt0172493,"Girl, Interrupted",movie,"Biography, Drama",7.3,224420.0,1999.0,tm44402,1.0,tous publics,https://www.netflix.com/title/60000428,Netflix,16+,"'us', 'de'"
+tt2481498,"Extremely Wicked, Shockingly Evil and Vile",movie,"Biography, Crime, Drama",6.7,109052.0,2019.0,tm444017,1.0,16,https://www.netflix.com/title/81028570,Netflix,16+,'us'
+tt0345950,The SpongeBob SquarePants Movie,movie,"Adventure, Animation, Comedy",7.2,107919.0,2004.0,tm79916,4.0,tous publics,https://www.netflix.com/title/70011204,Netflix,7+,"'us', 'au', 'kr'"

@@ -1,0 +1,29 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,https://www.netflix.com/title/81092221,Netflix,16+,"'us', 'ca', 'au'"
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,https://www.mycanal.fr/cinema/joker/h/40442394_50889,MyCanal,-16,"'us', 'ca', 'au'"
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,https://www.netflix.com/title/60010110,Netflix,13+,'us'
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,https://www.mycanal.fr/cinema/retour-vers-le-futur/h/40524283_50889,MyCanal,-10,'us'
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,https://www.netflix.com/title/70056440,Netflix,18+,"'us', 'ca', 'bg'"
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,https://www.mycanal.fr/cinema/300/h/40415518_50889,MyCanal,-16,"'us', 'ca', 'bg'"
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,https://www.netflix.com/title/81198930,Netflix,13+,"'us', 'gb'"
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,https://www.mycanal.fr/cinema/tenet/h/40607200_50889,MyCanal,-12,"'us', 'gb'"
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,https://www.mycanal.fr/cinema/retour-vers-le-futur-ii/h/40524280_50889,MyCanal,-10,'us'
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,https://www.netflix.com/title/60010111,Netflix,13+,'us'
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,https://www.mycanal.fr/cinema/aquaman/h/40442398_50889,MyCanal,-12,'us'
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,https://www.netflix.com/title/81004278,Netflix,13+,'us'
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,https://www.mycanal.fr/cinema/justice-league/h/40442403_50889,MyCanal,-12,"'us', 'ca', 'gb'"
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,https://www.netflix.com/title/80187362,Netflix,13+,"'us', 'ca', 'gb'"
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,https://www.netflix.com/title/81414001,Netflix,16+,'us'
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/the-suicide-squad/h/40607199_50889,MyCanal,-16,'us'
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,https://www.mycanal.fr/cinema/kong-skull-island/h/40439264_50889,MyCanal,-12,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,https://www.netflix.com/title/80139562,Netflix,13+,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,https://www.netflix.com/title/287357,Netflix,13+,"'us', 'gb'"
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,https://www.mycanal.fr/cinema/batman-le-defi/h/40422165_50889,MyCanal,-12,"'us', 'gb'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,https://www.netflix.com/title/80169498,Netflix,13+,"'br', 'fr', 'it', 'us'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,https://www.mycanal.fr/cinema/call-me-by-your-name/h/40524275_50889,MyCanal,-12,"'br', 'fr', 'it', 'us'"
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,https://www.netflix.com/title/81198904,Netflix,13+,'us'
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,https://www.mycanal.fr/cinema/wonder-woman-1984/h/40606596_50889,MyCanal,-10,'us'
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,https://www.netflix.com/title/81165134,Netflix,16+,"'us', 'gb'"
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,https://www.mycanal.fr/cinema/birds-of-prey-et-la-fantabuleuse-histoire-dharley-quinn/h/40445868_50889,MyCanal,-16,"'us', 'gb'"
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,https://www.netflix.com/title/81037695,Netflix,7+,"'us', 'jp', 'gb', 'ca'"
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,https://www.mycanal.fr/cinema/pokemon-detective-pikachu/h/40439371_50889,MyCanal,-10,"'us', 'jp', 'gb', 'ca'"

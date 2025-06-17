@@ -1,0 +1,255 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt0816692,Interstellar,movie,"Adventure, Drama, Sci-Fi",8.7,2345627.0,2014.0,tm157099,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b4a9f7c6-5def-7e63-9aa7-df38a479333e,Prime Video,16+,"'us', 'gb', 'ca'"
+tt0816692,Interstellar,movie,"Adventure, Drama, Sci-Fi",8.7,2345627.0,2014.0,tm157099,3.0,tous publics,https://www.netflix.com/title/70305903,Netflix,13+,"'us', 'gb', 'ca'"
+tt0172495,Gladiator,movie,"Action, Adventure, Drama",8.5,1760458.0,2000.0,tm28142,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2a9f680-2275-2949-77fd-e67f07b680f0,Prime Video,16+,"'us', 'gb', 'mt', 'ma'"
+tt0172495,Gladiator,movie,"Action, Adventure, Drama",8.5,1760458.0,2000.0,tm28142,4.0,tous publics avec avertissement,https://www.netflix.com/title/60000929,Netflix,16+,"'us', 'gb', 'mt', 'ma'"
+tt0172495,Gladiator,movie,"Action, Adventure, Drama",8.5,1760458.0,2000.0,tm28142,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5d60cc03-f2ec-4bcc-98d4-3437070f9c52,Prime Video,16+,"'us', 'gb', 'mt', 'ma'"
+tt0361748,Inglourious Basterds,movie,"Adventure, Drama, War",8.4,1683117.0,2009.0,tm143861,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.98a9f666-bdba-0a81-d19a-1d748b0eb0f2,Prime Video,16+,"'us', 'de'"
+tt0361748,Inglourious Basterds,movie,"Adventure, Drama, War",8.4,1683117.0,2009.0,tm143861,3.0,12,https://www.netflix.com/title/70108777,Netflix,18+,"'us', 'de'"
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b6ca92-491f-bc5b-9da4-30916bb6e8a0,Prime Video,16+,"'us', 'ca', 'au'"
+tt7286456,Joker,movie,"Crime, Drama, Thriller",8.3,1608975.0,2019.0,tm349873,4.0,12 avec avertissement,https://www.netflix.com/title/81092221,Netflix,16+,"'us', 'ca', 'au'"
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6a9f675-7a13-b722-23c9-82a4a4794997,Prime Video,16+,'us'
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1378029.0,1985.0,tm129449,4.0,tous publics,https://www.netflix.com/title/60010110,Netflix,13+,'us'
+tt0103064,Terminator 2: Judgment Day,movie,"Action, Adventure, Sci-Fi",8.6,1232823.0,1991.0,tm8613,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b99522c-31b4-4517-8373-77475d212482,Prime Video,18+,"'us', 'fr'"
+tt0103064,Terminator 2: Judgment Day,movie,"Action, Adventure, Sci-Fi",8.6,1232823.0,1991.0,tm8613,3.0,tous publics,https://www.netflix.com/title/60028202,Netflix,16+,"'us', 'fr'"
+tt0082971,Raiders of the Lost Ark,movie,"Action, Adventure",8.4,1074423.0,1981.0,tm128131,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6a9f681-b6b3-3529-df39-ed8e952c018f,Prime Video,7+,'us'
+tt0082971,Raiders of the Lost Ark,movie,"Action, Adventure",8.4,1074423.0,1981.0,tm128131,3.0,tous publics,https://www.netflix.com/title/60011649,Netflix,13+,'us'
+tt0086250,Scarface,movie,"Crime, Drama",8.3,965909.0,1983.0,tm59031,2.0,12::(new rating),https://www.netflix.com/title/60029681,Netflix,16+,'us'
+tt0086250,Scarface,movie,"Crime, Drama",8.3,965909.0,1983.0,tm59031,2.0,12::(new rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.eea9f7a6-e811-aca8-d842-26763afc4336,Prime Video,18+,'us'
+tt1160419,Dune: Part One,movie,"Action, Adventure, Drama",8.0,956824.0,2021.0,tm305113,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5d2e7c28-b2a0-4b22-9688-a1f926794734,Prime Video,13+,"'us', 'ca'"
+tt1160419,Dune: Part One,movie,"Action, Adventure, Drama",8.0,956824.0,2021.0,tm305113,3.0,tous publics,https://www.netflix.com/title/81199139,Netflix,13+,"'us', 'ca'"
+tt0145487,Spider-Man,movie,"Action, Adventure, Sci-Fi",7.4,923817.0,2002.0,tm109418,4.0,tous publics,https://www.netflix.com/title/60004481,Netflix,13+,'us'
+tt0145487,Spider-Man,movie,"Action, Adventure, Sci-Fi",7.4,923817.0,2002.0,tm109418,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea9f6bc-f205-6fb2-bfef-2a99f8a81a41,Prime Video,13+,'us'
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,https://www.netflix.com/title/70056440,Netflix,18+,"'us', 'ca', 'bg'"
+tt0416449,300,movie,"Action, Drama",7.6,891017.0,2006.0,tm33514,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.864c9b25-b66c-4af3-9c3c-b9850aadf67f,Prime Video,18+,"'us', 'ca', 'bg'"
+tt1119646,The Hangover,movie,Comedy,7.7,887374.0,2009.0,tm137072,3.0,tous publics,https://www.netflix.com/title/70113002,Netflix,16+,"'us', 'de'"
+tt1119646,The Hangover,movie,Comedy,7.7,887374.0,2009.0,tm137072,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aa9f78c-174c-4802-e41f-435d7b50645b,Prime Video,18+,"'us', 'de'"
+tt1877830,The Batman,movie,"Action, Crime, Drama",7.8,871135.0,2022.0,tm244142,3.0,tous publics avec avertissement,https://www.netflix.com/title/81500601,Netflix,13+,'us'
+tt1877830,The Batman,movie,"Action, Crime, Drama",7.8,871135.0,2022.0,tm244142,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f50f8c44-66ba-4e83-94bb-82fb40c52159,Prime Video,TOUS PUBLICS,'us'
+tt0097576,Indiana Jones and the Last Crusade,movie,"Action, Adventure",8.2,838705.0,1989.0,tm140316,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.28a9f67c-1e56-0b41-3c90-3b6966bbbaa2,Prime Video,7+,'us'
+tt0097576,Indiana Jones and the Last Crusade,movie,"Action, Adventure",8.2,838705.0,1989.0,tm140316,3.0,tous publics,https://www.netflix.com/title/60010487,Netflix,13+,'us'
+tt2543164,Arrival,movie,"Drama, Mystery, Sci-Fi",7.9,817556.0,2016.0,tm205861,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ec9ee35c-ddca-44bf-a5af-52e681627b8c,Prime Video,13+,"'us', 'ca'"
+tt2543164,Arrival,movie,"Drama, Mystery, Sci-Fi",7.9,817556.0,2016.0,tm205861,4.0,tous publics,https://www.netflix.com/title/80117799,Netflix,13+,"'us', 'ca'"
+tt1285016,The Social Network,movie,"Biography, Drama",7.8,790606.0,2010.0,tm86803,5.0,tous publics,https://www.netflix.com/title/70132721,Netflix,13+,'us'
+tt1285016,The Social Network,movie,"Biography, Drama",7.8,790606.0,2010.0,tm86803,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bca9f7a2-28a5-0078-5aa9-a7e7e3286e37,Prime Video,13+,'us'
+tt0126029,Shrek,movie,"Adventure, Animation, Comedy",7.9,773634.0,2001.0,tm50314,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7,Prime Video,7+,'us'
+tt0126029,Shrek,movie,"Adventure, Animation, Comedy",7.9,773634.0,2001.0,tm50314,2.0,tous publics,https://www.netflix.com/title/60020686,Netflix,7+,'us'
+tt1386697,Suicide Squad,movie,"Action, Adventure, Fantasy",5.9,741205.0,2016.0,tm122844,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8ab1895-678a-a99c-07b3-d43a42d684ab,Prime Video,13+,'us'
+tt1386697,Suicide Squad,movie,"Action, Adventure, Fantasy",5.9,741205.0,2016.0,tm122844,4.0,tous publics avec avertissement,https://www.netflix.com/title/80091595,Netflix,16+,'us'
+tt0948470,The Amazing Spider-Man,movie,"Action, Sci-Fi",6.9,733592.0,2012.0,tm44730,3.0,tous publics,https://www.netflix.com/title/70208599,Netflix,13+,'us'
+tt0948470,The Amazing Spider-Man,movie,"Action, Sci-Fi",6.9,733592.0,2012.0,tm44730,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.81e17713-d5cb-4441-99fa-64fa0637f2cf,Prime Video,TOUS PUBLICS,'us'
+tt0451279,Wonder Woman,movie,"Action, Adventure, Fantasy",7.3,720040.0,2017.0,tm11937,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.20ba67f5-40a6-93b9-db8b-8e55e26a9f0f,Prime Video,16+,"'us', 'cn', 'hk'"
+tt0451279,Wonder Woman,movie,"Action, Adventure, Fantasy",7.3,720040.0,2017.0,tm11937,3.0,tous publics,https://www.netflix.com/title/80157091,Netflix,13+,"'us', 'cn', 'hk'"
+tt0107048,Groundhog Day,movie,"Comedy, Drama, Fantasy",8.0,716497.0,1993.0,tm182885,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6aa9f790-371c-d77c-e4a2-2539f0bbcc92,Prime Video,7+,'us'
+tt0107048,Groundhog Day,movie,"Comedy, Drama, Fantasy",8.0,716497.0,1993.0,tm182885,3.0,tous publics,https://www.netflix.com/title/563104,Netflix,10+,'us'
+tt1856101,Blade Runner 2049,movie,"Action, Drama, Mystery",8.0,713675.0,2017.0,tm239091,3.0,tous publics avec avertissement,https://www.netflix.com/title/80185760,Netflix,16+,"'us', 'ca', 'es'"
+tt1856101,Blade Runner 2049,movie,"Action, Drama, Mystery",8.0,713675.0,2017.0,tm239091,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.54af725d-4434-ea14-b98b-af121a712577,Prime Video,16+,"'us', 'ca', 'es'"
+tt0418279,Transformers,movie,"Action, Adventure, Sci-Fi",7.1,697207.0,2007.0,tm74317,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8583e7dc-16a9-4c65-b683-041145c6fc21,Prime Video,13+,'us'
+tt0418279,Transformers,movie,"Action, Adventure, Sci-Fi",7.1,697207.0,2007.0,tm74317,4.0,tous publics,https://www.netflix.com/title/70058026,Netflix,13+,'us'
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),movie,"Comedy, Drama",7.7,682235.0,2014.0,tm151077,4.0,tous publics,https://www.netflix.com/title/80000643,Netflix,13+,'us'
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),movie,"Comedy, Drama",7.7,682235.0,2014.0,tm151077,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab16ecf-2a05-dca5-d2b6-a5af3d074f6c,Prime Video,TOUS PUBLICS,'us'
+tt0162222,Cast Away,movie,"Adventure, Drama, Romance",7.8,665933.0,2000.0,tm21856,4.0,tous publics,https://www.netflix.com/title/60020683,Netflix,13+,'us'
+tt0162222,Cast Away,movie,"Adventure, Drama, Romance",7.8,665933.0,2000.0,tm21856,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeda316f-849d-4737-a6b3-81704fb3d903,Prime Video,13+,'us'
+tt1396484,It,movie,Horror,7.3,644073.0,2017.0,tm244208,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3d0249b0-bd03-4811-b56b-93d6afd9e74b,Prime Video,18+,"'us', 'ca'"
+tt1396484,It,movie,Horror,7.3,644073.0,2017.0,tm244208,3.0,12,https://www.netflix.com/title/80177770,Netflix,16+,"'us', 'ca'"
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,https://www.netflix.com/title/81198930,Netflix,13+,"'us', 'gb'"
+tt6723592,Tenet,movie,"Action, Sci-Fi, Thriller",7.3,630063.0,2020.0,tm455670,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8bb0e4e-a5af-14d4-004c-3a38fdd9ce3b,Prime Video,16+,"'us', 'gb'"
+tt1219289,Limitless,movie,"Sci-Fi, Thriller",7.4,629892.0,2011.0,tm161959,3.0,tous publics,https://www.netflix.com/title/70142827,Netflix,13+,'us'
+tt1219289,Limitless,movie,"Sci-Fi, Thriller",7.4,629892.0,2011.0,tm161959,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b4b7fc3c-0c59-00c8-2464-41d906ab8e11,Prime Video,13+,'us'
+tt0365748,Shaun of the Dead,movie,"Comedy, Horror",7.9,619159.0,2004.0,tm88828,3.0,12,https://www.netflix.com/title/70003227,Netflix,16+,"'gb', 'fr', 'us'"
+tt0365748,Shaun of the Dead,movie,"Comedy, Horror",7.9,619159.0,2004.0,tm88828,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.62a9f6c0-789b-9b1b-d4f0-491ba7b86ee6,Prime Video,16+,"'gb', 'fr', 'us'"
+tt1323594,Despicable Me,movie,"Adventure, Animation, Comedy",7.6,610283.0,2010.0,tm90485,2.0,tous publics,https://www.netflix.com/title/70115629,Netflix,7+,"'us', 'fr'"
+tt1323594,Despicable Me,movie,"Adventure, Animation, Comedy",7.6,610283.0,2010.0,tm90485,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30,Prime Video,TOUS PUBLICS,"'us', 'fr'"
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.eea9f662-516b-fa96-8e19-8998d46569dd,Prime Video,13+,'us'
+tt0096874,Back to the Future Part II,movie,"Adventure, Comedy, Sci-Fi",7.8,597992.0,1989.0,tm135347,4.0,tous publics,https://www.netflix.com/title/60010111,Netflix,13+,'us'
+tt0087469,Indiana Jones and the Temple of Doom,movie,"Action, Adventure",7.5,552309.0,1984.0,tm168802,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f66b-ffa4-2631-9ea4-f11dd2edd655,Prime Video,13+,'us'
+tt0087469,Indiana Jones and the Temple of Doom,movie,"Action, Adventure",7.5,552309.0,1984.0,tm168802,3.0,tous publics,https://www.netflix.com/title/60010488,Netflix,13+,'us'
+tt0367594,Charlie and the Chocolate Factory,movie,"Adventure, Comedy, Family",6.7,551366.0,2005.0,tm160815,5.0,tous publics,https://www.netflix.com/title/70021648,Netflix,7+,"'gb', 'us'"
+tt0367594,Charlie and the Chocolate Factory,movie,"Adventure, Comedy, Family",6.7,551366.0,2005.0,tm160815,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b07389-c8d6-45f8-4a7a-3ac58446371c,Prime Video,7+,"'gb', 'us'"
+tt0367594,Charlie and the Chocolate Factory,movie,"Adventure, Comedy, Family",6.7,551366.0,2005.0,tm160815,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4f8514ff-4499-4731-b5e5-75ce16b05596,Prime Video,7+,"'gb', 'us'"
+tt2179136,American Sniper,movie,"Action, Biography, Drama",7.3,550803.0,2014.0,tm137713,4.0,tous publics avec avertissement,https://www.netflix.com/title/80013871,Netflix,16+,'us'
+tt2179136,American Sniper,movie,"Action, Biography, Drama",7.3,550803.0,2014.0,tm137713,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ca9f685-1f7f-1d44-5cad-0472301b7d70,Prime Video,16+,'us'
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,https://www.netflix.com/title/81004278,Netflix,13+,'us'
+tt1477834,Aquaman,movie,"Action, Adventure, Fantasy",6.8,537911.0,2018.0,tm544,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6abbf101-cb31-7daa-d84b-e1867e20361f,Prime Video,16+,'us'
+tt0298148,Shrek 2,movie,"Adventure, Animation, Comedy",7.4,531385.0,2004.0,tm89680,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb0a83f-e142-e935-04c6-7793b2729dce,Prime Video,7+,'us'
+tt0298148,Shrek 2,movie,"Adventure, Animation, Comedy",7.4,531385.0,2004.0,tm89680,2.0,tous publics,https://www.netflix.com/title/60034572,Netflix,7+,'us'
+tt1677720,Ready Player One,movie,"Action, Adventure, Sci-Fi",7.4,517171.0,2018.0,tm225321,4.0,tous publics,https://www.netflix.com/title/80211726,Netflix,13+,"'us', 'in', 'sg', 'ca', 'gb', 'jp', 'au'"
+tt1677720,Ready Player One,movie,"Action, Adventure, Sci-Fi",7.4,517171.0,2018.0,tm225321,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa,Prime Video,TOUS PUBLICS,"'us', 'in', 'sg', 'ca', 'gb', 'jp', 'au'"
+tt1596363,The Big Short,movie,"Biography, Comedy, Drama",7.8,511422.0,2015.0,tm222133,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.41d9f60c-cb33-41a6-9d40-4255033868c4,Prime Video,TOUS PUBLICS,'us'
+tt1596363,The Big Short,movie,"Biography, Comedy, Drama",7.8,511422.0,2015.0,tm222133,4.0,tous publics,https://www.netflix.com/title/80075560,Netflix,13+,'us'
+tt0327056,Mystic River,movie,"Crime, Drama, Mystery",7.9,504121.0,2003.0,tm139536,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0a9f72f-4b62-a833-b954-d97a1676ad30,Prime Video,16+,"'us', 'au'"
+tt0327056,Mystic River,movie,"Crime, Drama, Mystery",7.9,504121.0,2003.0,tm139536,3.0,12,https://www.netflix.com/title/60031232,Netflix,16+,"'us', 'au'"
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,movie,"Action, Adventure",6.2,503234.0,2008.0,tm58329,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2aa9f6ce-2452-efd9-4db1-ed99bcf69657,Prime Video,16+,'us'
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,movie,"Action, Adventure",6.2,503234.0,2008.0,tm58329,3.0,tous publics,https://www.netflix.com/title/70084799,Netflix,13+,'us'
+tt0099088,Back to the Future Part III,movie,"Adventure, Comedy, Sci-Fi",7.5,500687.0,1990.0,tm156886,3.0,tous publics,https://www.netflix.com/title/60024059,Netflix,7+,'us'
+tt0099088,Back to the Future Part III,movie,"Adventure, Comedy, Sci-Fi",7.5,500687.0,1990.0,tm156886,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0eea8d28-ba31-409b-97ce-10785f77576b,Prime Video,13+,'us'
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bae105b-aead-4236-ba78-5b45abf4bd81,Prime Video,13+,"'us', 'ca', 'gb'"
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,491874.0,2017.0,tm443,4.0,tous publics,https://www.netflix.com/title/80187362,Netflix,13+,"'us', 'ca', 'gb'"
+tt1535108,Elysium,movie,"Action, Drama, Sci-Fi",6.6,482382.0,2013.0,tm168654,3.0,tous publics avec avertissement,https://www.netflix.com/title/70251536,Netflix,16+,"'us', 'ca'"
+tt1535108,Elysium,movie,"Action, Drama, Sci-Fi",6.6,482382.0,2013.0,tm168654,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6a9f65c-9b7b-c63b-2a77-97e3fcaab68b,Prime Video,16+,"'us', 'ca'"
+tt0382625,The Da Vinci Code,movie,"Mystery, Thriller",6.6,472902.0,2006.0,tm23568,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4a9f737-5bd3-f8ad-aff8-42b4cca8c96c,Prime Video,13+,"'us', 'mt', 'fr', 'gb'"
+tt0382625,The Da Vinci Code,movie,"Mystery, Thriller",6.6,472902.0,2006.0,tm23568,3.0,tous publics,https://www.netflix.com/title/70035186,Netflix,13+,"'us', 'mt', 'fr', 'gb'"
+tt0360717,King Kong,movie,"Action, Adventure, Romance",7.2,459507.0,2005.0,tm178788,3.0,tous publics avec avertissement,https://www.netflix.com/title/70021664,Netflix,16+,"'us', 'nz', 'de'"
+tt0360717,King Kong,movie,"Action, Adventure, Romance",7.2,459507.0,2005.0,tm178788,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.46a9f795-4a5d-1673-9525-cf621829c88b,Prime Video,13+,"'us', 'nz', 'de'"
+tt0455944,The Equalizer,movie,"Action, Crime, Thriller",7.3,445625.0,2014.0,tm160558,2.0,12,https://www.netflix.com/title/70305892,Netflix,16+,'us'
+tt0455944,The Equalizer,movie,"Action, Crime, Thriller",7.3,445625.0,2014.0,tm160558,2.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.64a9f694-ac15-f72f-7968-e829a9132ad5,Prime Video,13+,'us'
+tt1690953,Despicable Me 2,movie,"Adventure, Animation, Comedy",7.3,444328.0,2013.0,tm166553,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.58a9f6cc-d37f-7c76-e234-22212a166ad2,Prime Video,TOUS PUBLICS,"'us', 'fr'"
+tt1690953,Despicable Me 2,movie,"Adventure, Animation, Comedy",7.3,444328.0,2013.0,tm166553,3.0,tous publics,https://www.netflix.com/title/70264803,Netflix,7+,"'us', 'fr'"
+tt1055369,Transformers: Revenge of the Fallen,movie,"Action, Adventure, Sci-Fi",6.0,441836.0,2009.0,tm138894,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8a9f695-1d42-08dd-31fa-2bb7154629b2,Prime Video,13+,"'us', 'jo', 'gb'"
+tt1055369,Transformers: Revenge of the Fallen,movie,"Action, Adventure, Sci-Fi",6.0,441836.0,2009.0,tm138894,4.0,tous publics,https://www.netflix.com/title/70103763,Netflix,13+,"'us', 'jo', 'gb'"
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,https://www.netflix.com/title/81414001,Netflix,16+,'us'
+tt6334354,The Suicide Squad,movie,"Action, Adventure, Comedy",7.2,432867.0,2021.0,tm299698,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea1a212-e906-4112-a920-00c2ff185c7f,Prime Video,18+,'us'
+tt1409024,Men in Black³,movie,"Action, Adventure, Comedy",6.8,400729.0,2012.0,tm33253,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2a46b1e-1338-4618-943e-3b8a517d45f1,Prime Video,TOUS PUBLICS,"'ae', 'us'"
+tt1409024,Men in Black³,movie,"Action, Adventure, Comedy",6.8,400729.0,2012.0,tm33253,3.0,tous publics,https://www.netflix.com/title/70217910,Netflix,13+,"'ae', 'us'"
+tt0822854,Shooter,movie,"Action, Drama, Thriller",7.2,366637.0,2007.0,tm84371,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6abfc06-c80a-f949-e77e-9d30250be3fa,Prime Video,18+,'us'
+tt0822854,Shooter,movie,"Action, Drama, Thriller",7.2,366637.0,2007.0,tm84371,4.0,tous publics,https://www.netflix.com/title/70056430,Netflix,16+,'us'
+tt0125439,Notting Hill,movie,"Comedy, Drama, Romance",7.2,365288.0,1999.0,tm39130,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeb7ec61-f7ae-94cd-9063-ae0ed6b61072,Prime Video,16+,"'gb', 'us'"
+tt0125439,Notting Hill,movie,"Comedy, Drama, Romance",7.2,365288.0,1999.0,tm39130,3.0,tous publics,https://www.netflix.com/title/21304015,Netflix,7+,"'gb', 'us'"
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.94ad53a7-e148-2c1e-53cd-411ed1631deb,Prime Video,16+,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,363102.0,2017.0,tm123167,4.0,tous publics avec avertissement,https://www.netflix.com/title/80139562,Netflix,13+,"'us', 'cn', 'vn', 'ca', 'de', 'gb', 'sg', 'in', 'au'"
+tt0167190,Hellboy,movie,"Action, Adventure, Fantasy",6.9,361301.0,2004.0,tm92889,5.0,tous publics avec avertissement,https://www.netflix.com/title/60034549,Netflix,13+,'us'
+tt0167190,Hellboy,movie,"Action, Adventure, Fantasy",6.9,361301.0,2004.0,tm92889,5.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.40636da4-afe1-4a09-a3a0-a168c33d06a6,Prime Video,TOUS PUBLICS,'us'
+tt0167190,Hellboy,movie,"Action, Adventure, Fantasy",6.9,361301.0,2004.0,tm92889,5.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ca9f77d-1223-1840-a212-ebd87da39249,Prime Video,16+,'us'
+tt2140479,The Accountant,movie,"Action, Crime, Drama",7.3,357072.0,2016.0,tm204161,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.deabe202-93f7-5a8c-eb98-8d43d8803569,Prime Video,13+,'us'
+tt2140479,The Accountant,movie,"Action, Crime, Drama",7.3,357072.0,2016.0,tm204161,3.0,tous publics avec avertissement,https://www.netflix.com/title/80071227,Netflix,16+,'us'
+tt0414387,Pride & Prejudice,movie,"Drama, Romance",7.8,354010.0,2005.0,tm173412,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.18054696-0b1f-46c6-8904-5d66bb93f9d7,Prime Video,13+,"'gb', 'fr', 'us'"
+tt0414387,Pride & Prejudice,movie,"Drama, Romance",7.8,354010.0,2005.0,tm173412,4.0,tous publics,https://www.netflix.com/title/70032594,Netflix,13+,"'gb', 'fr', 'us'"
+tt0457939,The Holiday,movie,"Comedy, Romance",7.0,348654.0,2006.0,tm31297,3.0,tous publics,https://www.netflix.com/title/70045854,Netflix,7+,'us'
+tt0457939,The Holiday,movie,"Comedy, Romance",7.0,348654.0,2006.0,tm31297,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.98a9f772-e3d7-5f3f-a440-71a33b7a05f7,Prime Video,13+,'us'
+tt0413267,Shrek the Third,movie,"Adventure, Animation, Comedy",6.1,347648.0,2007.0,tm84301,2.0,tous publics,https://www.netflix.com/title/70047102,Netflix,7+,'us'
+tt0413267,Shrek the Third,movie,"Adventure, Animation, Comedy",6.1,347648.0,2007.0,tm84301,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.96b0a842-31ac-eedd-78ab-546a83157070,Prime Video,TOUS PUBLICS,'us'
+tt2322441,Fifty Shades of Grey,movie,"Drama, Romance, Thriller",4.2,346496.0,2015.0,tm139217,4.0,12,https://www.primevideo.com/-/fr/detail/0M2BYRCFMQ3DZS9BJLPC35AVP3/ref=share_ios_movie,Prime Video,18+,'us'
+tt2322441,Fifty Shades of Grey,movie,"Drama, Romance, Thriller",4.2,346496.0,2015.0,tm139217,4.0,12,https://www.netflix.com/title/80013872,Netflix,16+,'us'
+tt0094226,The Untouchables,movie,"Crime, Drama, Thriller",7.8,343473.0,1987.0,tm23389,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.94a9f6b1-a7dc-f284-0114-1d7aa05a26c8,Prime Video,16+,'us'
+tt0094226,The Untouchables,movie,"Crime, Drama, Thriller",7.8,343473.0,1987.0,tm23389,4.0,tous publics,https://www.netflix.com/title/60004086,Netflix,16+,'us'
+tt0190590,"O Brother, Where Art Thou?",movie,"Adventure, Comedy, Crime",7.7,341529.0,2000.0,tm23114,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7cb40d12-c7ad-bce4-3daa-b57051a1d2c1,Prime Video,13+,"'gb', 'fr', 'us'"
+tt0190590,"O Brother, Where Art Thou?",movie,"Adventure, Comedy, Crime",7.7,341529.0,2000.0,tm23114,2.0,tous publics,https://www.netflix.com/title/60002991,Netflix,13+,"'gb', 'fr', 'us'"
+tt2109248,Transformers: Age of Extinction,movie,"Action, Adventure, Sci-Fi",5.6,340862.0,2014.0,tm155098,4.0,tous publics,https://www.netflix.com/title/70299855,Netflix,13+,"'us', 'cn', 'hk'"
+tt2109248,Transformers: Age of Extinction,movie,"Action, Adventure, Sci-Fi",5.6,340862.0,2014.0,tm155098,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca9f676-315a-9d4e-d428-82cc11cc75ef,Prime Video,16+,"'us', 'cn', 'hk'"
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,https://www.netflix.com/title/287357,Netflix,13+,"'us', 'gb'"
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,339994.0,1992.0,tm128715,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ea9f68d-5c39-5b04-a47f-d2a17883dc3c,Prime Video,13+,"'us', 'gb'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.825fe455-5a7f-4f29-9505-fd634b3edc09,Prime Video,13+,"'br', 'fr', 'it', 'us'"
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,339861.0,2017.0,tm244234,4.0,tous publics,https://www.netflix.com/title/80169498,Netflix,13+,"'br', 'fr', 'it', 'us'"
+tt4034228,Manchester by the Sea,movie,Drama,7.8,334125.0,2016.0,tm233523,3.0,tous publics,https://www.netflix.com/title/80097527,Netflix,13+,'us'
+tt4034228,Manchester by the Sea,movie,Drama,7.8,334125.0,2016.0,tm233523,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ead76ad-34f1-6efc-cb00-5e7ad3d3cd07,Prime Video,16+,'us'
+tt7349950,It Chapter Two,movie,"Drama, Fantasy, Horror",6.5,324231.0,2019.0,tm348986,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.23841b88-b1cc-4bdf-894e-41325647d09f,Prime Video,18+,"'us', 'ca'"
+tt7349950,It Chapter Two,movie,"Drama, Fantasy, Horror",6.5,324231.0,2019.0,tm348986,3.0,12,https://www.netflix.com/title/81081050,Netflix,16+,"'us', 'ca'"
+tt0077631,Grease,movie,"Comedy, Musical, Romance",7.2,314699.0,1978.0,tm17823,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.66a9f705-2360-7f44-4ce1-b0fcb89d6100,Prime Video,13+,'us'
+tt0077631,Grease,movie,"Comedy, Musical, Romance",7.2,314699.0,1978.0,tm17823,5.0,tous publics,https://www.netflix.com/title/60000577,Netflix,10+,'us'
+tt0783233,Atonement,movie,"Drama, Mystery, Romance",7.8,314282.0,2007.0,tm75465,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.70a9f74b-3a79-8ded-948c-a852f304be26,Prime Video,16+,"'gb', 'fr', 'us'"
+tt0783233,Atonement,movie,"Drama, Mystery, Romance",7.8,314282.0,2007.0,tm75465,5.0,tous publics,https://www.netflix.com/title/70059993,Netflix,16+,"'gb', 'fr', 'us'"
+tt0450385,1408,movie,"Fantasy, Horror, Mystery",6.8,304637.0,2007.0,tm70179,2.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ba32b844-47d8-409d-9514-3de0e3effd5c,Prime Video,16+,'us'
+tt0450385,1408,movie,"Fantasy, Horror, Mystery",6.8,304637.0,2007.0,tm70179,2.0,tous publics avec avertissement,https://www.netflix.com/title/70058020,Netflix,16+,'us'
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,https://www.netflix.com/title/81198904,Netflix,13+,'us'
+tt7126948,Wonder Woman 1984,movie,"Action, Adventure, Fantasy",5.4,302277.0,2020.0,tm328069,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1b65247-0b98-4a4b-a21e-0d02cae1fc66,Prime Video,13+,'us'
+tt1817273,The Place Beyond the Pines,movie,"Crime, Drama, Thriller",7.3,299740.0,2012.0,tm62008,2.0,tous publics,https://www.netflix.com/title/70241757,Netflix,16+,'us'
+tt1817273,The Place Beyond the Pines,movie,"Crime, Drama, Thriller",7.3,299740.0,2012.0,tm62008,2.0,tous publics,https://www.primevideo.com/-/fr/detail/0FWMV02SAQ2OA19FQMFUJAT7M4,Prime Video,16+,'us'
+tt10838180,The Matrix Resurrections,movie,"Action, Sci-Fi",5.6,293356.0,2021.0,tm827124,3.0,tous publics,https://www.netflix.com/title/81475316,Netflix,16+,"'us', 'au'"
+tt10838180,The Matrix Resurrections,movie,"Action, Sci-Fi",5.6,293356.0,2021.0,tm827124,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce45d541-0e80-4e78-9795-abe11421bb4d,Prime Video,TOUS PUBLICS,"'us', 'au'"
+tt2381941,Focus,movie,"Comedy, Crime, Drama",6.6,286474.0,2015.0,tm139918,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dca9f6c1-54eb-5f2e-f749-167f7e4e6823,Prime Video,TOUS PUBLICS,"'us', 'ar'"
+tt2381941,Focus,movie,"Comedy, Crime, Drama",6.6,286474.0,2015.0,tm139918,3.0,tous publics,https://www.netflix.com/title/80015343,Netflix,13+,"'us', 'ar'"
+tt0119643,Meet Joe Black,movie,"Drama, Fantasy, Romance",7.2,283066.0,1998.0,tm49453,3.0,tous publics,https://www.netflix.com/title/5670418,Netflix,13+,'us'
+tt0119643,Meet Joe Black,movie,"Drama, Fantasy, Romance",7.2,283066.0,1998.0,tm49453,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6a9f7a4-47ee-3022-8e15-df36398a917c,Prime Video,13+,'us'
+tt0252866,American Pie 2,movie,Comedy,6.4,279008.0,2001.0,tm43292,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ffe0805-5556-453f-9d69-7b2044afee27,Prime Video,16+,'us'
+tt0252866,American Pie 2,movie,Comedy,6.4,279008.0,2001.0,tm43292,3.0,tous publics,https://www.netflix.com/title/60021044,Netflix,16+,'us'
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e44874e3-d0ea-4e4f-8960-03b186edfc1f,Prime Video,16+,"'us', 'gb'"
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,movie,"Action, Comedy, Crime",6.1,274211.0,2020.0,tm369261,4.0,12,https://www.netflix.com/title/81165134,Netflix,16+,"'us', 'gb'"
+tt2293640,Minions,movie,"Adventure, Animation, Comedy",6.4,273296.0,2015.0,tm137837,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6a9f691-6df4-b9aa-cf5d-d8a682106fc7,Prime Video,TOUS PUBLICS,"'us', 'fr'"
+tt2293640,Minions,movie,"Adventure, Animation, Comedy",6.4,273296.0,2015.0,tm137837,2.0,tous publics,https://www.netflix.com/title/80033394,Netflix,7+,"'us', 'fr'"
+tt0117381,Primal Fear,movie,"Crime, Drama, Mystery",7.7,261017.0,1996.0,tm106239,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a391a74-6292-407b-b475-de2522ad59d9,Prime Video,18+,'us'
+tt0117381,Primal Fear,movie,"Crime, Drama, Mystery",7.7,261017.0,1996.0,tm106239,4.0,tous publics,https://www.netflix.com/title/873159,Netflix,13+,'us'
+tt0103874,Dracula,movie,"Fantasy, Horror, Romance",7.4,256056.0,1992.0,tm125008,4.0,12,https://www.netflix.com/title/328942,Netflix,16+,"'us', 'gb'"
+tt0103874,Dracula,movie,"Fantasy, Horror, Romance",7.4,256056.0,1992.0,tm125008,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea2cbdc4-e0fa-4cd5-b967-9c949470d159,Prime Video,13+,"'us', 'gb'"
+tt0265208,The Girl Next Door,movie,"Comedy, Drama, Romance",6.7,252021.0,2004.0,tm85811,3.0,tous publics,https://www.netflix.com/title/60033326,Netflix,13+,'us'
+tt0265208,The Girl Next Door,movie,"Comedy, Drama, Romance",6.7,252021.0,2004.0,tm85811,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6aa9f797-1d6f-5c9c-252d-3e625e3c367f,Prime Video,18+,'us'
+tt0983193,The Adventures of Tintin,movie,"Action, Adventure, Animation",7.3,249257.0,2011.0,tm158112,3.0,tous publics,https://www.netflix.com/title/70121502,Netflix,10+,"'nz', 'us'"
+tt0983193,The Adventures of Tintin,movie,"Action, Adventure, Animation",7.3,249257.0,2011.0,tm158112,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b8a9f670-a316-8e88-00a9-0ae06cdd8e68,Prime Video,7+,"'nz', 'us'"
+tt2637276,Ted 2,movie,Comedy,6.3,247836.0,2015.0,tm136211,2.0,tous publics avec avertissement,https://www.netflix.com/title/80031715,Netflix,16+,'us'
+tt2637276,Ted 2,movie,Comedy,6.3,247836.0,2015.0,tm136211,2.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f72d-bd9c-0b82-bf79-927607201e17,Prime Video,13+,'us'
+tt0481499,The Croods,movie,"Adventure, Animation, Comedy",7.1,242570.0,2013.0,tm178627,2.0,tous publics,https://www.netflix.com/title/70143241,Netflix,7+,'us'
+tt0481499,The Croods,movie,"Adventure, Animation, Comedy",7.1,242570.0,2013.0,tm178627,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8c3522d5-8b76-47ca-bee3-bdd090c683d6,Prime Video,7+,'us'
+tt1972591,King Arthur: Legend of the Sword,movie,"Action, Adventure, Drama",6.7,240569.0,2017.0,tm120073,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.64aded0a-2720-21aa-2333-738246526c72,Prime Video,16+,"'gb', 'us', 'in', 'ca'"
+tt1972591,King Arthur: Legend of the Sword,movie,"Action, Adventure, Drama",6.7,240569.0,2017.0,tm120073,3.0,tous publics,https://www.netflix.com/title/80144140,Netflix,13+,"'gb', 'us', 'in', 'ca'"
+tt0103772,Basic Instinct,movie,"Drama, Mystery, Thriller",7.1,232117.0,1992.0,tm123418,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.02195578-e5df-4ecb-8ba0-9b7dd1d03825,Prime Video,13+,"'fr', 'us', 'gb'"
+tt0103772,Basic Instinct,movie,"Drama, Mystery, Thriller",7.1,232117.0,1992.0,tm123418,3.0,16,https://www.netflix.com/title/286139,Netflix,16+,"'fr', 'us', 'gb'"
+tt2709768,The Secret Life of Pets,movie,"Adventure, Animation, Comedy",6.5,227411.0,2016.0,tm203765,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.18326e21-1892-4cf4-892a-7c98e7c17c80,Prime Video,7+,"'us', 'fr', 'jp'"
+tt2709768,The Secret Life of Pets,movie,"Adventure, Animation, Comedy",6.5,227411.0,2016.0,tm203765,2.0,tous publics,https://www.netflix.com/title/80095314,Netflix,Tous publics,"'us', 'fr', 'jp'"
+tt2234155,The Internship,movie,Comedy,6.3,221341.0,2013.0,tm180058,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ea9f7a1-ac48-c0dc-543d-dd8f6f3ad8a6,Prime Video,TOUS PUBLICS,'us'
+tt2234155,The Internship,movie,Comedy,6.3,221341.0,2013.0,tm180058,4.0,tous publics,https://www.netflix.com/title/70263890,Netflix,13+,'us'
+tt1013743,Knight and Day,movie,"Action, Adventure, Comedy",6.3,218099.0,2010.0,tm91548,3.0,tous publics,https://www.netflix.com/title/70127226,Netflix,13+,'us'
+tt1013743,Knight and Day,movie,"Action, Adventure, Comedy",6.3,218099.0,2010.0,tm91548,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8a9f70c-6274-797f-c845-0ca9bebe5187,Prime Video,13+,'us'
+tt1560220,Zombieland: Double Tap,movie,"Action, Comedy, Horror",6.7,215627.0,2019.0,tm244188,3.0,tous publics avec avertissement,https://www.netflix.com/title/81093420,Netflix,16+,'us'
+tt1560220,Zombieland: Double Tap,movie,"Action, Comedy, Horror",6.7,215627.0,2019.0,tm244188,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5cb7c102-05fa-b38e-2b65-86283cbabbe9,Prime Video,16+,'us'
+tt2094766,Assassin's Creed,movie,"Action, Adventure, Sci-Fi",5.6,214534.0,2016.0,tm1899,5.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3aac8c97-6108-8835-7d14-d88b5b6841e8,Prime Video,16+,"'us', 'fr', 'gb', 'hk', 'tw', 'mt', 'es', 'ca'"
+tt2094766,Assassin's Creed,movie,"Action, Adventure, Sci-Fi",5.6,214534.0,2016.0,tm1899,5.0,12,https://www.netflix.com/title/80117445,Netflix,13+,"'us', 'fr', 'gb', 'hk', 'tw', 'mt', 'es', 'ca'"
+tt0993842,Hanna,movie,"Action, Adventure, Drama",6.7,211179.0,2011.0,tm167897,3.0,tous publics::(with warning),https://app.primevideo.com/detail?gti=amzn1.dv.gti.faa9f6cd-bfc7-43fa-49a6-1c3837b42701,Prime Video,16+,"'us', 'gb', 'de'"
+tt0993842,Hanna,movie,"Action, Adventure, Drama",6.7,211179.0,2011.0,tm167897,3.0,tous publics::(with warning),https://www.netflix.com/title/70142823,Netflix,16+,"'us', 'gb', 'de'"
+tt0375912,Layer Cake,movie,"Crime, Drama, Thriller",7.2,202462.0,2004.0,tm81909,3.0,12,https://www.netflix.com/title/70020730,Netflix,16+,"'gb', 'us'"
+tt0375912,Layer Cake,movie,"Crime, Drama, Thriller",7.2,202462.0,2004.0,tm81909,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca9f77e-6649-1259-bf89-c36e155f67c4,Prime Video,16+,"'gb', 'us'"
+tt0385752,The Golden Compass,movie,"Adventure, Family, Fantasy",6.1,200560.0,2007.0,tm81030,3.0,tous publics,https://www.netflix.com/title/70060016,Netflix,13+,"'gb', 'us', 'ca', 'fr', 'au'"
+tt0385752,The Golden Compass,movie,"Adventure, Family, Fantasy",6.1,200560.0,2007.0,tm81030,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.788220e7-8627-469f-9179-199a61988a21,Prime Video,TOUS PUBLICS,"'gb', 'us', 'ca', 'fr', 'au'"
+tt4701182,Bumblebee,movie,"Action, Adventure, Sci-Fi",6.7,199260.0,2018.0,tm272414,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e1f39632-6d8c-4582-b414-e1a9db0ee74d,Prime Video,7+,"'us', 'cn'"
+tt4701182,Bumblebee,movie,"Action, Adventure, Sci-Fi",6.7,199260.0,2018.0,tm272414,4.0,tous publics,https://www.netflix.com/title/81004276,Netflix,13+,"'us', 'cn'"
+tt0450278,Hostel,movie,Horror,5.9,198332.0,2005.0,tm183790,3.0,16 avec avertissement,https://www.netflix.com/title/70043240,Netflix,18+,"'us', 'cz'"
+tt0450278,Hostel,movie,Horror,5.9,198332.0,2005.0,tm183790,3.0,16 avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.371c41f4-a6bd-43e4-a761-b5d6b3dbf580,Prime Video,16+,"'us', 'cz'"
+tt2226417,Insidious: Chapter 2,movie,"Horror, Mystery, Thriller",6.6,196044.0,2013.0,tm180572,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.12ba6b1d-5b6f-2a8c-04ea-2a4d4a06c47f,Prime Video,13+,"'gb', 'ca', 'us'"
+tt2226417,Insidious: Chapter 2,movie,"Horror, Mystery, Thriller",6.6,196044.0,2013.0,tm180572,4.0,12,https://www.netflix.com/title/70271486,Netflix,13+,"'gb', 'ca', 'us'"
+tt2231461,Rampage,movie,"Action, Adventure, Sci-Fi",6.1,194340.0,2018.0,tm298080,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e189ecbe-26de-4b0f-8d05-31c60b08e099,Prime Video,13+,'us'
+tt2231461,Rampage,movie,"Action, Adventure, Sci-Fi",6.1,194340.0,2018.0,tm298080,4.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.14b79d85-303c-4759-5b14-8ea96535c6d2,Prime Video,13+,'us'
+tt2231461,Rampage,movie,"Action, Adventure, Sci-Fi",6.1,194340.0,2018.0,tm298080,4.0,tous publics avec avertissement,https://www.netflix.com/title/80216309,Netflix,13+,'us'
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,https://www.netflix.com/title/81037695,Netflix,7+,"'us', 'jp', 'gb', 'ca'"
+tt5884052,Pokémon: Detective Pikachu,movie,"Adventure, Comedy, Family",6.5,190920.0,2019.0,tm363037,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.52b5cd83-2af9-2200-bf23-9914c8bb569c,Prime Video,7+,"'us', 'jp', 'gb', 'ca'"
+tt3322940,Annabelle,movie,"Horror, Mystery, Thriller",5.5,184154.0,2014.0,tm157052,3.0,12,https://www.netflix.com/title/80013775,Netflix,16+,'us'
+tt3322940,Annabelle,movie,"Horror, Mystery, Thriller",5.5,184154.0,2014.0,tm157052,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.99848853-c6ce-4e6a-bc7f-af0a2f83009b,Prime Video,13+,'us'
+tt4123432,Fantastic Beasts: The Secrets of Dumbledore,movie,"Adventure, Fantasy",6.2,183898.0,2022.0,tm208407,3.0,tous publics,https://www.netflix.com/title/81516447,Netflix,13+,"'gb', 'us'"
+tt4123432,Fantastic Beasts: The Secrets of Dumbledore,movie,"Adventure, Fantasy",6.2,183898.0,2022.0,tm208407,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.48345541-8d08-4574-abc0-1d076ae15255,Prime Video,TOUS PUBLICS,"'gb', 'us'"
+tt3794354,Sonic the Hedgehog,movie,"Action, Adventure, Comedy",6.5,181391.0,2020.0,tm374139,4.0,tous publics,https://www.netflix.com/title/80217006,Netflix,7+,"'us', 'jp', 'ca', 'gb'"
+tt3794354,Sonic the Hedgehog,movie,"Action, Adventure, Comedy",6.5,181391.0,2020.0,tm374139,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a0ae7b7-ec1e-4a7f-8e06-20faccf1586a,Prime Video,7+,"'us', 'jp', 'ca', 'gb'"
+tt0274166,Johnny English,movie,"Action, Adventure, Comedy",6.3,180190.0,2003.0,tm129597,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.44a9f68e-1268-aae3-00b4-0dae975c1d3c,Prime Video,7+,"'gb', 'fr', 'mc', 'us'"
+tt0274166,Johnny English,movie,"Action, Adventure, Comedy",6.3,180190.0,2003.0,tm129597,3.0,tous publics,https://www.netflix.com/title/60026148,Netflix,13+,"'gb', 'fr', 'mc', 'us'"
+tt0832266,"Definitely, Maybe",movie,"Comedy, Drama, Romance",7.1,178542.0,2008.0,tm26708,3.0,tous publics,https://www.netflix.com/title/70075478,Netflix,13+,"'gb', 'fr', 'de', 'us'"
+tt0832266,"Definitely, Maybe",movie,"Comedy, Drama, Romance",7.1,178542.0,2008.0,tm26708,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ecb84dd6-ebc1-d37e-0e06-957019d253b6,Prime Video,13+,"'gb', 'fr', 'de', 'us'"
+tt0938283,The Last Airbender,movie,"Action, Adventure, Family",3.9,178433.0,2010.0,tm101053,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fc2d8697-0969-48ee-9a27-8d78c384a082,Prime Video,TOUS PUBLICS,"'us', 'vn', 'gb', 'ca', 'dk'"
+tt0938283,The Last Airbender,movie,"Action, Adventure, Family",3.9,178433.0,2010.0,tm101053,4.0,tous publics,https://www.netflix.com/title/70119441,Netflix,13+,"'us', 'vn', 'gb', 'ca', 'dk'"
+tt3371366,Transformers: The Last Knight,movie,"Action, Adventure, Sci-Fi",5.2,177925.0,2017.0,tm209527,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fb63176-e939-4aba-9e97-e5c8eb8c060d,Prime Video,16+,"'us', 'cn', 'ca'"
+tt3371366,Transformers: The Last Knight,movie,"Action, Adventure, Sci-Fi",5.2,177925.0,2017.0,tm209527,4.0,tous publics,https://www.netflix.com/title/80164399,Netflix,13+,"'us', 'cn', 'ca'"
+tt0107362,Last Action Hero,movie,"Action, Adventure, Comedy",6.5,169369.0,1993.0,tm187187,3.0,tous publics,https://www.netflix.com/title/684660,Netflix,13+,'us'
+tt0107362,Last Action Hero,movie,"Action, Adventure, Comedy",6.5,169369.0,1993.0,tm187187,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ead9dba-4e06-71b1-c054-e61154085dd5,Prime Video,13+,'us'
+tt3469046,Despicable Me 3,movie,"Adventure, Animation, Comedy",6.3,169323.0,2017.0,tm196787,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cae510c-ed49-0b25-acd2-b75a32d3ba9f,Prime Video,TOUS PUBLICS,"'us', 'fr'"
+tt3469046,Despicable Me 3,movie,"Adventure, Animation, Comedy",6.3,169323.0,2017.0,tm196787,2.0,tous publics,https://www.netflix.com/title/80166314,Netflix,7+,"'us', 'fr'"
+tt0099938,Kindergarten Cop,movie,"Action, Comedy, Crime",6.3,169269.0,1990.0,tm155150,3.0,tous publics,https://www.netflix.com/title/671744,Netflix,16+,'us'
+tt0099938,Kindergarten Cop,movie,"Action, Comedy, Crime",6.3,169269.0,1990.0,tm155150,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.26a9f754-a587-fa8e-0397-2d11df3ee76b,Prime Video,13+,'us'
+tt5140878,Annabelle: Creation,movie,"Horror, Mystery, Thriller",6.5,159349.0,2017.0,tm244192,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6c81bcc1-8e21-47aa-b3d4-82442fa5492e,Prime Video,16+,'us'
+tt5140878,Annabelle: Creation,movie,"Horror, Mystery, Thriller",6.5,159349.0,2017.0,tm244192,3.0,12,https://www.netflix.com/title/80158661,Netflix,16+,'us'
+tt0421239,Red Eye,movie,Thriller,6.4,155574.0,2005.0,tm178078,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3cac37e2-ebfa-9fca-343a-60ee438c8fd8,Prime Video,16+,'us'
+tt0421239,Red Eye,movie,Thriller,6.4,155574.0,2005.0,tm178078,4.0,tous publics,https://www.netflix.com/title/70028900,Netflix,13+,'us'
+tt5886046,Escape Room,movie,"Action, Adventure, Horror",6.4,151245.0,2019.0,tm413279,3.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.38b40d47-7fbe-b216-fe79-6716f05b6b53,Prime Video,16+,"'us', 'za'"
+tt5886046,Escape Room,movie,"Action, Adventure, Horror",6.4,151245.0,2019.0,tm413279,3.0,tous publics avec avertissement,https://www.netflix.com/title/81001691,Netflix,13+,"'us', 'za'"
+tt7069210,The Conjuring: The Devil Made Me Do It,movie,"Horror, Mystery, Thriller",6.3,150827.0,2021.0,tm405069,3.0,12,https://www.netflix.com/title/81238605,Netflix,16+,'us'
+tt7069210,The Conjuring: The Devil Made Me Do It,movie,"Horror, Mystery, Thriller",6.3,150827.0,2021.0,tm405069,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f5cfbd9d-b2a2-441d-a3b0-d9aeec59cae0,Prime Video,13+,'us'
+tt3874544,The Boss Baby,movie,"Adventure, Animation, Comedy",6.3,149791.0,2017.0,tm123331,2.0,tous publics,https://www.netflix.com/title/80146758,Netflix,7+,'us'
+tt3874544,The Boss Baby,movie,"Adventure, Animation, Comedy",6.3,149791.0,2017.0,tm123331,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.86ad7c32-7c0a-aac6-f4d4-ebab2a1bb071,Prime Video,7+,'us'
+tt1571234,Mortal Engines,movie,"Action, Adventure, Fantasy",6.1,148206.0,2018.0,tm305414,3.0,tous publics,https://www.netflix.com/title/81002746,Netflix,13+,"'cn', 'jp', 'nz', 'us'"
+tt1571234,Mortal Engines,movie,"Action, Adventure, Fantasy",6.1,148206.0,2018.0,tm305414,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4b6a56f-f091-1838-9f7a-0644252ad41a,Prime Video,13+,"'cn', 'jp', 'nz', 'us'"
+tt9620288,King Richard,movie,"Biography, Drama, Sport",7.5,146886.0,2021.0,tm820276,3.0,tous publics,https://www.netflix.com/title/81039550,Netflix,13+,"'us', 'au'"
+tt9620288,King Richard,movie,"Biography, Drama, Sport",7.5,146886.0,2021.0,tm820276,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2d4e693d-32b0-4a2a-80a1-46aae4701ae4,Prime Video,18+,"'us', 'au'"
+tt0327850,The Rundown,movie,"Action, Adventure, Comedy",6.7,146527.0,2003.0,tm136145,3.0,tous publics,https://www.netflix.com/title/60031216,Netflix,13+,'us'
+tt0327850,The Rundown,movie,"Action, Adventure, Comedy",6.7,146527.0,2003.0,tm136145,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b53a5f-9ce4-0f61-a50f-6257e1c57541,Prime Video,13+,'us'
+tt1634122,Johnny English Reborn,movie,"Action, Adventure, Comedy",6.3,145563.0,2011.0,tm169399,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f685-7d22-a1c3-d4b0-9fdbc46355fd,Prime Video,7+,"'gb', 'fr', 'us'"
+tt1634122,Johnny English Reborn,movie,"Action, Adventure, Comedy",6.3,145563.0,2011.0,tm169399,4.0,tous publics,https://www.netflix.com/title/70184054,Netflix,13+,"'gb', 'fr', 'us'"
+tt1034032,Gamer,movie,"Action, Sci-Fi, Thriller",5.7,141935.0,2009.0,tm132647,2.0,12,https://www.netflix.com/title/70111118,Netflix,16+,'us'
+tt1034032,Gamer,movie,"Action, Sci-Fi, Thriller",5.7,141935.0,2009.0,tm132647,2.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9eb863ad-3b66-1738-bef2-7998c0b45931,Prime Video,16+,'us'
+tt0918927,Doubt,movie,"Drama, Mystery",7.5,141722.0,2008.0,tm54146,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aabfbe6-e2b7-8098-3c28-bfba82736fba,Prime Video,13+,'us'
+tt0918927,Doubt,movie,"Drama, Mystery",7.5,141722.0,2008.0,tm54146,5.0,tous publics,https://www.netflix.com/title/70100377,Netflix,13+,'us'
+tt0453451,Mr. Bean's Holiday,movie,"Comedy, Family",6.4,138314.0,2007.0,tm78919,4.0,tous publics,https://www.netflix.com/title/70060002,Netflix,13+,"'gb', 'fr', 'de', 'us'"
+tt0453451,Mr. Bean's Holiday,movie,"Comedy, Family",6.4,138314.0,2007.0,tm78919,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8ba55ee-c209-222f-daf0-74676b382c68,Prime Video,7+,"'gb', 'fr', 'de', 'us'"
+tt0425123,Just Like Heaven,movie,"Comedy, Drama, Fantasy",6.7,121749.0,2005.0,tm169949,5.0,tous publics,https://www.netflix.com/title/70032592,Netflix,7+,'us'
+tt0425123,Just Like Heaven,movie,"Comedy, Drama, Fantasy",6.7,121749.0,2005.0,tm169949,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a9f669-8b09-93cd-ec19-8cf596a4a652,Prime Video,13+,'us'
+tt3811906,Malignant,movie,"Crime, Horror, Mystery",6.2,116767.0,2021.0,tm826359,3.0,12 avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6b028e0-5324-4df0-b92a-42b1d52ea961,Prime Video,16+,"'us', 'cn'"
+tt3811906,Malignant,movie,"Crime, Horror, Mystery",6.2,116767.0,2021.0,tm826359,3.0,12 avec avertissement,https://www.netflix.com/title/81083904,Netflix,18+,"'us', 'cn'"
+tt0313542,Runaway Jury,movie,"Crime, Drama, Thriller",7.1,115044.0,2003.0,tm136858,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8a1d1063-027d-4c9f-be42-cdf2679fa4f1,Prime Video,13+,'us'
+tt0313542,Runaway Jury,movie,"Crime, Drama, Thriller",7.1,115044.0,2003.0,tm136858,3.0,tous publics,https://www.netflix.com/title/60031241,Netflix,13+,'us'
+tt0109444,Clear and Present Danger,movie,"Action, Crime, Drama",6.9,112406.0,1994.0,tm119004,4.0,tous publics,https://www.netflix.com/title/382460,Netflix,13+,"'us', 'ca'"
+tt0109444,Clear and Present Danger,movie,"Action, Crime, Drama",6.9,112406.0,1994.0,tm119004,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea9f752-1265-ae27-6fe9-6fd5ae1a15ff,Prime Video,13+,"'us', 'ca'"
+tt0345950,The SpongeBob SquarePants Movie,movie,"Adventure, Animation, Comedy",7.2,107919.0,2004.0,tm79916,4.0,tous publics,https://www.netflix.com/title/70011204,Netflix,7+,"'us', 'au', 'kr'"
+tt0345950,The SpongeBob SquarePants Movie,movie,"Adventure, Animation, Comedy",7.2,107919.0,2004.0,tm79916,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f686-dda9-0090-0369-a42aa147cdc8,Prime Video,TOUS PUBLICS,"'us', 'au', 'kr'"

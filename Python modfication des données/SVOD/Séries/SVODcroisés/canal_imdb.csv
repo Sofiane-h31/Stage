@@ -1,0 +1,206 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt0944947,Game of Thrones,tvSeries,"Action, Adventure, Drama",9.2,2433876.0,2011.0,ts2,3.0,12,https://www.mycanal.fr/series/game-of-thrones/h/40425877_50889,MyCanal,-16,"'us', 'gb'"
+tt0108778,Friends,tvSeries,"Comedy, Romance",8.9,1144541.0,1994.0,ts21698,3.0,tous publics,https://www.mycanal.fr/series/friends/h/40492180_50889,MyCanal,-10,'us'
+tt7366338,Chernobyl,tvMiniSeries,"Drama, History, Thriller",9.3,949728.0,2019.0,ts88632,3.0,12,https://www.mycanal.fr/series/chernobyl/h/40436206_50889,MyCanal,-12,"'us', 'gb'"
+tt0898266,The Big Bang Theory,tvSeries,"Comedy, Romance",8.1,908002.0,2007.0,ts12,3.0,tous publics,https://www.mycanal.fr/series/the-big-bang-theory/h/40422267_50889,MyCanal,-12,'us'
+tt2356777,True Detective,tvSeries,"Crime, Drama, Mystery",8.9,703173.0,2014.0,ts20054,3.0,12,https://www.mycanal.fr/series/true-detective/h/40439553_50889,MyCanal,-16,'us'
+tt3581920,The Last of Us,tvSeries,"Action, Adventure, Drama",8.6,656337.0,2023.0,ts226904,3.0,16::(self-applied),https://www.mycanal.fr/series/the-last-of-us/h/40427679_50889,MyCanal,-16,"'ca', 'us'"
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://www.mycanal.fr/series/rick-and-morty/h/40421495_50889,MyCanal,-16,'us'
+tt0185906,Band of Brothers,tvMiniSeries,"Action, Drama, History",9.4,562005.0,2001.0,ts17149,3.0,tous publics::(with warning),https://www.mycanal.fr/series/band-of-brothers/h/40428382_50889,MyCanal,-16,"'gb', 'us'"
+tt0141842,The Sopranos,tvSeries,"Crime, Drama",9.2,524810.0,1999.0,ts20995,3.0,tous publics,https://www.mycanal.fr/series/les-soprano/h/40427482_50889,MyCanal,-16,'us'
+tt0460681,Supernatural,tvSeries,"Drama, Fantasy, Horror",8.4,511939.0,2005.0,ts21465,3.0,16,https://www.mycanal.fr/series/supernatural/h/40431599_50889,MyCanal,-16,'us'
+tt11198330,House of the Dragon,tvSeries,"Action, Adventure, Drama",8.3,476235.0,2022.0,ts222558,3.0,12::(self-applied),https://www.mycanal.fr/series/house-of-the-dragon/h/40425913_50889,MyCanal,-16,'us'
+tt2193021,Arrow,tvSeries,"Action, Adventure, Crime",7.5,454174.0,2012.0,ts17598,3.0,tous publics,https://www.mycanal.fr/series/arrow/h/40507049_50889,MyCanal,-16,'us'
+tt2802850,Fargo,tvSeries,"Crime, Drama, Thriller",8.8,444888.0,2014.0,ts8345,3.0,tous publics,https://www.canalplus.com/series/fargo-saison-1-episode-1/h/10027927_50001?episodeId=10026448_50001,Canal+,-12,'us'
+tt0121955,South Park,tvSeries,"Animation, Comedy",8.7,422746.0,1997.0,ts21792,5.0,16,https://www.mycanal.fr/jeunesse/south-park/h/18101203_50662,MyCanal,-12,'us'
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://www.mycanal.fr/jeunesse/avatar-le-dernier-maitre-de-lair/h/5163853_50662,MyCanal,-10,"'us', 'kr'"
+tt0306414,The Wire,tvSeries,"Crime, Drama, Thriller",9.3,403330.0,2002.0,ts22047,3.0,tous publics,https://www.mycanal.fr/series/sur-ecoute/h/40427589_50889,MyCanal,-16,'us'
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://www.mycanal.fr/series/the-vampire-diaries/h/40431768_50889,MyCanal,-16,'us'
+tt7660850,Succession,tvSeries,"Comedy, Drama",8.8,317339.0,2018.0,ts77979,3.0,12,https://www.mycanal.fr/series/succession/h/40426259_50889,MyCanal,-16,'us'
+tt11280740,Severance,tvSeries,"Drama, Mystery, Sci-Fi",8.7,316756.0,2022.0,ts320458,2.0,12::(self-applied),https://www.canalplus.com/series/severance/h/40000162_50696,Canal+,-12,'us'
+tt1586680,Shameless,tvSeries,"Comedy, Drama",8.5,311018.0,2011.0,ts20660,3.0,tous publics,https://www.mycanal.fr/series/shameless/h/40427392_50889,MyCanal,-16,'us'
+tt0369179,Two and a Half Men,tvSeries,"Comedy, Romance",7.1,289851.0,2003.0,ts21924,3.0,tous publics,https://www.mycanal.fr/series/mon-oncle-charlie/h/40470523_50889,MyCanal,-10,'us'
+tt13406094,The White Lotus,tvSeries,"Comedy, Drama",8.0,277239.0,2021.0,ts256052,3.0,12,https://www.mycanal.fr/series/the-white-lotus/h/40427576_50889,MyCanal,-16,'us'
+tt8772296,Euphoria,tvSeries,Drama,8.3,272017.0,2019.0,ts87074,3.0,16,https://www.mycanal.fr/series/euphoria-episodes-speciaux/h/40468300_50889,MyCanal,-16,'us'
+tt0844441,True Blood,tvSeries,"Drama, Fantasy, Mystery",7.9,266081.0,2008.0,ts20566,3.0,12,https://www.mycanal.fr/series/true-blood/h/40433932_50889,MyCanal,-16,'us'
+tt1119644,Fringe,tvSeries,"Drama, Mystery, Sci-Fi",8.4,264068.0,2008.0,ts20536,3.0,tous publics::(with warning),https://www.mycanal.fr/series/fringe/h/40606739_50889,MyCanal,-16,"'us', 'ca'"
+tt3749900,Gotham,tvSeries,"Action, Crime, Drama",7.8,247102.0,2014.0,ts20292,3.0,10,https://www.mycanal.fr/series/gotham/h/40404993_50889,MyCanal,-16,'us'
+tt1843230,Once Upon a Time,tvSeries,"Adventure, Fantasy, Romance",7.7,242908.0,2011.0,ts20630,2.0,tous publics,https://www.mycanal.fr/jeunesse/il-etait-une-fois-ces-droles-dobjets/h/24257619_50296,MyCanal,tous publics,'us'
+tt3920596,Big Little Lies,tvSeries,"Crime, Drama, Mystery",8.4,236221.0,2017.0,ts41275,3.0,12,https://www.mycanal.fr/series/big-little-lies/h/40427239_50889,MyCanal,-16,'us'
+tt1196946,The Mentalist,tvSeries,"Crime, Drama, Mystery",8.2,212111.0,2008.0,ts21218,3.0,10,https://www.mycanal.fr/series/mentalist/h/40542721_50889,MyCanal,-16,'us'
+tt0979432,Boardwalk Empire,tvSeries,"Crime, Drama",8.6,211217.0,2010.0,ts14772,3.0,16,https://www.mycanal.fr/series/boardwalk-empire/h/40470406_50889,MyCanal,-16,'us'
+tt0397442,Gossip Girl,tvSeries,"Drama, Romance",7.5,206135.0,2007.0,ts288382,2.0,10::(tv rating),https://www.mycanal.fr/series/gossip-girl-2007/h/40421366_50889,MyCanal,-12,'us'
+tt10155688,Mare of Easttown,tvMiniSeries,"Crime, Drama, Mystery",8.4,205123.0,2021.0,ts190845,3.0,12,https://www.mycanal.fr/series/mare-of-easttown/h/40431527_50889,MyCanal,-16,'us'
+tt0285331,24,tvSeries,"Action, Crime, Drama",8.4,202505.0,2001.0,ts7688,4.0,tous publics,https://www.canalplus.com/series/broute-24-episode-1/h/24658626_50001?episodeId=24607337_50001,Canal+,-10,'us'
+tt1839578,Person of Interest,tvSeries,"Action, Crime, Drama",8.5,198100.0,2011.0,ts21302,3.0,tous publics,https://www.mycanal.fr/series/person-of-interest/h/40470472_50889,MyCanal,-16,'us'
+tt0384766,Rome,tvSeries,"Action, Drama, Romance",8.7,195062.0,2005.0,ts22363,3.0,tous publics::(dvd rating),https://www.mycanal.fr/series/rome/h/40472474_50889,MyCanal,-16,"'gb', 'us'"
+tt1578873,Pretty Little Liars,tvSeries,"Drama, Mystery, Romance",7.4,183845.0,2010.0,ts21860,3.0,tous publics,https://www.mycanal.fr/series/pretty-little-liars/h/40428473_50889,MyCanal,-12,'us'
+tt2401256,The Night Of,tvMiniSeries,"Crime, Drama, Mystery",8.4,182917.0,2016.0,ts38802,3.0,18,https://www.mycanal.fr/series/the-night-of/h/40472563_50889,MyCanal,-16,'us'
+tt0387199,Entourage,tvSeries,"Comedy, Drama",8.4,180329.0,2004.0,ts2024,3.0,tous publics,https://www.mycanal.fr/series/entourage/h/40468199_50889,MyCanal,-12,'us'
+tt2575988,Silicon Valley,tvSeries,Comedy,8.5,174515.0,2014.0,ts20760,3.0,tous publics,https://www.mycanal.fr/series/silicon-valley/h/40431414_50889,MyCanal,-16,'us'
+tt0248654,Six Feet Under,tvSeries,"Comedy, Drama",8.7,158847.0,2001.0,ts21654,3.0,tous publics,https://www.mycanal.fr/series/six-feet-under/h/40427427_50889,MyCanal,-12,'us'
+tt0264235,Curb Your Enthusiasm,tvSeries,Comedy,8.8,157211.0,2000.0,ts9245,3.0,10,https://www.mycanal.fr/series/larry-et-son-nombril/h/40427243_50889,MyCanal,-12,'us'
+tt2632424,The Originals,tvSeries,"Drama, Fantasy, Horror",8.2,154823.0,2013.0,ts20824,3.0,10,https://www.mycanal.fr/series/the-originals/h/40421945_50889,MyCanal,-16,'us'
+tt0159206,Sex and the City,tvSeries,"Comedy, Drama, Romance",7.3,152665.0,1998.0,ts22060,3.0,10,https://www.mycanal.fr/series/sex-and-the-city/h/40436678_50889,MyCanal,-12,'us'
+tt0098800,The Fresh Prince of Bel-Air,tvSeries,Comedy,7.9,149215.0,1990.0,ts11945,3.0,tous publics,https://www.mycanal.fr/jeunesse/le-prince-de-bel-air/h/40542949_50889,MyCanal,-10,'us'
+tt13146488,Peacemaker,tvSeries,"Action, Adventure, Comedy",8.3,148275.0,2022.0,ts254885,3.0,10,https://www.mycanal.fr/series/peacemaker/h/40427340_50889,MyCanal,-16,'us'
+tt7016936,Killing Eve,tvSeries,"Action, Adventure, Drama",8.1,146443.0,2018.0,ts58302,2.0,10,https://www.canalplus.com/series/killing-eve-saison-1-episode-1/h/10221385_50001?episodeId=10267339_50001,Canal+,-16,"'us', 'gb'"
+tt1695360,The Legend of Korra,tvSeries,"Action, Adventure, Animation",8.3,145092.0,2012.0,ts20457,6.0,tous publics,https://www.mycanal.fr/jeunesse/la-legende-de-korra/h/4886230_50662,MyCanal,-12,"'us', 'kr', 'jp'"
+tt0279600,Smallville,tvSeries,"Action, Adventure, Drama",7.5,144087.0,2001.0,ts21616,3.0,10,https://www.mycanal.fr/series/smallville/h/40543080_50889,MyCanal,-16,"'us', 'ca'"
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://www.mycanal.fr/series/1883/h/20305486_50662,MyCanal,-12,'us'
+tt5171438,Star Trek: Discovery,tvSeries,"Action, Adventure, Drama",7.0,142353.0,2017.0,ts41351,4.0,16,https://www.mycanal.fr/series/star-trek-discovery/h/14703456_50662,MyCanal,-16,'us'
+tt7049682,Watchmen,tvMiniSeries,"Crime, Drama, Mystery",8.2,140949.0,2019.0,ts81384,3.0,12,https://www.mycanal.fr/series/watchmen/h/40470478_50889,MyCanal,-16,'us'
+tt0374463,The Pacific,tvMiniSeries,"Action, Adventure, Drama",8.3,138142.0,2010.0,ts21440,3.0,12::(self-applied),https://www.mycanal.fr/series/band-of-brothers-lenfer-du-pacifique/h/40439657_50889,MyCanal,-16,"'us', 'au'"
+tt2017109,Banshee,tvSeries,"Action, Crime, Drama",8.4,135870.0,2013.0,ts13608,3.0,16,https://www.mycanal.fr/series/banshee/h/40542708_50889,MyCanal,-16,'us'
+tt2249364,Broadchurch,tvSeries,"Crime, Drama, Mystery",8.3,134256.0,2013.0,ts6265,2.0,tous publics::(dvd rating),https://www.canalplus.com/series/broadchurch/h/3144663_50076,Canal+,-10,'gb'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://www.mycanal.fr/series/young-sheldon/h/40426507_50889,MyCanal,tous publics,'us'
+tt5348176,Barry,tvSeries,"Action, Comedy, Crime",8.3,132990.0,2018.0,ts74799,3.0,12,https://www.mycanal.fr/series/barry/h/40421409_50889,MyCanal,-16,'us'
+tt1870479,The Newsroom,tvSeries,Drama,8.6,130333.0,2012.0,ts21078,3.0,10,https://www.mycanal.fr/series/the-newsroom/h/40440000_50889,MyCanal,-12,'us'
+tt2649356,Sharp Objects,tvMiniSeries,"Crime, Drama, Mystery",8.0,129240.0,2018.0,ts55577,3.0,12,https://www.mycanal.fr/series/sharp-objects/h/40431530_50889,MyCanal,-12,'us'
+tt1637727,The Killing,tvSeries,"Crime, Drama, Mystery",8.3,129097.0,2011.0,ts21222,3.0,16::(self-applied),https://www.canalplus.com/series/the-killing-saison-1-episode-1/h/5818735_50001?episodeId=340538_50001,Canal+,-16,"'us', 'ca'"
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://www.mycanal.fr/jeunesse/adventure-time/h/40421098_50889,MyCanal,-10,"'us', 'hk', 'jp', 'kr', 'de'"
+tt2699128,The Leftovers,tvSeries,"Drama, Fantasy, Mystery",8.3,121513.0,2014.0,ts20275,3.0,12,https://www.mycanal.fr/series/the-leftovers/h/40439967_50889,MyCanal,-16,'us'
+tt0206512,SpongeBob SquarePants,tvSeries,"Animation, Comedy, Family",8.2,119015.0,1999.0,ts20951,4.0,tous publics,https://www.mycanal.fr/jeunesse/bob-leponge/h/9298600_50662,MyCanal,-10,'us'
+tt7908628,What We Do in the Shadows,tvSeries,"Comedy, Fantasy, Horror",8.6,118902.0,2019.0,ts85167,1.0,12::(self-applied),https://www.canalplus.com/series/what-we-do-in-the-shadows/h/26594067_50001,Canal+,-12,"'us', 'ca'"
+tt4270492,Billions,tvSeries,Drama,8.3,114280.0,2016.0,ts36962,5.0,tous publics,https://www.canalplus.com/series/billions-saison-4-episode-1/h/11212118_50001?episodeId=11221386_50001,Canal+,-12,'us'
+tt8134470,The Undoing,tvMiniSeries,"Crime, Drama, Mystery",7.4,112569.0,2020.0,ts85699,3.0,12,https://www.mycanal.fr/series/the-undoing/h/40472529_50889,MyCanal,-12,'us'
+tt8550800,The Outsider,tvSeries,"Crime, Drama, Horror",7.6,107642.0,2020.0,ts86177,3.0,16,https://www.mycanal.fr/series/the-outsider/h/40431468_50889,MyCanal,-16,'us'
+tt11041332,Yellowjackets,tvSeries,"Drama, Mystery, Thriller",7.7,106249.0,2021.0,ts228068,5.0,16,https://www.canalplus.com/series/yellowjackets/h/18161346_50001,Canal+,-10,'us'
+tt9059760,Normal People,tvMiniSeries,"Drama, Romance",8.4,105081.0,2020.0,ts236746,1.0,16::(self-applied),https://www.mycanal.fr/series/normal-people/h/15609109_50060,MyCanal,-10,"'ie', 'gb', 'us'"
+tt0362359,The O.C.,tvSeries,"Comedy, Drama, Romance",7.6,100136.0,2003.0,ts21804,3.0,tous publics,https://www.mycanal.fr/series/newport-beach/h/40433516_50889,MyCanal,-12,'us'
+tt3530232,Last Week Tonight with John Oliver,tvSeries,"Comedy, News, Talk-Show",8.8,99947.0,2014.0,ts20735,3.0,10,https://www.mycanal.fr/series/last-week-tonight-with-john-oliver/h/40474310_50889,MyCanal,-12,'us'
+tt7587890,The Rookie,tvSeries,"Action, Crime, Drama",8.0,98621.0,2018.0,ts81342,3.0,10,https://www.canalplus.com/series/the-rookie-le-flic-de-los-angeles/h/11055747_50055,Canal+,-10,'us'
+tt8806524,Star Trek: Picard,tvSeries,"Action, Adventure, Drama",7.5,98504.0,2020.0,ts87480,4.0,18,https://www.mycanal.fr/series/star-trek-picard/h/21160769_50662,MyCanal,-12,'us'
+tt5607976,His Dark Materials,tvSeries,"Adventure, Drama, Fantasy",7.8,90330.0,2019.0,ts74636,3.0,10,https://www.mycanal.fr/series/his-dark-materials---a-la-croisee-des-mondes/h/40427312_50889,MyCanal,-12,"'gb', 'us'"
+tt3502248,Bosch,tvSeries,"Crime, Drama",8.5,89511.0,2014.0,ts14841,2.0,tous publics,https://www.canalplus.com/series/harry-bosch/h/6803232_50076,Canal+,tous publics,'us'
+tt7826376,Upload,tvSeries,"Comedy, Mystery, Sci-Fi",7.8,83950.0,2020.0,ts87778,2.0,16::(self-applied),https://www.mycanal.fr/series/upload/h/25555572_50035,MyCanal,-10,'us'
+tt18335752,1923,tvSeries,"Drama, Western",8.3,82219.0,2022.0,ts351915,4.0,12::(self-applied),https://www.mycanal.fr/series/1923/h/21400092_50662,MyCanal,-12,'us'
+tt4474344,Blindspot,tvSeries,"Action, Crime, Drama",7.3,81309.0,2015.0,ts36815,2.0,10,https://www.mycanal.fr/series/blindspot/h/40509757_50889,MyCanal,-16,'us'
+tt0810788,Burn Notice,tvSeries,"Action, Crime, Drama",8.0,81136.0,2007.0,ts17823,2.0,tous publics,https://www.canalplus.com/series/agent/h/13741233_50001,Canal+,-12,'us'
+tt1723816,Girls,tvSeries,"Comedy, Drama",7.4,80315.0,2012.0,ts21041,2.0,12,https://www.mycanal.fr/series/girls/h/40436235_50889,MyCanal,-12,'us'
+tt3718778,Over the Garden Wall,tvMiniSeries,"Adventure, Animation, Comedy",8.7,80294.0,2014.0,ts20079,3.0,10,https://www.mycanal.fr/jeunesse/la-foret-de-letrange/h/40587071_50889,MyCanal,-10,'us'
+tt2891574,Ballers,tvSeries,"Comedy, Drama, Sport",7.8,78193.0,2015.0,ts35552,3.0,10,https://www.mycanal.fr/sport/ballers/h/40421429_50889,MyCanal,-16,'us'
+tt0374455,Stargate: Atlantis,tvSeries,"Action, Adventure, Drama",8.1,73823.0,2004.0,ts22455,3.0,tous publics,https://www.mycanal.fr/series/stargate-atlantis/h/4603404_50071,MyCanal,-10,"'ca', 'us'"
+tt3428912,Happy Valley,tvSeries,"Crime, Drama, Thriller",8.5,69517.0,2014.0,ts20116,2.0,16::(self-applied),https://www.canalplus.com/series/happy-valley-saison-1-episode-1/h/4602749_50001?episodeId=5319245_50001,Canal+,-12,'gb'
+tt1759761,Veep,tvSeries,Comedy,8.4,68309.0,2012.0,ts20425,3.0,10,https://www.mycanal.fr/series/veep/h/40431281_50889,MyCanal,-12,'us'
+tt0863046,Flight of the Conchords,tvSeries,"Comedy, Music, Musical",8.5,68232.0,2007.0,ts16452,3.0,12,https://www.mycanal.fr/series/flight-of-the-conchords/h/40568531_50889,MyCanal,-12,"'us', 'nz'"
+tt0866442,Eastbound & Down,tvSeries,"Comedy, Drama, Sport",8.2,67279.0,2009.0,ts2158,3.0,12::(self-applied),https://www.mycanal.fr/series/kenny-powers/h/40558746_50889,MyCanal,-16,'us'
+tt1954347,Continuum,tvSeries,"Action, Sci-Fi, Thriller",7.6,65282.0,2012.0,ts10250,2.0,10,https://www.mycanal.fr/series/continuum/h/4504980_50071,MyCanal,-12,'ca'
+tt7569576,The Flight Attendant,tvSeries,"Comedy, Drama, Mystery",7.1,65188.0,2020.0,ts302787,3.0,10,https://www.mycanal.fr/series/the-flight-attendant/h/40439596_50889,MyCanal,-16,'us'
+tt1051220,The Shannara Chronicles,tvSeries,"Adventure, Drama, Fantasy",7.1,65067.0,2016.0,ts37810,2.0,12,https://www.mycanal.fr/series/les-chroniques-de-shannara/h/6250689_50035,MyCanal,-12,'us'
+tt12327578,Star Trek: Strange New Worlds,tvSeries,"Action, Adventure, Sci-Fi",8.3,64523.0,2022.0,ts237563,4.0,18,https://www.mycanal.fr/series/star-trek-strange-new-worlds/h/22026310_50662,MyCanal,-12,"'ca', 'us'"
+tt0995832,Generation Kill,tvMiniSeries,"Drama, War",8.4,61965.0,2008.0,ts20599,3.0,10::(self-applied),https://www.mycanal.fr/series/generation-kill/h/40566740_50889,MyCanal,-16,"'us', 'gb'"
+tt11712058,Mayor of Kingstown,tvSeries,"Crime, Drama, Thriller",8.1,61190.0,2021.0,ts224255,4.0,12,https://www.mycanal.fr/series/mayor-of-kingstown/h/20359538_50662,MyCanal,-16,'us'
+tt2235759,The Great,tvSeries,"Biography, Comedy, Drama",8.1,59432.0,2020.0,ts271787,3.0,16,https://www.mycanal.fr/series/the-great/h/40580578_50889,MyCanal,-16,'us'
+tt8634332,The Righteous Gemstones,tvSeries,"Comedy, Drama",8.1,57013.0,2019.0,ts84322,3.0,12,https://www.mycanal.fr/series/the-righteous-gemstones/h/40431378_50889,MyCanal,-16,'us'
+tt4299972,The Jinx: The Life and Deaths of Robert Durst,tvSeries,"Biography, Crime, Documentary",8.6,56276.0,2015.0,ts21650,3.0,16,https://www.mycanal.fr/decouverte/the-jinx-the-life-and-deaths-of-robert-durst/h/40431543_50889,MyCanal,-12,'us'
+tt1582457,The Borgias,tvSeries,"Crime, Drama, History",7.9,55278.0,2011.0,ts6506,4.0,tous publics,https://www.canalplus.com/series/borgia-saison-1-episode-1/h/4443952_50001?episodeId=1384138_50001,Canal+,-16,"'us', 'hu', 'ie', 'ca'"
+tt2937900,The Knick,tvSeries,"Drama, History",8.5,54548.0,2014.0,ts20732,3.0,16,https://www.mycanal.fr/series/the-knick/h/40597468_50889,MyCanal,-16,'us'
+tt1286039,Stargate Universe,tvSeries,"Drama, Sci-Fi",7.6,54514.0,2009.0,ts20588,2.0,tous publics,https://www.mycanal.fr/series/stargate-universe/h/4940929_50071,MyCanal,-10,"'ca', 'us'"
+tt5743796,Warrior,tvSeries,"Action, Crime, Drama",8.4,50081.0,2019.0,ts75230,3.0,16,https://www.mycanal.fr/series/warrior/h/40599746_50889,MyCanal,-16,'us'
+tt3655448,The Young Pope,tvMiniSeries,Drama,8.3,49707.0,2016.0,ts41827,2.0,tous publics,https://www.canalplus.com/series/the-young-pope/h/7526349_50001,Canal+,tous publics,"'it', 'fr', 'es', 'gb', 'us'"
+tt0235918,The Fairly OddParents,tvSeries,"Adventure, Animation, Comedy",7.2,49494.0,2001.0,ts19036,4.0,tous publics,https://www.mycanal.fr/jeunesse/mes-parrains-sont-magiques/h/4759577_50662,MyCanal,-16,"'us', 'ca'"
+tt6905686,Lovecraft Country,tvSeries,"Drama, Fantasy, Horror",7.1,49172.0,2020.0,ts84351,3.0,16,https://www.mycanal.fr/series/lovecraft-country/h/40468365_50889,MyCanal,-16,'us'
+tt7661390,Gangs of London,tvSeries,"Action, Crime, Drama",8.0,48499.0,2020.0,ts86545,2.0,16,https://www.canalplus.com/series/gangs-of-london-saison-1-episode-1-1-2/h/15584428_50001?episodeId=15568970_50001,Canal+,-16,"'gb', 'us'"
+tt9055008,Evil,tvSeries,"Crime, Drama, Horror",7.8,48314.0,2019.0,ts88376,3.0,12,https://www.mycanal.fr/series/evil/h/16152600_50662,MyCanal,-12,'us'
+tt0319969,Carnivàle,tvSeries,"Drama, Fantasy, Mystery",8.4,48179.0,2003.0,ts8782,3.0,12,https://www.mycanal.fr/series/la-caravane-de-letrange/h/40514275_50889,MyCanal,-16,'us'
+tt1942683,The Amazing World of Gumball,tvSeries,"Adventure, Animation, Comedy",8.4,47584.0,2011.0,ts9006,3.0,tous publics,https://www.mycanal.fr/jeunesse/le-monde-incroyable-de-gumball-lalbum-de-darwin/h/40437078_50889,MyCanal,tous publics,"'gb', 'ie', 'us', 'de'"
+tt2049116,Gomorrah,tvSeries,"Crime, Drama, Thriller",8.6,47512.0,2014.0,ts20303,2.0,12,https://www.canalplus.com/series/gomorra-saison-1-episode-1/h/4558779_50001?episodeId=4479194_50001,Canal+,-12,"'it', 'de'"
+tt0348913,Dead Like Me,tvSeries,"Comedy, Drama, Fantasy",8.1,45069.0,2003.0,ts9217,2.0,tous publics,https://www.mycanal.fr/series/dead-like-me/h/4603002_50035,MyCanal,tous publics,"'ca', 'us'"
+tt14586350,Love & Death,tvMiniSeries,"Biography, Crime, Drama",7.5,43766.0,2023.0,ts288230,3.0,18,https://www.mycanal.fr/series/love-death/h/40573131_50889,MyCanal,-16,'us'
+tt0088559,MacGyver,tvSeries,"Action, Adventure, Crime",7.6,43707.0,1985.0,ts21057,2.0,tous publics,https://www.mycanal.fr/series/macgyver/h/9392767_50055,MyCanal,-10,"'us', 'ca'"
+tt0118401,Midsomer Murders,tvSeries,"Crime, Drama, Mystery",7.9,42099.0,1997.0,ts22228,2.0,10,https://www.canalplus.com/series/inspecteur-barnaby/h/459809_50076,Canal+,-10,'gb'
+tt4406178,The Gilded Age,tvSeries,Drama,8.0,42018.0,2022.0,ts83267,3.0,10::(self-applied),https://www.mycanal.fr/series/the-gilded-age/h/40436354_50889,MyCanal,-12,'us'
+tt7658402,Harley Quinn,tvSeries,"Action, Adventure, Animation",8.4,41046.0,2019.0,ts76135,3.0,18,https://www.mycanal.fr/series/harley-quinn/h/40442027_50889,MyCanal,-12,'us'
+tt13819960,And Just Like That...,tvSeries,"Comedy, Drama, Romance",5.7,40899.0,2021.0,ts278961,3.0,10::(self-applied),https://www.mycanal.fr/series/and-just-like-that/h/40422457_50889,MyCanal,-16,'us'
+tt4209256,Colony,tvSeries,"Action, Adventure, Drama",7.3,40644.0,2016.0,ts35872,1.0,10,https://www.mycanal.fr/series/colony/h/8265334_50055,MyCanal,-12,'us'
+tt9140342,It's a Sin,tvMiniSeries,Drama,8.6,39299.0,2021.0,ts270943,1.0,12,https://www.mycanal.fr/series/its-a-sin/h/15746878_50026,MyCanal,-10,'gb'
+tt6439752,Snowfall,tvSeries,"Crime, Drama",8.4,39157.0,2017.0,ts57100,2.0,12,https://www.canalplus.com/series/snowfall-saison-1-episode-1/h/9230827_50001?episodeId=9230513_50001,Canal+,-12,'us'
+tt8543390,Modern Love,tvSeries,"Comedy, Drama, Romance",7.9,38510.0,2019.0,ts283298,2.0,16::(self-applied),https://www.mycanal.fr/series/modern-love/h/25745300_50035,MyCanal,tous publics,'us'
+tt11324406,The Staircase,tvMiniSeries,"Biography, Crime, Drama",7.1,37293.0,2022.0,ts26091,3.0,18,https://www.mycanal.fr/series/the-staircase/h/40440128_50889,MyCanal,-16,'us'
+tt2701582,Endeavour,tvSeries,"Crime, Drama, Mystery",8.6,36060.0,2012.0,ts190,1.0,tous publics::(dvd rating),https://www.canalplus.com/series/les-enquetes-de-morse/h/3049279_50076,Canal+,tous publics,'gb'
+tt3766376,Vice Principals,tvSeries,Comedy,8.0,35204.0,2016.0,ts38803,3.0,10,https://www.mycanal.fr/series/vice-principals/h/40472484_50889,MyCanal,-10,'us'
+tt4192812,Unforgotten,tvSeries,"Crime, Drama, Mystery",8.4,34459.0,2015.0,ts36929,1.0,tous publics,https://www.canalplus.com/series/unforgotten-le-passe-deterre/h/7689235_50076,Canal+,tous publics,'gb'
+tt4998350,The Deuce,tvSeries,"Crime, Drama, Mystery",8.1,33592.0,2017.0,ts42172,3.0,12,https://www.mycanal.fr/series/the-deuce/h/40472507_50889,MyCanal,-16,'us'
+tt11212276,The Sex Lives of College Girls,tvSeries,Comedy,7.7,32854.0,2021.0,ts229732,3.0,18::(self-applied),https://www.mycanal.fr/series/the-sex-lives-of-college-girls/h/40427878_50889,MyCanal,-12,'us'
+tt10405370,Rogue Heroes,tvSeries,"Action, Drama, Thriller",8.2,32283.0,2022.0,ts213451,2.0,18,https://www.canalplus.com/series/rogue-heroes-saison-1-episode-1/h/20301411_50001?episodeId=20270362_50001,Canal+,-12,'gb'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://www.mycanal.fr/jeunesse/classic-ben-10/h/40545877_50889,MyCanal,-10,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://www.mycanal.fr/divertissement/lincroyable-famille-kardashian/h/4860621_50071,MyCanal,-16,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://www.mycanal.fr/series/victorious/h/4603878_50662,MyCanal,-10,'us'
+tt4378376,Babylon Berlin,tvSeries,"Crime, Drama, Thriller",8.4,31885.0,2017.0,ts42477,2.0,12,https://www.canalplus.com/series/babylon-berlin-saison-1-episode-1/h/10216071_50001?episodeId=10221969_50001,Canal+,-12,'de'
+tt12682218,Scenes from a Marriage,tvMiniSeries,Drama,8.0,31775.0,2021.0,ts265296,3.0,18,https://www.mycanal.fr/series/scenes-from-a-marriage/h/40472558_50889,MyCanal,-12,'us'
+tt11771270,The English,tvMiniSeries,"Drama, Western",7.8,31608.0,2022.0,ts225313,1.0,16::(self-applied),https://www.canalplus.com/series/the-english/h/21043665_50001,Canal+,-12,"'gb', 'us'"
+tt8332438,ZeroZeroZero,tvMiniSeries,"Crime, Drama, Thriller",8.1,31245.0,2019.0,ts111122,2.0,12,https://www.canalplus.com/series/zerozerozero-saison-1-episode-1/h/13399356_50001?episodeId=13408548_50001,Canal+,-16,'it'
+tt10244600,Winning Time: The Rise of the Lakers Dynasty,tvSeries,"Biography, Drama, Sport",8.3,30907.0,2022.0,ts227241,3.0,12::(self-applied),https://www.mycanal.fr/series/winning-time-the-rise-of-the-lakers-dynasty/h/40431314_50889,MyCanal,-12,'us'
+tt0318997,Angels in America,tvMiniSeries,"Drama, Fantasy, Romance",8.1,30784.0,2003.0,ts1936,3.0,18,https://www.mycanal.fr/series/angels-in-america/h/40504970_50889,MyCanal,-12,"'us', 'it'"
+tt14261112,Twisted Metal,tvSeries,"Action, Adventure, Comedy",7.3,30779.0,2023.0,ts309849,3.0,16,https://www.mycanal.fr/series/twisted-metal/h/24726096_50002,MyCanal,-16,'us'
+tt14192504,We Own This City,tvMiniSeries,"Biography, Crime, Drama",7.6,30091.0,2022.0,ts287833,3.0,12::(self-applied),https://www.mycanal.fr/series/we-own-this-city/h/40472596_50889,MyCanal,-16,'us'
+tt2077823,Perry Mason,tvSeries,"Crime, Drama, History",7.6,29962.0,2020.0,ts87383,3.0,12,https://www.mycanal.fr/series/perry-mason/h/40439551_50889,MyCanal,-16,'us'
+tt4276618,C.B. Strike,tvSeries,"Crime, Drama, Mystery",7.9,29868.0,2017.0,ts58311,3.0,12,https://www.mycanal.fr/series/cb-strike/h/40514152_50889,MyCanal,-16,'gb'
+tt2396135,Shetland,tvSeries,"Crime, Drama, Mystery",8.3,29094.0,2013.0,ts32526,1.0,tous publics,https://www.canalplus.com/series/shetland/h/9520427_50076,Canal+,tous publics,'gb'
+tt3288518,Younger,tvSeries,"Comedy, Romance",7.8,28991.0,2015.0,ts21950,3.0,10,https://www.mycanal.fr/series/younger/h/7535517_50662,MyCanal,-12,'us'
+tt18546730,The Walking Dead: Dead City,tvSeries,"Adventure, Drama, Horror",7.1,28834.0,2023.0,ts341651,3.0,16,https://www.mycanal.fr/series/the-walking-dead-dead-city/h/22077528_50002,MyCanal,-16,'us'
+tt3012698,Olive Kitteridge,tvMiniSeries,Drama,8.3,27699.0,2014.0,ts20287,3.0,tous publics,https://www.mycanal.fr/series/olive-kitteridge/h/40587049_50889,MyCanal,-10,'us'
+tt11204260,I May Destroy You,tvSeries,Drama,8.0,27353.0,2020.0,ts236950,3.0,16,https://www.mycanal.fr/series/i-may-destroy-you/h/40431507_50889,MyCanal,-16,"'gb', 'us'"
+tt8531222,Dave,tvSeries,"Comedy, Music",8.2,27018.0,2020.0,ts109960,2.0,12,https://www.canalplus.com/series/dave-aka-lil-dicky-saison-1-episode-1/h/13399410_50001?episodeId=13415456_50001,Canal+,-12,'us'
+tt10577736,Tehran,tvSeries,"Action, Crime, Drama",7.6,26324.0,2020.0,ts237817,2.0,16::(self-applied),https://www.mycanal.fr/series/teheran/h/40000322_50696,MyCanal,-16,"'il', 'us', 'gb', 'gr'"
+tt5715524,Mayans M.C.,tvSeries,"Crime, Drama, Thriller",7.5,26194.0,2018.0,ts77875,2.0,12,https://www.canalplus.com/series/mayans-m-c-saison-1-episode-1/h/10273595_50001?episodeId=10239848_50001,Canal+,-12,'us'
+tt0425118,I Know This Much Is True,tvMiniSeries,Drama,8.1,25280.0,2020.0,ts89675,3.0,12::(self-applied),https://www.mycanal.fr/series/i-know-this-much-is-true/h/40571237_50889,MyCanal,-16,'us'
+tt2733252,The Musketeers,tvSeries,"Action, Adventure, Drama",7.8,24555.0,2014.0,ts20914,1.0,tous publics,https://www.mycanal.fr/series/the-musketeers/h/4601151_50035,MyCanal,-10,'gb'
+tt15017118,Dark Winds,tvSeries,"Crime, Drama, Mystery",7.7,24251.0,2022.0,ts300078,1.0,not rated,https://www.canalplus.com/series/dark-winds/h/23780331_50076,Canal+,-10,'us'
+tt2379308,Psycho-Pass,tvSeries,"Action, Animation, Crime",8.1,24231.0,2012.0,ts20388,4.0,16::(self-applied),https://www.mycanal.fr/decouverte/psycho/h/20829908_50008,MyCanal,tous publics,'jp'
+tt10234362,Avenue 5,tvSeries,"Comedy, Sci-Fi",6.7,24020.0,2020.0,ts186758,3.0,10,https://www.mycanal.fr/series/avenue-5/h/40509438_50889,MyCanal,-10,"'us', 'gb'"
+tt1229413,Hung,tvSeries,"Comedy, Drama",7.2,23837.0,2009.0,ts21140,3.0,12::(self-applied),https://www.mycanal.fr/series/hung/h/40571273_50889,MyCanal,-16,'us'
+tt5024912,Insecure,tvSeries,"Comedy, Drama, Romance",8.1,23750.0,2016.0,ts46210,3.0,12,https://www.mycanal.fr/series/insecure/h/40468318_50889,MyCanal,-16,'us'
+tt1693592,Vera,tvSeries,"Crime, Drama, Mystery",8.2,22783.0,2011.0,ts20528,1.0,tous publics,https://www.canalplus.com/series/les-enquetes-de-vera/h/4547217_50076,Canal+,tous public,'gb'
+tt2581458,Looking,tvSeries,"Comedy, Drama, Romance",8.2,22573.0,2014.0,ts20255,3.0,tous publics,https://www.mycanal.fr/series/looking/h/40431575_50889,MyCanal,-12,'us'
+tt2521668,The Returned,tvSeries,"Drama, Fantasy, Horror",8.0,21777.0,2012.0,ts20499,2.0,12,https://www.canalplus.com/series/les-revenants-saison-1-episode-1/h/4443719_50001?episodeId=883144_50001,Canal+,-12,'fr'
+tt7278862,My Brilliant Friend,tvSeries,Drama,8.6,21627.0,2018.0,ts79780,2.0,10,https://www.canalplus.com/series/lamie-prodigieuse/h/10667518_50001,Canal+,-10,"'it', 'us'"
+tt0108906,The Kingdom,tvSeries,"Comedy, Drama, Fantasy",8.2,21004.0,1994.0,ts26433,2.0,tous publics::(dvd rating),https://www.canalplus.com/series/l-hopital-et-ses-fantomes-saison-1-episode-1/h/21340784_50001?episodeId=21292470_50001,Canal+,-16,"'dk', 'it', 'de', 'fr', 'no', 'se', 'nl'"
+tt4839610,We Bare Bears,tvSeries,"Adventure, Animation, Comedy",7.8,20856.0,2014.0,ts36687,3.0,tous publics::(netflix self-rating),https://www.mycanal.fr/jeunesse/we-bare-bears/h/40599725_50889,MyCanal,-10,"'us', 'kr'"
+tt7671070,Industry,tvSeries,Drama,7.5,20626.0,2020.0,ts214743,2.0,16,https://www.mycanal.fr/series/industry/h/40436700_50889,MyCanal,-16,"'gb', 'us'"
+tt3673794,Kingdom,tvSeries,"Drama, Sport",8.5,20402.0,2014.0,ts20749,1.0,16::(self-applied),https://www.mycanal.fr/series/kingdom/h/5436384_50071,MyCanal,-12,'us'
+tt7529770,Miracle Workers,tvSeries,"Comedy, Drama, Fantasy",7.1,20256.0,2019.0,ts80537,3.0,10,https://www.mycanal.fr/series/miracle-workers/h/40542909_50889,MyCanal,-16,'us'
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://www.canalplus.com/jeunesse/les-aventures-de-tintin/h/2095377_50001,Canal+,tous publics,"'fr', 'ca', 'be', 'us'"
+tt7157248,The New Pope,tvMiniSeries,Drama,8.0,19783.0,2020.0,ts89911,2.0,12,https://www.canalplus.com/series/the-new-pope/h/13060303_50001,Canal+,-12,"'it', 'fr', 'es', 'us', 'gb'"
+tt3830558,Versailles,tvSeries,"Biography, Drama, History",7.9,19703.0,2015.0,ts38090,2.0,12,https://www.canalplus.com/series/versailles-saison-2-episode-1/h/8230341_50001?episodeId=8224562_50001,Canal+,-16,"'fr', 'ca'"
+tt5711280,Electric Dreams,tvSeries,"Drama, Sci-Fi",7.2,19703.0,2017.0,ts55500,1.0,tous publics,https://www.mycanal.fr/series/electric-dreams/h/10228452_50035,MyCanal,tous publics,"'gb', 'us'"
+tt9686194,War of the Worlds,tvSeries,"Drama, Mystery, Sci-Fi",6.5,19344.0,2019.0,ts87904,2.0,12,https://www.canalplus.com/series/la-guerre-des-mondes-saison-1-episode-2/h/12584920_50001?episodeId=12585582_50001,Canal+,-12,"'gb', 'fr', 'us'"
+tt1091909,Murdoch Mysteries,tvSeries,"Crime, Drama, Mystery",8.2,19148.0,2008.0,ts20540,1.0,tous publics,https://www.canalplus.com/series/les-enquetes-de-murdoch/h/2551388_50076,Canal+,tous publics,"'ca', 'gb'"
+tt0835434,In Treatment,tvSeries,Drama,8.2,18856.0,2008.0,ts20445,3.0,10,https://www.mycanal.fr/series/in-treatment/h/40426570_50889,MyCanal,-12,'us'
+tt3747572,Grantchester,tvSeries,"Crime, Drama, Mystery",7.9,18728.0,2014.0,ts20311,1.0,tous publics,https://www.canalplus.com/series/grantchester/h/5286090_50076,Canal+,tous publics,'gb'
+tt1988386,Miss Fisher's Murder Mysteries,tvSeries,"Crime, Drama, History",8.2,18485.0,2012.0,ts21029,2.0,tous publics,https://www.canalplus.com/series/miss-fisher-enquete/h/1835331_50076,Canal+,tous publics,'au'
+tt0415463,Zoey 101,tvSeries,"Comedy, Drama, Family",6.2,18353.0,2005.0,ts21464,3.0,tous publics,https://www.mycanal.fr/jeunesse/zoe/h/7525741_50662,MyCanal,-10,'us'
+tt0057773,The Munsters,tvSeries,"Comedy, Family, Fantasy",7.8,17867.0,1964.0,ts21798,1.0,tous publics,https://www.mycanal.fr/decouverte/les-monstres-dans-lombre/h/19930923_50001,MyCanal,-10,'us'
+tt4277922,Call My Agent!,tvSeries,"Comedy, Drama",8.3,17761.0,2015.0,ts37866,2.0,tous publics,https://www.mycanal.fr/series/dix-pour-cent/h/5674586_50615,MyCanal,-12,'fr'
+tt7649694,Ramy,tvSeries,"Comedy, Drama, Romance",8.0,17357.0,2019.0,ts88902,3.0,16,https://www.mycanal.fr/series/ramy/h/14951477_50616,MyCanal,-12,'us'
+tt4063800,The Bureau,tvSeries,"Drama, Thriller",8.7,16999.0,2015.0,ts35365,2.0,10,https://www.canalplus.com/series/le-bureau-des-legendes-saison-3-episode-1/h/8505824_50001?episodeId=8506397_50001,Canal+,-12,'fr'
+tt7211618,Gentleman Jack,tvSeries,"Biography, Drama, History",8.2,16727.0,2019.0,ts87692,3.0,12,https://www.mycanal.fr/series/gentleman-jack/h/40428459_50889,MyCanal,-12,"'gb', 'us'"
+tt1299365,How to Make It in America,tvSeries,"Comedy, Drama",7.9,16523.0,2010.0,ts21526,3.0,10::(self-applied),https://www.mycanal.fr/series/comment-reussir-en-amerique/h/40571049_50889,MyCanal,-12,'us'
+tt1877889,Teenage Mutant Ninja Turtles,tvSeries,"Action, Adventure, Animation",7.9,16492.0,2012.0,ts21095,4.0,tous publics,https://www.mycanal.fr/jeunesse/les-tortues-ninja/h/22311228_50296,MyCanal,tous publics,"'us', 'my', 'nz'"
+tt8888462,Pachinko,tvSeries,Drama,8.4,16414.0,2022.0,ts106816,2.0,12::(self-applied),https://www.mycanal.fr/series/pachinko/h/40000678_50696,MyCanal,-12,"'kr', 'ca', 'us'"
+tt9174582,Brassic,tvSeries,"Comedy, Drama",8.4,16184.0,2019.0,ts105630,2.0,10,https://www.canalplus.com/series/brassic-saison-1-episode-1/h/12324156_50001?episodeId=12333218_50001,Canal+,-12,'gb'
+tt12759100,Somebody Somewhere,tvSeries,"Comedy, Drama",8.2,15894.0,2022.0,ts251470,3.0,10::(self-applied),https://www.mycanal.fr/series/somebody-somewhere/h/40415499_50889,MyCanal,-12,'us'
+tt15351648,Three Pines,tvSeries,"Crime, Drama, Mystery",7.2,15668.0,2022.0,ts309360,1.0,16::(self-applied),https://www.canalplus.com/series/three-pines/h/22310369_50076,Canal+,-10,"'ca', 'gb'"
+tt1131746,Big Time Rush,tvSeries,"Comedy, Drama, Family",6.5,15379.0,2009.0,ts12815,4.0,10::(self-applied),https://www.mycanal.fr/jeunesse/big-time-rush/h/4691601_50662,MyCanal,-10,'us'
+tt10653784,Gossip Girl,tvSeries,"Drama, Romance",5.3,15225.0,2021.0,ts288382,2.0,10::(self-applied),https://www.mycanal.fr/series/gossip-girl/h/40430153_50889,MyCanal,-16,'us'
+tt2980696,Quarry,tvSeries,"Crime, Drama, Thriller",8.0,14903.0,2016.0,ts41636,3.0,10,https://www.mycanal.fr/series/quarry/h/40587245_50889,MyCanal,-16,'us'
+tt2325846,DreamWorks Dragons,tvSeries,"Action, Adventure, Animation",7.9,14828.0,2012.0,ts9630,1.0,tous publics,https://www.mycanal.fr/jeunesse/dragons-cavaliers-de-beurk/h/4717397_50296,MyCanal,tous publics,"'us', 'cn'"
+tt1321865,Carlos,tvMiniSeries,"Biography, Crime, Drama",7.6,14729.0,2010.0,ts14360,2.0,12::(self-applied),https://www.canalplus.com/series/carlos/h/120094_50001,Canal+,-16,"'fr', 'de'"
+tt6519410,Black Spot,tvSeries,"Crime, Drama, Horror",7.4,14548.0,2017.0,ts55781,2.0,16,https://www.mycanal.fr/series/zone-blanche/h/40446618_50889,MyCanal,-16,"'fr', 'be'"
+tt0448190,Masters of Horror,tvSeries,Horror,7.4,13824.0,2005.0,ts21439,2.0,16,https://www.mycanal.fr/series/masters-of-horror/h/7490156_50049,MyCanal,-16,"'ca', 'jp', 'us'"
+tt14979052,Happiness,tvSeries,"Action, Fantasy, Horror",7.7,13354.0,2021.0,ts312249,2.0,16,https://www.mycanal.fr/series/happiness/h/18618581_50008,MyCanal,tous publics,'kr'
+tt8425404,The Bay,tvSeries,"Crime, Drama, Mystery",7.2,13288.0,2019.0,ts89295,1.0,10,https://www.canalplus.com/series/the-bay/h/26692170_50076,Canal+,-10,'gb'
+tt3061050,Clarence,tvSeries,"Adventure, Animation, Comedy",6.8,12929.0,2013.0,ts11963,3.0,tous publics,https://www.mycanal.fr/jeunesse/clarence/h/40514350_50889,MyCanal,-10,"'us', 'kr'"
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://www.mycanal.fr/jeunesse/sam-cat/h/5202228_50662,MyCanal,-10,'us'
+tt4370528,The Five,tvMiniSeries,"Crime, Drama, Mystery",7.5,12683.0,2016.0,ts38759,2.0,10::(self-applied),https://www.canalplus.com/series/the-five/h/6534226_50001,Canal+,-10,'gb'
+tt4206804,The Frankenstein Chronicles,tvSeries,"Crime, Drama, Fantasy",7.2,12627.0,2015.0,ts38183,1.0,16::(self-applied),https://www.mycanal.fr/series/the-frankenstein-chronicles/h/6188955_50071,MyCanal,-12,'gb'
+tt8270592,Miss Scarlet,tvSeries,"Crime, Drama, Thriller",7.7,12619.0,2020.0,ts111977,1.0,tous publics,https://www.canalplus.com/series/miss-scarlet-detective-privee/h/25808105_50076,Canal+,tous publics,"'us', 'gb'"
+tt31193442,Quiet on Set: The Dark Side of Kids TV,tvMiniSeries,"Crime, Documentary",7.5,12172.0,2024.0,ts420776,2.0,12 avec avertissement,https://www.mycanal.fr/decouverte/enfants-stars-un-predateur-en-coulisses/h/40587139_50889,MyCanal,-12,'us'
+tt10482370,The Third Day,tvSeries,"Drama, Horror, Mystery",6.4,12045.0,2020.0,ts213221,3.0,12::(self-applied),https://www.mycanal.fr/series/the-third-day/h/40472524_50889,MyCanal,-16,"'gb', 'us'"
+tt11468254,White House Plumbers,tvMiniSeries,"Biography, Drama, History",6.8,11782.0,2023.0,ts223274,3.0,18,https://www.mycanal.fr/series/white-house-plumbers/h/40432768_50889,MyCanal,-12,'us'
+tt6905756,Pagan Peak,tvSeries,"Crime, Drama, Mystery",8.0,11566.0,2018.0,ts87048,1.0,10,https://www.canalplus.com/series/pagan-peak/h/12444778_50076,Canal+,-10,"'de', 'at'"
+tt9731242,The Mess You Leave Behind,tvSeries,"Crime, Drama, Mystery",6.8,11435.0,2020.0,ts101408,2.0,16,https://www.mycanal.fr/decouverte/apres-le-chaos/h/18728219_50034,MyCanal,tous publics,'es'
+tt6078096,High Maintenance,tvSeries,"Comedy, Drama",8.1,11310.0,2016.0,ts41920,2.0,12,https://www.mycanal.fr/series/high-maintenance/h/40573354_50889,MyCanal,-16,'us'
+tt1509004,Enlightened,tvSeries,"Comedy, Drama",7.5,11022.0,2011.0,ts14405,3.0,10::(self-applied),https://www.mycanal.fr/series/illuminee/h/40468172_50889,MyCanal,-12,'us'
+tt8259142,Baptiste,tvSeries,"Crime, Drama, Thriller",7.3,10709.0,2019.0,ts88264,1.0,tous publics::(dvd rating),https://www.canalplus.com/series/baptiste/h/12611632_50076,Canal+,-10,'gb'

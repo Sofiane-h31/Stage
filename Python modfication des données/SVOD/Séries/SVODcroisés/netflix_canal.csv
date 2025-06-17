@@ -1,0 +1,37 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://www.mycanal.fr/series/rick-and-morty/h/40421495_50889,MyCanal,-16,'us'
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://www.netflix.com/title/80014749,Netflix,16+,'us'
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://www.mycanal.fr/jeunesse/avatar-le-dernier-maitre-de-lair/h/5163853_50662,MyCanal,-10,"'us', 'kr'"
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://www.netflix.com/title/70142405,Netflix,10+,"'us', 'kr'"
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://www.mycanal.fr/series/the-vampire-diaries/h/40431768_50889,MyCanal,-16,'us'
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://www.netflix.com/title/70143860,Netflix,16+,'us'
+tt0397442,Gossip Girl,tvSeries,"Drama, Romance",7.5,206135.0,2007.0,ts288382,2.0,10::(tv rating),https://www.mycanal.fr/series/gossip-girl-2007/h/40421366_50889,MyCanal,-12,'us'
+tt0397442,Gossip Girl,tvSeries,"Drama, Romance",7.5,206135.0,2007.0,ts288382,2.0,10::(tv rating),https://www.netflix.com/title/70143811,Netflix,13+,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://www.mycanal.fr/series/1883/h/20305486_50662,MyCanal,-12,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://www.netflix.com/title/81559259,Netflix,16+,'us'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://www.mycanal.fr/series/young-sheldon/h/40426507_50889,MyCanal,tous publics,'us'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://www.netflix.com/title/80192612,Netflix,13+,'us'
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://www.netflix.com/title/70241425,Netflix,10+,"'us', 'hk', 'jp', 'kr', 'de'"
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://www.mycanal.fr/jeunesse/adventure-time/h/40421098_50889,MyCanal,-10,"'us', 'hk', 'jp', 'kr', 'de'"
+tt7587890,The Rookie,tvSeries,"Action, Crime, Drama",8.0,98621.0,2018.0,ts81342,3.0,10,https://www.canalplus.com/series/the-rookie-le-flic-de-los-angeles/h/11055747_50055,Canal+,-10,'us'
+tt7587890,The Rookie,tvSeries,"Action, Crime, Drama",8.0,98621.0,2018.0,ts81342,3.0,10,https://www.netflix.com/title/81666165,Netflix,13+,'us'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://www.mycanal.fr/jeunesse/classic-ben-10/h/40545877_50889,MyCanal,-10,'us'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://www.netflix.com/title/70155571,Netflix,7+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://www.netflix.com/title/70153388,Netflix,13+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://www.mycanal.fr/divertissement/lincroyable-famille-kardashian/h/4860621_50071,MyCanal,-16,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://www.mycanal.fr/series/victorious/h/4603878_50662,MyCanal,-10,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://www.netflix.com/title/70172485,Netflix,7+,'us'
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://www.netflix.com/title/70211391,Netflix,10+,"'fr', 'ca', 'be', 'us'"
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://www.canalplus.com/jeunesse/les-aventures-de-tintin/h/2095377_50001,Canal+,tous publics,"'fr', 'ca', 'be', 'us'"
+tt4277922,Call My Agent!,tvSeries,"Comedy, Drama",8.3,17761.0,2015.0,ts37866,2.0,tous publics,https://www.netflix.com/title/80133335,Netflix,13+,'fr'
+tt4277922,Call My Agent!,tvSeries,"Comedy, Drama",8.3,17761.0,2015.0,ts37866,2.0,tous publics,https://www.mycanal.fr/series/dix-pour-cent/h/5674586_50615,MyCanal,-12,'fr'
+tt1173427,Total Drama,tvSeries,"Action, Adventure, Animation",7.4,15708.0,2007.0,ts22005,2.0,,https://www.canalplus.com/jeunesse/lile-des-defis-extremes/h/173738_50001,Canal+,tous publics,"'ca', 'us', 'fr'"
+tt1173427,Total Drama,tvSeries,"Action, Adventure, Animation",7.4,15708.0,2007.0,ts22005,2.0,,https://www.netflix.com/title/70252898,Netflix,7+,"'ca', 'us', 'fr'"
+tt6560040,The Forest,tvMiniSeries,"Crime, Drama",7.2,14055.0,2017.0,ts57424,2.0,,https://www.netflix.com/title/80240691,Netflix,16+,'fr'
+tt6560040,The Forest,tvMiniSeries,"Crime, Drama",7.2,14055.0,2017.0,ts57424,2.0,,https://www.mycanal.fr/decouverte/lenfant-de-la-foret/h/21973129_50001,MyCanal,tous publics,'fr'
+tt14979052,Happiness,tvSeries,"Action, Fantasy, Horror",7.7,13354.0,2021.0,ts312249,2.0,16,https://www.mycanal.fr/series/happiness/h/18618581_50008,MyCanal,tous publics,'kr'
+tt14979052,Happiness,tvSeries,"Action, Fantasy, Horror",7.7,13354.0,2021.0,ts312249,2.0,16,https://www.netflix.com/title/81520295,Netflix,16+,'kr'
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://www.netflix.com/title/80027564,Netflix,7+,'us'
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://www.mycanal.fr/jeunesse/sam-cat/h/5202228_50662,MyCanal,-10,'us'
+tt9731242,The Mess You Leave Behind,tvSeries,"Crime, Drama, Mystery",6.8,11435.0,2020.0,ts101408,2.0,16,https://www.netflix.com/title/81033361,Netflix,16+,'es'
+tt9731242,The Mess You Leave Behind,tvSeries,"Crime, Drama, Mystery",6.8,11435.0,2020.0,ts101408,2.0,16,https://www.mycanal.fr/decouverte/apres-le-chaos/h/18728219_50034,MyCanal,tous publics,'es'

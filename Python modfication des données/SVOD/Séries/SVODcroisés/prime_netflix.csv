@@ -1,0 +1,176 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt1475582,Sherlock,tvSeries,"Crime, Drama, Mystery",9.0,1048301.0,2010.0,ts21538,2.0,tous publics,https://www.netflix.com/title/70202589,Netflix,13+,"'gb', 'us'"
+tt1475582,Sherlock,tvSeries,"Crime, Drama, Mystery",9.0,1048301.0,2010.0,ts21538,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.25fbee69-ed93-4cca-bab4-c8f9f4d3f998,Prime Video,16+,"'gb', 'us'"
+tt0386676,The Office,tvSeries,Comedy,9.0,775241.0,2005.0,ts21621,2.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8b0291b-34a6-d376-9732-9616a6f352c6,Prime Video,16+,'us'
+tt0386676,The Office,tvSeries,Comedy,9.0,775241.0,2005.0,ts21621,2.0,13::(self-applied),https://www.netflix.com/title/70136120,Netflix,13+,'us'
+tt2442560,Peaky Blinders,tvSeries,"Crime, Drama",8.7,711860.0,2013.0,ts20110,2.0,10::(with warning),https://app.primevideo.com/detail?gti=amzn1.dv.gti.24b8776e-16e0-e3e3-67e8-b144e97d7728,Prime Video,18+,'gb'
+tt2442560,Peaky Blinders,tvSeries,"Crime, Drama",8.7,711860.0,2013.0,ts20110,2.0,10::(with warning),https://www.netflix.com/title/80002479,Netflix,16+,'gb'
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://www.netflix.com/title/80014749,Netflix,16+,'us'
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7e026005-b261-4750-97ac-72da097d3437,Prime Video,16+,'us'
+tt2560140,Attack on Titan,tvSeries,"Action, Adventure, Animation",9.1,610714.0,2013.0,ts20682,5.0,16::(dvd rating),https://www.netflix.com/title/70299043,Netflix,16+,'jp'
+tt2560140,Attack on Titan,tvSeries,"Action, Adventure, Animation",9.1,610714.0,2013.0,ts20682,5.0,16::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.28a9f684-21e7-1820-db3f-87f21a0dd1a5,Prime Video,18+,'jp'
+tt2560140,Attack on Titan,tvSeries,"Action, Adventure, Animation",9.1,610714.0,2013.0,ts20682,5.0,16::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.ccbc22a6-c072-7744-9891-5b4742c69074,Prime Video,18+,'jp'
+tt0412142,House,tvSeries,"Drama, Mystery",8.7,558518.0,2004.0,ts22280,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.985bb3c2-a248-4124-86c5-b93a81e986b6,Prime Video,18+,'us'
+tt0412142,House,tvSeries,"Drama, Mystery",8.7,558518.0,2004.0,ts22280,3.0,tous publics,https://www.netflix.com/title/70136117,Netflix,16+,'us'
+tt0877057,Death Note,tvSeries,"Animation, Crime, Drama",8.9,425414.0,2006.0,ts11313,3.0,12::(tv rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.94af1091-bc97-a32b-3fdc-e55b21a4b690,Prime Video,16+,'jp'
+tt0877057,Death Note,tvSeries,"Animation, Crime, Drama",8.9,425414.0,2006.0,ts11313,3.0,12::(tv rating),https://www.netflix.com/title/70204970,Netflix,13+,'jp'
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://app.primevideo.com/detail?gti=amzn1.dv.gti.809aa481-8a12-4cd2-8d0e-85a0125acafe,Prime Video,13+,"'us', 'kr'"
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://app.primevideo.com/detail?gti=amzn1.dv.gti.85bfb805-1b72-4fa0-9512-f29492aeb5dd,Prime Video,TOUS PUBLICS,"'us', 'kr'"
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://www.netflix.com/title/70142405,Netflix,10+,"'us', 'kr'"
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.149977ca-e1a3-433b-bffd-0e8a2f3e0939,Prime Video,18+,'us'
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://www.netflix.com/title/70143860,Netflix,16+,'us'
+tt4236770,Yellowstone,tvSeries,"Drama, Western",8.6,275341.0,2018.0,ts75269,4.0,10,https://www.netflix.com/title/80238738,Netflix,16+,'us'
+tt4236770,Yellowstone,tvSeries,"Drama, Western",8.6,275341.0,2018.0,ts75269,4.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ab2103f-74b5-a20c-5d65-4193b9ef52fa,Prime Video,18+,'us'
+tt4508902,One Punch Man,tvSeries,"Action, Animation, Comedy",8.7,201791.0,2015.0,ts37539,3.0,12::(dvd rating),https://www.netflix.com/title/80117291,Netflix,16+,'jp'
+tt4508902,One Punch Man,tvSeries,"Action, Animation, Comedy",8.7,201791.0,2015.0,ts37539,3.0,12::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab609b3c-9e32-4147-b21d-32e78eebce27,Prime Video,16+,'jp'
+tt0988824,Naruto: Shippuden,tvSeries,"Action, Adventure, Animation",8.7,198027.0,2007.0,ts22069,5.0,tous publics,https://www.netflix.com/title/80000603,Netflix,13+,'jp'
+tt0988824,Naruto: Shippuden,tvSeries,"Action, Adventure, Animation",8.7,198027.0,2007.0,ts22069,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ffa353be-ac68-4d9b-a151-c11bff5f4de1,Prime Video,16+,'jp'
+tt0988824,Naruto: Shippuden,tvSeries,"Action, Adventure, Animation",8.7,198027.0,2007.0,ts22069,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4738d5a2-8649-40cb-b971-ae9dc0ea58c0,Prime Video,16+,'jp'
+tt0988824,Naruto: Shippuden,tvSeries,"Action, Adventure, Animation",8.7,198027.0,2007.0,ts22069,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ab85087-71a9-836e-90c9-e08ac5eb0f0a,Prime Video,16+,'jp'
+tt9335498,Demon Slayer: Kimetsu no Yaiba,tvSeries,"Action, Adventure, Animation",8.6,187323.0,2019.0,ts87466,7.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f79d486e-5987-42d7-9726-07a405390959,Prime Video,16+,'jp'
+tt9335498,Demon Slayer: Kimetsu no Yaiba,tvSeries,"Action, Adventure, Animation",8.6,187323.0,2019.0,ts87466,7.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2faec5c1-2d67-4f07-89f6-4c7cb1ae41f8,Prime Video,16+,'jp'
+tt9335498,Demon Slayer: Kimetsu no Yaiba,tvSeries,"Action, Adventure, Animation",8.6,187323.0,2019.0,ts87466,7.0,tous publics avec avertissement,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aeb3773-33f6-49ab-b02d-4e7b35490762,Prime Video,18+,'jp'
+tt9335498,Demon Slayer: Kimetsu no Yaiba,tvSeries,"Action, Adventure, Animation",8.6,187323.0,2019.0,ts87466,7.0,tous publics avec avertissement,https://www.netflix.com/title/81091393,Netflix,16+,'jp'
+tt2098220,Hunter x Hunter,tvSeries,"Action, Adventure, Animation",9.0,163874.0,2011.0,ts32835,3.0,tous publics::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.72b912f2-c45f-398a-d1ed-d5d9e4d9bac9,Prime Video,16+,'jp'
+tt2098220,Hunter x Hunter,tvSeries,"Action, Adventure, Animation",9.0,163874.0,2011.0,ts32835,3.0,tous publics::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.8dbd4c6c-ec45-4da5-8340-cd31da362791,Prime Video,13+,'jp'
+tt2098220,Hunter x Hunter,tvSeries,"Action, Adventure, Animation",9.0,163874.0,2011.0,ts32835,3.0,tous publics::(dvd rating),https://www.netflix.com/title/70300472,Netflix,16+,'jp'
+tt12343534,Jujutsu Kaisen,tvSeries,"Action, Adventure, Animation",8.5,154106.0,2020.0,ts222852,4.0,not rated,https://www.netflix.com/title/81278456,Netflix,16+,"'jp', 'us'"
+tt12343534,Jujutsu Kaisen,tvSeries,"Action, Adventure, Animation",8.5,154106.0,2020.0,ts222852,4.0,not rated,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ad07549-89c6-4407-a5b8-790c43228c4c,Prime Video,18+,"'jp', 'us'"
+tt0409591,Naruto,tvSeries,"Action, Adventure, Animation",8.4,147095.0,2002.0,ts20305,5.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5eb6f772-ac40-3165-11cf-4eaaa6925a0d,Prime Video,13+,'jp'
+tt0409591,Naruto,tvSeries,"Action, Adventure, Animation",8.4,147095.0,2002.0,ts20305,5.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3950f8e-c0fc-456f-a32b-0b7b5d4c563d,Prime Video,16+,'jp'
+tt0409591,Naruto,tvSeries,"Action, Adventure, Animation",8.4,147095.0,2002.0,ts20305,5.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf97c16e-3bf1-44a9-a085-79f8f33e741e,Prime Video,13+,'jp'
+tt0409591,Naruto,tvSeries,"Action, Adventure, Animation",8.4,147095.0,2002.0,ts20305,5.0,10,https://www.netflix.com/title/70205012,Netflix,13+,'jp'
+tt0092455,Star Trek: The Next Generation,tvSeries,"Action, Adventure, Drama",8.7,143781.0,1987.0,ts22504,3.0,tous publics::(dvd rating),https://www.netflix.com/title/70158329,Netflix,13+,'us'
+tt0092455,Star Trek: The Next Generation,tvSeries,"Action, Adventure, Drama",8.7,143781.0,1987.0,ts22504,3.0,tous publics::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.da60a6ec-bae0-4b19-9e90-0ddd760c197e,Prime Video,7+,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://www.netflix.com/title/81559259,Netflix,16+,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fe88d36d-be1e-4874-b569-c9bc093acecd,Prime Video,16+,'us'
+tt0203259,Law & Order: Special Victims Unit,tvSeries,"Crime, Drama, Mystery",8.1,136527.0,1999.0,ts20386,4.0,12::(itunes),https://www.netflix.com/title/70140403,Netflix,16+,'us'
+tt0203259,Law & Order: Special Victims Unit,tvSeries,"Crime, Drama, Mystery",8.1,136527.0,1999.0,ts20386,4.0,12::(itunes),https://app.primevideo.com/detail?gti=amzn1.dv.gti.c64bcb34-38b8-4c3a-b553-fef07be7bd39,Prime Video,18+,'us'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://www.netflix.com/title/80192612,Netflix,13+,'us'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cf21543-71ec-4825-983a-394d40cb88a1,Prime Video,TOUS PUBLICS,'us'
+tt0103359,Batman: The Animated Series,tvSeries,"Action, Adventure, Animation",9.0,127075.0,1992.0,ts13503,2.0,tous publics::(dvd rating),https://www.netflix.com/title/70177020,Netflix,7+,'us'
+tt0103359,Batman: The Animated Series,tvSeries,"Action, Adventure, Animation",9.0,127075.0,1992.0,ts13503,2.0,tous publics::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.0657de96-cc21-43e7-8407-ee38f23868d1,Prime Video,7+,'us'
+tt2294189,The Fall,tvSeries,"Crime, Drama, Thriller",8.1,126207.0,2013.0,ts6001,2.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f87c71fe-4ec5-4b97-8eff-a55cc6fb0099,Prime Video,16+,'gb'
+tt2294189,The Fall,tvSeries,"Crime, Drama, Thriller",8.1,126207.0,2013.0,ts6001,2.0,16,https://www.netflix.com/title/70272726,Netflix,16+,'gb'
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://www.netflix.com/title/70241425,Netflix,10+,"'us', 'hk', 'jp', 'kr', 'de'"
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.916bfc81-63f4-465d-84dc-13d694ba918e,Prime Video,7+,"'us', 'hk', 'jp', 'kr', 'de'"
+tt10233448,Vinland Saga,tvSeries,"Action, Adventure, Animation",8.8,100516.0,2019.0,ts90311,6.0,13::(self-applied),https://www.netflix.com/title/81249833,Netflix,16+,'jp'
+tt10233448,Vinland Saga,tvSeries,"Action, Adventure, Animation",8.8,100516.0,2019.0,ts90311,6.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.0e4a29ad-199f-4cc6-bcbf-6adcffa8b877,Prime Video,18+,'jp'
+tt10233448,Vinland Saga,tvSeries,"Action, Adventure, Animation",8.8,100516.0,2019.0,ts90311,6.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.80d4a3ed-21d5-4ed1-b3f4-054b29da3ec2,Prime Video,18+,'jp'
+tt0060028,Star Trek,tvSeries,"Action, Adventure, Drama",8.4,97000.0,1966.0,ts21236,3.0,tous publics,https://www.netflix.com/title/70136140,Netflix,7+,'us'
+tt0060028,Star Trek,tvSeries,"Action, Adventure, Drama",8.4,97000.0,1966.0,ts21236,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fa4e3e48-23e4-46cb-a45b-29b70d0b5e1d,Prime Video,7+,'us'
+tt0112178,Star Trek: Voyager,tvSeries,"Action, Adventure, Drama",7.9,81045.0,1995.0,ts22477,3.0,tous publics,https://www.netflix.com/title/70158331,Netflix,13+,'us'
+tt0112178,Star Trek: Voyager,tvSeries,"Action, Adventure, Drama",7.9,81045.0,1995.0,ts22477,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a37b344c-2a43-4fa4-b356-a2163187804a,Prime Video,7+,'us'
+tt8690918,Resident Alien,tvSeries,"Comedy, Drama, Mystery",8.1,74942.0,2021.0,ts282248,2.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea94ab0-d3de-404b-8246-3d8f83c8f74e,Prime Video,13+,'us'
+tt8690918,Resident Alien,tvSeries,"Comedy, Drama, Mystery",8.1,74942.0,2021.0,ts282248,2.0,10,https://www.netflix.com/title/81405070,Netflix,16+,'us'
+tt0106145,Star Trek: Deep Space Nine,tvSeries,"Action, Adventure, Drama",8.1,74222.0,1993.0,ts20927,3.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.81a40be3-5b1d-4ff8-8183-9fee99644140,Prime Video,7+,'us'
+tt0106145,Star Trek: Deep Space Nine,tvSeries,"Action, Adventure, Drama",8.1,74222.0,1993.0,ts20927,3.0,13::(self-applied),https://www.netflix.com/title/70158330,Netflix,13+,'us'
+tt3741634,Tokyo Ghoul,tvMiniSeries,"Action, Animation, Drama",7.7,73193.0,2014.0,ts20202,4.0,16::(dvd rating),https://www.netflix.com/title/80023687,Netflix,16+,'jp'
+tt3741634,Tokyo Ghoul,tvMiniSeries,"Action, Animation, Drama",7.7,73193.0,2014.0,ts20202,4.0,16::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.9c9b55a5-f5d9-4e27-b370-04511f1084da,Prime Video,18+,'jp'
+tt2177461,A Discovery of Witches,tvSeries,"Drama, Fantasy, Romance",7.8,69700.0,2018.0,ts78865,4.0,10,https://www.netflix.com/title/80197103,Netflix,16+,'gb'
+tt2177461,A Discovery of Witches,tvSeries,"Drama, Fantasy, Romance",7.8,69700.0,2018.0,ts78865,4.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c084f1fb-dc01-46aa-89ef-803d1586e13b,Prime Video,13+,'gb'
+tt1710308,Regular Show,tvSeries,"Action, Adventure, Animation",8.6,66783.0,2010.0,ts22225,3.0,tous publics,https://www.netflix.com/title/70221402,Netflix,10+,"'us', 'kr'"
+tt1710308,Regular Show,tvSeries,"Action, Adventure, Animation",8.6,66783.0,2010.0,ts22225,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6e0e146-35cc-4942-8a6c-3421fac11093,Prime Video,7+,"'us', 'kr'"
+tt0318871,Berserk,tvSeries,"Action, Adventure, Animation",8.7,65970.0,1997.0,ts345,3.0,16::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1a64d1d8-3d04-44d7-822d-95b5aa75b220,Prime Video,18+,"'jp', 'pl'"
+tt0318871,Berserk,tvSeries,"Action, Adventure, Animation",8.7,65970.0,1997.0,ts345,3.0,16::(dvd rating),https://www.netflix.com/title/80243876,Netflix,18+,"'jp', 'pl'"
+tt0244365,Star Trek: Enterprise,tvSeries,"Action, Adventure, Drama",7.5,61859.0,2001.0,ts21605,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0c96f00-1564-4a77-ab51-bf97ee494a07,Prime Video,7+,'us'
+tt0244365,Star Trek: Enterprise,tvSeries,"Action, Adventure, Drama",7.5,61859.0,2001.0,ts21605,4.0,tous publics,https://www.netflix.com/title/70158332,Netflix,16+,'us'
+tt0434706,Monster,tvSeries,"Animation, Crime, Drama",8.7,57033.0,2004.0,ts31787,2.0,12::(dvd),https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb97ccc-181f-4333-bf18-1af348f9b92d,Prime Video,16+,"'jp', 'pl'"
+tt0434706,Monster,tvSeries,"Animation, Crime, Drama",8.7,57033.0,2004.0,ts31787,2.0,12::(dvd),https://www.netflix.com/title/81409869,Netflix,16+,"'jp', 'pl'"
+tt3358020,Parasyte: The Maxim,tvSeries,"Action, Animation, Drama",8.2,55847.0,2014.0,ts20250,3.0,16::(self-applied),https://www.netflix.com/title/80191008,Netflix,16+,'jp'
+tt3358020,Parasyte: The Maxim,tvSeries,"Action, Animation, Drama",8.2,55847.0,2014.0,ts20250,3.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.c2acbb0a-3af2-1f6b-5c44-3e62a32b8877,Prime Video,18+,'jp'
+tt3281796,Power,tvSeries,"Crime, Drama",8.1,55808.0,2014.0,ts20296,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b4b52039-2640-6023-895b-f78fcf16fe2b,Prime Video,18+,'us'
+tt3281796,Power,tvSeries,"Crime, Drama",8.1,55808.0,2014.0,ts20296,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ca7a203-f34a-46e9-9587-2053b6d540f5,Prime Video,18+,'us'
+tt3281796,Power,tvSeries,"Crime, Drama",8.1,55808.0,2014.0,ts20296,3.0,12,https://www.netflix.com/title/70298433,Netflix,18+,'us'
+tt13706018,Spy x Family,tvSeries,"Action, Animation, Comedy",8.3,50618.0,2022.0,ts283022,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2d0da6d1-7beb-45dc-804c-d1839b229726,Prime Video,16+,'jp'
+tt13706018,Spy x Family,tvSeries,"Action, Animation, Comedy",8.3,50618.0,2022.0,ts283022,3.0,18,https://www.netflix.com/title/81511410,Netflix,16+,'jp'
+tt3061046,Steven Universe,tvSeries,"Action, Adventure, Animation",8.1,43140.0,2013.0,ts20113,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5960173e-20bb-4391-af48-9aca7d4f2aaa,Prime Video,TOUS PUBLICS,"'us', 'kr'"
+tt3061046,Steven Universe,tvSeries,"Action, Adventure, Animation",8.1,43140.0,2013.0,ts20113,3.0,tous publics,https://www.netflix.com/title/80130696,Netflix,7+,"'us', 'kr'"
+tt2359704,JoJo's Bizarre Adventure,tvSeries,"Action, Adventure, Animation",8.5,43098.0,2012.0,ts30637,5.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1edcb4cf-2209-4e1f-beba-5a7a675472d0,Prime Video,18+,'jp'
+tt2359704,JoJo's Bizarre Adventure,tvSeries,"Action, Adventure, Animation",8.5,43098.0,2012.0,ts30637,5.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.52150924-2f63-43a2-bf5a-8d51452c9ae3,Prime Video,13+,'jp'
+tt2359704,JoJo's Bizarre Adventure,tvSeries,"Action, Adventure, Animation",8.5,43098.0,2012.0,ts30637,5.0,16::(self-applied),https://www.netflix.com/title/80179831,Netflix,16+,'jp'
+tt7441658,Black Clover,tvSeries,"Action, Adventure, Animation",8.2,41832.0,2017.0,ts296797,7.0,10,https://www.netflix.com/title/80238012,Netflix,13+,"'jp', 'pl'"
+tt7441658,Black Clover,tvSeries,"Action, Adventure, Animation",8.2,41832.0,2017.0,ts296797,7.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.580762f7-7264-4a97-9d2b-ee96155c775e,Prime Video,13+,"'jp', 'pl'"
+tt7441658,Black Clover,tvSeries,"Action, Adventure, Animation",8.2,41832.0,2017.0,ts296797,7.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8275bdd0-72d4-4dda-8669-7c329e0b6b2d,Prime Video,7+,"'jp', 'pl'"
+tt7441658,Black Clover,tvSeries,"Action, Adventure, Animation",8.2,41832.0,2017.0,ts296797,7.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b22102c5-929e-4cab-8400-ad7bb82cf9c8,Prime Video,16+,"'jp', 'pl'"
+tt22248376,Frieren: Beyond Journey's End,tvSeries,"Adventure, Animation, Comedy",8.9,41687.0,2023.0,ts364792,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.268244a6-ec4b-4464-88b3-8ea8809871cc,Prime Video,16+,'jp'
+tt22248376,Frieren: Beyond Journey's End,tvSeries,"Adventure, Animation, Comedy",8.9,41687.0,2023.0,ts364792,4.0,,https://www.netflix.com/title/81726714,Netflix,16+,'jp'
+tt22248376,Frieren: Beyond Journey's End,tvSeries,"Adventure, Animation, Comedy",8.9,41687.0,2023.0,ts364792,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c884d7f6-5069-413d-af8c-4137451c9211,Prime Video,16+,'jp'
+tt9679542,Dr. Stone,tvSeries,"Action, Adventure, Animation",8.1,34722.0,2019.0,ts87563,5.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee05168f-f050-4fea-9149-e364c78ee80b,Prime Video,18+,'jp'
+tt9679542,Dr. Stone,tvSeries,"Action, Adventure, Animation",8.1,34722.0,2019.0,ts87563,5.0,10,https://www.netflix.com/title/81046193,Netflix,16+,'jp'
+tt9679542,Dr. Stone,tvSeries,"Action, Adventure, Animation",8.1,34722.0,2019.0,ts87563,5.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.174a0617-cbc9-4259-8d6f-3e9b46e480b3,Prime Video,TOUS PUBLICS,'jp'
+tt30217403,Dandadan,tvSeries,"Action, Adventure, Animation",8.4,32823.0,2024.0,ts413191,5.0,16::(streaming rating),https://www.netflix.com/title/81736884,Netflix,16+,'jp'
+tt30217403,Dandadan,tvSeries,"Action, Adventure, Animation",8.4,32823.0,2024.0,ts413191,5.0,16::(streaming rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f48703-0d97-465e-884f-1a73c12b1526,Prime Video,18+,'jp'
+tt30217403,Dandadan,tvSeries,"Action, Adventure, Animation",8.4,32823.0,2024.0,ts413191,5.0,16::(streaming rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.5d7e8feb-18f9-457b-a898-ba56ab4a0164,Prime Video,18+,'jp'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://www.netflix.com/title/70155571,Netflix,7+,'us'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.81870153-60f5-47e6-a2de-b29374280fb3,Prime Video,7+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://www.netflix.com/title/70153388,Netflix,13+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ab9eb55-ac3f-0381-e751-a71a317a550b,Prime Video,18+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1421ecfb-1a64-4c0b-b89b-748cbe0f839d,Prime Video,18+,'us'
+tt6342474,Boruto: Naruto Next Generations,tvSeries,"Action, Adventure, Animation",6.3,31918.0,2017.0,ts56104,5.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f530ba90-f172-4f53-817f-98221799d3a7,Prime Video,16+,"'jp', 'pl'"
+tt6342474,Boruto: Naruto Next Generations,tvSeries,"Action, Adventure, Animation",6.3,31918.0,2017.0,ts56104,5.0,12,https://www.netflix.com/title/81080523,Netflix,13+,"'jp', 'pl'"
+tt6342474,Boruto: Naruto Next Generations,tvSeries,"Action, Adventure, Animation",6.3,31918.0,2017.0,ts56104,5.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4028b77b-b653-422b-83ec-8559aa59bf8f,Prime Video,13+,"'jp', 'pl'"
+tt6342474,Boruto: Naruto Next Generations,tvSeries,"Action, Adventure, Animation",6.3,31918.0,2017.0,ts56104,5.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.58b69cc5-3950-9951-0002-325a5d14e6dc,Prime Video,13+,"'jp', 'pl'"
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bae65f29-27b6-4de2-941e-4137dcbebf12,Prime Video,TOUS PUBLICS,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://www.netflix.com/title/70172485,Netflix,7+,'us'
+tt8388390,Chucky,tvSeries,"Comedy, Drama, Horror",7.2,30467.0,2021.0,ts233459,4.0,7,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea8c1a85-2156-4708-aae9-1a0080e48ced,Prime Video,18+,"'ca', 'us'"
+tt8388390,Chucky,tvSeries,"Comedy, Drama, Horror",7.2,30467.0,2021.0,ts233459,4.0,7,https://www.netflix.com/title/81570912,Netflix,16+,"'ca', 'us'"
+tt2771780,Teen Titans Go!,tvSeries,"Adventure, Animation, Comedy",5.7,26986.0,2013.0,ts35726,3.0,tous publics,https://www.netflix.com/title/80103408,Netflix,10+,'us'
+tt2771780,Teen Titans Go!,tvSeries,"Adventure, Animation, Comedy",5.7,26986.0,2013.0,ts35726,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbfeb6d6-9011-4897-9f6e-7b1237163cb4,Prime Video,7+,'us'
+tt3837246,Assasination Classroom,tvSeries,"Action, Animation, Comedy",7.9,24162.0,2013.0,ts21984,3.0,10::(itunes),https://www.netflix.com/title/80045948,Netflix,13+,'jp'
+tt3837246,Assasination Classroom,tvSeries,"Action, Animation, Comedy",7.9,24162.0,2013.0,ts21984,3.0,10::(itunes),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1aba2371-1710-a992-9233-6ab3091055d1,Prime Video,16+,'jp'
+tt13911284,Hell's Paradise: Jigokuraku,tvSeries,"Action, Adventure, Animation",8.1,20406.0,2023.0,ts271931,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e58a69fa-2161-4aed-bd56-5eab3ff4fbd0,Prime Video,18+,'jp'
+tt13911284,Hell's Paradise: Jigokuraku,tvSeries,"Action, Adventure, Animation",8.1,20406.0,2023.0,ts271931,3.0,,https://www.netflix.com/title/81574246,Netflix,16+,'jp'
+tt9529546,The Rising of the Shield Hero,tvSeries,"Action, Adventure, Animation",7.7,20289.0,2019.0,ts84631,3.0,not rated,https://app.primevideo.com/detail?gti=amzn1.dv.gti.90b5f1a2-8753-6c21-0e9c-27d01b4ccccc,Prime Video,16+,'jp'
+tt9529546,The Rising of the Shield Hero,tvSeries,"Action, Adventure, Animation",7.7,20289.0,2019.0,ts84631,3.0,not rated,https://www.netflix.com/title/81058649,Netflix,16+,'jp'
+tt0491603,H2O: Just Add Water,tvSeries,"Adventure, Comedy, Drama",7.3,19934.0,2006.0,ts21706,2.0,tous publics,https://www.netflix.com/title/70180051,Netflix,Tous publics,'au'
+tt0491603,H2O: Just Add Water,tvSeries,"Adventure, Comedy, Drama",7.3,19934.0,2006.0,ts21706,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.82b9c973-3f82-1a7f-8920-2be7603ee942,Prime Video,7+,'au'
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cc54af8-1d1f-43ed-8355-79770856c3d8,Prime Video,13+,"'fr', 'ca', 'be', 'us'"
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://www.netflix.com/title/70211391,Netflix,10+,"'fr', 'ca', 'be', 'us'"
+tt9252156,Departure,tvSeries,"Drama, Mystery, Thriller",6.8,19313.0,2019.0,ts100206,2.0,10,https://www.netflix.com/title/81789298,Netflix,13+,"'ca', 'gb', 'us', 'de'"
+tt9252156,Departure,tvSeries,"Drama, Mystery, Thriller",6.8,19313.0,2019.0,ts100206,2.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f5c66d3c-6da5-4b1f-82fd-03e486978e92,Prime Video,18+,"'ca', 'gb', 'us', 'de'"
+tt5370118,Konosuba: God's Blessing on This Wonderful World!,tvSeries,"Adventure, Animation, Comedy",7.8,17919.0,2016.0,ts44928,6.0,,https://www.netflix.com/title/80131674,Netflix,16+,'jp'
+tt5370118,Konosuba: God's Blessing on This Wonderful World!,tvSeries,"Adventure, Animation, Comedy",7.8,17919.0,2016.0,ts44928,6.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5990b7b8-ae4f-4ef0-af44-816896431252,Prime Video,18+,'jp'
+tt5370118,Konosuba: God's Blessing on This Wonderful World!,tvSeries,"Adventure, Animation, Comedy",7.8,17919.0,2016.0,ts44928,6.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6e08965-0e04-4de6-8c1d-b9b221cdce92,Prime Video,13+,'jp'
+tt5370118,Konosuba: God's Blessing on This Wonderful World!,tvSeries,"Adventure, Animation, Comedy",7.8,17919.0,2016.0,ts44928,6.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ec42c902-df70-4ac2-b114-31d74f2f96ba,Prime Video,13+,'jp'
+tt0185133,Yu Yu Hakusho: Ghost Files,tvSeries,"Action, Adventure, Animation",8.5,17283.0,1992.0,ts28078,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f594b10d-0c68-4bb1-b44e-4d892c130604,Prime Video,13+,'jp'
+tt0185133,Yu Yu Hakusho: Ghost Files,tvSeries,"Action, Adventure, Animation",8.5,17283.0,1992.0,ts28078,3.0,,https://www.netflix.com/title/81005375,Netflix,13+,'jp'
+tt4869896,Overlord,tvSeries,"Action, Adventure, Animation",7.6,16691.0,2015.0,ts37899,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.20b737ac-1f28-c1ee-e5f5-15c60a06b97c,Prime Video,16+,'jp'
+tt4869896,Overlord,tvSeries,"Action, Adventure, Animation",7.6,16691.0,2015.0,ts37899,2.0,tous publics,https://www.netflix.com/title/80132110,Netflix,16+,'jp'
+tt29485149,Dragon Ball Daima,tvSeries,"Action, Adventure, Animation",7.9,16437.0,2024.0,ts407747,5.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8c5416d-606a-48a5-b00d-6499f0238241,Prime Video,13+,'jp'
+tt29485149,Dragon Ball Daima,tvSeries,"Action, Adventure, Animation",7.9,16437.0,2024.0,ts407747,5.0,,https://www.netflix.com/title/81943491,Netflix,10+,'jp'
+tt29485149,Dragon Ball Daima,tvSeries,"Action, Adventure, Animation",7.9,16437.0,2024.0,ts407747,5.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9de03d5f-df1c-4b3c-885c-f1cc9ab003b0,Prime Video,13+,'jp'
+tt0985344,Claymore,tvSeries,"Action, Adventure, Animation",8.0,16188.0,2007.0,ts6055,3.0,,https://www.netflix.com/title/70204964,Netflix,16+,'jp'
+tt0985344,Claymore,tvSeries,"Action, Adventure, Animation",8.0,16188.0,2007.0,ts6055,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.58b371af-b135-4648-094d-17ff5ca45e57,Prime Video,18+,'jp'
+tt0283226,Totally Spies!,tvSeries,"Action, Adventure, Animation",7.1,13912.0,2001.0,ts21615,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e12960a7-85d0-408f-953e-cf55d790de48,Prime Video,7+,"'fr', 'kr', 'us', 'ca', 'gb', 'kp', 'cn'"
+tt0283226,Totally Spies!,tvSeries,"Action, Adventure, Animation",7.1,13912.0,2001.0,ts21615,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2b43e5f-21a5-cbbd-b772-bbe128479457,Prime Video,TOUS PUBLICS,"'fr', 'kr', 'us', 'ca', 'gb', 'kp', 'cn'"
+tt0283226,Totally Spies!,tvSeries,"Action, Adventure, Animation",7.1,13912.0,2001.0,ts21615,4.0,tous publics,https://www.netflix.com/title/80026692,Netflix,7+,"'fr', 'kr', 'us', 'ca', 'gb', 'kp', 'cn'"
+tt0481256,Fighting Spirit,tvSeries,"Action, Animation, Comedy",8.8,13896.0,2000.0,ts28125,3.0,,https://www.netflix.com/title/80995578,Netflix,16+,'jp'
+tt0481256,Fighting Spirit,tvSeries,"Action, Animation, Comedy",8.8,13896.0,2000.0,ts28125,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ad0fbfd3-b010-4086-87e5-ffc6746a2ef8,Prime Video,13+,'jp'
+tt26743760,The Apothecary Diaries,tvSeries,"Animation, Drama, History",8.5,13845.0,2023.0,ts395707,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.09bc7869-150b-41c6-80c5-77cc284dff0e,Prime Video,16+,'jp'
+tt26743760,The Apothecary Diaries,tvSeries,"Animation, Drama, History",8.5,13845.0,2023.0,ts395707,3.0,,https://www.netflix.com/title/81712068,Netflix,13+,'jp'
+tt2348803,Kuroko's Basketball,tvSeries,"Animation, Comedy, Sport",8.2,13547.0,2012.0,ts22249,3.0,7,https://www.netflix.com/title/80063153,Netflix,7+,'jp'
+tt2348803,Kuroko's Basketball,tvSeries,"Animation, Comedy, Sport",8.2,13547.0,2012.0,ts22249,3.0,7,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e5907740-78e0-4f6e-b1f8-c13f96942a23,Prime Video,TOUS PUBLICS,'jp'
+tt0315008,Great Teacher Onizuka,tvSeries,"Animation, Comedy, Drama",8.5,12977.0,1999.0,ts31733,5.0,,https://www.netflix.com/title/80124041,Netflix,13+,'jp'
+tt0315008,Great Teacher Onizuka,tvSeries,"Animation, Comedy, Drama",8.5,12977.0,1999.0,ts31733,5.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3aafa849-577e-1a97-f491-f76910167aca,Prime Video,18+,'jp'
+tt0315008,Great Teacher Onizuka,tvSeries,"Animation, Comedy, Drama",8.5,12977.0,1999.0,ts31733,5.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.da21248a-850c-4450-b249-daed6cc08900,Prime Video,18+,'jp'
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e333143-a386-4ab0-8992-be0b971be6c1,Prime Video,TOUS PUBLICS,'us'
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://www.netflix.com/title/80027564,Netflix,7+,'us'
+tt7923710,My Mister,tvSeries,"Drama, Family",9.0,12748.0,2018.0,ts78298,2.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.d618202e-37e6-4fd4-9eaf-0ad864099890,Prime Video,16+,'kr'
+tt7923710,My Mister,tvSeries,"Drama, Family",9.0,12748.0,2018.0,ts78298,2.0,13::(self-applied),https://www.netflix.com/title/81267691,Netflix,13+,'kr'
+tt0816397,Ouran High School Host Club,tvSeries,"Animation, Comedy, Romance",8.1,12722.0,2006.0,ts20544,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f908eed7-d771-4a08-bb38-2665a46f1f95,Prime Video,13+,'jp'
+tt0816397,Ouran High School Host Club,tvSeries,"Animation, Comedy, Romance",8.1,12722.0,2006.0,ts20544,3.0,,https://www.netflix.com/title/70205014,Netflix,13+,'jp'
+tt21030032,Oshi No Ko,tvSeries,"Animation, Drama, Fantasy",8.3,12371.0,2023.0,ts354570,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.55f65ca2-a6d2-493e-9c74-bfd556a19b22,Prime Video,16+,'jp'
+tt21030032,Oshi No Ko,tvSeries,"Animation, Drama, Fantasy",8.3,12371.0,2023.0,ts354570,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dacdeb27-8916-4483-8289-42426ee31fa4,Prime Video,16+,'jp'
+tt21030032,Oshi No Ko,tvSeries,"Animation, Drama, Fantasy",8.3,12371.0,2023.0,ts354570,4.0,,https://www.netflix.com/title/81684733,Netflix,16+,'jp'
+tt9340526,P-Valley,tvSeries,"Crime, Drama, Romance",7.5,11808.0,2020.0,ts88545,2.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8b99d51-c202-7e88-c5c2-ae8fe963681f,Prime Video,18+,'us'
+tt9340526,P-Valley,tvSeries,"Crime, Drama, Romance",7.5,11808.0,2020.0,ts88545,2.0,16,https://www.netflix.com/title/81303838,Netflix,16+,'us'
+tt12879418,Tale of the Nine Tailed,tvSeries,"Fantasy, History, Horror",7.9,11361.0,2020.0,ts252831,2.0,,https://www.netflix.com/title/81357286,Netflix,13+,'kr'
+tt12879418,Tale of the Nine Tailed,tvSeries,"Fantasy, History, Horror",7.9,11361.0,2020.0,ts252831,2.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.81a32c6b-16f2-49d8-aab7-6be1d1098b12,Prime Video,16+,'kr'
+tt14115938,The Eminence in Shadow,tvSeries,"Action, Adventure, Animation",7.8,10715.0,2022.0,ts281904,3.0,,https://www.netflix.com/title/81642096,Netflix,16+,'jp'
+tt14115938,The Eminence in Shadow,tvSeries,"Action, Adventure, Animation",7.8,10715.0,2022.0,ts281904,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466,Prime Video,16+,'jp'
+tt6111130,S.W.A.T.,tvSeries,"Action, Adventure, Crime",7.2,38038.0,2017.0,ts304703,3.0,10,https://www.netflix.com/title/80179292,Netflix,16+,'us'
+tt6111130,S.W.A.T.,tvSeries,"Action, Adventure, Crime",7.2,38038.0,2017.0,ts304703,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cb4a52d-2adf-3420-00d9-121f135d6d13,Prime Video,16+,'us'
+tt6111130,S.W.A.T.,tvSeries,"Action, Adventure, Crime",7.2,38038.0,2017.0,ts304703,3.0,10,https://www.primevideo.com/-/fr/detail/0HKD4XO54NHBK4WL7UURUAWFYX/ref=atv_dl_rdr,Prime Video,16+,'us'
+tt27121273,Assasination Classroom,tvSeries,"Animation, Comedy, Family",8.0,22662.0,2015.0,ts21984,3.0,10::(itunes),https://www.netflix.com/title/80045948,Netflix,13+,'jp'
+tt27121273,Assasination Classroom,tvSeries,"Animation, Comedy, Family",8.0,22662.0,2015.0,ts21984,3.0,10::(itunes),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1aba2371-1710-a992-9233-6ab3091055d1,Prime Video,16+,'jp'

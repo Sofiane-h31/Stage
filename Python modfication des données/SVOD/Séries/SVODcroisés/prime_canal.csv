@@ -1,0 +1,357 @@
+id,title,type,genres,averageRating,numVotes,releaseYear,idjw,NbDiff,ClassifImdb,Diffuseur,SVOD,ClassificationSVOD,CodePays
+tt0944947,Game of Thrones,tvSeries,"Action, Adventure, Drama",9.2,2433876.0,2011.0,ts2,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeb636ff-9e45-9d69-b5f3-91dd85e00fd4,Prime Video,18+,"'us', 'gb'"
+tt0944947,Game of Thrones,tvSeries,"Action, Adventure, Drama",9.2,2433876.0,2011.0,ts2,3.0,12,https://www.mycanal.fr/series/game-of-thrones/h/40425877_50889,MyCanal,-16,"'us', 'gb'"
+tt0108778,Friends,tvSeries,"Comedy, Romance",8.9,1144541.0,1994.0,ts21698,3.0,tous publics,https://www.mycanal.fr/series/friends/h/40492180_50889,MyCanal,-10,'us'
+tt0108778,Friends,tvSeries,"Comedy, Romance",8.9,1144541.0,1994.0,ts21698,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.784c2427-0f15-4da4-8949-aa9bf384be68,Prime Video,TOUS PUBLICS,'us'
+tt7366338,Chernobyl,tvMiniSeries,"Drama, History, Thriller",9.3,949728.0,2019.0,ts88632,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e64942d3-2bb8-438f-adb2-3e5c2b4f48b2,Prime Video,18+,"'us', 'gb'"
+tt7366338,Chernobyl,tvMiniSeries,"Drama, History, Thriller",9.3,949728.0,2019.0,ts88632,3.0,12,https://www.mycanal.fr/series/chernobyl/h/40436206_50889,MyCanal,-12,"'us', 'gb'"
+tt0898266,The Big Bang Theory,tvSeries,"Comedy, Romance",8.1,908002.0,2007.0,ts12,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.87e8bf22-e8c4-4b2a-9bcb-3b809deaf055,Prime Video,TOUS PUBLICS,'us'
+tt0898266,The Big Bang Theory,tvSeries,"Comedy, Romance",8.1,908002.0,2007.0,ts12,3.0,tous publics,https://www.mycanal.fr/series/the-big-bang-theory/h/40422267_50889,MyCanal,-12,'us'
+tt2356777,True Detective,tvSeries,"Crime, Drama, Mystery",8.9,703173.0,2014.0,ts20054,3.0,12,https://www.mycanal.fr/series/true-detective/h/40439553_50889,MyCanal,-16,'us'
+tt2356777,True Detective,tvSeries,"Crime, Drama, Mystery",8.9,703173.0,2014.0,ts20054,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8b96ae49-3860-49a5-8d15-7bd50c2ef008,Prime Video,18+,'us'
+tt3581920,The Last of Us,tvSeries,"Action, Adventure, Drama",8.6,656337.0,2023.0,ts226904,3.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.4da38bd7-53a9-4fde-8a33-6bf9f9f9d116,Prime Video,16+,"'ca', 'us'"
+tt3581920,The Last of Us,tvSeries,"Action, Adventure, Drama",8.6,656337.0,2023.0,ts226904,3.0,16::(self-applied),https://www.mycanal.fr/series/the-last-of-us/h/40427679_50889,MyCanal,-16,"'ca', 'us'"
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://www.mycanal.fr/series/rick-and-morty/h/40421495_50889,MyCanal,-16,'us'
+tt2861424,Rick and Morty,tvSeries,"Adventure, Animation, Comedy",9.1,650189.0,2013.0,ts20233,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7e026005-b261-4750-97ac-72da097d3437,Prime Video,16+,'us'
+tt0185906,Band of Brothers,tvMiniSeries,"Action, Drama, History",9.4,562005.0,2001.0,ts17149,3.0,tous publics::(with warning),https://app.primevideo.com/detail?gti=amzn1.dv.gti.f82f2fa1-1ca3-4bb5-a135-dcee6451b309,Prime Video,18+,"'gb', 'us'"
+tt0185906,Band of Brothers,tvMiniSeries,"Action, Drama, History",9.4,562005.0,2001.0,ts17149,3.0,tous publics::(with warning),https://www.mycanal.fr/series/band-of-brothers/h/40428382_50889,MyCanal,-16,"'gb', 'us'"
+tt0141842,The Sopranos,tvSeries,"Crime, Drama",9.2,524810.0,1999.0,ts20995,3.0,tous publics,https://www.mycanal.fr/series/les-soprano/h/40427482_50889,MyCanal,-16,'us'
+tt0141842,The Sopranos,tvSeries,"Crime, Drama",9.2,524810.0,1999.0,ts20995,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.02a38ae7-44a8-4040-949f-777f566c58b0,Prime Video,18+,'us'
+tt0460681,Supernatural,tvSeries,"Drama, Fantasy, Horror",8.4,511939.0,2005.0,ts21465,3.0,16,https://www.mycanal.fr/series/supernatural/h/40431599_50889,MyCanal,-16,'us'
+tt0460681,Supernatural,tvSeries,"Drama, Fantasy, Horror",8.4,511939.0,2005.0,ts21465,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ea9f699-8c1a-927c-2f88-d2b9900305e3,Prime Video,16+,'us'
+tt11198330,House of the Dragon,tvSeries,"Action, Adventure, Drama",8.3,476235.0,2022.0,ts222558,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.ac541637-f9fc-4f20-8f5a-3975d473fa0e,Prime Video,16+,'us'
+tt11198330,House of the Dragon,tvSeries,"Action, Adventure, Drama",8.3,476235.0,2022.0,ts222558,3.0,12::(self-applied),https://www.mycanal.fr/series/house-of-the-dragon/h/40425913_50889,MyCanal,-16,'us'
+tt2193021,Arrow,tvSeries,"Action, Adventure, Crime",7.5,454174.0,2012.0,ts17598,3.0,tous publics,https://www.mycanal.fr/series/arrow/h/40507049_50889,MyCanal,-16,'us'
+tt2193021,Arrow,tvSeries,"Action, Adventure, Crime",7.5,454174.0,2012.0,ts17598,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a444fd2-4046-4863-a365-4d4cbdb1401b,Prime Video,16+,'us'
+tt2802850,Fargo,tvSeries,"Crime, Drama, Thriller",8.8,444888.0,2014.0,ts8345,3.0,tous publics,https://www.canalplus.com/series/fargo-saison-1-episode-1/h/10027927_50001?episodeId=10026448_50001,Canal+,-12,'us'
+tt2802850,Fargo,tvSeries,"Crime, Drama, Thriller",8.8,444888.0,2014.0,ts8345,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3aa9f7ba-7328-4bc4-422f-a20ba2ad9584,Prime Video,18+,'us'
+tt2802850,Fargo,tvSeries,"Crime, Drama, Thriller",8.8,444888.0,2014.0,ts8345,3.0,tous publics,https://www.canalplus.com/series/fargo/h/10026448_50076,Canal+,-12,'us'
+tt0121955,South Park,tvSeries,"Animation, Comedy",8.7,422746.0,1997.0,ts21792,5.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c32772b2-28a5-4706-9409-4ab4324bf93c,Prime Video,18+,'us'
+tt0121955,South Park,tvSeries,"Animation, Comedy",8.7,422746.0,1997.0,ts21792,5.0,16,https://www.mycanal.fr/jeunesse/south-park/h/18101203_50662,MyCanal,-12,'us'
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://www.mycanal.fr/jeunesse/avatar-le-dernier-maitre-de-lair/h/5163853_50662,MyCanal,-10,"'us', 'kr'"
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://app.primevideo.com/detail?gti=amzn1.dv.gti.809aa481-8a12-4cd2-8d0e-85a0125acafe,Prime Video,13+,"'us', 'kr'"
+tt0417299,Avatar: The Last Airbender,tvSeries,"Action, Adventure, Animation",9.3,406238.0,2005.0,ts83993,7.0,t,https://app.primevideo.com/detail?gti=amzn1.dv.gti.85bfb805-1b72-4fa0-9512-f29492aeb5dd,Prime Video,TOUS PUBLICS,"'us', 'kr'"
+tt0306414,The Wire,tvSeries,"Crime, Drama, Thriller",9.3,403330.0,2002.0,ts22047,3.0,tous publics,https://www.mycanal.fr/series/sur-ecoute/h/40427589_50889,MyCanal,-16,'us'
+tt0306414,The Wire,tvSeries,"Crime, Drama, Thriller",9.3,403330.0,2002.0,ts22047,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7145d133-fa9c-4beb-82c7-37f23a419762,Prime Video,18+,'us'
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://www.mycanal.fr/series/the-vampire-diaries/h/40431768_50889,MyCanal,-16,'us'
+tt1405406,The Vampire Diaries,tvSeries,"Drama, Fantasy, Horror",7.7,366922.0,2009.0,ts21247,4.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.149977ca-e1a3-433b-bffd-0e8a2f3e0939,Prime Video,18+,'us'
+tt7660850,Succession,tvSeries,"Comedy, Drama",8.8,317339.0,2018.0,ts77979,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ab66f4f-7367-30a5-1d35-485ed0884d54,Prime Video,18+,'us'
+tt7660850,Succession,tvSeries,"Comedy, Drama",8.8,317339.0,2018.0,ts77979,3.0,12,https://www.mycanal.fr/series/succession/h/40426259_50889,MyCanal,-16,'us'
+tt1586680,Shameless,tvSeries,"Comedy, Drama",8.5,311018.0,2011.0,ts20660,3.0,tous publics,https://www.mycanal.fr/series/shameless/h/40427392_50889,MyCanal,-16,'us'
+tt1586680,Shameless,tvSeries,"Comedy, Drama",8.5,311018.0,2011.0,ts20660,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c2b137cd-c0db-2b9e-8a5d-667237b41c14,Prime Video,18+,'us'
+tt0369179,Two and a Half Men,tvSeries,"Comedy, Romance",7.1,289851.0,2003.0,ts21924,3.0,tous publics,https://www.mycanal.fr/series/mon-oncle-charlie/h/40470523_50889,MyCanal,-10,'us'
+tt0369179,Two and a Half Men,tvSeries,"Comedy, Romance",7.1,289851.0,2003.0,ts21924,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.96af43d0-4755-071e-f5f2-f8dd686b2dfc,Prime Video,TOUS PUBLICS,'us'
+tt13406094,The White Lotus,tvSeries,"Comedy, Drama",8.0,277239.0,2021.0,ts256052,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ecaae807-273f-4457-b1dd-77ae66fe2c92,Prime Video,18+,'us'
+tt13406094,The White Lotus,tvSeries,"Comedy, Drama",8.0,277239.0,2021.0,ts256052,3.0,12,https://www.mycanal.fr/series/the-white-lotus/h/40427576_50889,MyCanal,-16,'us'
+tt8772296,Euphoria,tvSeries,Drama,8.3,272017.0,2019.0,ts87074,3.0,16,https://www.mycanal.fr/series/euphoria-episodes-speciaux/h/40468300_50889,MyCanal,-16,'us'
+tt8772296,Euphoria,tvSeries,Drama,8.3,272017.0,2019.0,ts87074,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4484919e-b089-4068-9615-95f574ccce0d,Prime Video,18+,'us'
+tt0844441,True Blood,tvSeries,"Drama, Fantasy, Mystery",7.9,266081.0,2008.0,ts20566,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.10b66f48-0dee-8cee-aa1f-2d8027535d8e,Prime Video,18+,'us'
+tt0844441,True Blood,tvSeries,"Drama, Fantasy, Mystery",7.9,266081.0,2008.0,ts20566,3.0,12,https://www.mycanal.fr/series/true-blood/h/40433932_50889,MyCanal,-16,'us'
+tt1119644,Fringe,tvSeries,"Drama, Mystery, Sci-Fi",8.4,264068.0,2008.0,ts20536,3.0,tous publics::(with warning),https://www.mycanal.fr/series/fringe/h/40606739_50889,MyCanal,-16,"'us', 'ca'"
+tt1119644,Fringe,tvSeries,"Drama, Mystery, Sci-Fi",8.4,264068.0,2008.0,ts20536,3.0,tous publics::(with warning),https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6b91ff4-8b6d-595f-edc8-30c40872bed8,Prime Video,18+,"'us', 'ca'"
+tt3749900,Gotham,tvSeries,"Action, Crime, Drama",7.8,247102.0,2014.0,ts20292,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e66b2d86-6b61-4454-8d2c-da2afd7d81d8,Prime Video,16+,'us'
+tt3749900,Gotham,tvSeries,"Action, Crime, Drama",7.8,247102.0,2014.0,ts20292,3.0,10,https://www.mycanal.fr/series/gotham/h/40404993_50889,MyCanal,-16,'us'
+tt3920596,Big Little Lies,tvSeries,"Crime, Drama, Mystery",8.4,236221.0,2017.0,ts41275,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.336cd692-99f4-4f3a-b917-1c6bc2c2ba5a,Prime Video,18+,'us'
+tt3920596,Big Little Lies,tvSeries,"Crime, Drama, Mystery",8.4,236221.0,2017.0,ts41275,3.0,12,https://www.mycanal.fr/series/big-little-lies/h/40427239_50889,MyCanal,-16,'us'
+tt1196946,The Mentalist,tvSeries,"Crime, Drama, Mystery",8.2,212111.0,2008.0,ts21218,3.0,10,https://www.mycanal.fr/series/mentalist/h/40542721_50889,MyCanal,-16,'us'
+tt1196946,The Mentalist,tvSeries,"Crime, Drama, Mystery",8.2,212111.0,2008.0,ts21218,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb322df-0f26-e727-485c-0ed5c9c3287e,Prime Video,TOUS PUBLICS,'us'
+tt0979432,Boardwalk Empire,tvSeries,"Crime, Drama",8.6,211217.0,2010.0,ts14772,3.0,16,https://www.mycanal.fr/series/boardwalk-empire/h/40470406_50889,MyCanal,-16,'us'
+tt0979432,Boardwalk Empire,tvSeries,"Crime, Drama",8.6,211217.0,2010.0,ts14772,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.80430ff5-73e7-4d65-9b5c-40b3eb52b167,Prime Video,16+,'us'
+tt10155688,Mare of Easttown,tvMiniSeries,"Crime, Drama, Mystery",8.4,205123.0,2021.0,ts190845,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4bc67a2-d6a9-a9d6-e361-5ba007afb7fb,Prime Video,13+,'us'
+tt10155688,Mare of Easttown,tvMiniSeries,"Crime, Drama, Mystery",8.4,205123.0,2021.0,ts190845,3.0,12,https://www.mycanal.fr/series/mare-of-easttown/h/40431527_50889,MyCanal,-16,'us'
+tt0285331,24,tvSeries,"Action, Crime, Drama",8.4,202505.0,2001.0,ts7688,4.0,tous publics,https://www.canalplus.com/series/broute-24-episode-1/h/24658626_50001?episodeId=24607337_50001,Canal+,-10,'us'
+tt0285331,24,tvSeries,"Action, Crime, Drama",8.4,202505.0,2001.0,ts7688,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ab9293a-7e93-0aef-c4c1-7e6c1a6daee0,Prime Video,16+,'us'
+tt1839578,Person of Interest,tvSeries,"Action, Crime, Drama",8.5,198100.0,2011.0,ts21302,3.0,tous publics,https://www.mycanal.fr/series/person-of-interest/h/40470472_50889,MyCanal,-16,'us'
+tt1839578,Person of Interest,tvSeries,"Action, Crime, Drama",8.5,198100.0,2011.0,ts21302,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c3eec28-36cf-4d3a-9c11-3855a0541fe4,Prime Video,16+,'us'
+tt0384766,Rome,tvSeries,"Action, Drama, Romance",8.7,195062.0,2005.0,ts22363,3.0,tous publics::(dvd rating),https://www.mycanal.fr/series/rome/h/40472474_50889,MyCanal,-16,"'gb', 'us'"
+tt0384766,Rome,tvSeries,"Action, Drama, Romance",8.7,195062.0,2005.0,ts22363,3.0,tous publics::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.dc1c8dae-5851-4767-8d58-3dfc8363bac3,Prime Video,18+,"'gb', 'us'"
+tt1578873,Pretty Little Liars,tvSeries,"Drama, Mystery, Romance",7.4,183845.0,2010.0,ts21860,3.0,tous publics,https://www.mycanal.fr/series/pretty-little-liars/h/40428473_50889,MyCanal,-12,'us'
+tt1578873,Pretty Little Liars,tvSeries,"Drama, Mystery, Romance",7.4,183845.0,2010.0,ts21860,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fd09b289-ce2c-4978-b657-aa2795a2093d,Prime Video,16+,'us'
+tt2401256,The Night Of,tvMiniSeries,"Crime, Drama, Mystery",8.4,182917.0,2016.0,ts38802,3.0,18,https://www.mycanal.fr/series/the-night-of/h/40472563_50889,MyCanal,-16,'us'
+tt2401256,The Night Of,tvMiniSeries,"Crime, Drama, Mystery",8.4,182917.0,2016.0,ts38802,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.845b7ce1-bf69-425c-963b-4f0b25e86aec,Prime Video,16+,'us'
+tt0387199,Entourage,tvSeries,"Comedy, Drama",8.4,180329.0,2004.0,ts2024,3.0,tous publics,https://www.mycanal.fr/series/entourage/h/40468199_50889,MyCanal,-12,'us'
+tt0387199,Entourage,tvSeries,"Comedy, Drama",8.4,180329.0,2004.0,ts2024,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.369215ca-a2fe-458e-9a02-3fa874518a96,Prime Video,18+,'us'
+tt2575988,Silicon Valley,tvSeries,Comedy,8.5,174515.0,2014.0,ts20760,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ee60da9-8bcb-4f45-8525-5e761e9f0d3f,Prime Video,TOUS PUBLICS,'us'
+tt2575988,Silicon Valley,tvSeries,Comedy,8.5,174515.0,2014.0,ts20760,3.0,tous publics,https://www.mycanal.fr/series/silicon-valley/h/40431414_50889,MyCanal,-16,'us'
+tt0248654,Six Feet Under,tvSeries,"Comedy, Drama",8.7,158847.0,2001.0,ts21654,3.0,tous publics,https://www.mycanal.fr/series/six-feet-under/h/40427427_50889,MyCanal,-12,'us'
+tt0248654,Six Feet Under,tvSeries,"Comedy, Drama",8.7,158847.0,2001.0,ts21654,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.42b66e9c-09d8-8a04-d471-e602e70dd572,Prime Video,13+,'us'
+tt0264235,Curb Your Enthusiasm,tvSeries,Comedy,8.8,157211.0,2000.0,ts9245,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.90b683d5-c12b-24c6-1a47-d3eae47bd6b1,Prime Video,TOUS PUBLICS,'us'
+tt0264235,Curb Your Enthusiasm,tvSeries,Comedy,8.8,157211.0,2000.0,ts9245,3.0,10,https://www.mycanal.fr/series/larry-et-son-nombril/h/40427243_50889,MyCanal,-12,'us'
+tt2632424,The Originals,tvSeries,"Drama, Fantasy, Horror",8.2,154823.0,2013.0,ts20824,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e0133f1c-d928-49cb-83b7-9e62b7c45c59,Prime Video,18+,'us'
+tt2632424,The Originals,tvSeries,"Drama, Fantasy, Horror",8.2,154823.0,2013.0,ts20824,3.0,10,https://www.mycanal.fr/series/the-originals/h/40421945_50889,MyCanal,-16,'us'
+tt0159206,Sex and the City,tvSeries,"Comedy, Drama, Romance",7.3,152665.0,1998.0,ts22060,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.17249d0c-e4b4-4257-aff3-d6f6759ad3fd,Prime Video,18+,'us'
+tt0159206,Sex and the City,tvSeries,"Comedy, Drama, Romance",7.3,152665.0,1998.0,ts22060,3.0,10,https://www.mycanal.fr/series/sex-and-the-city/h/40436678_50889,MyCanal,-12,'us'
+tt0098800,The Fresh Prince of Bel-Air,tvSeries,Comedy,7.9,149215.0,1990.0,ts11945,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5eeb2fb6-ff2f-46d5-86f7-b18a959fc97c,Prime Video,TOUS PUBLICS,'us'
+tt0098800,The Fresh Prince of Bel-Air,tvSeries,Comedy,7.9,149215.0,1990.0,ts11945,3.0,tous publics,https://www.mycanal.fr/jeunesse/le-prince-de-bel-air/h/40542949_50889,MyCanal,-10,'us'
+tt13146488,Peacemaker,tvSeries,"Action, Adventure, Comedy",8.3,148275.0,2022.0,ts254885,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ca66ed2-04c4-46cd-a9cc-882165d88eda,Prime Video,16+,'us'
+tt13146488,Peacemaker,tvSeries,"Action, Adventure, Comedy",8.3,148275.0,2022.0,ts254885,3.0,10,https://www.mycanal.fr/series/peacemaker/h/40427340_50889,MyCanal,-16,'us'
+tt1695360,The Legend of Korra,tvSeries,"Action, Adventure, Animation",8.3,145092.0,2012.0,ts20457,6.0,tous publics,https://www.mycanal.fr/jeunesse/la-legende-de-korra/h/4886230_50662,MyCanal,-12,"'us', 'kr', 'jp'"
+tt1695360,The Legend of Korra,tvSeries,"Action, Adventure, Animation",8.3,145092.0,2012.0,ts20457,6.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.be5a4986-c4c3-4c4b-b614-b6cffd6bc507,Prime Video,13+,"'us', 'kr', 'jp'"
+tt1695360,The Legend of Korra,tvSeries,"Action, Adventure, Animation",8.3,145092.0,2012.0,ts20457,6.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8bd540-9ffd-4a8a-9eff-9a5e0a123ed5,Prime Video,16+,"'us', 'kr', 'jp'"
+tt0279600,Smallville,tvSeries,"Action, Adventure, Drama",7.5,144087.0,2001.0,ts21616,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e94920c2-2946-4d29-bd50-8e096dadfd87,Prime Video,16+,"'us', 'ca'"
+tt0279600,Smallville,tvSeries,"Action, Adventure, Drama",7.5,144087.0,2001.0,ts21616,3.0,10,https://www.mycanal.fr/series/smallville/h/40543080_50889,MyCanal,-16,"'us', 'ca'"
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://www.mycanal.fr/series/1883/h/20305486_50662,MyCanal,-12,'us'
+tt13991232,1883,tvMiniSeries,"Drama, Western",8.7,142856.0,2021.0,ts272606,5.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fe88d36d-be1e-4874-b569-c9bc093acecd,Prime Video,16+,'us'
+tt9813792,From,tvSeries,"Drama, Horror, Mystery",7.8,142780.0,2022.0,ts287292,4.0,,https://www.mycanal.fr/series/from/h/20246366_50662,MyCanal,-16,'us'
+tt9813792,From,tvSeries,"Drama, Horror, Mystery",7.8,142780.0,2022.0,ts287292,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.12509a83-a773-41e4-acc4-32828e46d4a5,Prime Video,18+,'us'
+tt5171438,Star Trek: Discovery,tvSeries,"Action, Adventure, Drama",7.0,142353.0,2017.0,ts41351,4.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b045b087-0349-4064-9a3e-f032ab9e35d1,Prime Video,18+,'us'
+tt5171438,Star Trek: Discovery,tvSeries,"Action, Adventure, Drama",7.0,142353.0,2017.0,ts41351,4.0,16,https://www.mycanal.fr/series/star-trek-discovery/h/14703456_50662,MyCanal,-16,'us'
+tt7049682,Watchmen,tvMiniSeries,"Crime, Drama, Mystery",8.2,140949.0,2019.0,ts81384,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0197394-c416-4131-a08a-259488bd4139,Prime Video,16+,'us'
+tt7049682,Watchmen,tvMiniSeries,"Crime, Drama, Mystery",8.2,140949.0,2019.0,ts81384,3.0,12,https://www.mycanal.fr/series/watchmen/h/40470478_50889,MyCanal,-16,'us'
+tt0374463,The Pacific,tvMiniSeries,"Action, Adventure, Drama",8.3,138142.0,2010.0,ts21440,3.0,12::(self-applied),https://www.mycanal.fr/series/band-of-brothers-lenfer-du-pacifique/h/40439657_50889,MyCanal,-16,"'us', 'au'"
+tt0374463,The Pacific,tvMiniSeries,"Action, Adventure, Drama",8.3,138142.0,2010.0,ts21440,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.12ae19b8-4465-4a5c-9c7f-8c7104ed9477,Prime Video,18+,"'us', 'au'"
+tt2017109,Banshee,tvSeries,"Action, Crime, Drama",8.4,135870.0,2013.0,ts13608,3.0,16,https://www.mycanal.fr/series/banshee/h/40542708_50889,MyCanal,-16,'us'
+tt2017109,Banshee,tvSeries,"Action, Crime, Drama",8.4,135870.0,2013.0,ts13608,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6b664ef-84a4-b2ff-a6b1-752406795398,Prime Video,16+,'us'
+tt2249364,Broadchurch,tvSeries,"Crime, Drama, Mystery",8.3,134256.0,2013.0,ts6265,2.0,tous publics::(dvd rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1578d8ce-764a-4e78-90d7-c74027ab2ba4,Prime Video,13+,'gb'
+tt2249364,Broadchurch,tvSeries,"Crime, Drama, Mystery",8.3,134256.0,2013.0,ts6265,2.0,tous publics::(dvd rating),https://www.canalplus.com/series/broadchurch/h/3144663_50076,Canal+,-10,'gb'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://www.mycanal.fr/series/young-sheldon/h/40426507_50889,MyCanal,tous publics,'us'
+tt6226232,Young Sheldon,tvSeries,Comedy,7.7,133005.0,2017.0,ts57131,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cf21543-71ec-4825-983a-394d40cb88a1,Prime Video,TOUS PUBLICS,'us'
+tt5348176,Barry,tvSeries,"Action, Comedy, Crime",8.3,132990.0,2018.0,ts74799,3.0,12,https://www.mycanal.fr/series/barry/h/40421409_50889,MyCanal,-16,'us'
+tt5348176,Barry,tvSeries,"Action, Comedy, Crime",8.3,132990.0,2018.0,ts74799,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2b66c73-fb53-95d2-af0f-87965f011258,Prime Video,16+,'us'
+tt1870479,The Newsroom,tvSeries,Drama,8.6,130333.0,2012.0,ts21078,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.54b6a887-f1bd-484f-4cad-bfcc667da233,Prime Video,13+,'us'
+tt1870479,The Newsroom,tvSeries,Drama,8.6,130333.0,2012.0,ts21078,3.0,10,https://www.mycanal.fr/series/the-newsroom/h/40440000_50889,MyCanal,-12,'us'
+tt2649356,Sharp Objects,tvMiniSeries,"Crime, Drama, Mystery",8.0,129240.0,2018.0,ts55577,3.0,12,https://www.mycanal.fr/series/sharp-objects/h/40431530_50889,MyCanal,-12,'us'
+tt2649356,Sharp Objects,tvMiniSeries,"Crime, Drama, Mystery",8.0,129240.0,2018.0,ts55577,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fab678c5-a6fb-2e3c-611a-53a452799fd0,Prime Video,13+,'us'
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.916bfc81-63f4-465d-84dc-13d694ba918e,Prime Video,7+,"'us', 'hk', 'jp', 'kr', 'de'"
+tt1305826,Adventure Time,tvSeries,"Action, Adventure, Animation",8.6,123399.0,2010.0,ts10095,4.0,tous publics,https://www.mycanal.fr/jeunesse/adventure-time/h/40421098_50889,MyCanal,-10,"'us', 'hk', 'jp', 'kr', 'de'"
+tt2699128,The Leftovers,tvSeries,"Drama, Fantasy, Mystery",8.3,121513.0,2014.0,ts20275,3.0,12,https://www.mycanal.fr/series/the-leftovers/h/40439967_50889,MyCanal,-16,'us'
+tt2699128,The Leftovers,tvSeries,"Drama, Fantasy, Mystery",8.3,121513.0,2014.0,ts20275,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.468303b4-7f56-41ce-878b-8565bff370e7,Prime Video,16+,'us'
+tt0206512,SpongeBob SquarePants,tvSeries,"Animation, Comedy, Family",8.2,119015.0,1999.0,ts20951,4.0,tous publics,https://www.mycanal.fr/jeunesse/bob-leponge/h/9298600_50662,MyCanal,-10,'us'
+tt0206512,SpongeBob SquarePants,tvSeries,"Animation, Comedy, Family",8.2,119015.0,1999.0,ts20951,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bf290b7f-eee5-448b-9929-6425a0eb082c,Prime Video,TOUS PUBLICS,'us'
+tt14954666,The Idol,tvSeries,"Drama, Music",4.4,114289.0,2023.0,ts312190,3.0,,https://www.mycanal.fr/series/the-idol/h/40432778_50889,MyCanal,-16,'us'
+tt14954666,The Idol,tvSeries,"Drama, Music",4.4,114289.0,2023.0,ts312190,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a0f0a9f-20c0-4d66-905c-64a73f5a9b2a,Prime Video,16+,'us'
+tt4270492,Billions,tvSeries,Drama,8.3,114280.0,2016.0,ts36962,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6bc93133-dc58-4844-8510-c00a5f1d9e90,Prime Video,18+,'us'
+tt4270492,Billions,tvSeries,Drama,8.3,114280.0,2016.0,ts36962,5.0,tous publics,https://www.canalplus.com/series/billions-saison-4-episode-1/h/11212118_50001?episodeId=11221386_50001,Canal+,-12,'us'
+tt4270492,Billions,tvSeries,Drama,8.3,114280.0,2016.0,ts36962,5.0,tous publics,https://www.canalplus.com/series/billions/h/8723886_50001,Canal+,-12,'us'
+tt8134470,The Undoing,tvMiniSeries,"Crime, Drama, Mystery",7.4,112569.0,2020.0,ts85699,3.0,12,https://www.mycanal.fr/series/the-undoing/h/40472529_50889,MyCanal,-12,'us'
+tt8134470,The Undoing,tvMiniSeries,"Crime, Drama, Mystery",7.4,112569.0,2020.0,ts85699,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9b2ab2da-2c16-46d6-8e15-c38792416da8,Prime Video,13+,'us'
+tt8550800,The Outsider,tvSeries,"Crime, Drama, Horror",7.6,107642.0,2020.0,ts86177,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.243f1283-01aa-4421-9a1c-b1041bdc36a2,Prime Video,16+,'us'
+tt8550800,The Outsider,tvSeries,"Crime, Drama, Horror",7.6,107642.0,2020.0,ts86177,3.0,16,https://www.mycanal.fr/series/the-outsider/h/40431468_50889,MyCanal,-16,'us'
+tt11041332,Yellowjackets,tvSeries,"Drama, Mystery, Thriller",7.7,106249.0,2021.0,ts228068,5.0,16,https://www.canalplus.com/series/yellowjackets/h/18161346_50001,Canal+,-10,'us'
+tt11041332,Yellowjackets,tvSeries,"Drama, Mystery, Thriller",7.7,106249.0,2021.0,ts228068,5.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.470885a2-c5f3-418c-9856-56ae64bc31cf,Prime Video,18+,'us'
+tt11041332,Yellowjackets,tvSeries,"Drama, Mystery, Thriller",7.7,106249.0,2021.0,ts228068,5.0,16,https://www.canalplus.com/series/yellowjackets-saison-2-episode-1/h/21590451_50001?episodeId=21579034_50001,Canal+,-12,'us'
+tt2934286,Halo,tvSeries,"Action, Adventure, Sci-Fi",7.3,104366.0,2022.0,ts43075,5.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d644d20b-2687-432f-b24e-2f0d459fc59d,Prime Video,13+,'us'
+tt2934286,Halo,tvSeries,"Action, Adventure, Sci-Fi",7.3,104366.0,2022.0,ts43075,5.0,,https://www.canalplus.com/series/halo-saison-1-episode-1/h/18525037_50001?episodeId=18513773_50001,Canal+,-12,'us'
+tt2934286,Halo,tvSeries,"Action, Adventure, Sci-Fi",7.3,104366.0,2022.0,ts43075,5.0,,https://www.canalplus.com/series/halo/h/18513773_50001,Canal+,-12,'us'
+tt0362359,The O.C.,tvSeries,"Comedy, Drama, Romance",7.6,100136.0,2003.0,ts21804,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6d5-7378-fffb-99ef-bcdc95ea2cbb,Prime Video,13+,'us'
+tt0362359,The O.C.,tvSeries,"Comedy, Drama, Romance",7.6,100136.0,2003.0,ts21804,3.0,tous publics,https://www.mycanal.fr/series/newport-beach/h/40433516_50889,MyCanal,-12,'us'
+tt3530232,Last Week Tonight with John Oliver,tvSeries,"Comedy, News, Talk-Show",8.8,99947.0,2014.0,ts20735,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.131b2076-865f-4c77-b7eb-cd0fde656d5e,Prime Video,13+,'us'
+tt3530232,Last Week Tonight with John Oliver,tvSeries,"Comedy, News, Talk-Show",8.8,99947.0,2014.0,ts20735,3.0,10,https://www.mycanal.fr/series/last-week-tonight-with-john-oliver/h/40474310_50889,MyCanal,-12,'us'
+tt8806524,Star Trek: Picard,tvSeries,"Action, Adventure, Drama",7.5,98504.0,2020.0,ts87480,4.0,18,https://www.mycanal.fr/series/star-trek-picard/h/21160769_50662,MyCanal,-12,'us'
+tt8806524,Star Trek: Picard,tvSeries,"Action, Adventure, Drama",7.5,98504.0,2020.0,ts87480,4.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.020631e8-ac2a-4cc6-8b4a-da9cad3bbfbc,Prime Video,16+,'us'
+tt5607976,His Dark Materials,tvSeries,"Adventure, Drama, Fantasy",7.8,90330.0,2019.0,ts74636,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a3ef6ed7-e0b2-47d9-89a7-e6f7b3f99cc4,Prime Video,13+,"'gb', 'us'"
+tt5607976,His Dark Materials,tvSeries,"Adventure, Drama, Fantasy",7.8,90330.0,2019.0,ts74636,3.0,10,https://www.mycanal.fr/series/his-dark-materials---a-la-croisee-des-mondes/h/40427312_50889,MyCanal,-12,"'gb', 'us'"
+tt3502248,Bosch,tvSeries,"Crime, Drama",8.5,89511.0,2014.0,ts14841,2.0,tous publics,https://www.canalplus.com/series/harry-bosch/h/6803232_50076,Canal+,tous publics,'us'
+tt3502248,Bosch,tvSeries,"Crime, Drama",8.5,89511.0,2014.0,ts14841,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.18ab0769-016b-f1b4-90ce-4a5dc75848cf,Prime Video,18+,'us'
+tt7826376,Upload,tvSeries,"Comedy, Mystery, Sci-Fi",7.8,83950.0,2020.0,ts87778,2.0,16::(self-applied),https://www.mycanal.fr/series/upload/h/25555572_50035,MyCanal,-10,'us'
+tt7826376,Upload,tvSeries,"Comedy, Mystery, Sci-Fi",7.8,83950.0,2020.0,ts87778,2.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.feb8c501-83d1-35fb-7572-319fd0b31cf3,Prime Video,18+,'us'
+tt18335752,1923,tvSeries,"Drama, Western",8.3,82219.0,2022.0,ts351915,4.0,12::(self-applied),https://www.mycanal.fr/series/1923/h/21400092_50662,MyCanal,-12,'us'
+tt18335752,1923,tvSeries,"Drama, Western",8.3,82219.0,2022.0,ts351915,4.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2f2daab-d9ba-4027-a531-ad06c7462a17,Prime Video,18+,'us'
+tt3718778,Over the Garden Wall,tvMiniSeries,"Adventure, Animation, Comedy",8.7,80294.0,2014.0,ts20079,3.0,10,https://www.mycanal.fr/jeunesse/la-foret-de-letrange/h/40587071_50889,MyCanal,-10,'us'
+tt3718778,Over the Garden Wall,tvMiniSeries,"Adventure, Animation, Comedy",8.7,80294.0,2014.0,ts20079,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ade12f44-0686-4b26-bf1e-566745cd1e45,Prime Video,7+,'us'
+tt2891574,Ballers,tvSeries,"Comedy, Drama, Sport",7.8,78193.0,2015.0,ts35552,3.0,10,https://www.mycanal.fr/sport/ballers/h/40421429_50889,MyCanal,-16,'us'
+tt2891574,Ballers,tvSeries,"Comedy, Drama, Sport",7.8,78193.0,2015.0,ts35552,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab678d6-6e1a-199b-5c68-40133172651f,Prime Video,13+,'us'
+tt0374455,Stargate: Atlantis,tvSeries,"Action, Adventure, Drama",8.1,73823.0,2004.0,ts22455,3.0,tous publics,https://www.mycanal.fr/series/stargate-atlantis/h/4603404_50071,MyCanal,-10,"'ca', 'us'"
+tt0374455,Stargate: Atlantis,tvSeries,"Action, Adventure, Drama",8.1,73823.0,2004.0,ts22455,3.0,tous publics,https://www.primevideo.com/detail/0FJX9R8SSXTZJBDLVSD9R823C2/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B082C6LDV8&qid=1718933819010,Prime Video,16+,"'ca', 'us'"
+tt0374455,Stargate: Atlantis,tvSeries,"Action, Adventure, Drama",8.1,73823.0,2004.0,ts22455,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f433c260-f175-4887-a6a2-80c065419618,Prime Video,TOUS PUBLICS,"'ca', 'us'"
+tt13111078,Lioness,tvSeries,"Action, Drama, Thriller",7.8,73562.0,2023.0,ts259735,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.60853ba6-9780-4dad-8b1f-2aea5f3caac6,Prime Video,16+,'us'
+tt13111078,Lioness,tvSeries,"Action, Drama, Thriller",7.8,73562.0,2023.0,ts259735,4.0,,https://www.mycanal.fr/series/operations-speciales-lioness/h/22392066_50662,MyCanal,-12,'us'
+tt1759761,Veep,tvSeries,Comedy,8.4,68309.0,2012.0,ts20425,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.86b6b8d7-81af-136b-7de0-79ea6e0e2c2c,Prime Video,TOUS PUBLICS,'us'
+tt1759761,Veep,tvSeries,Comedy,8.4,68309.0,2012.0,ts20425,3.0,10,https://www.mycanal.fr/series/veep/h/40431281_50889,MyCanal,-12,'us'
+tt0863046,Flight of the Conchords,tvSeries,"Comedy, Music, Musical",8.5,68232.0,2007.0,ts16452,3.0,12,https://www.mycanal.fr/series/flight-of-the-conchords/h/40568531_50889,MyCanal,-12,"'us', 'nz'"
+tt0863046,Flight of the Conchords,tvSeries,"Comedy, Music, Musical",8.5,68232.0,2007.0,ts16452,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.24b678b1-cd58-5626-ea29-5e610eea4c6c,Prime Video,13+,"'us', 'nz'"
+tt0866442,Eastbound & Down,tvSeries,"Comedy, Drama, Sport",8.2,67279.0,2009.0,ts2158,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.0f4863d9-ac85-49d6-b6ad-e701e07115ef,Prime Video,16+,'us'
+tt0866442,Eastbound & Down,tvSeries,"Comedy, Drama, Sport",8.2,67279.0,2009.0,ts2158,3.0,12::(self-applied),https://www.mycanal.fr/series/kenny-powers/h/40558746_50889,MyCanal,-16,'us'
+tt1954347,Continuum,tvSeries,"Action, Sci-Fi, Thriller",7.6,65282.0,2012.0,ts10250,2.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.84b58768-147a-f172-2e21-97edffc00352,Prime Video,16+,'ca'
+tt1954347,Continuum,tvSeries,"Action, Sci-Fi, Thriller",7.6,65282.0,2012.0,ts10250,2.0,10,https://www.mycanal.fr/series/continuum/h/4504980_50071,MyCanal,-12,'ca'
+tt7569576,The Flight Attendant,tvSeries,"Comedy, Drama, Mystery",7.1,65188.0,2020.0,ts302787,3.0,10,https://www.mycanal.fr/series/the-flight-attendant/h/40439596_50889,MyCanal,-16,'us'
+tt7569576,The Flight Attendant,tvSeries,"Comedy, Drama, Mystery",7.1,65188.0,2020.0,ts302787,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c5d19c2c-316e-4984-981f-cebab4a05426,Prime Video,16+,'us'
+tt1051220,The Shannara Chronicles,tvSeries,"Adventure, Drama, Fantasy",7.1,65067.0,2016.0,ts37810,2.0,12,https://www.mycanal.fr/series/les-chroniques-de-shannara/h/6250689_50035,MyCanal,-12,'us'
+tt1051220,The Shannara Chronicles,tvSeries,"Adventure, Drama, Fantasy",7.1,65067.0,2016.0,ts37810,2.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a12724f1-73d8-42de-a301-b5ac4b5c1cec,Prime Video,13+,'us'
+tt12327578,Star Trek: Strange New Worlds,tvSeries,"Action, Adventure, Sci-Fi",8.3,64523.0,2022.0,ts237563,4.0,18,https://www.mycanal.fr/series/star-trek-strange-new-worlds/h/22026310_50662,MyCanal,-12,"'ca', 'us'"
+tt12327578,Star Trek: Strange New Worlds,tvSeries,"Action, Adventure, Sci-Fi",8.3,64523.0,2022.0,ts237563,4.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.da3d76b6-f02d-4136-a883-8da6fe7ae41a,Prime Video,18+,"'ca', 'us'"
+tt0995832,Generation Kill,tvMiniSeries,"Drama, War",8.4,61965.0,2008.0,ts20599,3.0,10::(self-applied),https://www.mycanal.fr/series/generation-kill/h/40566740_50889,MyCanal,-16,"'us', 'gb'"
+tt0995832,Generation Kill,tvMiniSeries,"Drama, War",8.4,61965.0,2008.0,ts20599,3.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.be26b16c-381b-4920-b14b-1ebd8bc62c6e,Prime Video,16+,"'us', 'gb'"
+tt11712058,Mayor of Kingstown,tvSeries,"Crime, Drama, Thriller",8.1,61190.0,2021.0,ts224255,4.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fde82f-3a21-4415-a867-171c076c807c,Prime Video,18+,'us'
+tt11712058,Mayor of Kingstown,tvSeries,"Crime, Drama, Thriller",8.1,61190.0,2021.0,ts224255,4.0,12,https://www.mycanal.fr/series/mayor-of-kingstown/h/20359538_50662,MyCanal,-16,'us'
+tt2235759,The Great,tvSeries,"Biography, Comedy, Drama",8.1,59432.0,2020.0,ts271787,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.95152e73-d8cf-4c23-ad73-fe004ddd68b9,Prime Video,16+,'us'
+tt2235759,The Great,tvSeries,"Biography, Comedy, Drama",8.1,59432.0,2020.0,ts271787,3.0,16,https://www.mycanal.fr/series/the-great/h/40580578_50889,MyCanal,-16,'us'
+tt8634332,The Righteous Gemstones,tvSeries,"Comedy, Drama",8.1,57013.0,2019.0,ts84322,3.0,12,https://www.mycanal.fr/series/the-righteous-gemstones/h/40431378_50889,MyCanal,-16,'us'
+tt8634332,The Righteous Gemstones,tvSeries,"Comedy, Drama",8.1,57013.0,2019.0,ts84322,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.79089097-73da-4136-83ca-9fef94308590,Prime Video,16+,'us'
+tt4299972,The Jinx: The Life and Deaths of Robert Durst,tvSeries,"Biography, Crime, Documentary",8.6,56276.0,2015.0,ts21650,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0bec0447-301f-4f7d-a4ef-857c654c67a5,Prime Video,13+,'us'
+tt4299972,The Jinx: The Life and Deaths of Robert Durst,tvSeries,"Biography, Crime, Documentary",8.6,56276.0,2015.0,ts21650,3.0,16,https://www.mycanal.fr/decouverte/the-jinx-the-life-and-deaths-of-robert-durst/h/40431543_50889,MyCanal,-12,'us'
+tt1582457,The Borgias,tvSeries,"Crime, Drama, History",7.9,55278.0,2011.0,ts6506,4.0,tous publics,https://www.canalplus.com/series/borgia-saison-1-episode-1/h/4443952_50001?episodeId=1384138_50001,Canal+,-16,"'us', 'hu', 'ie', 'ca'"
+tt1582457,The Borgias,tvSeries,"Crime, Drama, History",7.9,55278.0,2011.0,ts6506,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.dc785a30-77e2-41e0-8e50-2ea95bd416d5,Prime Video,18+,"'us', 'hu', 'ie', 'ca'"
+tt2937900,The Knick,tvSeries,"Drama, History",8.5,54548.0,2014.0,ts20732,3.0,16,https://www.mycanal.fr/series/the-knick/h/40597468_50889,MyCanal,-16,'us'
+tt2937900,The Knick,tvSeries,"Drama, History",8.5,54548.0,2014.0,ts20732,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1603857c-3e33-466e-bcae-3e6c453496f6,Prime Video,16+,'us'
+tt1286039,Stargate Universe,tvSeries,"Drama, Sci-Fi",7.6,54514.0,2009.0,ts20588,2.0,tous publics,https://www.mycanal.fr/series/stargate-universe/h/4940929_50071,MyCanal,-10,"'ca', 'us'"
+tt1286039,Stargate Universe,tvSeries,"Drama, Sci-Fi",7.6,54514.0,2009.0,ts20588,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.fc50668b-cd93-4d10-b205-d5a7c59e20f7,Prime Video,16+,"'ca', 'us'"
+tt5743796,Warrior,tvSeries,"Action, Crime, Drama",8.4,50081.0,2019.0,ts75230,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a09e17c-e0f7-45bc-a568-38515d9c31c4,Prime Video,16+,'us'
+tt5743796,Warrior,tvSeries,"Action, Crime, Drama",8.4,50081.0,2019.0,ts75230,3.0,16,https://www.mycanal.fr/series/warrior/h/40599746_50889,MyCanal,-16,'us'
+tt0235918,The Fairly OddParents,tvSeries,"Adventure, Animation, Comedy",7.2,49494.0,2001.0,ts19036,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f7a03160-a227-4e60-8156-8b9a5ff224b1,Prime Video,TOUS PUBLICS,"'us', 'ca'"
+tt0235918,The Fairly OddParents,tvSeries,"Adventure, Animation, Comedy",7.2,49494.0,2001.0,ts19036,4.0,tous publics,https://www.mycanal.fr/jeunesse/mes-parrains-sont-magiques/h/4759577_50662,MyCanal,-16,"'us', 'ca'"
+tt6905686,Lovecraft Country,tvSeries,"Drama, Fantasy, Horror",7.1,49172.0,2020.0,ts84351,3.0,16,https://www.mycanal.fr/series/lovecraft-country/h/40468365_50889,MyCanal,-16,'us'
+tt6905686,Lovecraft Country,tvSeries,"Drama, Fantasy, Horror",7.1,49172.0,2020.0,ts84351,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e44ff0a2-2c32-416a-bdeb-e62253aa398f,Prime Video,16+,'us'
+tt9055008,Evil,tvSeries,"Crime, Drama, Horror",7.8,48314.0,2019.0,ts88376,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0e81926f-3498-4eb5-99f7-4903d78de121,Prime Video,16+,'us'
+tt9055008,Evil,tvSeries,"Crime, Drama, Horror",7.8,48314.0,2019.0,ts88376,3.0,12,https://www.mycanal.fr/series/evil/h/16152600_50662,MyCanal,-12,'us'
+tt0319969,Carnivàle,tvSeries,"Drama, Fantasy, Mystery",8.4,48179.0,2003.0,ts8782,3.0,12,https://www.mycanal.fr/series/la-caravane-de-letrange/h/40514275_50889,MyCanal,-16,'us'
+tt0319969,Carnivàle,tvSeries,"Drama, Fantasy, Mystery",8.4,48179.0,2003.0,ts8782,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ab67e98-845f-8363-b88f-63634d7019eb,Prime Video,16+,'us'
+tt1942683,The Amazing World of Gumball,tvSeries,"Adventure, Animation, Comedy",8.4,47584.0,2011.0,ts9006,3.0,tous publics,https://www.mycanal.fr/jeunesse/le-monde-incroyable-de-gumball-lalbum-de-darwin/h/40437078_50889,MyCanal,tous publics,"'gb', 'ie', 'us', 'de'"
+tt1942683,The Amazing World of Gumball,tvSeries,"Adventure, Animation, Comedy",8.4,47584.0,2011.0,ts9006,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0f62f12b-ba09-40e4-95fd-b99334fa8af4,Prime Video,TOUS PUBLICS,"'gb', 'ie', 'us', 'de'"
+tt11000902,Our Flag Means Death,tvSeries,"Action, Adventure, Biography",7.7,45750.0,2022.0,ts227727,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3db28b8f-23dc-4245-8704-e005ad441772,Prime Video,16+,'us'
+tt11000902,Our Flag Means Death,tvSeries,"Action, Adventure, Biography",7.7,45750.0,2022.0,ts227727,3.0,,https://www.mycanal.fr/series/our-flag-means-death/h/40431140_50889,MyCanal,-16,'us'
+tt0363328,Drake & Josh,tvSeries,"Comedy, Family",7.7,45321.0,2004.0,ts8300,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8571e7a-dd80-4260-9581-d0ae2e483b80,Prime Video,TOUS PUBLICS,'us'
+tt0363328,Drake & Josh,tvSeries,"Comedy, Family",7.7,45321.0,2004.0,ts8300,4.0,,https://www.mycanal.fr/series/drake-et-josh/h/10265714_50662,MyCanal,-10,'us'
+tt0348913,Dead Like Me,tvSeries,"Comedy, Drama, Fantasy",8.1,45069.0,2003.0,ts9217,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.98b48fe0-7024-1968-2abd-868fd981f9b5,Prime Video,18+,"'ca', 'us'"
+tt0348913,Dead Like Me,tvSeries,"Comedy, Drama, Fantasy",8.1,45069.0,2003.0,ts9217,2.0,tous publics,https://www.mycanal.fr/series/dead-like-me/h/4603002_50035,MyCanal,tous publics,"'ca', 'us'"
+tt14586350,Love & Death,tvMiniSeries,"Biography, Crime, Drama",7.5,43766.0,2023.0,ts288230,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1557f45-06f4-4e15-b011-abbffe81f47f,Prime Video,16+,'us'
+tt14586350,Love & Death,tvMiniSeries,"Biography, Crime, Drama",7.5,43766.0,2023.0,ts288230,3.0,18,https://www.mycanal.fr/series/love-death/h/40573131_50889,MyCanal,-16,'us'
+tt2297757,Nathan for You,tvSeries,"Comedy, Documentary",8.9,43580.0,2013.0,ts37645,4.0,,https://www.mycanal.fr/decouverte/nathan-for-you/h/15387976_50662,MyCanal,-12,'us'
+tt2297757,Nathan for You,tvSeries,"Comedy, Documentary",8.9,43580.0,2013.0,ts37645,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.0f79c904-26c5-4a87-b401-1463439728f6,Prime Video,18+,'us'
+tt0118401,Midsomer Murders,tvSeries,"Crime, Drama, Mystery",7.9,42099.0,1997.0,ts22228,2.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8b9d0f2-89fb-853b-36b9-239f0e20f9e7,Prime Video,16+,'gb'
+tt0118401,Midsomer Murders,tvSeries,"Crime, Drama, Mystery",7.9,42099.0,1997.0,ts22228,2.0,10,https://www.canalplus.com/series/inspecteur-barnaby/h/459809_50076,Canal+,-10,'gb'
+tt4406178,The Gilded Age,tvSeries,Drama,8.0,42018.0,2022.0,ts83267,3.0,10::(self-applied),https://www.mycanal.fr/series/the-gilded-age/h/40436354_50889,MyCanal,-12,'us'
+tt4406178,The Gilded Age,tvSeries,Drama,8.0,42018.0,2022.0,ts83267,3.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ec647ae-e32d-46a8-bc78-0681d0217f4c,Prime Video,16+,'us'
+tt9859436,The Walking Dead: The Ones Who Live,tvMiniSeries,"Drama, Horror, Thriller",7.8,41977.0,2024.0,ts360283,2.0,,https://www.mycanal.fr/series/the-walking-dead-the-ones-who-live/h/24730551_50662,MyCanal,-12,'us'
+tt9859436,The Walking Dead: The Ones Who Live,tvMiniSeries,"Drama, Horror, Thriller",7.8,41977.0,2024.0,ts360283,2.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3d48b1f3-c5bc-405e-9a17-d7f39c909340,Prime Video,18+,'us'
+tt7658402,Harley Quinn,tvSeries,"Action, Adventure, Animation",8.4,41046.0,2019.0,ts76135,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8b8b3d3-8800-0a16-a02d-a9117c9020f6,Prime Video,18+,'us'
+tt7658402,Harley Quinn,tvSeries,"Action, Adventure, Animation",8.4,41046.0,2019.0,ts76135,3.0,18,https://www.mycanal.fr/series/harley-quinn/h/40442027_50889,MyCanal,-12,'us'
+tt13819960,And Just Like That...,tvSeries,"Comedy, Drama, Romance",5.7,40899.0,2021.0,ts278961,3.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.52850103-ffa3-4dc7-96d4-8ae02a398b99,Prime Video,13+,'us'
+tt13819960,And Just Like That...,tvSeries,"Comedy, Drama, Romance",5.7,40899.0,2021.0,ts278961,3.0,10::(self-applied),https://www.mycanal.fr/series/and-just-like-that/h/40422457_50889,MyCanal,-16,'us'
+tt8543390,Modern Love,tvSeries,"Comedy, Drama, Romance",7.9,38510.0,2019.0,ts283298,2.0,16::(self-applied),https://www.mycanal.fr/series/modern-love/h/25745300_50035,MyCanal,tous publics,'us'
+tt8543390,Modern Love,tvSeries,"Comedy, Drama, Romance",7.9,38510.0,2019.0,ts283298,2.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2b6ca01-b53b-8545-1107-e5ffd57f9beb,Prime Video,16+,'us'
+tt11324406,The Staircase,tvMiniSeries,"Biography, Crime, Drama",7.1,37293.0,2022.0,ts26091,3.0,18,https://www.mycanal.fr/series/the-staircase/h/40440128_50889,MyCanal,-16,'us'
+tt11324406,The Staircase,tvMiniSeries,"Biography, Crime, Drama",7.1,37293.0,2022.0,ts26091,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.29f7691d-9591-4ead-be57-95cb0b4da4c6,Prime Video,16+,'us'
+tt1255913,Bored to Death,tvSeries,"Comedy, Crime, Drama",7.8,35441.0,2009.0,ts6889,3.0,,https://www.mycanal.fr/series/bored-to-death/h/40509749_50889,MyCanal,-16,'us'
+tt1255913,Bored to Death,tvSeries,"Comedy, Crime, Drama",7.8,35441.0,2009.0,ts6889,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b66e97-73ea-e151-1e9f-e4ea94250b3e,Prime Video,16+,'us'
+tt3766376,Vice Principals,tvSeries,Comedy,8.0,35204.0,2016.0,ts38803,3.0,10,https://www.mycanal.fr/series/vice-principals/h/40472484_50889,MyCanal,-10,'us'
+tt3766376,Vice Principals,tvSeries,Comedy,8.0,35204.0,2016.0,ts38803,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.56b8525d-af7c-e439-b2a9-2605cd1b38a5,Prime Video,7+,'us'
+tt4998350,The Deuce,tvSeries,"Crime, Drama, Mystery",8.1,33592.0,2017.0,ts42172,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.545e0531-037d-45a6-bd47-d213f49572cd,Prime Video,16+,'us'
+tt4998350,The Deuce,tvSeries,"Crime, Drama, Mystery",8.1,33592.0,2017.0,ts42172,3.0,12,https://www.mycanal.fr/series/the-deuce/h/40472507_50889,MyCanal,-16,'us'
+tt11212276,The Sex Lives of College Girls,tvSeries,Comedy,7.7,32854.0,2021.0,ts229732,3.0,18::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.ecfeaeb7-6642-4a60-a9b4-f0e321df465a,Prime Video,18+,'us'
+tt11212276,The Sex Lives of College Girls,tvSeries,Comedy,7.7,32854.0,2021.0,ts229732,3.0,18::(self-applied),https://www.mycanal.fr/series/the-sex-lives-of-college-girls/h/40427878_50889,MyCanal,-12,'us'
+tt13062500,The Walking Dead: Daryl Dixon,tvSeries,"Drama, Horror",7.5,32652.0,2023.0,ts260403,4.0,,https://www.mycanal.fr/series/the-walking-dead-daryl-dixon/h/23361273_50662,MyCanal,-16,'us'
+tt13062500,The Walking Dead: Daryl Dixon,tvSeries,"Drama, Horror",7.5,32652.0,2023.0,ts260403,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4108cb6-5c3b-4c00-8738-a7ad702ac470,Prime Video,18+,'us'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://www.mycanal.fr/jeunesse/classic-ben-10/h/40545877_50889,MyCanal,-10,'us'
+tt0760437,Ben 10,tvSeries,"Action, Adventure, Animation",7.5,32179.0,2005.0,ts10978,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.81870153-60f5-47e6-a2de-b29374280fb3,Prime Video,7+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ab9eb55-ac3f-0381-e751-a71a317a550b,Prime Video,18+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.1421ecfb-1a64-4c0b-b89b-748cbe0f839d,Prime Video,18+,'us'
+tt1086761,Keeping Up with the Kardashians,tvSeries,"Family, Reality-TV",2.9,31944.0,2007.0,ts22003,5.0,13::(self-applied),https://www.mycanal.fr/divertissement/lincroyable-famille-kardashian/h/4860621_50071,MyCanal,-16,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bae65f29-27b6-4de2-941e-4137dcbebf12,Prime Video,TOUS PUBLICS,'us'
+tt1604099,Victorious,tvSeries,"Comedy, Drama, Family",7.0,31902.0,2010.0,ts30311,5.0,tous publics,https://www.mycanal.fr/series/victorious/h/4603878_50662,MyCanal,-10,'us'
+tt12682218,Scenes from a Marriage,tvMiniSeries,Drama,8.0,31775.0,2021.0,ts265296,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.064a17fe-72a8-4e63-bfb7-4d61c948e506,Prime Video,16+,'us'
+tt12682218,Scenes from a Marriage,tvMiniSeries,Drama,8.0,31775.0,2021.0,ts265296,3.0,18,https://www.mycanal.fr/series/scenes-from-a-marriage/h/40472558_50889,MyCanal,-12,'us'
+tt10244600,Winning Time: The Rise of the Lakers Dynasty,tvSeries,"Biography, Drama, Sport",8.3,30907.0,2022.0,ts227241,3.0,12::(self-applied),https://www.mycanal.fr/series/winning-time-the-rise-of-the-lakers-dynasty/h/40431314_50889,MyCanal,-12,'us'
+tt10244600,Winning Time: The Rise of the Lakers Dynasty,tvSeries,"Biography, Drama, Sport",8.3,30907.0,2022.0,ts227241,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.6fad4b28-575b-47da-a519-53875f00c3fa,Prime Video,16+,'us'
+tt0318997,Angels in America,tvMiniSeries,"Drama, Fantasy, Romance",8.1,30784.0,2003.0,ts1936,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b920ff9d-d063-46fe-9004-f3b2aa1478d6,Prime Video,13+,"'us', 'it'"
+tt0318997,Angels in America,tvMiniSeries,"Drama, Fantasy, Romance",8.1,30784.0,2003.0,ts1936,3.0,18,https://www.mycanal.fr/series/angels-in-america/h/40504970_50889,MyCanal,-12,"'us', 'it'"
+tt14261112,Twisted Metal,tvSeries,"Action, Adventure, Comedy",7.3,30779.0,2023.0,ts309849,3.0,16,https://www.mycanal.fr/series/twisted-metal/h/24726096_50002,MyCanal,-16,'us'
+tt14261112,Twisted Metal,tvSeries,"Action, Adventure, Comedy",7.3,30779.0,2023.0,ts309849,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ffa03008-1b47-4147-8ef9-c510dc5fb6e1,Prime Video,16+,'us'
+tt14192504,We Own This City,tvMiniSeries,"Biography, Crime, Drama",7.6,30091.0,2022.0,ts287833,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.871aba3e-37f4-42f1-8958-144806361dcd,Prime Video,16+,'us'
+tt14192504,We Own This City,tvMiniSeries,"Biography, Crime, Drama",7.6,30091.0,2022.0,ts287833,3.0,12::(self-applied),https://www.mycanal.fr/series/we-own-this-city/h/40472596_50889,MyCanal,-16,'us'
+tt2077823,Perry Mason,tvSeries,"Crime, Drama, History",7.6,29962.0,2020.0,ts87383,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.49084282-b917-4921-85e4-468c3f9fa023,Prime Video,16+,'us'
+tt2077823,Perry Mason,tvSeries,"Crime, Drama, History",7.6,29962.0,2020.0,ts87383,3.0,12,https://www.mycanal.fr/series/perry-mason/h/40439551_50889,MyCanal,-16,'us'
+tt4276618,C.B. Strike,tvSeries,"Crime, Drama, Mystery",7.9,29868.0,2017.0,ts58311,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.c3ea2a12-d3aa-4cdc-937a-9ab16ca39a75,Prime Video,18+,'gb'
+tt4276618,C.B. Strike,tvSeries,"Crime, Drama, Mystery",7.9,29868.0,2017.0,ts58311,3.0,12,https://www.mycanal.fr/series/cb-strike/h/40514152_50889,MyCanal,-16,'gb'
+tt3288518,Younger,tvSeries,"Comedy, Romance",7.8,28991.0,2015.0,ts21950,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f534c2aa-017c-4b3b-aefd-57e782416129,Prime Video,13+,'us'
+tt3288518,Younger,tvSeries,"Comedy, Romance",7.8,28991.0,2015.0,ts21950,3.0,10,https://www.mycanal.fr/series/younger/h/7535517_50662,MyCanal,-12,'us'
+tt18546730,The Walking Dead: Dead City,tvSeries,"Adventure, Drama, Horror",7.1,28834.0,2023.0,ts341651,3.0,16,https://www.mycanal.fr/series/the-walking-dead-dead-city/h/22077528_50002,MyCanal,-16,'us'
+tt18546730,The Walking Dead: Dead City,tvSeries,"Adventure, Drama, Horror",7.1,28834.0,2023.0,ts341651,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6e1a470e-03dc-4841-9755-6a9536c8ba2e,Prime Video,16+,'us'
+tt9184820,Star Trek: Lower Decks,tvSeries,"Action, Adventure, Animation",7.8,28365.0,2020.0,ts87479,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.113b9151-6514-4488-b579-ea695c8adaed,Prime Video,16+,'us'
+tt9184820,Star Trek: Lower Decks,tvSeries,"Action, Adventure, Animation",7.8,28365.0,2020.0,ts87479,4.0,,https://www.mycanal.fr/jeunesse/star-trek-lower-decks/h/22659430_50662,MyCanal,-12,'us'
+tt3012698,Olive Kitteridge,tvMiniSeries,Drama,8.3,27699.0,2014.0,ts20287,3.0,tous publics,https://www.mycanal.fr/series/olive-kitteridge/h/40587049_50889,MyCanal,-10,'us'
+tt3012698,Olive Kitteridge,tvMiniSeries,Drama,8.3,27699.0,2014.0,ts20287,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.24a9f6f9-6acd-bac4-2dd3-d31a7c744e60,Prime Video,18+,'us'
+tt11204260,I May Destroy You,tvSeries,Drama,8.0,27353.0,2020.0,ts236950,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8483f154-8d3f-430c-81fc-6043ac8aa320,Prime Video,16+,"'gb', 'us'"
+tt11204260,I May Destroy You,tvSeries,Drama,8.0,27353.0,2020.0,ts236950,3.0,16,https://www.mycanal.fr/series/i-may-destroy-you/h/40431507_50889,MyCanal,-16,"'gb', 'us'"
+tt6040674,Waco,tvMiniSeries,"Crime, Drama, History",7.8,27253.0,2018.0,ts75815,3.0,,https://www.mycanal.fr/series/waco-lapres/h/23361265_50662,MyCanal,-12,'us'
+tt6040674,Waco,tvMiniSeries,"Crime, Drama, History",7.8,27253.0,2018.0,ts75815,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.885537fa-f43e-4b7d-ba96-7ad4c92a13ea,Prime Video,16+,'us'
+tt0425118,I Know This Much Is True,tvMiniSeries,Drama,8.1,25280.0,2020.0,ts89675,3.0,12::(self-applied),https://www.mycanal.fr/series/i-know-this-much-is-true/h/40571237_50889,MyCanal,-16,'us'
+tt0425118,I Know This Much Is True,tvMiniSeries,Drama,8.1,25280.0,2020.0,ts89675,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b900c5-804e-58ff-1830-1df9f43a0459,Prime Video,16+,'us'
+tt3155320,Extant,tvSeries,"Drama, Sci-Fi, Thriller",6.5,25143.0,2014.0,ts18538,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4dddefa-1f62-4f67-9738-61859e2ba2c5,Prime Video,13+,'us'
+tt3155320,Extant,tvSeries,"Drama, Sci-Fi, Thriller",6.5,25143.0,2014.0,ts18538,3.0,,https://www.mycanal.fr/series/extant/h/4443821_50035,MyCanal,-10,'us'
+tt2379308,Psycho-Pass,tvSeries,"Action, Animation, Crime",8.1,24231.0,2012.0,ts20388,4.0,16::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.42b8ad95-d2e9-62e9-9056-94d0bcd6a8dd,Prime Video,18+,'jp'
+tt2379308,Psycho-Pass,tvSeries,"Action, Animation, Crime",8.1,24231.0,2012.0,ts20388,4.0,16::(self-applied),https://www.mycanal.fr/decouverte/psycho/h/20829908_50008,MyCanal,tous publics,'jp'
+tt10234362,Avenue 5,tvSeries,"Comedy, Sci-Fi",6.7,24020.0,2020.0,ts186758,3.0,10,https://www.mycanal.fr/series/avenue-5/h/40509438_50889,MyCanal,-10,"'us', 'gb'"
+tt10234362,Avenue 5,tvSeries,"Comedy, Sci-Fi",6.7,24020.0,2020.0,ts186758,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce501f5a-46fb-4192-9123-c1924f79dc5c,Prime Video,7+,"'us', 'gb'"
+tt0421030,Big Love,tvSeries,Drama,7.7,23943.0,2006.0,ts3707,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b6aa01-ee94-98bd-e8a3-95aad0156c38,Prime Video,13+,'us'
+tt0421030,Big Love,tvSeries,Drama,7.7,23943.0,2006.0,ts3707,3.0,,https://www.mycanal.fr/series/big-love/h/40468089_50889,MyCanal,-12,'us'
+tt1229413,Hung,tvSeries,"Comedy, Drama",7.2,23837.0,2009.0,ts21140,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.cab6b6a5-dcbb-aa4e-566b-70c8b0949fd1,Prime Video,16+,'us'
+tt1229413,Hung,tvSeries,"Comedy, Drama",7.2,23837.0,2009.0,ts21140,3.0,12::(self-applied),https://www.mycanal.fr/series/hung/h/40571273_50889,MyCanal,-16,'us'
+tt5024912,Insecure,tvSeries,"Comedy, Drama, Romance",8.1,23750.0,2016.0,ts46210,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.04157fc2-8b01-4cc2-9b59-47597112f7cb,Prime Video,18+,'us'
+tt5024912,Insecure,tvSeries,"Comedy, Drama, Romance",8.1,23750.0,2016.0,ts46210,3.0,12,https://www.mycanal.fr/series/insecure/h/40468318_50889,MyCanal,-16,'us'
+tt2244495,The Eric Andre Show,tvSeries,"Comedy, Talk-Show",8.5,23207.0,2012.0,ts19046,3.0,,https://www.mycanal.fr/series/the-eric-andre-show/h/40597417_50889,MyCanal,-16,'us'
+tt2244495,The Eric Andre Show,tvSeries,"Comedy, Talk-Show",8.5,23207.0,2012.0,ts19046,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbf9834-f066-494d-a775-2867af27cfcb,Prime Video,16+,'us'
+tt2581458,Looking,tvSeries,"Comedy, Drama, Romance",8.2,22573.0,2014.0,ts20255,3.0,tous publics,https://www.mycanal.fr/series/looking/h/40431575_50889,MyCanal,-12,'us'
+tt2581458,Looking,tvSeries,"Comedy, Drama, Romance",8.2,22573.0,2014.0,ts20255,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3ab6b815-9506-bb6e-4114-970f57f4c5a3,Prime Video,13+,'us'
+tt4839610,We Bare Bears,tvSeries,"Adventure, Animation, Comedy",7.8,20856.0,2014.0,ts36687,3.0,tous publics::(netflix self-rating),https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3d47b2a-802b-44b2-baaf-4ab2761a993d,Prime Video,7+,"'us', 'kr'"
+tt4839610,We Bare Bears,tvSeries,"Adventure, Animation, Comedy",7.8,20856.0,2014.0,ts36687,3.0,tous publics::(netflix self-rating),https://www.mycanal.fr/jeunesse/we-bare-bears/h/40599725_50889,MyCanal,-10,"'us', 'kr'"
+tt7529770,Miracle Workers,tvSeries,"Comedy, Drama, Fantasy",7.1,20256.0,2019.0,ts80537,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.85cfab9f-d7fa-4617-9edf-5d03a2792034,Prime Video,TOUS PUBLICS,'us'
+tt7529770,Miracle Workers,tvSeries,"Comedy, Drama, Fantasy",7.1,20256.0,2019.0,ts80537,3.0,10,https://www.mycanal.fr/series/miracle-workers/h/40542909_50889,MyCanal,-16,'us'
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cc54af8-1d1f-43ed-8355-79770856c3d8,Prime Video,13+,"'fr', 'ca', 'be', 'us'"
+tt0179552,The Adventures of Tintin,tvSeries,"Action, Adventure, Animation",8.3,19928.0,1991.0,ts9770,4.0,tous publics,https://www.canalplus.com/jeunesse/les-aventures-de-tintin/h/2095377_50001,Canal+,tous publics,"'fr', 'ca', 'be', 'us'"
+tt0835434,In Treatment,tvSeries,Drama,8.2,18856.0,2008.0,ts20445,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.e0989875-c837-41bb-8648-78855c650632,Prime Video,TOUS PUBLICS,'us'
+tt0835434,In Treatment,tvSeries,Drama,8.2,18856.0,2008.0,ts20445,3.0,10,https://www.mycanal.fr/series/in-treatment/h/40426570_50889,MyCanal,-12,'us'
+tt1988386,Miss Fisher's Murder Mysteries,tvSeries,"Crime, Drama, History",8.2,18485.0,2012.0,ts21029,2.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.06bc1165-0cf1-463c-afc0-04f29fd64e18,Prime Video,16+,'au'
+tt1988386,Miss Fisher's Murder Mysteries,tvSeries,"Crime, Drama, History",8.2,18485.0,2012.0,ts21029,2.0,tous publics,https://www.canalplus.com/series/miss-fisher-enquete/h/1835331_50076,Canal+,tous publics,'au'
+tt0415463,Zoey 101,tvSeries,"Comedy, Drama, Family",6.2,18353.0,2005.0,ts21464,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b49aed6-591b-4149-815e-0557b0212c6d,Prime Video,TOUS PUBLICS,'us'
+tt0415463,Zoey 101,tvSeries,"Comedy, Drama, Family",6.2,18353.0,2005.0,ts21464,3.0,tous publics,https://www.mycanal.fr/jeunesse/zoe/h/7525741_50662,MyCanal,-10,'us'
+tt7649694,Ramy,tvSeries,"Comedy, Drama, Romance",8.0,17357.0,2019.0,ts88902,3.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5eb73b8e-66fb-2e6f-9d6c-2c882bdc24b6,Prime Video,18+,'us'
+tt7649694,Ramy,tvSeries,"Comedy, Drama, Romance",8.0,17357.0,2019.0,ts88902,3.0,16,https://www.mycanal.fr/series/ramy/h/14951477_50616,MyCanal,-12,'us'
+tt7211618,Gentleman Jack,tvSeries,"Biography, Drama, History",8.2,16727.0,2019.0,ts87692,3.0,12,https://app.primevideo.com/detail?gti=amzn1.dv.gti.71292b24-00a4-4de8-b7a3-7cb76e67ab08,Prime Video,13+,"'gb', 'us'"
+tt7211618,Gentleman Jack,tvSeries,"Biography, Drama, History",8.2,16727.0,2019.0,ts87692,3.0,12,https://www.mycanal.fr/series/gentleman-jack/h/40428459_50889,MyCanal,-12,"'gb', 'us'"
+tt15428778,Mayfair Witches,tvSeries,"Drama, Fantasy",6.2,16599.0,2023.0,ts311396,4.0,,https://www.mycanal.fr/series/mayfair-witches/h/24735501_50662,MyCanal,-16,'us'
+tt15428778,Mayfair Witches,tvSeries,"Drama, Fantasy",6.2,16599.0,2023.0,ts311396,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.caa416be-292e-4bf3-931f-69f9185c61f6,Prime Video,13+,'us'
+tt1299365,How to Make It in America,tvSeries,"Comedy, Drama",7.9,16523.0,2010.0,ts21526,3.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.f364369a-2002-401a-ba17-8468dcea8215,Prime Video,16+,'us'
+tt1299365,How to Make It in America,tvSeries,"Comedy, Drama",7.9,16523.0,2010.0,ts21526,3.0,10::(self-applied),https://www.mycanal.fr/series/comment-reussir-en-amerique/h/40571049_50889,MyCanal,-12,'us'
+tt1877889,Teenage Mutant Ninja Turtles,tvSeries,"Action, Adventure, Animation",7.9,16492.0,2012.0,ts21095,4.0,tous publics,https://www.mycanal.fr/jeunesse/les-tortues-ninja/h/22311228_50296,MyCanal,tous publics,"'us', 'my', 'nz'"
+tt1877889,Teenage Mutant Ninja Turtles,tvSeries,"Action, Adventure, Animation",7.9,16492.0,2012.0,ts21095,4.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b67e9d-168f-b047-b32f-d08f8c98dcee,Prime Video,16+,"'us', 'my', 'nz'"
+tt12759100,Somebody Somewhere,tvSeries,"Comedy, Drama",8.2,15894.0,2022.0,ts251470,3.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.91419ea4-b77c-4280-9fb3-3a087949fd39,Prime Video,18+,'us'
+tt12759100,Somebody Somewhere,tvSeries,"Comedy, Drama",8.2,15894.0,2022.0,ts251470,3.0,10::(self-applied),https://www.mycanal.fr/series/somebody-somewhere/h/40415499_50889,MyCanal,-12,'us'
+tt0280277,Mr. Bean: The Animated Series,tvSeries,"Animation, Comedy, Family",6.9,15663.0,2002.0,ts24110,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.d9301b94-18b3-4ba5-806c-167d326e2a09,Prime Video,TOUS PUBLICS,"'gb', 'hu'"
+tt0280277,Mr. Bean: The Animated Series,tvSeries,"Animation, Comedy, Family",6.9,15663.0,2002.0,ts24110,3.0,,https://www.mycanal.fr/jeunesse/mr-bean/h/40582486_50889,MyCanal,tous publics,"'gb', 'hu'"
+tt13623608,The Curse,tvSeries,"Comedy, Drama, Thriller",7.1,15490.0,2023.0,ts269701,3.0,,https://www.mycanal.fr/series/the-curse/h/23389848_50662,MyCanal,-12,'us'
+tt13623608,The Curse,tvSeries,"Comedy, Drama, Thriller",7.1,15490.0,2023.0,ts269701,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.61291af2-1d00-4ce5-9c81-951bbff1be79,Prime Video,18+,'us'
+tt1131746,Big Time Rush,tvSeries,"Comedy, Drama, Family",6.5,15379.0,2009.0,ts12815,4.0,10::(self-applied),https://www.mycanal.fr/jeunesse/big-time-rush/h/4691601_50662,MyCanal,-10,'us'
+tt1131746,Big Time Rush,tvSeries,"Comedy, Drama, Family",6.5,15379.0,2009.0,ts12815,4.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.76b5673b-04b4-4f3c-a7d9-4d3d1a5e2f97,Prime Video,TOUS PUBLICS,'us'
+tt15384586,Fellow Travelers,tvMiniSeries,"Drama, Romance",8.2,15183.0,2023.0,ts310740,5.0,,https://www.canalplus.com/series/fellow-travelers/h/23645062_50001,Canal+,-12,'us'
+tt15384586,Fellow Travelers,tvMiniSeries,"Drama, Romance",8.2,15183.0,2023.0,ts310740,5.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.327f3a3d-8f7d-4cca-9e71-41eaf93b9409,Prime Video,18+,'us'
+tt15384586,Fellow Travelers,tvMiniSeries,"Drama, Romance",8.2,15183.0,2023.0,ts310740,5.0,,https://www.canalplus.com/series/fellow-travelers-saison-1-episode-1/h/23786140_50001?episodeId=23645062_50001,Canal+,-16,'us'
+tt21057450,School Spirits,tvSeries,"Drama, Fantasy, Mystery",7.6,15049.0,2023.0,ts378183,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.94baead9-c0f7-4906-8499-a6d89877fc82,Prime Video,18+,'us'
+tt21057450,School Spirits,tvSeries,"Drama, Fantasy, Mystery",7.6,15049.0,2023.0,ts378183,3.0,,https://www.mycanal.fr/series/school-spirits/h/22195084_50662,MyCanal,-12,'us'
+tt2980696,Quarry,tvSeries,"Crime, Drama, Thriller",8.0,14903.0,2016.0,ts41636,3.0,10,https://app.primevideo.com/detail?gti=amzn1.dv.gti.7398b67e-27e1-4836-80fd-6959bb58d05a,Prime Video,16+,'us'
+tt2980696,Quarry,tvSeries,"Crime, Drama, Thriller",8.0,14903.0,2016.0,ts41636,3.0,10,https://www.mycanal.fr/series/quarry/h/40587245_50889,MyCanal,-16,'us'
+tt0350448,Real Time with Bill Maher,tvSeries,"Comedy, News, Talk-Show",7.3,14774.0,2003.0,ts21788,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee77c07a-264d-4ce5-8107-e456d5b05681,Prime Video,13+,'us'
+tt0350448,Real Time with Bill Maher,tvSeries,"Comedy, News, Talk-Show",7.3,14774.0,2003.0,ts21788,3.0,,https://www.mycanal.fr/series/real-time-with-bill-maher/h/40474343_50889,MyCanal,-12,'us'
+tt16098700,Fire Country,tvSeries,Drama,7.1,14367.0,2022.0,ts353444,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9e133e59-68d5-487d-abff-65b8d92046d3,Prime Video,16+,'us'
+tt16098700,Fire Country,tvSeries,Drama,7.1,14367.0,2022.0,ts353444,4.0,,https://www.mycanal.fr/series/fire-country/h/25745201_50662,MyCanal,-12,'us'
+tt15399640,Lawmen: Bass Reeves,tvMiniSeries,"Drama, Western",7.4,14111.0,2023.0,ts311015,4.0,,https://www.mycanal.fr/series/lawmen-lhistoire-de-bass-reeves/h/23366017_50662,MyCanal,-12,'us'
+tt15399640,Lawmen: Bass Reeves,tvMiniSeries,"Drama, Western",7.4,14111.0,2023.0,ts311015,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.34069996-7659-4378-83bb-353b5eb5e69f,Prime Video,18+,'us'
+tt21375036,The Regime,tvMiniSeries,Drama,6.0,14014.0,2024.0,ts362196,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0659458-09dc-4c78-bb8f-ffe28f731ce9,Prime Video,13+,"'gb', 'us'"
+tt21375036,The Regime,tvMiniSeries,Drama,6.0,14014.0,2024.0,ts362196,3.0,,https://www.mycanal.fr/series/the-regime/h/40432932_50889,MyCanal,-12,"'gb', 'us'"
+tt2378794,Hello Ladies,tvSeries,Comedy,7.4,13990.0,2013.0,ts32574,3.0,,https://www.mycanal.fr/series/hello-ladies/h/40569181_50889,MyCanal,tous publics,'us'
+tt2378794,Hello Ladies,tvSeries,Comedy,7.4,13990.0,2013.0,ts32574,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b8d651f0-cb50-4106-9f8d-4e83406349aa,Prime Video,TOUS PUBLICS,'us'
+tt0448190,Masters of Horror,tvSeries,Horror,7.4,13824.0,2005.0,ts21439,2.0,16,https://www.mycanal.fr/series/masters-of-horror/h/7490156_50049,MyCanal,-16,"'ca', 'jp', 'us'"
+tt0448190,Masters of Horror,tvSeries,Horror,7.4,13824.0,2005.0,ts21439,2.0,16,https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ab863cd-a68c-eecd-48bc-7b9ae1540c25,Prime Video,18+,"'ca', 'jp', 'us'"
+tt11947418,Minx,tvSeries,Comedy,7.6,13108.0,2022.0,ts272563,2.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.1b298d04-c119-481a-a5ea-a9f2666ddb66,Prime Video,16+,'us'
+tt11947418,Minx,tvSeries,Comedy,7.6,13108.0,2022.0,ts272563,2.0,,https://www.mycanal.fr/series/minx/h/21118293_50002,MyCanal,-16,'us'
+tt3061050,Clarence,tvSeries,"Adventure, Animation, Comedy",6.8,12929.0,2013.0,ts11963,3.0,tous publics,https://www.mycanal.fr/jeunesse/clarence/h/40514350_50889,MyCanal,-10,"'us', 'kr'"
+tt3061050,Clarence,tvSeries,"Adventure, Animation, Comedy",6.8,12929.0,2013.0,ts11963,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3c95153-019d-4e05-a7fd-127d9d44da19,Prime Video,7+,"'us', 'kr'"
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e333143-a386-4ab0-8992-be0b971be6c1,Prime Video,TOUS PUBLICS,'us'
+tt2487090,Sam & Cat,tvSeries,"Comedy, Drama, Family",5.7,12911.0,2013.0,ts32060,3.0,tous publics,https://www.mycanal.fr/jeunesse/sam-cat/h/5202228_50662,MyCanal,-10,'us'
+tt2492296,Show Me a Hero,tvMiniSeries,"Drama, History",7.9,12371.0,2015.0,ts36418,3.0,,https://www.mycanal.fr/series/show-me-a-hero/h/40594556_50889,MyCanal,-12,'us'
+tt2492296,Show Me a Hero,tvMiniSeries,"Drama, History",7.9,12371.0,2015.0,ts36418,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.bcc4cbd3-7a3f-4bcd-96dc-7a63640b1ab6,Prime Video,13+,'us'
+tt14271652,Joe Pickett,tvSeries,"Drama, Western",7.6,12240.0,2021.0,ts286275,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.8c310e82-e5c3-4d6e-a0fe-5d6b6b76bb42,Prime Video,18+,'us'
+tt14271652,Joe Pickett,tvSeries,"Drama, Western",7.6,12240.0,2021.0,ts286275,3.0,,https://www.mycanal.fr/series/joe-pickett/h/22277202_50662,MyCanal,-12,'us'
+tt10482370,The Third Day,tvSeries,"Drama, Horror, Mystery",6.4,12045.0,2020.0,ts213221,3.0,12::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.3e6df4f7-ca42-4922-ab7c-b392581346d5,Prime Video,16+,"'gb', 'us'"
+tt10482370,The Third Day,tvSeries,"Drama, Horror, Mystery",6.4,12045.0,2020.0,ts213221,3.0,12::(self-applied),https://www.mycanal.fr/series/the-third-day/h/40472524_50889,MyCanal,-16,"'gb', 'us'"
+tt11468254,White House Plumbers,tvMiniSeries,"Biography, Drama, History",6.8,11782.0,2023.0,ts223274,3.0,18,https://app.primevideo.com/detail?gti=amzn1.dv.gti.9849220b-9247-402d-b496-8e7580f2c9a0,Prime Video,13+,'us'
+tt11468254,White House Plumbers,tvMiniSeries,"Biography, Drama, History",6.8,11782.0,2023.0,ts223274,3.0,18,https://www.mycanal.fr/series/white-house-plumbers/h/40432768_50889,MyCanal,-12,'us'
+tt8230448,A Gentleman in Moscow,tvMiniSeries,"Drama, History, Thriller",7.4,11769.0,2024.0,ts364001,4.0,,https://www.canalplus.com/series/a-gentleman-in-moscow-saison-1-episode-5/h/25039396_50001?episodeId=25015856_50001,Canal+,-10,'gb'
+tt8230448,A Gentleman in Moscow,tvMiniSeries,"Drama, History, Thriller",7.4,11769.0,2024.0,ts364001,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.739be3d3-5a84-4bf1-a9ef-32c59f3b9acf,Prime Video,18+,'gb'
+tt8230448,A Gentleman in Moscow,tvMiniSeries,"Drama, History, Thriller",7.4,11769.0,2024.0,ts364001,4.0,,https://www.canalplus.com/series/a-gentleman-in-moscow/h/25015844_50001,Canal+,-10,'gb'
+tt9764386,30 Coins,tvSeries,"Drama, Fantasy, Horror",7.1,11679.0,2020.0,ts100921,3.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.64b8ad60-fe7c-4cee-85af-69383d4ac993,Prime Video,TOUS PUBLICS,'es'
+tt9764386,30 Coins,tvSeries,"Drama, Fantasy, Horror",7.1,11679.0,2020.0,ts100921,3.0,,https://www.mycanal.fr/series/30-coins/h/40402225_50889,MyCanal,-16,'es'
+tt1509004,Enlightened,tvSeries,"Comedy, Drama",7.5,11022.0,2011.0,ts14405,3.0,10::(self-applied),https://app.primevideo.com/detail?gti=amzn1.dv.gti.2eb68bff-6510-b27e-d421-0737f72e9068,Prime Video,13+,'us'
+tt1509004,Enlightened,tvSeries,"Comedy, Drama",7.5,11022.0,2011.0,ts14405,3.0,10::(self-applied),https://www.mycanal.fr/series/illuminee/h/40468172_50889,MyCanal,-12,'us'
+tt12887536,CSI: Vegas,tvSeries,"Crime, Drama, Mystery",7.4,10677.0,2021.0,ts285960,4.0,,https://app.primevideo.com/detail?gti=amzn1.dv.gti.287ef248-5df3-47b2-8976-01bdbffa95b7,Prime Video,16+,'us'
+tt12887536,CSI: Vegas,tvSeries,"Crime, Drama, Mystery",7.4,10677.0,2021.0,ts285960,4.0,,https://www.mycanal.fr/series/csi-vegas/h/17735774_50662,MyCanal,-12,'us'
