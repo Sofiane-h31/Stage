@@ -1,6 +1,6 @@
 # Dépôt
 Les fichiers CSV des séries/films avec la classification par SVOD : 
-Python modfication des données\resseries.csv ou Python modfication des données\resfilms.csv
+Python modfication des données\dataseriesParental.csv ou Python modfication des données\resfilmsCNC.csv
 
 Les fichiers CSV du contenu par SVOD :
 Python modfication des données\SVOD\Films ou Python modfication des données\SVOD\Séries
